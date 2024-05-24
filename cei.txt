@@ -1,0 +1,20 @@
+antifona
+.cci-multiple-liturgie+ .cci-fontsize-dynamic p
+
+colletta
+.cci-fontsize-dynamic+ .cci-fontsize-dynamic .cci-liturgia-giorno-section-title+ .cci-liturgia-giorno-section-content p:nth-child(2)
+
+prima lettura
+.cci-fontsize-dynamic:nth-child(4) p:nth-child(3)
+
+salmo
+.cci-liturgia-giorno-section-versetto+ .cci-liturgia-giorno-section-content p , strong
+
+seconda lettura
+.cci-fontsize-dynamic:nth-child(6) p:nth-child(3)
+
+vangelo
+.cci-fontsize-dynamic:nth-child(8) p:nth-child(3)
+
+antifona comunione
+.cci-fontsize-dynamic:nth-child(10) p:nth-child(2)
