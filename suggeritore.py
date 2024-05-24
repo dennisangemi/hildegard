@@ -82,6 +82,7 @@ result = pd.merge(df, anagrafica, on='id_canti')
 
 # Stampa il risultato
 print(f"Il testo più simile è: ' {result.titolo[most_similar_index]} ' con una similarità di {similarities[most_similar_index]:.2f}")
+print("")
 
 # sort the DataFrame by similarity
 result = result.sort_values(by='similarity', ascending=False)

@@ -4,7 +4,9 @@ library(dplyr)
 
 # constants
 # URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240519"
-URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240505"
+# URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240505"
+# URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240526"
+URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240602"
 OUTPUT_FILE <- "liturgia.txt"
 LITURGIA_SELECTOR <- "p"
 # ANTIFONA_SELECTOR <- ".cci-multiple-liturgie+ .cci-fontsize-dynamic p"
