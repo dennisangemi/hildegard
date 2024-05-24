@@ -1,0 +1,37 @@
+id_indice_liturgico,tag_name,indice
+21,Ingresso,liturgia
+22,Atto penitenziale,liturgia
+23,Gloria,liturgia
+24,Salmi,liturgia
+25,Canto al Vangelo,liturgia
+26,Offertorio,liturgia
+27,Santo,liturgia
+28,Preghiera Eucaristica,liturgia
+29,Padre nostro,liturgia
+30,Pace,liturgia
+31,Comunione,liturgia
+32,Congedo,liturgia
+71,Agnello di Dio,liturgia
+2,Avvento,tema
+3,Natale,tema
+4,Quaresima,tema
+5,Pasqua,tema
+6,Spirito Santo,tema
+7,Maria,tema
+8,Acqua/Battesimo,tema
+9,Adorazione,tema
+10,Altre occasioni,tema
+11,Confessione/Perdono,tema
+12,Conversione,tema
+13,Funerali,tema
+14,Lode,tema
+15,Matrimonio,tema
+16,Missione,tema
+17,Parola di Dio,tema
+18,Ritornelli,tema
+19,Trinità,tema
+20,Vocazione,tema
+51,Canto Scout,tema
+52,Ringraziamento,tema
+53,Canti Salesiani,tema
+54,Canti Francescani,tema
