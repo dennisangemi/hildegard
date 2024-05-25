@@ -1,8 +1,11 @@
 #!/bin/bash
 
+# constants
 DATA_DIR="data"
 
+# importing functions
 source ./scripts/get_anagrafica
+source ./scripts/get_next_sunday
 
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
@@ -10,15 +13,19 @@ if [ ! -d "$DATA_DIR" ]; then
 fi
 
 # scarica anagrafica
-get_anagrafica > $DATA_DIR/anagrafica_canti.csv
-echo "Scaricata anagrafica canti"
+# get_anagrafica > $DATA_DIR/anagrafica_canti.csv
+# echo "✅ Scaricata anagrafica canti"
 
 # scarica testi
 # ./scripts/db_downloader
+# echo "✅ Scaricati testi canti"
 
 # scarica liturgia
-./scripts/get_liturgia $(./scripts/get_next_sunday)
-echo "Scaricata liturgia"
+LITURGIA_DATE=$(get_next_sunday)
+./scripts/get_liturgia $LITURGIA_DATE
+LITURGIA_DATE=$(date -d $LITURGIA_DATE +%d/%m/%Y)
+echo "📅 Data della prossima liturgia domenicale: $LITURGIA_DATE"
+echo "✅ Scaricata liturgia"
 
 # run suggeritore
 ./scripts/suggeritore.py
