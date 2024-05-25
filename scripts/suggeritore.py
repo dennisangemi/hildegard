@@ -87,7 +87,7 @@ result.to_csv('data/suggeriti-latest.csv', index=False)
 
 # crea una nuova colonna titolo_md che contenga '[' + result.titolo + '](https://www.youtube.com/' + result.link_youtube  +')'
 # se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.youtube.com/' + result['link_youtube'] + ')'
-result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['link_youtube']) else '[' + row['titolo'] + '](https://www.youtube.com/' + row['link_youtube'] + ')', axis=1)
+result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['link_youtube']) else '[' + row['titolo'] + '](https://www.youtube.com/watch?v=' + row['link_youtube'] + ')', axis=1)
 
 # exclude if momento columns is NaN
 nonan=result.dropna(subset=['momento'])
