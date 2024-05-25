@@ -21,7 +21,7 @@ def get_files_from_dir(directory):
 
 
 # apri liturgia.txt
-liturgia = get_text_from_file('liturgia.txt')
+liturgia = get_text_from_file(os.path.join('liturgie', 'liturgia-latest.txt'))
 
 # apri un canto
 file_canti = get_files_from_dir('canti')
@@ -75,7 +75,7 @@ df = pd.DataFrame(data)
 df['id_canti'] = df['id_canti'].astype(int)
 
 # import anagrafica_canti.csv
-anagrafica = pd.read_csv('anagrafica_canti.csv')
+anagrafica = pd.read_csv('data/anagrafica_canti.csv')
 
 # merge df and anagrafica on id_canti column
 result = pd.merge(df, anagrafica, on='id_canti')

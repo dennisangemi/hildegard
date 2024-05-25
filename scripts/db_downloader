@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # constants
-ANAGRAFICA_FILE="anagrafica_canti.csv"
+ANAGRAFICA_FILE="data/anagrafica_canti.csv"
 CANTI_DIR="canti"
 
 # importa funzioni
-source ./get_text_from_id
-source ./get_anagrafica
+source ./scripts/get_text_from_id
+source ./scripts/get_anagrafica
 
 # controlla se esiste il file anagrafica 
 if [ ! -f $ANAGRAFICA_FILE ]; then

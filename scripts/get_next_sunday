@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# questo script viene usato per generare la data della prossima domenica a partire da oggi nel formato YYYYMMDD
+
+# calcola la data di oggi
+data_oggi=$(date +%Y%m%d)
+
+# calcola il giorno della settimana
+giorno_settimana=$(date +%u)
+
+# calcola il numero di giorni da aggiungere per arrivare alla domenica
+giorni_da_aggiungere=$((7 - $giorno_settimana))
+
+# calcola la data della prossima domenica
+data_prossima_domenica=$(date -d "$giorni_da_aggiungere days" +%Y%m%d)
+
+echo $data_prossima_domenica

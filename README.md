@@ -2,7 +2,7 @@
 
 1. scarica l'anagrafica dei canti con `get_anagrafica`
 1. scarica i canti con `db_downloader`
-1. scarica la liturgia con `scraper.R`
+1. scarica la liturgia con `get_liturgia YYYYMMDD` (per scaricare la liturgia della prossima domenica si può usare ad esempio `./get_liturgia $(./get_next_sunday)`)
 1. effettua il calcolo della similatirà con `suggeritore.py`
 
 # to do
