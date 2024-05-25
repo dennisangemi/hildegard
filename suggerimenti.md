@@ -124,3 +124,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Ti ringrazio, o mio Signore](https://www.youtube.com/watch?v=v5ewwgxAuA4)    |           22 | C. Gabarain                       |                          |
 | [Custode del Signore (v2)](https://www.youtube.com/watch?v=YAEv6Cxj_JI)       |           22 | Marco Frisina                     |                          |
 | [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I)            |           22 | Franco Motta - Pierangelo Sequeri |                          |
+
+# Note e ringraziamenti
+I testi dei canti provengono da http://librettocanti.it/ sviluppato da Michele Mammini. A lui il nostro più sincero ringraziamento.
+
+# To do
+- aggiungere link ad accordi http://librettocanti.it/

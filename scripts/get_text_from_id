@@ -1,10 +1,12 @@
 #!/bin/bash
 
 # functions
-# crea funzione get_text_from_id()
 get_text_from_id() {
-    # scarica il testo del canto con id uguale alla riga corrente
-    curl -skL "https://www.librettocanti.it/api/get_canti/$1" | jq -r ".data[0].testo" | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g;s/{end_chorus}//g;s/{start_chorus}//g;s/{start_verse}//g;s/{end_verse}//g;s/{end_verse_num}//g;s/{start_verse_num}//g' | sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g'
+    # scarica il testo del canto con id uguale all'input
+    curl -skL "https://www.librettocanti.it/api/get_canti/$1" \
+    | jq -r ".data[0].testo" \
+    | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g;s/{end_chorus}//g;s/{start_chorus}//g;s/{start_verse}//g;s/{end_verse}//g;s/{end_verse_num}//g;s/{start_verse_num}//g' \
+    | sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g'
 }
 
 # to do
