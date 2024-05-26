@@ -83,7 +83,7 @@ print(f"⏯  Il testo più simile è: ' {result.titolo[most_similar_index]} ' co
 result = result.sort_values(by='similarity', ascending=False)
 
 # export to csv
-result.to_csv('data/suggeriti-latest.csv', index=False)
+result.to_csv('data/suggerimenti-latest.csv', index=False)
 
 # crea una nuova colonna titolo_md che contenga '[' + result.titolo + '](https://www.youtube.com/' + result.link_youtube  +')'
 # se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.youtube.com/' + result['link_youtube'] + ')'

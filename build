@@ -40,6 +40,10 @@ echo "✅ Scaricata liturgia"
 # run suggeritore
 ./scripts/suggeritore.py
 
-# organize files (suggerimenti)
+# organize files (suggerimenti md e csv)
 mv $SUGGERIMENTI_FILE_BASENAME.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md
 cp $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-$(date +%Y%m%d).md
+cp $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.csv $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-$(date +%Y%m%d).csv
+
+echo "✅ Suggerimenti pronti"
+echo "📂 Suggerimenti disponibili in $SUGGERIMENTI_DIR"
