@@ -1,6 +1,6 @@
 # Suggeritore di canti liturgici
 
-Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](suggerimenti.md)
+Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](suggerimenti/suggerimenti-latest.md)
 
 ## Actions
 1. scarica l'anagrafica dei canti con `get_anagrafica`

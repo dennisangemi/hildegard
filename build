@@ -2,6 +2,8 @@
 
 # constants
 DATA_DIR="data"
+SUGGERIMENTI_DIR="suggerimenti"
+SUGGERIMENTI_FILE_BASENAME="suggerimenti"
 
 # importing functions
 source ./scripts/get_anagrafica
@@ -10,6 +12,11 @@ source ./scripts/get_next_sunday
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
   mkdir $DATA_DIR
+fi
+
+# crea cartella suggerimenti se non esiste
+if [ ! -d "$SUGGERIMENTI_DIR" ]; then
+  mkdir $SUGGERIMENTI_DIR
 fi
 
 # rendi eseguibili gli script
@@ -32,3 +39,7 @@ echo "✅ Scaricata liturgia"
 
 # run suggeritore
 ./scripts/suggeritore.py
+
+# organize files (suggerimenti)
+mv $SUGGERIMENTI_FILE_BASENAME.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md
+cp $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-$(date +%Y%m%d).md
