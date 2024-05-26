@@ -49,53 +49,53 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | [Gloria a Dio nell'alto dei cieli](https://www.youtube.com/watch?v=bhDLqwo5PHI)               |           36 | Francesco Buttazzo    | Dall'amore di Dio         |
 | [Gloria a Dio - 2023](https://www.youtube.com/watch?v=Kk3QIQ08WYA)                            |           35 | Daniele Esposito      |                           |
 | [Gloria a Dio](https://www.youtube.com/watch?v=KewJv-uYGLk)                                   |           35 | Luigi Mariano         |                           |
-| [Gloria a Dio ](https://www.youtube.com/watch?v=oltLI_EgOfw)                                  |           34 | RnS - S.Martinez      | Ad una voce               |
 | [Gloria](https://www.youtube.com/watch?v=9EMdVh1IMz0)                                         |           34 | Francesco Buttazzo    | Vita nuova con te         |
+| [Gloria a Dio ](https://www.youtube.com/watch?v=oltLI_EgOfw)                                  |           34 | RnS - S.Martinez      | Ad una voce               |
 | [Gloria a Dio](https://www.youtube.com/watch?v=I57AWJx0x4g)                                   |           34 | Giuseppe Tranchida    | Con Voci di Gioia         |
 | [Gloria a Dio](https://www.youtube.com/watch?v=JtJ4fbTGwNo)                                   |           33 | Guglielmo Amadei      | La nostra festa è Cristo  |
 | [Preconio Pasquale](https://www.youtube.com/watch?v=5QKwhomm0G8)                              |           32 | Fra Giuseppe di Fatta |                           |
 | [Dio è amore](https://www.youtube.com/watch?v=x02RLuFgTcQ)                                    |           31 | RnS                   |                           |
 | [Gloria a Dio](https://www.youtube.com/watch?v=P-h6I_G_dhY)                                   |           30 | Paolo Auricchio       | Rallegriamoci nel Signore |
+| [Gloria a Dio](https://www.youtube.com/watch?v=4giwnbQIyfk)                                   |           30 | Daniele Ricci         | Gesù è il suo nome        |
 | [Gloria a Dio](https://www.youtube.com/watch?v=N_8gyW4zEvk)                                   |           30 | Gianlivio Bersigotti  |                           |
 | [Gloria](https://www.youtube.com/watch?v=2inSW_DKXlQ)                                         |           30 | Marcello Giombini     |                           |
-| [Gloria a Dio](https://www.youtube.com/watch?v=4giwnbQIyfk)                                   |           30 | Daniele Ricci         | Gesù è il suo nome        |
-| [E' il Signore e dà la vita](https://www.youtube.com/watch?v=ovf-n3ScJ_8)                     |           29 | Comunità Gesù Risorto |                           |
-| [Lo Spirito del Signore](https://www.youtube.com/watch?v=wy2g6aSREag)                         |           29 | Marco Frisina         |                           |
-| Preconio Pasquale                                                                             |           29 | Kiko Arguello         |                           |
 | [Beatitudine (La preghiera di Gesù è la nostra)](https://www.youtube.com/watch?v=c6uJoG9BbJ8) |           29 | Gaetano Castiglia     |                           |
 | [Gloria a Dio](https://www.youtube.com/watch?v=BdXTowIQmgg)                                   |           29 | Pasquale Dargenio     | Sorgente di vita          |
-| [Gloria a Dio](https://www.youtube.com/watch?v=nC22oOfALQs)                                   |           28 | Salvatore Basilotta   |                           |
-| [Gloria in excelsis Deo](https://www.youtube.com/watch?v=es2sdyT98cM)                         |           28 | Lecot                 |                           |
+| Preconio Pasquale                                                                             |           29 | Kiko Arguello         |                           |
+| [E' il Signore e dà la vita](https://www.youtube.com/watch?v=ovf-n3ScJ_8)                     |           29 | Comunità Gesù Risorto |                           |
+| [Lo Spirito del Signore](https://www.youtube.com/watch?v=wy2g6aSREag)                         |           29 | Marco Frisina         |                           |
+| [Cantiamo Te](https://www.youtube.com/watch?v=RN5HIkTbvzU)                                    |           28 | Gragnani              |                           |
+| Annuncio Pasquale                                                                             |           28 | Domenico Machetta     |                           |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
 ## Ingresso
-| Titolo                                                                   |   Similarità | Autore                    | Raccolta       |
-|:-------------------------------------------------------------------------|-------------:|:--------------------------|:---------------|
-| [Dio è amore](https://www.youtube.com/watch?v=x02RLuFgTcQ)               |           31 | RnS                       |                |
-| [Lo Spirito del Signore](https://www.youtube.com/watch?v=wy2g6aSREag)    |           29 | Marco Frisina             |                |
-| Preconio Pasquale                                                        |           29 | Kiko Arguello             |                |
-| [Cantiamo Te](https://www.youtube.com/watch?v=RN5HIkTbvzU)               |           28 | Gragnani                  |                |
-| [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M)          |           27 | R.Farruggio, V.Valenti    | Da uomo a uomo |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) |           27 | Gino Stefani - D. Stefani |                |
-| [Nel nome del Padre](https://www.youtube.com/watch?v=wkzhZu1eBkM)        |           26 | R.Paulo                   |                |
-| [Vergin Santa](https://www.youtube.com/watch?v=mTnD1HXRnfk)              |           26 | RnS                       |                |
-| [In principio](https://www.youtube.com/watch?v=jsFibHveYW4)              |           25 | Daniele Ricci             |                |
-| [Lodate Dio](https://www.youtube.com/watch?v=T6sJgjfK-qo)                |           25 | Gen Rosso                 |                |
+| Titolo                                                                   |   Similarità | Autore                    | Raccolta          |
+|:-------------------------------------------------------------------------|-------------:|:--------------------------|:------------------|
+| [Dio è amore](https://www.youtube.com/watch?v=x02RLuFgTcQ)               |           31 | RnS                       |                   |
+| Preconio Pasquale                                                        |           29 | Kiko Arguello             |                   |
+| [Lo Spirito del Signore](https://www.youtube.com/watch?v=wy2g6aSREag)    |           29 | Marco Frisina             |                   |
+| [Cantiamo Te](https://www.youtube.com/watch?v=RN5HIkTbvzU)               |           28 | Gragnani                  |                   |
+| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) |           27 | Gino Stefani - D. Stefani |                   |
+| [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M)          |           27 | R.Farruggio, V.Valenti    | Da uomo a uomo    |
+| [Vergin Santa](https://www.youtube.com/watch?v=mTnD1HXRnfk)              |           26 | RnS                       |                   |
+| [Nel nome del Padre](https://www.youtube.com/watch?v=wkzhZu1eBkM)        |           26 | R.Paulo                   |                   |
+| [Messaggio ai giovani](https://www.youtube.com/watch?v=SzGCzzzp8a0)      |           25 | Pierangelo Sequeri        | In cerca d'autore |
+| [Lodate Dio](https://www.youtube.com/watch?v=T6sJgjfK-qo)                |           25 | Gen Rosso                 |                   |
 
 ## Offertorio
-| Titolo                                                                       |   Similarità | Autore                            | Raccolta        |
-|:-----------------------------------------------------------------------------|-------------:|:----------------------------------|:----------------|
-| [Fa' che io creda](https://www.youtube.com/watch?v=RCquNBv0fik)              |           27 | RnS - De Luca, Conte              | Io scelgo Te    |
-| [Benedetto nei secoli](https://www.youtube.com/watch?v=fQZUOuYGE7Y)          |           23 | Matteo Zambuto                    |                 |
-| Rendiamo grazie a te                                                         |           22 | Daniele Scarpa                    |                 |
-| [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I)           |           22 | Franco Motta - Pierangelo Sequeri |                 |
-| [Il tuo amore per noi](https://www.youtube.com/watch?v=9aaxeabeNq0)          |           22 | Piera Cori                        |                 |
-| [Passa ancora in mezzo a noi](https://www.youtube.com/watch?v=Wtr-lw8go8g)   |           22 | RnS                               | Fuoco d'Amore   |
-| [Padre, Maestro ed Amico](https://www.youtube.com/watch?v=UD-OCNBgcg4)       |           21 | A. Lagorio                        |                 |
-| [Ecco Signore](https://www.youtube.com/watch?v=gVknZyvub_A)                  |           21 | Nino Mancuso                      |                 |
-| [Con l'offerta di Gesù](https://www.youtube.com/watch?v=7c3fFWR1PjA)         |           21 | F. Buttazzo; P. Dargenio          | Esulta il cielo |
-| [Il nostro cuore offriamo a te](https://www.youtube.com/watch?v=DJhhcQ5LGWY) |           20 | RnS                               |                 |
+| Titolo                                                                                  |   Similarità | Autore                            | Raccolta        |
+|:----------------------------------------------------------------------------------------|-------------:|:----------------------------------|:----------------|
+| [Fa' che io creda](https://www.youtube.com/watch?v=RCquNBv0fik)                         |           27 | RnS - De Luca, Conte              | Io scelgo Te    |
+| [Benedetto nei secoli](https://www.youtube.com/watch?v=fQZUOuYGE7Y)                     |           23 | Matteo Zambuto                    |                 |
+| [Il tuo amore per noi](https://www.youtube.com/watch?v=9aaxeabeNq0)                     |           22 | Piera Cori                        |                 |
+| Rendiamo grazie a te                                                                    |           22 | Daniele Scarpa                    |                 |
+| [Passa ancora in mezzo a noi](https://www.youtube.com/watch?v=Wtr-lw8go8g)              |           22 | RnS                               | Fuoco d'Amore   |
+| [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I)                      |           22 | Franco Motta - Pierangelo Sequeri |                 |
+| [Ecco Signore](https://www.youtube.com/watch?v=gVknZyvub_A)                             |           21 | Nino Mancuso                      |                 |
+| [Padre, Maestro ed Amico](https://www.youtube.com/watch?v=UD-OCNBgcg4)                  |           21 | A. Lagorio                        |                 |
+| [Con l'offerta di Gesù](https://www.youtube.com/watch?v=7c3fFWR1PjA)                    |           21 | F. Buttazzo; P. Dargenio          | Esulta il cielo |
+| [Il nostro cuore offriamo a te (completo)](https://www.youtube.com/watch?v=DJhhcQ5LGWY) |           20 | RnS                               |                 |
 
 ## Comunione
 | Titolo                                                                                        |   Similarità | Autore                                            | Raccolta          |
@@ -105,9 +105,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Signore da chi andremo](https://www.youtube.com/watch?v=J5tytDPEmCc)                         |           27 | Alejandro Mejia                                   |                   |
 | [Vergin Santa](https://www.youtube.com/watch?v=mTnD1HXRnfk)                                   |           26 | RnS                                               |                   |
 | [Insieme a Te](https://www.youtube.com/watch?v=_1taK6Kc8gw)                                   |           25 | Francesco Buttazzo                                | Alla tua festa    |
-| [Te lodiamo Trinità](https://www.youtube.com/watch?v=pS9m2X9So5I)                             |           25 | G. Stefani                                        |                   |
 | [Dov’è carità e amore](https://www.youtube.com/watch?v=2aIrBW6r0aw)                           |           25 | Valentino Meloni - F. Zanettin - Terenzio Zardini |                   |
 | [Dio ha tanto amato il mondo](https://www.youtube.com/watch?v=aYClEd3LMz0)                    |           25 | A. De Luca - B. Conte                             | Risorto per Amore |
+| [Te lodiamo Trinità](https://www.youtube.com/watch?v=pS9m2X9So5I)                             |           25 | G. Stefani                                        |                   |
 | [Symbolum ‘77 (v2)](https://www.youtube.com/watch?v=r-hf2dOBfDE)                              |           23 | Pierangelo Sequeri                                | In cerca d'autore |
 | [Dio grande Dio](https://www.youtube.com/watch?v=-hnf8kydiws)                                 |           23 | Chris Tomlin                                      |                   |
 
@@ -124,3 +124,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Ti ringrazio, o mio Signore](https://www.youtube.com/watch?v=v5ewwgxAuA4)    |           22 | C. Gabarain                       |                          |
 | [Custode del Signore (v2)](https://www.youtube.com/watch?v=YAEv6Cxj_JI)       |           22 | Marco Frisina                     |                          |
 | [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I)            |           22 | Franco Motta - Pierangelo Sequeri |                          |
+
+# Note e ringraziamenti
+I testi dei canti provengono da http://librettocanti.it/ sviluppato da Michele Mammini. A lui il nostro più sincero ringraziamento.
+
+# To do
+- aggiungere link ad accordi http://librettocanti.it/
