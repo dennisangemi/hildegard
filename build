@@ -12,6 +12,9 @@ if [ ! -d "$DATA_DIR" ]; then
   mkdir $DATA_DIR
 fi
 
+# rendi eseguibili gli script
+chmod +x ./scripts/*
+
 # scarica anagrafica
 # get_anagrafica > $DATA_DIR/anagrafica_canti.csv
 # echo "✅ Scaricata anagrafica canti"
