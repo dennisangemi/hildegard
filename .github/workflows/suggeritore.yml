@@ -22,7 +22,7 @@ jobs:
         cp bin/scrape ~/bin
         cd ~/bin
         chmod +x mlr
-        chmo +x sdcrape
+        chmod +x sdcrape
         sudo pip install yq scikit-learn pandas
     - name: Suggerisci i canti della prossima domenica
       run: |-
