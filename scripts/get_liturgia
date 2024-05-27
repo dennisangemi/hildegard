@@ -3,35 +3,35 @@
 # input of the script
 # $1 = date in the format YYYYMMDD (e.g., 20240602)
 
+# output of the script
+# liturgy text on terminal stdout
+
 # testare anche questo https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno/2024/05/26.html
 
-# constants
-URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
-LITURGIA_DIR="liturgie"
+# transform the code into a function get_liturgia
+get_liturgia() {
 
-# check if the input is provided
-if [ -z "$1" ]; then
-    echo "Please provide the date in the format YYYYMMDD (e.g., $0 20240602)"
-    exit 1
-fi
+    # constants
+    LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
 
-# check if the input is a valid date
-if ! [[ $1 =~ ^[0-9]{8}$ ]]; then
-    echo "The date is not in the correct format. Please provide the date in the format YYYYMMDD (e.g., 20240602)"
-    exit 1
-fi
+    # check if the input is provided
+    if [ -z "$1" ]; then
+        echo "Please provide the date in the format YYYYMMDD (e.g., $0 20240602)"
+        return 1
+    fi
 
-# create the directory if it does not exist
-if [ ! -d "$LITURGIA_DIR" ]; then
-    mkdir $LITURGIA_DIR
-fi
+    # check if the input is a valid date
+    if ! [[ $1 =~ ^[0-9]{8}$ ]]; then
+        echo "The date is not in the correct format. Please provide the date in the format YYYYMMDD (e.g., 20240602)"
+        return 1
+    fi
 
-# concatenate the URL with the date
-URL="$URL$1"
+    # concatenate the LITURGIA_URL with the date
+    LITURGIA_URL="$LITURGIA_URL$1"
 
-# scrape the content of the URL
-curl -sL $URL \
-| scrape -be 'p' \
-| xq -r '.. | objects | .["#text"]? // empty' > $LITURGIA_DIR/liturgia-$1.txt
-
-cp $LITURGIA_DIR/liturgia-$1.txt $LITURGIA_DIR/liturgia-latest.txt
+    # scrape the content of the LITURGIA_URL
+    curl -sL $LITURGIA_URL \
+    | scrape -be '.cci-liturgia-giorno-section-content' \
+    | sed 's/<p\/>//g' | sed 's/^ *//g' | sed 's/></> </g' | sed 's/<br\/>/ <br\/>/g' \
+    | xq -r '.. | objects | .["#text"]? // empty'
+}

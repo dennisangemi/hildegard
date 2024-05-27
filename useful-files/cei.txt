@@ -18,3 +18,6 @@ vangelo
 
 antifona comunione
 .cci-fontsize-dynamic:nth-child(10) p:nth-child(2)
+
+tutti i contenuti (interessante)
+.cci-liturgia-giorno-section-content

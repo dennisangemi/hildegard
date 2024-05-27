@@ -1,13 +1,21 @@
 #!/bin/bash
 
+# esporta le variabili d'ambiente
+set -a
+
 # constants
 DATA_DIR="data"
 SUGGERIMENTI_DIR="suggerimenti"
+LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
+LITURGIA_DIR="liturgie"
+LITURGIA_FILE_BASENAME="liturgia"
 SUGGERIMENTI_FILE_BASENAME="suggerimenti"
+
 
 # importing functions
 source ./scripts/get_anagrafica
 source ./scripts/get_next_sunday
+source ./scripts/get_liturgia
 
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
@@ -17,6 +25,11 @@ fi
 # crea cartella suggerimenti se non esiste
 if [ ! -d "$SUGGERIMENTI_DIR" ]; then
   mkdir $SUGGERIMENTI_DIR
+fi
+
+# crea cartella liturgie se non esiste
+if [ ! -d "$LITURGIA_DIR" ]; then
+  mkdir $LITURGIA_DIR
 fi
 
 # rendi eseguibili gli script
@@ -32,7 +45,10 @@ chmod +x ./scripts/*
 
 # scarica liturgia
 LITURGIA_DATE=$(get_next_sunday)
-./scripts/get_liturgia $LITURGIA_DATE
+
+get_liturgia $LITURGIA_DATE > $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt
+cp $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-latest.txt
+
 LITURGIA_DATE=$(date -d $LITURGIA_DATE +%d/%m/%Y)
 echo "📅 Data della prossima liturgia domenicale: $LITURGIA_DATE"
 echo "✅ Scaricata liturgia"
