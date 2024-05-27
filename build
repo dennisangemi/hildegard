@@ -49,8 +49,7 @@ LITURGIA_DATE=$(get_next_sunday)
 get_liturgia $LITURGIA_DATE > $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt
 cp $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-latest.txt
 
-LITURGIA_DATE=$(date -d $LITURGIA_DATE +%d/%m/%Y)
-echo "📅 Data della prossima liturgia domenicale: $LITURGIA_DATE"
+echo "📅 Data della prossima liturgia domenicale: $(date -d $LITURGIA_DATE +%d/%m/%Y)"
 echo "✅ Scaricata liturgia"
 
 # run suggeritore
@@ -58,8 +57,8 @@ echo "✅ Scaricata liturgia"
 
 # organize files (suggerimenti md e csv)
 mv $SUGGERIMENTI_FILE_BASENAME.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md
-cp $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-$(date +%Y%m%d).md
-cp $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.csv $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-$(date +%Y%m%d).csv
+cp $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-$LITURGIA_DATE.md
+cp $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.csv $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-$LITURGIA_DATE.csv
 
 echo "✅ Suggerimenti pronti"
 echo "📂 Suggerimenti disponibili in $SUGGERIMENTI_DIR"
