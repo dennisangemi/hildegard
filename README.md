@@ -3,6 +3,9 @@
 
 Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](suggerimenti/suggerimenti-latest.md)
 
+# Set up
+Clone/download this repo
+
 ## Requirements
 - utility [`scrape`](https://github.com/aborruso/scrape-cli)
     ```sh
@@ -19,7 +22,7 @@ Ti interessano i canti consigliati e più adatti per la liturgia della prossima 
   pip install yq scikit-learn pandas tabulate
   ```
 
-# How to build
+## How to build
 Check requirements and then run (from the root)
 ```sh
 chmod +x ./build
