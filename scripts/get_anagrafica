@@ -2,11 +2,9 @@
 
 API="https://www.librettocanti.it/api/get_canti"
 
-# curl -skL $API > canticristiani.json
-
-# curl -skL $API | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" | mlr --j2c cat 
-
-# crea la funzione get_anagrafica con il codice curl sopra
+# funzione get_anagrafica che in output torna un csv
 get_anagrafica() {
-    curl -skL $API | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" | mlr --j2c cat
+    curl -skL $API \
+    | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" \
+    | mlr --j2c cat
 }

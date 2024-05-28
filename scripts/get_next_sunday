@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# questo script viene usato per generare la data della prossima domenica a partire da oggi nel formato YYYYMMDD
+# questa funzione viene usato per generare la data della prossima domenica a partire da oggi nel formato YYYYMMDD
 
 get_next_sunday() {
     # calcola la data di oggi

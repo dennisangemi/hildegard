@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# attualmente questo script è inutilizzato
+
 # contsants
 IDS_FILE="cresime.txt"
 CANTI_DIR="canti"

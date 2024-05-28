@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# input of the script
+# input of the function
 # $1 = date in the format YYYYMMDD (e.g., 20240602)
 
-# output of the script
+# output of the function
 # liturgy text on terminal stdout
 
 # testare anche questo https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno/2024/05/26.html

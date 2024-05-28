@@ -2,6 +2,8 @@
 library(rvest)
 library(dplyr)
 
+# attualmente questo script è inutilizzato. È stato sostituito da get_liturgia
+
 # constants
 # URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240519"
 # URL <- "https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240505"
