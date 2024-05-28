@@ -1,3 +1,8 @@
 name: Aggiorno anagrafica canti
 
-# una volta al mese
+on:
+#  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '0 1 1 * *
+  workflow_dispatch:
