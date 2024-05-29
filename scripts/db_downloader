@@ -2,6 +2,7 @@
 
 # constants
 ANAGRAFICA_FILE="data/anagrafica_canti.csv"
+IDS_FILE="data/id_canti.txt"
 CANTI_DIR="canti"
 
 # importa funzioni
@@ -19,19 +20,14 @@ if [ ! -d $CANTI_DIR ]; then
    mkdir $CANTI_DIR
 fi
 
-# chiedi all'utente se vuole aggiornare l'anagrafica
-read -p "Vuoi aggiornare l'anagrafica? (y/n) " update_anagrafica
-
-# se sì, usa get_anagrafica per scaricare l'anagrafica
-if [ $update_anagrafica == "y" ]; then
-   get_anagrafica > $ANAGRAFICA_FILE
-fi
+# aggiorna l'anagrafica
+get_anagrafica > $ANAGRAFICA_FILE
 
 # usa mlr per estrarre solo la colonna id_canti
-mlr --csv cut -f id_canti $ANAGRAFICA_FILE | tail -n +2 | sed 's/"//g' > id_canti.txt
+mlr --csv cut -f id_canti $ANAGRAFICA_FILE | tail -n +2 | sed 's/"//g' > $IDS_FILE
 
 # per ogni id_canto, usa get_text_from_id per estrarre il testo e salvarlo in CANTI_DIR con nomefile id_canto.txt
-total_lines=$(wc -l < id_canti.txt)
+total_lines=$(wc -l < $IDS_FILE)
 current_line=1
 
 echo "Ho trovato $total_lines canti da scaricare. Inizio il download..."
@@ -40,10 +36,10 @@ while read id_canto; do
    get_text_from_id $id_canto > $CANTI_DIR/$id_canto.txt
    echo "Progresso: $current_line/$total_lines"
    ((current_line++))
-done < id_canti.txt
+done < $IDS_FILE
 
 # rimuovi file temporanei
-rm id_canti.txt
+rm $IDS_FILE
 
 # fine
 echo "Finito!"
