@@ -1,0 +1,26 @@
+site_name: Hildegard
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  palette:
+    primary: blue grey
+    accent: teal
+  icon:
+    logo: material/church
+  favicon: material/church
+  font:
+    text: Poppins
+
+ 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
