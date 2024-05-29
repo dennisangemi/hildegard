@@ -11,7 +11,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 
 # costants
-OUTPUT_FILE = 'suggerimenti.md'
+# OUTPUT_FILE = 'suggerimenti.md'
+CANTI_DIR = 'canti'
+LITURGIA_DIR = 'liturgie'
+LITURGIA_FILE = 'liturgia-latest.txt'
+ANAGRAFICA_CANTI_PATH = 'data/anagrafica_canti.csv'
 
 # functions
 def get_text_from_file(file):
@@ -25,15 +29,15 @@ def get_files_from_dir(directory):
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 
 # apri liturgia.txt
-liturgia = get_text_from_file(os.path.join('liturgie', 'liturgia-latest.txt'))
+liturgia = get_text_from_file(os.path.join(LITURGIA_DIR, LITURGIA_FILE))
 
 # apri un canto
-file_canti = get_files_from_dir('canti')
+file_canti = get_files_from_dir(CANTI_DIR)
 
 # per ogni elemento di file_canti estrai il testo e salvalo in un vettore concatenato
 canti = []
 for canto in file_canti:
-    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join('canti', canto))))
+    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(CANTI_DIR, canto))))
 
 # Unisci il testo di riferimento con gli altri testi
 all_texts = [liturgia] + canti
@@ -69,7 +73,7 @@ df = pd.DataFrame(data)
 df['id_canti'] = df['id_canti'].astype(int)
 
 # import anagrafica_canti.csv
-anagrafica = pd.read_csv('data/anagrafica_canti.csv')
+anagrafica = pd.read_csv(ANAGRAFICA_CANTI_PATH)
 
 # merge df and anagrafica on id_canti column
 result = pd.merge(df, anagrafica, on='id_canti')
@@ -83,7 +87,8 @@ print(f"⏯  Il testo più simile è: ' {result.titolo[most_similar_index]} ' co
 result = result.sort_values(by='similarity', ascending=False)
 
 # export to csv
-result.to_csv('data/suggerimenti-latest.csv', index=False)
+output_result_path = 'data/suggerimenti-latest.csv'
+result.to_csv(output_result_path, index=False)
 
 # crea una nuova colonna titolo_md che contenga '[' + result.titolo + '](https://www.youtube.com/' + result.link_youtube  +')'
 # se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.youtube.com/' + result['link_youtube'] + ')'
@@ -114,32 +119,13 @@ suggested_congedo.columns = md_cols
 md_res = result[['titolo_md', 'similarity','autore', 'raccolta']].head(20).fillna('')
 md_res.columns = md_cols
 
-# crete a md file and write the result to it
-with open(OUTPUT_FILE, 'w') as f:
-      f.write('# Suggerimenti di animazione liturgica\n\n')
-      f.write('## 📖 Liturgia\n')
-      f.write('>' + liturgia)
-      f.write('\n\n')
-      f.write("# 🎵 Canti suggeriti\n\n")
-      f.write("Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)\n")
-      f.write(md_res.to_markdown(index=False, ))
-      f.write('\n\n')
-      f.write("Di seguito i canti suggeriti per i vari momenti della liturgia\n\n")
-      f.write('## Ingresso\n')
-      f.write(suggested_ingresso.to_markdown(index=False))
-      f.write('\n\n')
-      f.write('## Offertorio\n')
-      f.write(suggested_offertorio.to_markdown(index=False))
-      f.write('\n\n')
-      f.write('## Comunione\n')
-      f.write(suggested_comunione.to_markdown(index=False))
-      f.write('\n\n')
-      f.write('## Congedo\n')
-      f.write(suggested_congedo.to_markdown(index=False))
+# export data to json
+md_res.to_json('data/suggeriti-top20-latest.json', orient='records')
+suggested_ingresso.to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.to_json('data/suggeriti-congedo-latest.json', orient='records')
 
-
-print("📄 I suggerimenti sono stati scritti nel file suggeriti.md e suggeriti-latest.csv")                         
-
-# Print only titolo and similarity columns primi 20
-# print(result[['titolo', 'id_canti', 'similarity']].head(20))
+# end
+print("📄 I suggerimenti sono stati scritti nel file", output_result_path)                         
 

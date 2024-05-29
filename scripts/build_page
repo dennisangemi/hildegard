@@ -1,0 +1,62 @@
+#!/bin/bash
+
+# this script will build the md page for the site
+
+# constants
+OUTPUT_FILE_PATH="docs/index.md"
+TEMPLATE_PATH="useful-files/template-suggerimenti-latest.md"
+LITURGIA_PATH="liturgie/liturgia-latest.txt"
+TOP20_DATA_PATH="data/suggeriti-top20-latest.json"
+INGRESSO_DATA_PATH="data/suggeriti-ingresso-latest.json"
+OFFERTORIO_DATA_PATH="data/suggeriti-offertorio-latest.json"
+COMUNIONE_DATA_PATH="data/suggeriti-comunione-latest.json"
+CONGEDO_DATA_PATH="data/suggeriti-congedo-latest.json"
+URL_CEI_PLACEHOLDER="{{{URL_LITURGIA_CEI}}}"
+DATE_PLACEHOLDER="{{{DATA_LITURGIA}}}"
+TESTO_LITURGIA_PLACEHOLDER="{{{TESTO_LITURGIA}}}"
+
+# copy template to output file
+cp $TEMPLATE_PATH $OUTPUT_FILE_PATH
+
+# replace date placeholder with current date
+sed -i "s#$DATE_PLACEHOLDER#$(date -d $LITURGIA_DATE +%d/%m/%Y)#g" $OUTPUT_FILE_PATH
+
+# replace testo liturgia placeholder with liturgia text
+testo_liturgia=$(cat $LITURGIA_PATH)
+testo_liturgia=$(echo "$testo_liturgia" | tr '\n' ' ')
+sed -i "s#$TESTO_LITURGIA_PLACEHOLDER#$testo_liturgia#g" $OUTPUT_FILE_PATH
+
+# create archive file
+# ARCHIVE_FILE_PATH="docs/archive/$liturgia_data_estesa.md"
+
+# replace url liturgia cei placeholder with url liturgia cei
+sed -i "s#$URL_CEI_PLACEHOLDER#$LITURGIA_URL#g" $OUTPUT_FILE_PATH
+
+mlr --j2m cat $TOP20_DATA_PATH >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+echo "Di seguito i canti suggeriti per i vari momenti della liturgia" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+echo "## Ingresso" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+mlr --j2m cat $INGRESSO_DATA_PATH >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+echo "## Offertorio" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+mlr --j2m cat $OFFERTORIO_DATA_PATH >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+echo "## Comunione" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+mlr --j2m cat $COMUNIONE_DATA_PATH >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+echo "## Congedo" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+mlr --j2m cat $CONGEDO_DATA_PATH >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+
+
+

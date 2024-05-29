@@ -10,12 +10,14 @@ LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=
 LITURGIA_DIR="liturgie"
 LITURGIA_FILE_BASENAME="liturgia"
 SUGGERIMENTI_FILE_BASENAME="suggerimenti"
+HOMEPAGE_PATH="docs/index.md"
 
 
 # importing functions
 source ./scripts/get_anagrafica
 source ./scripts/get_next_sunday
 source ./scripts/get_liturgia
+source ./scripts/converti_data
 
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
@@ -46,6 +48,9 @@ chmod +x ./scripts/*
 # scarica liturgia
 LITURGIA_DATE=$(get_next_sunday)
 
+liturgia_data_iso=$(date -d $LITURGIA_DATE +%Y-%m-%d)
+liturgia_data_estesa=$(converti_data "$liturgia_data_iso")
+
 get_liturgia $LITURGIA_DATE > $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt
 cp $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-latest.txt
 
@@ -55,10 +60,23 @@ echo "✅ Scaricata liturgia"
 # run suggeritore
 ./scripts/suggeritore.py
 
-# organize files (suggerimenti md e csv)
-mv $SUGGERIMENTI_FILE_BASENAME.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md
-cp $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.md $SUGGERIMENTI_DIR/$SUGGERIMENTI_FILE_BASENAME-$LITURGIA_DATE.md
+# build website homepage
+./scripts/build_page
+
+# organize files 
 cp $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.csv $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-$LITURGIA_DATE.csv
 
+suggerimenti_on_archive_path="docs/archivio/$liturgia_data_estesa.md"
+cp $HOMEPAGE_PATH "$suggerimenti_on_archive_path"
+
+# clean suggerimenti on archive
+line_end=$(cat "$suggerimenti_on_archive_path" | grep -n ":material-music" | cut -d: -f1)
+
+# delete from line 1 to line line_end
+tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md
+mv tmp.md "$suggerimenti_on_archive_path"
+
+
 echo "✅ Suggerimenti pronti"
-echo "📂 Suggerimenti disponibili in $SUGGERIMENTI_DIR"
+echo "📂 Archivio aggiornato"
+echo "✅ Homepage pronta"

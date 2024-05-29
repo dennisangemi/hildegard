@@ -1,0 +1,31 @@
+#!/bin/bash
+
+converti_data() {
+  # Accetta la data come argomento
+  data="$1"
+
+  # Estrai giorno, mese e anno
+  giorno=$(echo $data | awk -F- '{print $3}' | sed 's/^0*//')
+  mese=$(echo $data | awk -F- '{print $2}')
+  anno=$(echo $data | awk -F- '{print $1}')
+
+  # Converti il numero del mese nel nome del mese in italiano
+  case $mese in
+    "01") nome_mese="gennaio" ;;
+    "02") nome_mese="febbraio" ;;
+    "03") nome_mese="marzo" ;;
+    "04") nome_mese="aprile" ;;
+    "05") nome_mese="maggio" ;;
+    "06") nome_mese="giugno" ;;
+    "07") nome_mese="luglio" ;;
+    "08") nome_mese="agosto" ;;
+    "09") nome_mese="settembre" ;;
+    "10") nome_mese="ottobre" ;;
+    "11") nome_mese="novembre" ;;
+    "12") nome_mese="dicembre" ;;
+    *) echo "Mese non valido"; exit 1 ;;
+  esac
+
+  # Stampa la data nel formato desiderato
+  echo "$giorno $nome_mese $anno"
+}
