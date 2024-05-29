@@ -1,7 +1,8 @@
 # Hildegard
+
 ### Il suggeritore di canti liturgici
 
-Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](suggerimenti/suggerimenti-latest.md)
+Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](https://dennisangemi.github.io/hildegard/)
 
 # Set up
 Clone/download this repo
