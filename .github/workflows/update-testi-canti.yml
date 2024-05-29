@@ -1,8 +1,0 @@
-name: Aggiorno testi canti
-
-on:
-#  push:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 1 1 * *
-  workflow_dispatch:
