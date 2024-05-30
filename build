@@ -5,7 +5,6 @@ set -a
 
 # constants
 DATA_DIR="data"
-SUGGERIMENTI_DIR="suggerimenti"
 LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
 LITURGIA_DIR="liturgie"
 LITURGIA_FILE_BASENAME="liturgia"
@@ -22,11 +21,6 @@ source ./scripts/converti_data
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
   mkdir $DATA_DIR
-fi
-
-# crea cartella suggerimenti se non esiste
-if [ ! -d "$SUGGERIMENTI_DIR" ]; then
-  mkdir $SUGGERIMENTI_DIR
 fi
 
 # crea cartella liturgie se non esiste
