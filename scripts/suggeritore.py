@@ -78,6 +78,7 @@ anagrafica = pd.read_csv(ANAGRAFICA_CANTI_PATH)
 # merge df and anagrafica on id_canti column
 result = pd.merge(df, anagrafica, on='id_canti')
 result.similarity = result.similarity.round(2)*100
+result.similarity = result.similarity.astype(int)
 
 # Stampa il risultato
 print(f"⏯  Il testo più simile è: ' {result.titolo[most_similar_index]} ' con una similarità di {similarities[most_similar_index]:.2f}")
@@ -98,10 +99,20 @@ result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['l
 nonan=result.dropna(subset=['momento'])
 
 # split momenti
-suggested_ingresso = nonan[nonan['momento'].str.contains('21')].head(10)
-suggested_offertorio = nonan[nonan['momento'].str.contains('26')].head(10)
-suggested_comunione = nonan[nonan['momento'].str.contains('31')].head(10)
-suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10)
+suggested_ingresso = nonan[nonan['momento'].str.contains('21')].head(10).fillna('')
+suggested_offertorio = nonan[nonan['momento'].str.contains('26')].head(10).fillna('')
+suggested_comunione = nonan[nonan['momento'].str.contains('31')].head(10).fillna('')
+suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('')
+
+# preview of the table md_res
+print(result.head(20).drop(columns=['titolo_md']).fillna(''))
+
+# export data to json for canticristiani
+result.head(20).drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-top20-latest.json', orient='records')
+suggested_ingresso.to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.to_json('data/suggeriti-congedo-latest.json', orient='records')
 
 # select only the columns we need
 suggested_ingresso = suggested_ingresso[['titolo_md', 'similarity', 'autore', 'raccolta']].fillna('')
@@ -110,7 +121,7 @@ suggested_comunione = suggested_comunione[['titolo_md', 'similarity', 'autore', 
 suggested_congedo = suggested_congedo[['titolo_md', 'similarity', 'autore', 'raccolta']].fillna('')
 
 # rename columns
-md_cols = ['Titolo', 'Similarità', 'Autore', 'Raccolta']
+md_cols = ['Titolo', 'Similarità (%)', 'Autore', 'Raccolta']
 suggested_ingresso.columns = md_cols
 suggested_offertorio.columns = md_cols
 suggested_comunione.columns = md_cols
@@ -119,12 +130,12 @@ suggested_congedo.columns = md_cols
 md_res = result[['titolo_md', 'similarity','autore', 'raccolta']].head(20).fillna('')
 md_res.columns = md_cols
 
-# export data to json
-md_res.to_json('data/suggeriti-top20-latest.json', orient='records')
-suggested_ingresso.to_json('data/suggeriti-ingresso-latest.json', orient='records')
-suggested_offertorio.to_json('data/suggeriti-offertorio-latest.json', orient='records')
-suggested_comunione.to_json('data/suggeriti-comunione-latest.json', orient='records')
-suggested_congedo.to_json('data/suggeriti-congedo-latest.json', orient='records')
+# export data to csv
+md_res.to_csv('data/suggeriti-top20-latest.csv', index=False)
+suggested_ingresso.to_csv('data/suggeriti-ingresso-latest.csv', index=False)
+suggested_offertorio.to_csv('data/suggeriti-offertorio-latest.csv', index=False)
+suggested_comunione.to_csv('data/suggeriti-comunione-latest.csv', index=False)
+suggested_congedo.to_csv('data/suggeriti-congedo-latest.csv', index=False)
 
 # end
 print("📄 I suggerimenti sono stati scritti nel file", output_result_path)                         
