@@ -7,10 +7,10 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
   workflow_run:
-  workflows: ["Suggerisco canti liturgici domenicali"]
-  types:
-    - completed
-permissions:
+    workflows: ["Suggerisco canti liturgici domenicali"]
+    types:
+      - completed
+  permissions:
   contents: write
 
 jobs:
