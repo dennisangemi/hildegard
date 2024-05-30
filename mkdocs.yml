@@ -2,6 +2,7 @@ site_name: Hildegard
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  language: it
   features:
     - navigation.tabs
   palette:
