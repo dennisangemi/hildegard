@@ -1,10 +1,10 @@
 name: gh deploy 
 on:
   repository_dispatch:
-  push:
-    branches:
-      - master 
-      - main
+  # push:
+  #   branches:
+  #     - master 
+  #     - main
 permissions:
   contents: write
 jobs:
