@@ -16,13 +16,11 @@ jobs:
       with:
         fetch-depth: 0
     - name: Enviroment setup (mlr, scrape, yq, scikit-learn, pandas, tabulate)
-      # shell: bash
+      shell: bash
       env:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: |  
-#        chmod +x scripts/db_downloader
-#        ./scripts/db_downloader
         chmod +x scripts/tt
         ./scripts/tt
     - name: Committa e pusha se ci sono variazioni nei dati
