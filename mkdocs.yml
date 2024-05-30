@@ -1,5 +1,6 @@
 site_name: Hildegard
-site_url: https://mydomain.org/mysite
+repo_url: https://github.com/dennisangemi/hildegard
+site_url: https://dennisangemi.github.io/hildegard/
 theme:
   name: material
   language: it
@@ -10,6 +11,7 @@ theme:
     accent: teal
   icon:
     logo: material/church
+    repo: fontawesome/brands/github
   favicon: material/church
   font:
     text: Poppins
