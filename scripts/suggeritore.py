@@ -105,7 +105,7 @@ suggested_comunione = nonan[nonan['momento'].str.contains('31')].head(10).fillna
 suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('')
 
 # preview of the table md_res
-print(result.head(20).drop(columns=['titolo_md']).fillna(''))
+# print(result.head(20).drop(columns=['titolo_md']).fillna(''))
 
 # export data to json for canticristiani
 result.head(20).drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-top20-latest.json', orient='records')

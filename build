@@ -47,6 +47,7 @@ chmod +x ./scripts/*
 
 # scarica liturgia
 LITURGIA_DATE=$(get_next_sunday)
+#LITURGIA_DATE=20240616
 
 liturgia_data_iso=$(date -d $LITURGIA_DATE +%Y-%m-%d)
 liturgia_data_estesa=$(converti_data "$liturgia_data_iso")
