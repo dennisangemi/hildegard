@@ -1,6 +1,7 @@
 name: gh deploy 
 on:
   repository_dispatch:
+  workflow_dispatch:
   # push:
   #   branches:
   #     - master 
