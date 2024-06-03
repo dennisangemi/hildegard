@@ -6,7 +6,7 @@ hide:
 ---
 
 # Il progetto
-Hildegard è un suggeritore di canti liturgici. Chiunque si sia occupatə di animazione liturgica conosce bene la fase preparatoria che consiste nalla lettura della liturgia e nella ricerca dei canti ad essa più adatti. Chiunque si sia occupato di animazione liturgia conosce benissimo anche quella fastidiosissima sensazione di sapere di conoscere il canto perfetto e non essere in grado di individuarlo tra i suoi ricordi. Questo strumento nasce per provare a rendere più semplice e meno estenuante questo processo.
+Hildegard è un suggeritore di canti liturgici. Chiunque si sia occupatə di animazione liturgica conosce bene la fase preparatoria che consiste nalla lettura della liturgia e nella ricerca dei canti ad essa più adatti. Chiunque si sia occupato di animazione liturgica conosce benissimo anche quella fastidiosissima sensazione di sapere di conoscere il canto perfetto e non essere in grado di individuarlo tra i suoi ricordi. Questo strumento nasce per provare a rendere più semplice e meno estenuante questo processo.
 
 [Gli ultimi suggerimenti :material-arrow-right:](index.md){ .md-button }
 
