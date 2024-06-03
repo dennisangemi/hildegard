@@ -1,0 +1,70 @@
+#!/bin/bash
+
+# https://www.favrin.net/misc/calendario_liturgico/sviluppatori.html
+
+get_calendario_json() {
+   URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno="
+
+   TZ="Europe/Rome" curl -skL "https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno=2024" \
+   | jq "[.eventi[] | {giorno, mese, anno, ts, evento, tipo_evento}]" \
+   | mlr --json cat \
+   then put 'if (strlen(string($giorno)) == "1") { $giorno = "0" . $giorno}' \
+   then put 'if (strlen(string($mese)) == "1") { $mese = "0" . $mese}' \
+   then put -S '$date = $anno . "-" . $mese . "-" . $giorno' \
+   then put '$weekday = strftime(strptime($date, "%Y-%m-%d"), "%A")' \
+   then cut -x -f giorno,mese,ts,iso_date \
+   then reorder -f anno,date,weekday,evento,tipo_evento 
+}
+
+get_calendario() {
+   URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno="
+
+   TZ="Europe/Rome" curl -skL "https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno=2024" \
+   | jq "[.eventi[] | {giorno, mese, anno, ts, evento, tipo_evento}]" \
+   | mlr --j2c cat \
+   then put 'if (strlen(string($giorno)) == "1") { $giorno = "0" . $giorno}' \
+   then put 'if (strlen(string($mese)) == "1") { $mese = "0" . $mese}' \
+   then put -S '$date = $anno . "-" . $mese . "-" . $giorno' \
+   then put '$weekday = strftime(strptime($date, "%Y-%m-%d"), "%A")' \
+   then cut -x -f giorno,mese,ts,iso_date \
+   then reorder -f anno,date,weekday,evento,tipo_evento 
+}
+
+# anagrafica anni
+get_anagrafica_anno() {
+   URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno="
+
+   curl -skL "$URL$1" \
+   | jq ".anno | {anno, ciclodomenicale,cicloferiale}" \
+   | mlr --j2c cat 
+}
+
+# scarica tutti i calendari dal 2019 al 2050
+for i in $(seq 2019 2050); do get_calendario $i > data/calendari_liturgici/cld_$i.csv; done
+
+# wait for all downloads to finish
+wait
+
+# merge calendari
+mlr --csv cat data/calendari_liturgici/cld*.csv > data/calendari_liturgici/calendario_2019-2050.csv
+rm data/calendari_liturgici/cld*.csv
+
+# scarica l'anagrafica degli anni dal 2019 al 2050
+for i in $(seq 2019 2050); do get_anagrafica_anno $i > data/calendari_liturgici/ang_$i.csv; done
+
+# wait for all downloads to finish
+wait
+
+# merge anagrafica
+mlr --csv cat data/calendari_liturgici/ang*.csv > data/calendari_liturgici/anagrafica_2019-2050.csv
+rm data/calendari_liturgici/ang*.csv
+
+# join calendario con anagrafica by anno
+mlr --csv join --ul -j anno -f data/calendari_liturgici/calendario_2019-2050.csv \
+ then unsparsify data/calendari_liturgici/anagrafica_2019-2050.csv \
+| mlr --csv rename ciclodomenicale,ciclo_domenicale,cicloferiale,ciclo_feriale > data/calendari_liturgici/joined.csv
+
+# convert to json
+mlr --c2j cat data/calendari_liturgici/joined.csv > data/calendari_liturgici/joined.json
+
+
