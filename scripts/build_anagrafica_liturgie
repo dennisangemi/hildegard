@@ -1,0 +1,21 @@
+#!/bin/bash
+
+PATH_CALENDARIO_LITURGICO="data/calendari_liturgici/joined.csv"
+PATH_ANAGRAFICA_LITURGIE="data/anagrafica_liturgie.csv"
+
+# crea PATH_ANAGRAFICA_LITURGIE
+touch $PATH_ANAGRAFICA_LITURGIE
+echo "evento" > $PATH_ANAGRAFICA_LITURGIE
+
+# usa mlr per selezionare i valori univoci della colonna "evento"
+mlr --csv --headerless-csv-output cut -f evento $PATH_CALENDARIO_LITURGICO | sort | uniq >> $PATH_ANAGRAFICA_LITURGIE
+
+# add nrow to PATH_ANAGRAFICA_LITURGIE with miller
+mlr --csv put '$id_evento=NR' $PATH_ANAGRAFICA_LITURGIE > tmp.csv
+mv tmp.csv $PATH_ANAGRAFICA_LITURGIE
+
+mlr --csv join --ul -j evento -f $PATH_ANAGRAFICA_LITURGIE then unsparsify $PATH_CALENDARIO_LITURGICO | mlr --csv cut -f evento,id_evento,ciclo_domenicale then put -S '$id_liturgia=$id_evento . "-" . $ciclo_domenicale' then uniq -a > tmp.csv
+mv tmp.csv $PATH_ANAGRAFICA_LITURGIE
+
+
+
