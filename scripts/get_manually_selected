@@ -1,0 +1,7 @@
+#!/bin/bash
+
+CSV_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJvTs8qJSUfjUWcEsl0u94WgH66Mhvz0aVkN2IbtFgNAQzizlTaMLtin9tcd0AOXqtxTKHcNpfSRyV/pub?gid=598014936&single=true&output=csv"
+OUTPUT_PATH="data/manually_selected.csv"
+
+curl -kL $CSV_URL > $OUTPUT_PATH
+

@@ -5,7 +5,7 @@
 get_calendario_json() {
    URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno="
 
-   TZ="Europe/Rome" curl -skL "https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno=2024" \
+   TZ="Europe/Rome" curl -skL $URL$1 \
    | jq "[.eventi[] | {giorno, mese, anno, ts, evento, tipo_evento}]" \
    | mlr --json cat \
    then put 'if (strlen(string($giorno)) == "1") { $giorno = "0" . $giorno}' \
@@ -19,7 +19,7 @@ get_calendario_json() {
 get_calendario() {
    URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno="
 
-   TZ="Europe/Rome" curl -skL "https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&nolink=1&output=json&anno=2024" \
+   TZ="Europe/Rome" curl -skL $URL$1 \
    | jq "[.eventi[] | {giorno, mese, anno, ts, evento, tipo_evento}]" \
    | mlr --j2c cat \
    then put 'if (strlen(string($giorno)) == "1") { $giorno = "0" . $giorno}' \
