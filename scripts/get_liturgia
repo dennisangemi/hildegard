@@ -8,13 +8,8 @@
 
 # testare anche questo https://www.vaticannews.va/it/vangelo-del-giorno-e-parola-del-giorno/2024/05/26.html
 
-# transform the code into a function get_liturgia
-get_liturgia() {
-
-    # constants
-    LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
-
-    # check if the input is provided
+check_liturgia_date(){
+        # check if the input is provided
     if [ -z "$1" ]; then
         echo "Please provide the date in the format YYYYMMDD (e.g., $0 20240602)"
         return 1
@@ -25,6 +20,15 @@ get_liturgia() {
         echo "The date is not in the correct format. Please provide the date in the format YYYYMMDD (e.g., 20240602)"
         return 1
     fi
+}
+
+# transform the code into a function get_liturgia
+get_liturgia() {
+
+    # constants
+    LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
+
+    check_liturgia_date $1
 
     # concatenate the LITURGIA_URL with the date
     LITURGIA_URL="$LITURGIA_URL$1"
@@ -34,4 +38,19 @@ get_liturgia() {
     | scrape -be '.cci-liturgia-giorno-section-content' \
     | sed 's/<p\/>//g' | sed 's/^ *//g' | sed 's/></> </g' | sed 's/<br\/>/ <br\/>/g' \
     | xq -r '.. | objects | .["#text"]? // empty'
+}
+
+get_liturgia_rif(){
+    # constants
+    LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
+    
+    check_liturgia_date $1
+
+    # concatenate the LITURGIA_URL with the date
+    LITURGIA_URL="$LITURGIA_URL$1"
+
+    curl -sL $LITURGIA_URL \
+    | scrape -be '.bibbiaedu-linked' \
+    | sed 's/<p\/>//g' | sed 's/^ *//g' | sed 's/></> </g' | sed 's/<br\/>/ <br\/>/g' \
+    | xq  '[.html.body.span[].a | {url:."@href", data_target:."@data-target", text:."#text"}]'
 }
