@@ -1,309 +1,104 @@
-evento,id_evento,ciclo_domenicale,id_liturgia
-Maria Santissima Madre di Dio,75,C,75-C
-Giornata mondiale della pace,61,C,61-C
-Santissimo nome di Gesù,95,C,95-C
-Epifania del Signore,57,C,57-C
-Battesimo del Signore,49,C,49-C
-2° D.T.O.,26,C,26-C
-Conversione di San Paolo apostolo,53,C,53-C
-3° D.T.O.,35,C,35-C
-Presentazione del Signore (Candelora),86,C,86-C
-4° D.T.O.,38,C,38-C
-5° D.T.O.,41,C,41-C
-Madonna di Lourdes,74,C,74-C
-6° D.T.O.,43,C,43-C
-Cattedra di San Pietro Apostolo,51,C,51-C
-7° D.T.O.,44,C,44-C
-8° D.T.O.,45,C,45-C
-Mercoledì delle ceneri,78,C,78-C
-1° Domenica di Quaresima,12,C,12-C
-2° Domenica di Quaresima,25,C,25-C
-Solennità di San Giuseppe,99,C,99-C
-3° Domenica di Quaresima,34,C,34-C
-Festa dell'Annunciazione,59,C,59-C
-Domenica Laetare,56,C,56-C
-5° Domenica di Quaresima,40,C,40-C
-Domenica delle Palme,55,C,55-C
-Lunedì della settimana Santa,71,C,71-C
-Martedì della settimana Santa,76,C,76-C
-Mercoledì della settimana Santa,77,C,77-C
-Giovedì Santo (Messa del Crisma),63,C,63-C
-Giovedì Santo (In Cena Domini),62,C,62-C
-Venerdì Santo (Passione del Signore),102,C,102-C
-Inizio Novena alla Divina Misericordia,65,C,65-C
-Sabato Santo,87,C,87-C
-Pasqua - Risurrezione del Signore,83,C,83-C
-Lunedì dell'Angelo,70,C,70-C
-2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),24,C,24-C
-San Giuseppe Lavoratore,89,C,89-C
-3° Domenica di Pasqua (Misericordias Domini),33,C,33-C
-4° Domenica di Pasqua (Jubilate),37,C,37-C
-5° Domenica di Pasqua (Cantate),39,C,39-C
-6° Domenica di Pasqua (Rogate - Vocem jocunditatis),42,C,42-C
-Visitazione della Beata Vergine Maria,103,C,103-C
-Inizio Novena di Pentecoste,69,C,69-C
-Ascensione di Gesù,47,C,47-C
-Pentecoste,84,C,84-C
-Solennità della Santissima Trinità,98,C,98-C
-Santissimo Corpo e Sangue di Cristo,93,C,93-C
-Natività di San Giovanni Battista,82,C,82-C
-Santissimo Cuore di Gesù,94,C,94-C
-Santi Pietro e Paolo Apostoli,92,C,92-C
-13° D.T.O.,4,C,4-C
-14° D.T.O.,5,C,5-C
-15° D.T.O.,6,C,6-C
-Beata Vergine Maria del Monte Carmelo,50,C,50-C
-16° D.T.O.,7,C,7-C
-San Giacomo,88,C,88-C
-17° D.T.O.,8,C,8-C
-18° D.T.O.,9,C,9-C
-Trasfigurazione del Signore,101,C,101-C
-19° D.T.O.,10,C,10-C
-Assunzione della Beata Vergine Maria,48,C,48-C
-20° D.T.O.,13,C,13-C
-21° D.T.O.,14,C,14-C
-22° D.T.O.,15,C,15-C
-Natività della Beata Vergine Maria,81,C,81-C
-Santissimo nome di Maria,96,C,96-C
-Esaltazione della Santa Croce,58,C,58-C
-24° D.T.O.,17,C,17-C
-25° D.T.O.,18,C,18-C
-26° D.T.O.,19,C,19-C
-27° D.T.O.,20,C,20-C
-Madonna del Rosario,72,C,72-C
-28° D.T.O.,21,C,21-C
-29° D.T.O.,22,C,22-C
-Inizio Novena dei morti,67,C,67-C
-30° D.T.O.,27,C,27-C
-Solennità di tutti i Santi,100,C,100-C
-Commemorazione dei defunti,52,C,52-C
-31° D.T.O.,28,C,28-C
-Dedicazione Basilica Lateranense,54,C,54-C
-32° D.T.O.,29,C,29-C
-33° D.T.O.,30,C,30-C
-Presentazione della Beata Vergine Maria,85,C,85-C
-Santa Cecilia patrona musica,90,C,90-C
-34° D.T.O. - Solennità di Cristo Re,31,C,31-C
-Inizio Novena all'immacolata,66,C,66-C
-1° Domenica di Avvento,11,C,11-C
-Immacolata Concezione,64,C,64-C
-2° Domenica di Avvento,23,C,23-C
-Madonna di Loreto,73,C,73-C
-Santa Lucia,91,C,91-C
-3° Domenica di Avvento - Gaudete,32,C,32-C
-Inizio Novena di Natale,68,C,68-C
-4° Domenica di Avvento,36,C,36-C
-Natale del Signore,80,C,80-C
-Santo Stefano,97,C,97-C
-Festa della Sacra Famiglia,60,C,60-C
-Messa di Ringraziamento,79,C,79-C
-Maria Santissima Madre di Dio,75,A,75-A
-Giornata mondiale della pace,61,A,61-A
-Santissimo nome di Gesù,95,A,95-A
-Epifania del Signore,57,A,57-A
-Battesimo del Signore,49,A,49-A
-2° D.T.O.,26,A,26-A
-Conversione di San Paolo apostolo,53,A,53-A
-3° D.T.O.,35,A,35-A
-Presentazione del Signore (Candelora),86,A,86-A
-5° D.T.O.,41,A,41-A
-Madonna di Lourdes,74,A,74-A
-6° D.T.O.,43,A,43-A
-Cattedra di San Pietro Apostolo,51,A,51-A
-7° D.T.O.,44,A,44-A
-Mercoledì delle ceneri,78,A,78-A
-1° Domenica di Quaresima,12,A,12-A
-2° Domenica di Quaresima,25,A,25-A
-3° Domenica di Quaresima,34,A,34-A
-Solennità di San Giuseppe,99,A,99-A
-Domenica Laetare,56,A,56-A
-Festa dell'Annunciazione,59,A,59-A
-5° Domenica di Quaresima,40,A,40-A
-Domenica delle Palme,55,A,55-A
-Lunedì della settimana Santa,71,A,71-A
-Martedì della settimana Santa,76,A,76-A
-Mercoledì della settimana Santa,77,A,77-A
-Giovedì Santo (Messa del Crisma),63,A,63-A
-Giovedì Santo (In Cena Domini),62,A,62-A
-Venerdì Santo (Passione del Signore),102,A,102-A
-Inizio Novena alla Divina Misericordia,65,A,65-A
-Sabato Santo,87,A,87-A
-Pasqua - Risurrezione del Signore,83,A,83-A
-Lunedì dell'Angelo,70,A,70-A
-2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),24,A,24-A
-3° Domenica di Pasqua (Misericordias Domini),33,A,33-A
-San Giuseppe Lavoratore,89,A,89-A
-4° Domenica di Pasqua (Jubilate),37,A,37-A
-5° Domenica di Pasqua (Cantate),39,A,39-A
-6° Domenica di Pasqua (Rogate - Vocem jocunditatis),42,A,42-A
-Inizio Novena di Pentecoste,69,A,69-A
-Ascensione di Gesù,47,A,47-A
-Pentecoste,84,A,84-A
-Visitazione della Beata Vergine Maria,103,A,103-A
-Solennità della Santissima Trinità,98,A,98-A
-Santissimo Corpo e Sangue di Cristo,93,A,93-A
-Santissimo Cuore di Gesù,94,A,94-A
-12° D.T.O.,3,A,3-A
-Natività di San Giovanni Battista,82,A,82-A
-13° D.T.O.,4,A,4-A
-Santi Pietro e Paolo Apostoli,92,A,92-A
-14° D.T.O.,5,A,5-A
-15° D.T.O.,6,A,6-A
-Beata Vergine Maria del Monte Carmelo,50,A,50-A
-16° D.T.O.,7,A,7-A
-San Giacomo,88,A,88-A
-17° D.T.O.,8,A,8-A
-18° D.T.O.,9,A,9-A
-Trasfigurazione del Signore,101,A,101-A
-19° D.T.O.,10,A,10-A
-Assunzione della Beata Vergine Maria,48,A,48-A
-20° D.T.O.,13,A,13-A
-21° D.T.O.,14,A,14-A
-22° D.T.O.,15,A,15-A
-23° D.T.O.,16,A,16-A
-Natività della Beata Vergine Maria,81,A,81-A
-Santissimo nome di Maria,96,A,96-A
-24° D.T.O.,17,A,17-A
-Esaltazione della Santa Croce,58,A,58-A
-25° D.T.O.,18,A,18-A
-26° D.T.O.,19,A,19-A
-27° D.T.O.,20,A,20-A
-Madonna del Rosario,72,A,72-A
-28° D.T.O.,21,A,21-A
-29° D.T.O.,22,A,22-A
-Inizio Novena dei morti,67,A,67-A
-30° D.T.O.,27,A,27-A
-Solennità di tutti i Santi,100,A,100-A
-Commemorazione dei defunti,52,A,52-A
-32° D.T.O.,29,A,29-A
-Dedicazione Basilica Lateranense,54,A,54-A
-33° D.T.O.,30,A,30-A
-Presentazione della Beata Vergine Maria,85,A,85-A
-34° D.T.O. - Solennità di Cristo Re,31,A,31-A
-Santa Cecilia patrona musica,90,A,90-A
-1° Domenica di Avvento,11,A,11-A
-Inizio Novena all'immacolata,66,A,66-A
-2° Domenica di Avvento,23,A,23-A
-Immacolata Concezione,64,A,64-A
-Madonna di Loreto,73,A,73-A
-3° Domenica di Avvento - Gaudete,32,A,32-A
-Santa Lucia,91,A,91-A
-Inizio Novena di Natale,68,A,68-A
-4° Domenica di Avvento,36,A,36-A
-Natale del Signore,80,A,80-A
-Santo Stefano,97,A,97-A
-Festa della Sacra Famiglia,60,A,60-A
-Messa di Ringraziamento,79,A,79-A
-Maria Santissima Madre di Dio,75,B,75-B
-Giornata mondiale della pace,61,B,61-B
-Santissimo nome di Gesù,95,B,95-B
-Epifania del Signore,57,B,57-B
-Battesimo del Signore,49,B,49-B
-2° D.T.O.,26,B,26-B
-3° D.T.O.,35,B,35-B
-Conversione di San Paolo apostolo,53,B,53-B
-4° D.T.O.,38,B,38-B
-Presentazione del Signore (Candelora),86,B,86-B
-5° D.T.O.,41,B,41-B
-Madonna di Lourdes,74,B,74-B
-6° D.T.O.,43,B,43-B
-Mercoledì delle ceneri,78,B,78-B
-1° Domenica di Quaresima,12,B,12-B
-Cattedra di San Pietro Apostolo,51,B,51-B
-2° Domenica di Quaresima,25,B,25-B
-3° Domenica di Quaresima,34,B,34-B
-Domenica Laetare,56,B,56-B
-Solennità di San Giuseppe,99,B,99-B
-5° Domenica di Quaresima,40,B,40-B
-Festa dell'Annunciazione,59,B,59-B
-Domenica delle Palme,55,B,55-B
-Lunedì della settimana Santa,71,B,71-B
-Martedì della settimana Santa,76,B,76-B
-Mercoledì della settimana Santa,77,B,77-B
-Giovedì Santo (Messa del Crisma),63,B,63-B
-Giovedì Santo (In Cena Domini),62,B,62-B
-Venerdì Santo (Passione del Signore),102,B,102-B
-Inizio Novena alla Divina Misericordia,65,B,65-B
-Sabato Santo,87,B,87-B
-Pasqua - Risurrezione del Signore,83,B,83-B
-Lunedì dell'Angelo,70,B,70-B
-2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),24,B,24-B
-3° Domenica di Pasqua (Misericordias Domini),33,B,33-B
-4° Domenica di Pasqua (Jubilate),37,B,37-B
-San Giuseppe Lavoratore,89,B,89-B
-5° Domenica di Pasqua (Cantate),39,B,39-B
-6° Domenica di Pasqua (Rogate - Vocem jocunditatis),42,B,42-B
-Inizio Novena di Pentecoste,69,B,69-B
-Ascensione di Gesù,47,B,47-B
-Pentecoste,84,B,84-B
-Solennità della Santissima Trinità,98,B,98-B
-Visitazione della Beata Vergine Maria,103,B,103-B
-Santissimo Corpo e Sangue di Cristo,93,B,93-B
-Santissimo Cuore di Gesù,94,B,94-B
-11° D.T.O.,2,B,2-B
-12° D.T.O.,3,B,3-B
-Natività di San Giovanni Battista,82,B,82-B
-13° D.T.O.,4,B,4-B
-Santi Pietro e Paolo Apostoli,92,B,92-B
-14° D.T.O.,5,B,5-B
-15° D.T.O.,6,B,6-B
-Beata Vergine Maria del Monte Carmelo,50,B,50-B
-16° D.T.O.,7,B,7-B
-San Giacomo,88,B,88-B
-18° D.T.O.,9,B,9-B
-Trasfigurazione del Signore,101,B,101-B
-19° D.T.O.,10,B,10-B
-Assunzione della Beata Vergine Maria,48,B,48-B
-21° D.T.O.,14,B,14-B
-22° D.T.O.,15,B,15-B
-23° D.T.O.,16,B,16-B
-Natività della Beata Vergine Maria,81,B,81-B
-Santissimo nome di Maria,96,B,96-B
-Esaltazione della Santa Croce,58,B,58-B
-25° D.T.O.,18,B,18-B
-26° D.T.O.,19,B,19-B
-27° D.T.O.,20,B,20-B
-Madonna del Rosario,72,B,72-B
-28° D.T.O.,21,B,21-B
-29° D.T.O.,22,B,22-B
-30° D.T.O.,27,B,27-B
-Inizio Novena dei morti,67,B,67-B
-31° D.T.O.,28,B,28-B
-Solennità di tutti i Santi,100,B,100-B
-Commemorazione dei defunti,52,B,52-B
-32° D.T.O.,29,B,29-B
-Dedicazione Basilica Lateranense,54,B,54-B
-33° D.T.O.,30,B,30-B
-34° D.T.O. - Solennità di Cristo Re,31,B,31-B
-Presentazione della Beata Vergine Maria,85,B,85-B
-Santa Cecilia patrona musica,90,B,90-B
-1° Domenica di Avvento,11,B,11-B
-Inizio Novena all'immacolata,66,B,66-B
-2° Domenica di Avvento,23,B,23-B
-Immacolata Concezione,64,B,64-B
-Madonna di Loreto,73,B,73-B
-3° Domenica di Avvento - Gaudete,32,B,32-B
-Santa Lucia,91,B,91-B
-Inizio Novena di Natale,68,B,68-B
-4° Domenica di Avvento,36,B,36-B
-Natale del Signore,80,B,80-B
-Santo Stefano,97,B,97-B
-Festa della Sacra Famiglia,60,B,60-B
-Messa di Ringraziamento,79,B,79-B
-23° D.T.O.,16,C,16-C
-4° D.T.O.,38,A,38-A
-11° D.T.O.,2,A,2-A
-31° D.T.O.,28,A,28-A
-10° D.T.O.,1,B,1-B
-17° D.T.O.,8,B,8-B
-20° D.T.O.,13,B,13-B
-24° D.T.O.,17,B,17-B
-12° D.T.O.,3,C,3-C
-10° D.T.O.,1,A,1-A
-7° D.T.O.,44,B,44-B
-8° D.T.O.,45,B,45-B
-11° D.T.O.,2,C,2-C
-9° D.T.O.,46,A,46-A
-8° D.T.O.,45,A,45-A
-10° D.T.O.,1,C,1-C
-9° D.T.O.,46,C,46-C
+evento,id_evento
+10° D.T.O.,1
+11° D.T.O.,2
+12° D.T.O.,3
+13° D.T.O.,4
+14° D.T.O.,5
+15° D.T.O.,6
+16° D.T.O.,7
+17° D.T.O.,8
+18° D.T.O.,9
+19° D.T.O.,10
+1° Domenica di Avvento,11
+1° Domenica di Quaresima,12
+20° D.T.O.,13
+21° D.T.O.,14
+22° D.T.O.,15
+23° D.T.O.,16
+24° D.T.O.,17
+25° D.T.O.,18
+26° D.T.O.,19
+27° D.T.O.,20
+28° D.T.O.,21
+29° D.T.O.,22
+2° Domenica di Avvento,23
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),24
+2° Domenica di Quaresima,25
+2° D.T.O.,26
+30° D.T.O.,27
+31° D.T.O.,28
+32° D.T.O.,29
+33° D.T.O.,30
+34° D.T.O. - Solennità di Cristo Re,31
+3° Domenica di Avvento - Gaudete,32
+3° Domenica di Pasqua (Misericordias Domini),33
+3° Domenica di Quaresima,34
+3° D.T.O.,35
+4° Domenica di Avvento,36
+4° Domenica di Pasqua (Jubilate),37
+4° D.T.O.,38
+5° Domenica di Pasqua (Cantate),39
+5° Domenica di Quaresima,40
+5° D.T.O.,41
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),42
+6° D.T.O.,43
+7° D.T.O.,44
+8° D.T.O.,45
+9° D.T.O.,46
+Ascensione di Gesù,47
+Assunzione della Beata Vergine Maria,48
+Battesimo del Signore,49
+Beata Vergine Maria del Monte Carmelo,50
+Cattedra di San Pietro Apostolo,51
+Commemorazione dei defunti,52
+Conversione di San Paolo apostolo,53
+Dedicazione Basilica Lateranense,54
+Domenica delle Palme,55
+Domenica Laetare,56
+Epifania del Signore,57
+Esaltazione della Santa Croce,58
+Festa dell'Annunciazione,59
+Festa della Sacra Famiglia,60
+Giornata mondiale della pace,61
+Giovedì Santo (In Cena Domini),62
+Giovedì Santo (Messa del Crisma),63
+Immacolata Concezione,64
+Inizio Novena alla Divina Misericordia,65
+Inizio Novena all'immacolata,66
+Inizio Novena dei morti,67
+Inizio Novena di Natale,68
+Inizio Novena di Pentecoste,69
+Lunedì dell'Angelo,70
+Lunedì della settimana Santa,71
+Madonna del Rosario,72
+Madonna di Loreto,73
+Madonna di Lourdes,74
+Maria Santissima Madre di Dio,75
+Martedì della settimana Santa,76
+Mercoledì della settimana Santa,77
+Mercoledì delle ceneri,78
+Messa di Ringraziamento,79
+Natale del Signore,80
+Natività della Beata Vergine Maria,81
+Natività di San Giovanni Battista,82
+Pasqua - Risurrezione del Signore,83
+Pentecoste,84
+Presentazione della Beata Vergine Maria,85
+Presentazione del Signore (Candelora),86
+Sabato Santo,87
+San Giacomo,88
+San Giuseppe Lavoratore,89
+Santa Cecilia patrona musica,90
+Santa Lucia,91
+Santi Pietro e Paolo Apostoli,92
+Santissimo Corpo e Sangue di Cristo,93
+Santissimo Cuore di Gesù,94
+Santissimo nome di Gesù,95
+Santissimo nome di Maria,96
+Santo Stefano,97
+Solennità della Santissima Trinità,98
+Solennità di San Giuseppe,99
+Solennità di tutti i Santi,100
+Trasfigurazione del Signore,101
+Venerdì Santo (Passione del Signore),102
+Visitazione della Beata Vergine Maria,103
