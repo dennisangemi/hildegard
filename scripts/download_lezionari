@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# run from the root of the project
+
+# urls
+URL_A="https://liturgico.chiesacattolica.it/wp-content/uploads/sites/8/2018/05/17/Lezionario_Do_Fest_Anno_A_light.pdf"
+URL_B="https://liturgico.chiesacattolica.it/wp-content/uploads/sites/8/2017/10/09/Lezionario_Domenicale_e_Festivo_Anno_B.pdf"
+URL_C="https://liturgico.chiesacattolica.it/wp-content/uploads/sites/8/2018/11/23/Lezionario_Do_Fest_Anno_C_light.pdf"
+
+# output
+PATH_LEZIONARIO_A="liturgie/lezionari/pdf/lezionario_domenicale_festivo_anno_a.pdf"
+PATH_LEZIONARIO_B="liturgie/lezionari/pdf/lezionario_domenicale_festivo_anno_b.pdf"
+PATH_LEZIONARIO_C="liturgie/lezionari/pdf/lezionario_domenicale_festivo_anno_c.pdf"
+
+# create directory
+mkdir -p liturgie/lezionari/pdf
+
+# download
+wget -O $PATH_LEZIONARIO_A $URL_A
+wget -O $PATH_LEZIONARIO_B $URL_B
+wget -O $PATH_LEZIONARIO_C $URL_C

@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# constant
+URL_CALENDARIO_TO_APPEND="https://docs.google.com/spreadsheets/d/e/2PACX-1vTymfOff7_0gS7lGFZSl5yT5Nx9lANi1LXKR-rXlLaiW3TPh5VQZX7ZrSlY8wveYrrc9dsLUrWReIij/pub?gid=1975473434&single=true&output=csv"
+URL_EVENTI_CELEBRAZIONI_MAP="https://docs.google.com/spreadsheets/d/e/2PACX-1vTymfOff7_0gS7lGFZSl5yT5Nx9lANi1LXKR-rXlLaiW3TPh5VQZX7ZrSlY8wveYrrc9dsLUrWReIij/pub?gid=696267875&single=true&output=csv"
+
+# input
+PATH_CALENDARIO="data/calendari_liturgici/processing/calendario_2019-2050.csv"
+PATH_ANAGRAFICA_CALENDARIO="data/calendari_liturgici/processing/anagrafica_2019-2050.csv"
+
+# output
+PATH_CALENDARIO_TO_APPEND="data/calendari_liturgici/processing/calendario_to_append_2019-2050.csv"
+PATH_EVENTI_CELEBRAZIONI_MAP="data/calendari_liturgici/processing/eventi_celebrazioni_map.csv"
+PATH_CALENDARIO_EXTENDED="data/calendari_liturgici/processing/calendario_extended_2019-2050.csv"
+PATH_CALENDARIO_FULL_OUT="data/calendari_liturgici/processing/calendario_full_2019-2050.csv"
+PATH_CALENDARIO_OUT="data/calendari_liturgici/calendario_2019-2050.csv"
+PATH_SUNDAYS_OUT="data/calendari_liturgici/sundays_2019-2050.csv"
+
+# make sure processing folder exists
+mkdir -p data/calendari_liturgici/processing
+
+# download csv from gsheet
+
+echo "Downloading calendario to append..."
+curl -skL $URL_CALENDARIO_TO_APPEND > $PATH_CALENDARIO_TO_APPEND
+echo "Downloading eventi celebrazioni map..."
+curl -skL $URL_EVENTI_CELEBRAZIONI_MAP > $PATH_EVENTI_CELEBRAZIONI_MAP
+
+echo "Processing calendario..."
+
+# append calendario and calendario to append
+mlr --csv cat $PATH_CALENDARIO $PATH_CALENDARIO_TO_APPEND | mlr --csv cut -x -f tipo_evento > $PATH_CALENDARIO_EXTENDED
+
+# join calendario extended with map
+mlr --csv join --ul -j evento -f $PATH_CALENDARIO_EXTENDED then unsparsify $PATH_EVENTI_CELEBRAZIONI_MAP > $PATH_CALENDARIO_OUT
+
+# join calendario with anagrafica and add id_liturgia 
+mlr --csv join --ul -j anno -f $PATH_CALENDARIO_OUT then unsparsify $PATH_ANAGRAFICA_CALENDARIO \
+| mlr --csv cut -x -f ciclo_feriale then put -S '$id_liturgia = $id_celebrazione . "-" . $ciclo_domenicale'> $PATH_CALENDARIO_FULL_OUT
+
+# escludi tutte le righe senza id_celebrazione (delicato) e rimuovi colonne inutili
+<$PATH_CALENDARIO_FULL_OUT mlr --csv filter -S '$id_celebrazione != ""' then cut -f date,weekday,evento,celebrazione,id_liturgia  > $PATH_CALENDARIO_OUT
+
+# convert to json
+mlr --c2j cat $PATH_CALENDARIO_OUT > ${PATH_CALENDARIO_OUT%.*}.json
+
+# checks
+# mlr --csv cut -f date $PATH_CALENDARIO_OUT | wc -l
+# mlr --csv uniq -f date $PATH_CALENDARIO_OUT | wc -l
+# mlr --csv filter -S '$id_celebrazione != ""' then filter -S '$weekday == "Sunday"' $PATH_CALENDARIO_OUT > $PATH_SUNDAYS_OUT 
