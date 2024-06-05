@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# input
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_A="liturgie/lezionari/processing/anagrafica_anno_a_v2.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_B="liturgie/lezionari/processing/anagrafica_anno_b_v2.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_C="liturgie/lezionari/processing/anagrafica_anno_c_v2.csv"
+
+# output
+PATH_ANAGRAFICA_CELEBRAZIONI="liturgie/lezionari/anagrafica_celebrazioni.csv"
+
+# estrai la colonna `celebrazione` dai file csv e controlla che non contengano differenze
+# in caso di differenze, stampa un messaggio di errore e termina
+CELEBRAZIONI_ANNO_A=$(<$PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_A mlr --csv cut -f celebrazione then uniq -f celebrazione)
+CELEBRAZIONI_ANNO_B=$(<$PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_B mlr --csv cut -f celebrazione then uniq -f celebrazione)
+CELEBRAZIONI_ANNO_C=$(<$PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_C mlr --csv cut -f celebrazione then uniq -f celebrazione)
+
+if [ "$CELEBRAZIONI_ANNO_A" != "$CELEBRAZIONI_ANNO_B" ] || [ "$CELEBRAZIONI_ANNO_A" != "$CELEBRAZIONI_ANNO_C" ]; then
+    echo "Errore: le celebrazioni nei file csv non coincidono"
+    exit 1
+else
+    echo "Celebrazioni nei file csv coincidono"
+fi
+
+# crea un file csv con le colonne `celebrazione` e `id_celebrazione` in cui si concatena la lettera `C` con il numero della riga
+mlr --csv cat -n then put '$id_celebrazione = "C" . $n' $PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_A | mlr --csv cut -f celebrazione,id_celebrazione > $PATH_ANAGRAFICA_CELEBRAZIONI
+
+# dopo questo script, usare build_anagrafica_liturgie

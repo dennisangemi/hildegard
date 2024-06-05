@@ -1,21 +1,70 @@
 #!/bin/bash
 
+# input
 PATH_CALENDARIO_LITURGICO="data/calendari_liturgici/joined.csv"
-PATH_ANAGRAFICA_LITURGIE="data/anagrafica_liturgie.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI="liturgie/lezionari/anagrafica_celebrazioni.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_A="liturgie/lezionari/processing/anagrafica_anno_a_v2.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_B="liturgie/lezionari/processing/anagrafica_anno_b_v2.csv"
+PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_C="liturgie/lezionari/processing/anagrafica_anno_c_v2.csv"
 
-# crea PATH_ANAGRAFICA_LITURGIE
-touch $PATH_ANAGRAFICA_LITURGIE
-echo "evento" > $PATH_ANAGRAFICA_LITURGIE
+# output
+PATH_ANAGRAFICA_LITURGIE_API="data/anagrafica_liturgie_api.csv"
+PATH_ANAGRAFICA_LITURGIE_ANNO_A="liturgie/lezionari/anagrafica_liturgie_anno_a.csv"
+PATH_ANAGRAFICA_LITURGIE_ANNO_B="liturgie/lezionari/anagrafica_liturgie_anno_b.csv"
+PATH_ANAGRAFICA_LITURGIE_ANNO_C="liturgie/lezionari/anagrafica_liturgie_anno_c.csv"
+PATH_ANAGRAFICA_LITURGIE_CEI="liturgie/lezionari/anagrafica_liturgie_cei.csv"
+
+
+# functions
+# build a function called `build_id_liturgia`
+build_id_liturgia() {
+    # $1 = PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_x
+    # $2 = PATH_ANAGRAFICA_CELEBRAZIONI
+    # $3 = ciclo_domenicale (A, B, C)
+    mlr --csv join --ul -j celebrazione -f $1 then unsparsify $2 | mlr --csv put -S '$ciclo_domenicale="'$3'"' then put -S '$id_liturgia=$id_celebrazione . "-" . $ciclo_domenicale' then cut -f id_celebrazione,celebrazione,ciclo_domenicale,pagina_pdf,id_liturgia
+}
+
+# ------------------------------ ANAGRAFICA LITURGIE DA API ------------------------------ #
+# crea PATH_ANAGRAFICA_LITURGIE_API
+touch $PATH_ANAGRAFICA_LITURGIE_API
+echo "evento" > $PATH_ANAGRAFICA_LITURGIE_API
 
 # usa mlr per selezionare i valori univoci della colonna "evento"
-mlr --csv --headerless-csv-output cut -f evento $PATH_CALENDARIO_LITURGICO | sort | uniq >> $PATH_ANAGRAFICA_LITURGIE
+mlr --csv --headerless-csv-output cut -f evento $PATH_CALENDARIO_LITURGICO | sort | uniq >> $PATH_ANAGRAFICA_LITURGIE_API
 
-# add nrow to PATH_ANAGRAFICA_LITURGIE with miller
-mlr --csv put '$id_evento=NR' $PATH_ANAGRAFICA_LITURGIE > tmp.csv
-mv tmp.csv $PATH_ANAGRAFICA_LITURGIE
+# add nrow to PATH_ANAGRAFICA_LITURGIE_API with miller
+mlr --csv put '$id_evento=NR' $PATH_ANAGRAFICA_LITURGIE_API > tmp.csv
+mv tmp.csv $PATH_ANAGRAFICA_LITURGIE_API
 
-mlr --csv join --ul -j evento -f $PATH_ANAGRAFICA_LITURGIE then unsparsify $PATH_CALENDARIO_LITURGICO | mlr --csv cut -f evento,id_evento,ciclo_domenicale then put -S '$id_liturgia=$id_evento . "-" . $ciclo_domenicale' then uniq -a > tmp.csv
-mv tmp.csv $PATH_ANAGRAFICA_LITURGIE
+mlr --csv join --ul -j evento -f $PATH_ANAGRAFICA_LITURGIE_API then unsparsify $PATH_CALENDARIO_LITURGICO | mlr --csv cut -f evento,id_evento,ciclo_domenicale then put -S '$id_liturgia=$id_evento . "-" . $ciclo_domenicale' then uniq -a > tmp.csv
+mv tmp.csv $PATH_ANAGRAFICA_LITURGIE_API
+
+echo "Anagrafica liturgie API create con successo!"
+echo "Anagrafica liturgie API salvate in:"
+echo "  - $PATH_ANAGRAFICA_LITURGIE_API"
+
+# ------------------------------ ANAGRAFICA LITURGIE DA CEI ------------------------------ #
+
+# build anagrafica liturgie
+
+# build id_liturgia for A, B, C
+build_id_liturgia $PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_A $PATH_ANAGRAFICA_CELEBRAZIONI "A" > $PATH_ANAGRAFICA_LITURGIE_ANNO_A
+build_id_liturgia $PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_B $PATH_ANAGRAFICA_CELEBRAZIONI "B" > $PATH_ANAGRAFICA_LITURGIE_ANNO_B
+build_id_liturgia $PATH_ANAGRAFICA_CELEBRAZIONI_ANNO_C $PATH_ANAGRAFICA_CELEBRAZIONI "C" > $PATH_ANAGRAFICA_LITURGIE_ANNO_C
+
+# join the three files
+mlr --csv cat $PATH_ANAGRAFICA_LITURGIE_ANNO_A $PATH_ANAGRAFICA_LITURGIE_ANNO_B $PATH_ANAGRAFICA_LITURGIE_ANNO_C > tmp.csv
+mv tmp.csv $PATH_ANAGRAFICA_LITURGIE_CEI
+
+# rimuovi, se esiste $PATH_ANAGRAFICA_LITURGIE_ANNO_A, $PATH_ANAGRAFICA_LITURGIE_ANNO_B, $PATH_ANAGRAFICA_LITURGIE_ANNO_C
+rm -f $PATH_ANAGRAFICA_LITURGIE_ANNO_A $PATH_ANAGRAFICA_LITURGIE_ANNO_B $PATH_ANAGRAFICA_LITURGIE_ANNO_C 
+
+echo "Anagrafica liturgie CEI create con successo!"
+echo "Anagrafica liturgie CEI salvate in:"
+echo "  - $PATH_ANAGRAFICA_LITURGIE_CEI"
+
+
+
 
 
 

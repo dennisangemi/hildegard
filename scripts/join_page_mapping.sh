@@ -8,9 +8,11 @@ if [[ ! $ANNO =~ ^[a-c]$ ]]; then
     exit 1
 fi
 
-ANAGRAFICA="liturgie/lezionari/processing/anagrafica_anno_$ANNO.csv"
+ANAGRAFICA="liturgie/lezionari/processing/anagrafica_anno_'$ANNO'_v1.csv"
 MAPPING="liturgie/lezionari/processing/page_mapping_$ANNO.csv"
-OUTPUT="liturgie/lezionari/anagrafica_anno_$ANNO.csv"
+OUTPUT="liturgie/lezionari/anagrafica_anno_'$ANNO'_v2.csv"
 
 mlr --csv join --ul -j pagina_printed -f $ANAGRAFICA then unsparsify $MAPPING \
-| mlr --csv reorder -f evento,pagina_printed > $OUTPUT
+| mlr --csv reorder -f evento,pagina_printed > $
+
+# to do: trasformare in funzione. Così fa un po' schifo
