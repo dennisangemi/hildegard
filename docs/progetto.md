@@ -23,9 +23,9 @@ Sei una sviluppatrice? Sei uno sviluppatore? Il codice è su [GitHub](https://gi
 [Contribuisci :material-arrow-right:](https://github.com/dennisangemi/hildegard){ .md-button }
 
 ## Ringraziamenti
-Senza il lavoro straordinario di Michele Mammini, che ha sviluppato [librettocanti.it](https://librettocanti.it/), "Hildegard: il suggeritore di canti liturgici" non esisterebbe. A lui il nostro più sincero grazie per la disponibilità e le autorizzazioni necessarie.
+Senza il lavoro straordinario di Michele Mammini, che ha sviluppato [librettocanti.it](https://www.librettocanti.it/), "Hildegard: il suggeritore di canti liturgici" non esisterebbe. A lui il nostro più sincero grazie per la disponibilità e le autorizzazioni necessarie.
 
-[Apri librettocanti.it :material-arrow-right:](https://librettocanti.it/){ .md-button }
+[Apri librettocanti.it :material-arrow-right:](https://www.librettocanti.it/){ .md-button }
 
 ## Contatti e segnalazioni
 Se trovi degli errori o ti vuoi mettere in contatto con chi ha sviluppato questo strumento, scrivi una mail a Dennis Angemi usando questo indirizzo: [dennisangemi@gmail.com](mailto:dennisangemi@gmail.com)
