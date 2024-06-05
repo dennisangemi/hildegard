@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 import pandas as pd
 
 # Imposta i margini da escludere (in punti PDF; 1 punto = 1/72 pollice)
-top_margin = 78.1  # margine superiore da escludere
+top_margin    = 78.1  # margine superiore da escludere
 bottom_margin = 39.5  # margine inferiore da escludere
 
 def extract_text_from_pdf(pdf_path):
@@ -29,7 +29,8 @@ def extract_text_from_pdf(pdf_path):
 
     return data
 
-def extract_text_from_pdf_v2(pdf_path):
+"""
+def extract_text_from_pdf_reading_order(pdf_path):
     # Apri il documento PDF
     document = fitz.open(pdf_path)
     data = []
@@ -56,17 +57,40 @@ def extract_text_from_pdf_v2(pdf_path):
             data.append([text.strip(), page_number + 1])  # +1 per numerazione delle pagine umana
 
     return data
+"""
 
 def save_to_csv(data, output_csv_path):
     # Crea un DataFrame con due colonne: "testo" e "pagina"
-    df = pd.DataFrame(data, columns=["testo", "pagina"])
+    df = pd.DataFrame(data, columns=["testo", "pagina_pdf"])
     
     # Salva il DataFrame in un file CSV
     df.to_csv(output_csv_path, index=False)
 
+
+
+# Percorso al file PDF di input e al file CSV di output
+input_pdf = "liturgie/lezionari/lezionario_domenicale_festivo_anno_a.pdf"
+output_csv = "liturgie/lezionari/raw_lezionario_anno_a.csv"
+
+# Estrai il testo dal PDF e salva nel CSV
+text_data = extract_text_from_pdf(input_pdf)
+save_to_csv(text_data, output_csv)
+
+print(f"Conversione completata. File CSV salvato come {output_csv}.")
+
+# Percorso al file PDF di input e al file CSV di output
+input_pdf = "liturgie/lezionari/lezionario_domenicale_festivo_anno_b.pdf"
+output_csv = "liturgie/lezionari/raw_lezionario_anno_b.csv"
+
+# Estrai il testo dal PDF e salva nel CSV
+text_data = extract_text_from_pdf(input_pdf)
+save_to_csv(text_data, output_csv)
+
+print(f"Conversione completata. File CSV salvato come {output_csv}.")
+
 # Percorso al file PDF di input e al file CSV di output
 input_pdf = "liturgie/lezionari/lezionario_domenicale_festivo_anno_c.pdf"
-output_csv = "liturgie/lezionari/raw_nr_lezionario_anno_c.csv"
+output_csv = "liturgie/lezionari/raw_lezionario_anno_c.csv"
 
 # Estrai il testo dal PDF e salva nel CSV
 text_data = extract_text_from_pdf(input_pdf)
