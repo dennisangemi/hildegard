@@ -9,6 +9,7 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
+import sys
 
 # costants
 # OUTPUT_FILE = 'suggerimenti.md'
@@ -27,6 +28,13 @@ def get_files_from_dir(directory):
 
 # main
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
+
+# get variable from command line
+if len(sys.argv) > 1:
+    data_liturgia = sys.argv[1]
+    print(f"La data della liturgia prossima liturgia che includo nei json è: {data_liturgia}")
+else:
+    print("Nessun valore passato come argomento.")
 
 # apri liturgia.txt
 liturgia = get_text_from_file(os.path.join(LITURGIA_DIR, LITURGIA_FILE))
@@ -95,6 +103,9 @@ result.to_csv(output_result_path, index=False)
 # se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.youtube.com/' + result['link_youtube'] + ')'
 result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['link_youtube']) else '[' + row['titolo'] + '](https://www.youtube.com/watch?v=' + row['link_youtube'] + ')', axis=1)
 
+# prima di esportare aggiungi data_liturgia a tutti quelli che saranno json (top20 e i 4 momenti)
+result['data'] = data_liturgia
+
 # exclude if momento columns is NaN
 nonan=result.dropna(subset=['momento'])
 
@@ -109,10 +120,10 @@ suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('
 
 # export data to json for canticristiani
 result.head(20).drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-top20-latest.json', orient='records')
-suggested_ingresso.to_json('data/suggeriti-ingresso-latest.json', orient='records')
-suggested_offertorio.to_json('data/suggeriti-offertorio-latest.json', orient='records')
-suggested_comunione.to_json('data/suggeriti-comunione-latest.json', orient='records')
-suggested_congedo.to_json('data/suggeriti-congedo-latest.json', orient='records')
+suggested_ingresso.drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.drop(columns=['titolo_md']).fillna('').to_json('data/suggeriti-congedo-latest.json', orient='records')
 
 # select only the columns we need
 suggested_ingresso = suggested_ingresso[['titolo_md', 'similarity', 'autore', 'raccolta']].fillna('')

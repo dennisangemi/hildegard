@@ -53,7 +53,7 @@ echo "📅 Data della prossima liturgia domenicale: $(date -d $LITURGIA_DATE +%d
 echo "✅ Scaricata liturgia"
 
 # run suggeritore
-./scripts/suggeritore.py
+./scripts/suggeritore.py "$liturgia_data_iso"
 
 # build website homepage
 ./scripts/build_page
