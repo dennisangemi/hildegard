@@ -1,0 +1,2220 @@
+evento,date,weekday,celebrazione,id_liturgia
+1° Domenica di Avvento,2019-12-01,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2019-12-08,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2019-12-15,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2019-12-22,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2019-12-25,Wednesday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2019-12-29,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2019-01-01,Tuesday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2019-01-06,Sunday,Epifania del Signore,C12-C
+Battesimo del Signore,2019-01-13,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2019-03-10,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2019-03-17,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2019-03-24,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2019-03-31,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2019-04-07,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2019-04-14,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2019-04-18,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2019-04-18,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2019-04-19,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2019-04-21,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2019-04-28,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2019-05-05,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2019-05-12,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2019-05-19,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2019-05-26,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2019-06-02,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2019-06-09,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2019-06-16,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2019-06-23,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2019-06-28,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2019-01-20,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2019-01-27,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2019-02-03,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2019-02-10,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2019-02-17,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2019-02-24,Sunday,VII domenica del Tempo Ordinario,C42-C
+8° D.T.O.,2019-03-03,Sunday,VIII domenica del Tempo Ordinario,C43-C
+13° D.T.O.,2019-06-30,Sunday,XIII domenica del Tempo Ordinario,C48-C
+13° D.T.O.,2019-09-08,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2019-07-07,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2019-07-14,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2019-07-21,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2019-07-28,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2019-08-04,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2019-08-11,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2019-08-18,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2019-08-25,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2019-09-01,Sunday,XXII domenica del Tempo Ordinario,C57-C
+24° D.T.O.,2019-09-15,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2019-09-22,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2019-09-29,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2019-10-06,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2019-10-13,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2019-10-20,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2019-10-27,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2019-11-03,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2019-11-10,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2019-11-17,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2019-11-24,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2019-02-02,Saturday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2019-06-24,Monday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2019-06-29,Saturday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2019-08-06,Tuesday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2019-08-15,Thursday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2019-09-14,Saturday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2019-11-01,Friday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2019-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2019-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2019-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2019-11-09,Saturday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2019-12-08,Sunday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2020-11-29,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2020-12-06,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2020-12-13,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2020-12-20,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2020-12-25,Friday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2020-12-27,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2020-01-01,Wednesday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2020-01-06,Monday,Epifania del Signore,C12-A
+Battesimo del Signore,2020-01-12,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2020-03-01,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2020-03-08,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2020-03-15,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2020-03-22,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2020-03-29,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2020-04-05,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2020-04-09,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2020-04-09,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2020-04-10,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2020-04-12,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2020-04-19,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2020-04-26,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2020-05-03,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2020-05-10,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2020-05-17,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2020-05-24,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2020-05-31,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2020-06-07,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2020-06-14,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2020-06-19,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2020-01-19,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2020-01-26,Sunday,III domenica del Tempo Ordinario,C38-A
+5° D.T.O.,2020-02-09,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2020-02-16,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2020-02-23,Sunday,VII domenica del Tempo Ordinario,C42-A
+12° D.T.O.,2020-06-21,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2020-06-28,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2020-07-05,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2020-07-12,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2020-07-19,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2020-07-26,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2020-08-02,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2020-08-09,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2020-08-16,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2020-08-23,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2020-08-30,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2020-09-06,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2020-09-13,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2020-09-20,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2020-09-27,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2020-10-04,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2020-10-11,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2020-10-18,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2020-10-25,Sunday,XXX domenica del Tempo Ordinario,C65-A
+32° D.T.O.,2020-11-08,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2020-11-15,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2020-11-22,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2020-02-02,Sunday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2020-06-24,Wednesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2020-06-29,Monday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2020-08-06,Thursday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2020-08-15,Saturday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2020-09-14,Monday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2020-11-01,Sunday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2020-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2020-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2020-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2020-11-09,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2020-12-08,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2021-11-28,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2021-12-05,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2021-12-12,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2021-12-19,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2021-12-25,Saturday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2021-12-26,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2021-01-01,Friday,Solennità di Maria SS Madre di Dio,C10-B
+2° domenica dopo natale,2021-01-03,Sunday,II domenica dopo Natale,C11-B
+Epifania del Signore,2021-01-06,Wednesday,Epifania del Signore,C12-B
+Battesimo del Signore,2021-01-10,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2021-02-21,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2021-02-28,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2021-03-07,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2021-03-14,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2021-03-21,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2021-03-28,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2021-04-01,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2021-04-01,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2021-04-02,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2021-04-04,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2021-04-11,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2021-04-18,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2021-04-25,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2021-05-02,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2021-05-09,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2021-05-16,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2021-05-23,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2021-05-30,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2021-06-06,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2021-06-11,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2021-01-17,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2021-01-24,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2021-01-31,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2021-02-07,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2021-02-14,Sunday,VI domenica del Tempo Ordinario,C41-B
+11° D.T.O.,2021-06-13,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2021-06-20,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2021-06-27,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2021-07-04,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2021-07-11,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2021-07-18,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2021-07-25,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2021-08-01,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2021-08-08,Sunday,XIX domenica del Tempo Ordinario,C54-B
+21° D.T.O.,2021-08-22,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2021-08-29,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2021-09-05,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2021-09-12,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2021-09-19,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2021-09-26,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2021-10-03,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2021-10-10,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2021-10-17,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2021-10-24,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2021-10-31,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2021-11-07,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2021-11-14,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2021-11-21,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2021-02-02,Tuesday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2021-06-24,Thursday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2021-06-29,Tuesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2021-08-06,Friday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2021-08-15,Sunday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2021-09-14,Tuesday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2021-11-01,Monday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2021-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2021-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2021-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2021-11-09,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2021-12-08,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2022-11-27,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2022-12-04,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2022-12-11,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2022-12-18,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2022-12-25,Sunday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2022-12-30,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2022-01-01,Saturday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2022-01-06,Thursday,Epifania del Signore,C12-C
+Battesimo del Signore,2022-01-09,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2022-03-06,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2022-03-13,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2022-03-20,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2022-03-27,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2022-04-03,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2022-04-10,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2022-04-14,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2022-04-14,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2022-04-15,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2022-04-17,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2022-04-24,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2022-05-01,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2022-05-08,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2022-05-15,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2022-05-22,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2022-05-29,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2022-06-05,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2022-06-12,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2022-06-19,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2022-06-24,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2022-01-16,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2022-01-23,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2022-01-30,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2022-02-06,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2022-02-13,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2022-02-20,Sunday,VII domenica del Tempo Ordinario,C42-C
+8° D.T.O.,2022-02-27,Sunday,VIII domenica del Tempo Ordinario,C43-C
+13° D.T.O.,2022-06-26,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2022-07-03,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2022-07-10,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2022-07-17,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2022-07-24,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2022-07-31,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2022-08-07,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2022-08-14,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2022-08-21,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2022-08-28,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2022-09-04,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2022-09-11,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2022-09-18,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2022-09-25,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2022-10-02,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2022-10-09,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2022-10-16,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2022-10-23,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2022-10-30,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2022-11-06,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2022-11-13,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2022-11-20,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2022-02-02,Wednesday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2022-06-24,Friday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2022-06-29,Wednesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2022-08-06,Saturday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2022-08-15,Monday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2022-09-14,Wednesday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2022-11-01,Tuesday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2022-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2022-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2022-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2022-11-09,Wednesday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2022-12-08,Thursday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2023-12-03,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2023-12-10,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2023-12-17,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2023-12-24,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2023-12-25,Monday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2023-12-31,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2023-01-01,Sunday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2023-01-06,Friday,Epifania del Signore,C12-A
+Battesimo del Signore,2023-01-08,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2023-02-26,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2023-03-05,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2023-03-12,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2023-03-19,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2023-03-26,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2023-04-02,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2023-04-06,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2023-04-06,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2023-04-07,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2023-04-09,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2023-04-16,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2023-04-23,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2023-04-30,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2023-05-07,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2023-05-14,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2023-05-21,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2023-05-28,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2023-06-04,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2023-06-11,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2023-06-16,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2023-01-15,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2023-01-22,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2023-01-29,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2023-02-05,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2023-02-12,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2023-02-19,Sunday,VII domenica del Tempo Ordinario,C42-A
+11° D.T.O.,2023-06-18,Sunday,XI domenica del Tempo Ordinario,C46-A
+12° D.T.O.,2023-06-25,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2023-07-02,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2023-07-09,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2023-07-16,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2023-07-23,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2023-07-30,Sunday,XVII domenica del Tempo Ordinario,C52-A
+19° D.T.O.,2023-08-13,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2023-08-20,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2023-08-27,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2023-09-03,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2023-09-10,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2023-09-17,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2023-09-24,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2023-10-01,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2023-10-08,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2023-10-15,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2023-10-22,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2023-10-29,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2023-11-05,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2023-11-12,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2023-11-19,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2023-11-26,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2023-02-02,Thursday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2023-06-24,Saturday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2023-06-29,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2023-08-06,Sunday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2023-08-15,Tuesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2023-09-14,Thursday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2023-11-01,Wednesday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2023-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2023-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2023-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2023-11-09,Thursday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2023-12-08,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2024-12-01,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2024-12-08,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2024-12-15,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2024-12-22,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2024-12-25,Wednesday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2024-12-29,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2024-01-01,Monday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2024-01-06,Saturday,Epifania del Signore,C12-B
+Battesimo del Signore,2024-01-07,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2024-02-18,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2024-02-25,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2024-03-03,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2024-03-10,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2024-03-17,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2024-03-24,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2024-03-28,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2024-03-28,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2024-03-29,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2024-03-31,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2024-04-07,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2024-04-14,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2024-04-21,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2024-04-28,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2024-05-05,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2024-05-12,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2024-05-19,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2024-05-26,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2024-06-02,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2024-06-07,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2024-01-14,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2024-01-21,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2024-01-28,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2024-02-04,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2024-02-11,Sunday,VI domenica del Tempo Ordinario,C41-B
+10° D.T.O.,2024-06-09,Sunday,X domenica del Tempo Ordinario,C45-B
+11° D.T.O.,2024-06-16,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2024-06-23,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2024-06-30,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2024-07-07,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2024-07-14,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2024-07-21,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2024-07-28,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2024-08-04,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2024-08-11,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2024-08-18,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2024-08-25,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2024-09-01,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2024-09-08,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2024-09-15,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2024-09-22,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2024-09-29,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2024-10-06,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2024-10-13,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2024-10-20,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2024-10-27,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2024-11-03,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2024-11-10,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2024-11-17,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2024-11-24,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2024-02-02,Friday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2024-06-24,Monday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2024-06-29,Saturday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2024-08-06,Tuesday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2024-08-15,Thursday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2024-09-14,Saturday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2024-11-01,Friday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2024-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2024-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2024-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2024-11-09,Saturday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2024-12-08,Sunday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2025-11-30,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2025-12-07,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2025-12-14,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2025-12-21,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2025-12-25,Thursday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2025-12-28,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2025-01-01,Wednesday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2025-01-06,Monday,Epifania del Signore,C12-C
+Battesimo del Signore,2025-01-12,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2025-03-09,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2025-03-16,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2025-03-23,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2025-03-30,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2025-04-06,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2025-04-13,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2025-04-17,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2025-04-17,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2025-04-18,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2025-04-20,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2025-04-27,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2025-05-04,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2025-05-11,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2025-05-18,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2025-05-25,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2025-06-01,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2025-06-08,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2025-06-15,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2025-06-22,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2025-06-27,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2025-01-19,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2025-01-26,Sunday,III domenica del Tempo Ordinario,C38-C
+5° D.T.O.,2025-02-09,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2025-02-16,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2025-02-23,Sunday,VII domenica del Tempo Ordinario,C42-C
+8° D.T.O.,2025-03-02,Sunday,VIII domenica del Tempo Ordinario,C43-C
+14° D.T.O.,2025-07-06,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2025-07-13,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2025-07-20,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2025-07-27,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2025-08-03,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2025-08-10,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2025-08-17,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2025-08-24,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2025-08-31,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2025-09-07,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+25° D.T.O.,2025-09-21,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2025-09-28,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2025-10-05,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2025-10-12,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2025-10-19,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2025-10-26,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2025-11-02,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+33° D.T.O.,2025-11-16,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2025-11-23,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2025-02-02,Sunday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2025-06-24,Tuesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2025-06-29,Sunday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2025-08-06,Wednesday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2025-08-15,Friday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2025-09-14,Sunday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2025-11-01,Saturday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2025-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2025-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2025-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2025-11-09,Sunday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2025-12-08,Monday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2026-11-29,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2026-12-06,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2026-12-13,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2026-12-20,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2026-12-25,Friday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2026-12-27,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2026-01-01,Thursday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2026-01-06,Tuesday,Epifania del Signore,C12-A
+Battesimo del Signore,2026-01-11,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2026-02-22,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2026-03-01,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2026-03-08,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2026-03-15,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2026-03-22,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2026-03-29,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2026-04-02,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2026-04-02,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2026-04-03,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2026-04-05,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2026-04-12,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2026-04-19,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2026-04-26,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2026-05-03,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2026-05-10,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2026-05-17,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2026-05-24,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2026-05-31,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2026-06-07,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2026-06-12,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2026-01-18,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2026-01-25,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2026-02-01,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2026-02-08,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2026-02-15,Sunday,VI domenica del Tempo Ordinario,C41-A
+11° D.T.O.,2026-06-14,Sunday,XI domenica del Tempo Ordinario,C46-A
+12° D.T.O.,2026-06-21,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2026-06-28,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2026-07-05,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2026-07-12,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2026-07-19,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2026-07-26,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2026-08-02,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2026-08-09,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2026-08-16,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2026-08-23,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2026-08-30,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2026-09-06,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2026-09-13,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2026-09-20,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2026-09-27,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2026-10-04,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2026-10-11,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2026-10-18,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2026-10-25,Sunday,XXX domenica del Tempo Ordinario,C65-A
+32° D.T.O.,2026-11-08,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2026-11-15,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2026-11-22,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2026-02-02,Monday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2026-06-24,Wednesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2026-06-29,Monday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2026-08-06,Thursday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2026-08-15,Saturday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2026-09-14,Monday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2026-11-01,Sunday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2026-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2026-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2026-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2026-11-09,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2026-12-08,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2027-11-28,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2027-12-05,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2027-12-12,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2027-12-19,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2027-12-25,Saturday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2027-12-26,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2027-01-01,Friday,Solennità di Maria SS Madre di Dio,C10-B
+2° domenica dopo natale,2027-01-03,Sunday,II domenica dopo Natale,C11-B
+Epifania del Signore,2027-01-06,Wednesday,Epifania del Signore,C12-B
+Battesimo del Signore,2027-01-10,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2027-02-14,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2027-02-21,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2027-02-28,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2027-03-07,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2027-03-14,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2027-03-21,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2027-03-25,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2027-03-25,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2027-03-26,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2027-03-28,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2027-04-04,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2027-04-11,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2027-04-18,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2027-04-25,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2027-05-02,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2027-05-09,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2027-05-16,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2027-05-23,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2027-05-30,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2027-06-04,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2027-01-17,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2027-01-24,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2027-01-31,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2027-02-07,Sunday,V domenica del Tempo Ordinario,C40-B
+10° D.T.O.,2027-06-06,Sunday,X domenica del Tempo Ordinario,C45-B
+11° D.T.O.,2027-06-13,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2027-06-20,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2027-06-27,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2027-07-04,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2027-07-11,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2027-07-18,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2027-07-25,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2027-08-01,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2027-08-08,Sunday,XIX domenica del Tempo Ordinario,C54-B
+21° D.T.O.,2027-08-22,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2027-08-29,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2027-09-05,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2027-09-12,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2027-09-19,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2027-09-26,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2027-10-03,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2027-10-10,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2027-10-17,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2027-10-24,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2027-10-31,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2027-11-07,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2027-11-14,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2027-11-21,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2027-02-02,Tuesday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2027-06-24,Thursday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2027-06-29,Tuesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2027-08-06,Friday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2027-08-15,Sunday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2027-09-14,Tuesday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2027-11-01,Monday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2027-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2027-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2027-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2027-11-09,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2027-12-08,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2028-12-03,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2028-12-10,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2028-12-17,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2028-12-24,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2028-12-25,Monday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2028-12-31,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2028-01-01,Saturday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2028-01-06,Thursday,Epifania del Signore,C12-C
+Battesimo del Signore,2028-01-09,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2028-03-05,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2028-03-12,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2028-03-19,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2028-03-26,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2028-04-02,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2028-04-09,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2028-04-13,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2028-04-13,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2028-04-14,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2028-04-16,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2028-04-23,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2028-04-30,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2028-05-07,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2028-05-14,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2028-05-21,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2028-05-28,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2028-06-04,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2028-06-11,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2028-06-18,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2028-06-23,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2028-01-16,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2028-01-23,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2028-01-30,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2028-02-06,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2028-02-13,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2028-02-20,Sunday,VII domenica del Tempo Ordinario,C42-C
+8° D.T.O.,2028-02-27,Sunday,VIII domenica del Tempo Ordinario,C43-C
+12° D.T.O.,2028-06-25,Sunday,XII domenica del Tempo Ordinario,C47-C
+13° D.T.O.,2028-07-02,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2028-07-09,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2028-07-16,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2028-07-23,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2028-07-30,Sunday,XVII domenica del Tempo Ordinario,C52-C
+19° D.T.O.,2028-08-13,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2028-08-20,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2028-08-27,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2028-09-03,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2028-09-10,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2028-09-17,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2028-09-24,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2028-10-01,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2028-10-08,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2028-10-15,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2028-10-22,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2028-10-29,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2028-11-05,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2028-11-12,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2028-11-19,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2028-11-26,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2028-02-02,Wednesday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2028-06-24,Saturday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2028-06-29,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2028-08-06,Sunday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2028-08-15,Tuesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2028-09-14,Thursday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2028-11-01,Wednesday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2028-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2028-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2028-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2028-11-09,Thursday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2028-12-08,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2029-12-02,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2029-12-09,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2029-12-16,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2029-12-23,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2029-12-25,Tuesday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2029-12-30,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2029-01-01,Monday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2029-01-06,Saturday,Epifania del Signore,C12-A
+Battesimo del Signore,2029-01-07,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2029-02-18,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2029-02-25,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2029-03-04,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2029-03-11,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2029-03-18,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2029-03-25,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2029-03-29,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2029-03-29,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2029-03-30,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2029-04-01,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2029-04-08,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2029-04-15,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2029-04-22,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2029-04-29,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2029-05-06,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2029-05-13,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2029-05-20,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2029-05-27,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2029-06-03,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2029-06-08,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2029-01-14,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2029-01-21,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2029-01-28,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2029-02-04,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2029-02-11,Sunday,VI domenica del Tempo Ordinario,C41-A
+10° D.T.O.,2029-06-10,Sunday,X domenica del Tempo Ordinario,C45-A
+11° D.T.O.,2029-06-17,Sunday,XI domenica del Tempo Ordinario,C46-A
+13° D.T.O.,2029-07-01,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2029-07-08,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2029-07-15,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2029-07-22,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2029-07-29,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2029-08-05,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2029-08-12,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2029-08-19,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2029-08-26,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2029-09-02,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2029-09-09,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2029-09-16,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2029-09-23,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2029-09-30,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2029-10-07,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2029-10-14,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2029-10-21,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2029-10-28,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2029-11-04,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2029-11-11,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2029-11-18,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2029-11-25,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2029-02-02,Friday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2029-06-24,Sunday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2029-06-29,Friday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2029-08-06,Monday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2029-08-15,Wednesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2029-09-14,Friday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2029-11-01,Thursday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2029-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2029-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2029-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2029-11-09,Friday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2029-12-08,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2030-12-01,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2030-12-08,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2030-12-15,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2030-12-22,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2030-12-25,Wednesday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2030-12-29,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2030-01-01,Tuesday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2030-01-06,Sunday,Epifania del Signore,C12-B
+Battesimo del Signore,2030-01-13,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2030-03-10,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2030-03-17,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2030-03-24,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2030-03-31,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2030-04-07,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2030-04-14,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2030-04-18,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2030-04-18,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2030-04-19,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2030-04-21,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2030-04-28,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2030-05-05,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2030-05-12,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2030-05-19,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2030-05-26,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2030-06-02,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2030-06-09,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2030-06-16,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2030-06-23,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2030-06-28,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2030-01-20,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2030-01-27,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2030-02-03,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2030-02-10,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2030-02-17,Sunday,VI domenica del Tempo Ordinario,C41-B
+7° D.T.O.,2030-02-24,Sunday,VII domenica del Tempo Ordinario,C42-B
+8° D.T.O.,2030-03-03,Sunday,VIII domenica del Tempo Ordinario,C43-B
+13° D.T.O.,2030-06-30,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2030-07-07,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2030-07-14,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2030-07-21,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2030-07-28,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2030-08-04,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2030-08-11,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2030-08-18,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2030-08-25,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2030-09-01,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2030-09-08,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2030-09-15,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2030-09-22,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2030-09-29,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2030-10-06,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2030-10-13,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2030-10-20,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2030-10-27,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2030-11-03,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2030-11-10,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2030-11-17,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2030-11-24,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2030-02-02,Saturday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2030-06-24,Monday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2030-06-29,Saturday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2030-08-06,Tuesday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2030-08-15,Thursday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2030-09-14,Saturday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2030-11-01,Friday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2030-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2030-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2030-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2030-11-09,Saturday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2030-12-08,Sunday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2031-11-30,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2031-12-07,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2031-12-14,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2031-12-21,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2031-12-25,Thursday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2031-12-28,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2031-01-01,Wednesday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2031-01-06,Monday,Epifania del Signore,C12-C
+Battesimo del Signore,2031-01-12,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2031-03-02,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2031-03-09,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2031-03-16,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2031-03-23,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2031-03-30,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2031-04-06,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2031-04-10,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2031-04-10,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2031-04-11,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2031-04-13,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2031-04-20,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2031-04-27,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2031-05-04,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2031-05-11,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2031-05-18,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2031-05-25,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2031-06-01,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2031-06-08,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2031-06-15,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2031-06-20,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2031-01-19,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2031-01-26,Sunday,III domenica del Tempo Ordinario,C38-C
+5° D.T.O.,2031-02-09,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2031-02-16,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2031-02-23,Sunday,VII domenica del Tempo Ordinario,C42-C
+12° D.T.O.,2031-06-22,Sunday,XII domenica del Tempo Ordinario,C47-C
+14° D.T.O.,2031-07-06,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2031-07-13,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2031-07-20,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2031-07-27,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2031-08-03,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2031-08-10,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2031-08-17,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2031-08-24,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2031-08-31,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2031-09-07,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+25° D.T.O.,2031-09-21,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2031-09-28,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2031-10-05,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2031-10-12,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2031-10-19,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2031-10-26,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2031-11-02,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+33° D.T.O.,2031-11-16,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2031-11-23,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2031-02-02,Sunday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2031-06-24,Tuesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2031-06-29,Sunday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2031-08-06,Wednesday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2031-08-15,Friday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2031-09-14,Sunday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2031-11-01,Saturday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2031-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2031-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2031-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2031-11-09,Sunday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2031-12-08,Monday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2032-11-28,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2032-12-05,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2032-12-12,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2032-12-19,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2032-12-25,Saturday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2032-12-26,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2032-01-01,Thursday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2032-01-06,Tuesday,Epifania del Signore,C12-A
+Battesimo del Signore,2032-01-11,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2032-02-15,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2032-02-22,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2032-02-29,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2032-03-07,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2032-03-14,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2032-03-21,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2032-03-25,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2032-03-25,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2032-03-26,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2032-03-28,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2032-04-04,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2032-04-11,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2032-04-18,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2032-04-25,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2032-05-02,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2032-05-09,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2032-05-16,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2032-05-23,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2032-05-30,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2032-06-04,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2032-01-18,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2032-01-25,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2032-02-01,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2032-02-08,Sunday,V domenica del Tempo Ordinario,C40-A
+10° D.T.O.,2032-06-06,Sunday,X domenica del Tempo Ordinario,C45-A
+11° D.T.O.,2032-06-13,Sunday,XI domenica del Tempo Ordinario,C46-A
+12° D.T.O.,2032-06-20,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2032-06-27,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2032-07-04,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2032-07-11,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2032-07-18,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2032-07-25,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2032-08-01,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2032-08-08,Sunday,XIX domenica del Tempo Ordinario,C54-A
+21° D.T.O.,2032-08-22,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2032-08-29,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2032-09-05,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2032-09-12,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2032-09-19,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2032-09-26,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2032-10-03,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2032-10-10,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2032-10-17,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2032-10-24,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2032-10-31,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2032-11-07,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2032-11-14,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2032-11-21,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2032-02-02,Monday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2032-06-24,Thursday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2032-06-29,Tuesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2032-08-06,Friday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2032-08-15,Sunday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2032-09-14,Tuesday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2032-11-01,Monday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2032-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2032-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2032-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2032-11-09,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2032-12-08,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2033-11-27,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2033-12-04,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2033-12-11,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2033-12-18,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2033-12-25,Sunday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2033-12-30,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2033-01-01,Saturday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2033-01-06,Thursday,Epifania del Signore,C12-B
+Battesimo del Signore,2033-01-09,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2033-03-06,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2033-03-13,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2033-03-20,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2033-03-27,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2033-04-03,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2033-04-10,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2033-04-14,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2033-04-14,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2033-04-15,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2033-04-17,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2033-04-24,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2033-05-01,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2033-05-08,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2033-05-15,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2033-05-22,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2033-05-29,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2033-06-05,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2033-06-12,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2033-06-19,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2033-06-24,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2033-01-16,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2033-01-23,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2033-01-30,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2033-02-06,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2033-02-13,Sunday,VI domenica del Tempo Ordinario,C41-B
+7° D.T.O.,2033-02-20,Sunday,VII domenica del Tempo Ordinario,C42-B
+8° D.T.O.,2033-02-27,Sunday,VIII domenica del Tempo Ordinario,C43-B
+13° D.T.O.,2033-06-26,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2033-07-03,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2033-07-10,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2033-07-17,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2033-07-24,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2033-07-31,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2033-08-07,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2033-08-14,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2033-08-21,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2033-08-28,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2033-09-04,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2033-09-11,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2033-09-18,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2033-09-25,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2033-10-02,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2033-10-09,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2033-10-16,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2033-10-23,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2033-10-30,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2033-11-06,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2033-11-13,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2033-11-20,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2033-02-02,Wednesday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2033-06-24,Friday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2033-06-29,Wednesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2033-08-06,Saturday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2033-08-15,Monday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2033-09-14,Wednesday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2033-11-01,Tuesday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2033-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2033-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2033-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2033-11-09,Wednesday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2033-12-08,Thursday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2034-12-03,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2034-12-10,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2034-12-17,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2034-12-24,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2034-12-25,Monday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2034-12-31,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2034-01-01,Sunday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2034-01-06,Friday,Epifania del Signore,C12-C
+Battesimo del Signore,2034-01-08,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2034-02-26,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2034-03-05,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2034-03-12,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2034-03-19,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2034-03-26,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2034-04-02,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2034-04-06,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2034-04-06,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2034-04-07,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2034-04-09,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2034-04-16,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2034-04-23,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2034-04-30,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2034-05-07,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2034-05-14,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2034-05-21,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2034-05-28,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2034-06-04,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2034-06-11,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2034-06-16,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2034-01-15,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2034-01-22,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2034-01-29,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2034-02-05,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2034-02-12,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2034-02-19,Sunday,VII domenica del Tempo Ordinario,C42-C
+11° D.T.O.,2034-06-18,Sunday,XI domenica del Tempo Ordinario,C46-C
+12° D.T.O.,2034-06-25,Sunday,XII domenica del Tempo Ordinario,C47-C
+13° D.T.O.,2034-07-02,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2034-07-09,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2034-07-16,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2034-07-23,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2034-07-30,Sunday,XVII domenica del Tempo Ordinario,C52-C
+19° D.T.O.,2034-08-13,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2034-08-20,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2034-08-27,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2034-09-03,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2034-09-10,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2034-09-17,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2034-09-24,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2034-10-01,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2034-10-08,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2034-10-15,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2034-10-22,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2034-10-29,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2034-11-05,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2034-11-12,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2034-11-19,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2034-11-26,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2034-02-02,Thursday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2034-06-24,Saturday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2034-06-29,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2034-08-06,Sunday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2034-08-15,Tuesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2034-09-14,Thursday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2034-11-01,Wednesday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2034-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2034-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2034-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2034-11-09,Thursday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2034-12-08,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2035-12-02,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2035-12-09,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2035-12-16,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2035-12-23,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2035-12-25,Tuesday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2035-12-30,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2035-01-01,Monday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2035-01-06,Saturday,Epifania del Signore,C12-A
+Battesimo del Signore,2035-01-07,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2035-02-11,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2035-02-18,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2035-02-25,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2035-03-04,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2035-03-11,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2035-03-18,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2035-03-22,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2035-03-22,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2035-03-23,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2035-03-25,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2035-04-01,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2035-04-08,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2035-04-15,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2035-04-22,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2035-04-29,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2035-05-06,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2035-05-13,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2035-05-20,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2035-05-27,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2035-06-01,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2035-01-14,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2035-01-21,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2035-01-28,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2035-02-04,Sunday,V domenica del Tempo Ordinario,C40-A
+9° D.T.O.,2035-06-03,Sunday,IX domenica del Tempo Ordinario,C44-A
+10° D.T.O.,2035-06-10,Sunday,X domenica del Tempo Ordinario,C45-A
+11° D.T.O.,2035-06-17,Sunday,XI domenica del Tempo Ordinario,C46-A
+13° D.T.O.,2035-07-01,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2035-07-08,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2035-07-15,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2035-07-22,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2035-07-29,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2035-08-05,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2035-08-12,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2035-08-19,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2035-08-26,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2035-09-02,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2035-09-09,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2035-09-16,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2035-09-23,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2035-09-30,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2035-10-07,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2035-10-14,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2035-10-21,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2035-10-28,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2035-11-04,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2035-11-11,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2035-11-18,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2035-11-25,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2035-02-02,Friday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2035-06-24,Sunday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2035-06-29,Friday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2035-08-06,Monday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2035-08-15,Wednesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2035-09-14,Friday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2035-11-01,Thursday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2035-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2035-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2035-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2035-11-09,Friday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2035-12-08,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2036-11-30,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2036-12-07,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2036-12-14,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2036-12-21,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2036-12-25,Thursday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2036-12-28,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2036-01-01,Tuesday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2036-01-06,Sunday,Epifania del Signore,C12-B
+Battesimo del Signore,2036-01-13,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2036-03-02,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2036-03-09,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2036-03-16,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2036-03-23,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2036-03-30,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2036-04-06,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2036-04-10,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2036-04-10,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2036-04-11,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2036-04-13,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2036-04-20,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2036-04-27,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2036-05-04,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2036-05-11,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2036-05-18,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2036-05-25,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2036-06-01,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2036-06-08,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2036-06-15,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2036-06-20,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2036-01-20,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2036-01-27,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2036-02-03,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2036-02-10,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2036-02-17,Sunday,VI domenica del Tempo Ordinario,C41-B
+7° D.T.O.,2036-02-24,Sunday,VII domenica del Tempo Ordinario,C42-B
+12° D.T.O.,2036-06-22,Sunday,XII domenica del Tempo Ordinario,C47-B
+14° D.T.O.,2036-07-06,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2036-07-13,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2036-07-20,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2036-07-27,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2036-08-03,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2036-08-10,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2036-08-17,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2036-08-24,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2036-08-31,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2036-09-07,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+25° D.T.O.,2036-09-21,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2036-09-28,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2036-10-05,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2036-10-12,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2036-10-19,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2036-10-26,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2036-11-02,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+33° D.T.O.,2036-11-16,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2036-11-23,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2036-02-02,Saturday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2036-06-24,Tuesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2036-06-29,Sunday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2036-08-06,Wednesday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2036-08-15,Friday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2036-09-14,Sunday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2036-11-01,Saturday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2036-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2036-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2036-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2036-11-09,Sunday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2036-12-08,Monday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2037-11-29,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2037-12-06,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2037-12-13,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2037-12-20,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2037-12-25,Friday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2037-12-27,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2037-01-01,Thursday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2037-01-06,Tuesday,Epifania del Signore,C12-C
+Battesimo del Signore,2037-01-11,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2037-02-22,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2037-03-01,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2037-03-08,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2037-03-15,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2037-03-22,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2037-03-29,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2037-04-02,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2037-04-02,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2037-04-03,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2037-04-05,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2037-04-12,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2037-04-19,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2037-04-26,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2037-05-03,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2037-05-10,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2037-05-17,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2037-05-24,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2037-05-31,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2037-06-07,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2037-06-12,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2037-01-18,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2037-01-25,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2037-02-01,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2037-02-08,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2037-02-15,Sunday,VI domenica del Tempo Ordinario,C41-C
+11° D.T.O.,2037-06-14,Sunday,XI domenica del Tempo Ordinario,C46-C
+12° D.T.O.,2037-06-21,Sunday,XII domenica del Tempo Ordinario,C47-C
+13° D.T.O.,2037-06-28,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2037-07-05,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2037-07-12,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2037-07-19,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2037-07-26,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2037-08-02,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2037-08-09,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2037-08-16,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2037-08-23,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2037-08-30,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2037-09-06,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2037-09-13,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2037-09-20,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2037-09-27,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2037-10-04,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2037-10-11,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2037-10-18,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2037-10-25,Sunday,XXX domenica del Tempo Ordinario,C65-C
+32° D.T.O.,2037-11-08,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2037-11-15,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2037-11-22,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2037-02-02,Monday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2037-06-24,Wednesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2037-06-29,Monday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2037-08-06,Thursday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2037-08-15,Saturday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2037-09-14,Monday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2037-11-01,Sunday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2037-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2037-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2037-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2037-11-09,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2037-12-08,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2038-11-28,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2038-12-05,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2038-12-12,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2038-12-19,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2038-12-25,Saturday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2038-12-26,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2038-01-01,Friday,Solennità di Maria SS Madre di Dio,C10-A
+2° domenica dopo natale,2038-01-03,Sunday,II domenica dopo Natale,C11-A
+Epifania del Signore,2038-01-06,Wednesday,Epifania del Signore,C12-A
+Battesimo del Signore,2038-01-10,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2038-03-14,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2038-03-21,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2038-03-28,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2038-04-04,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2038-04-11,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2038-04-18,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2038-04-22,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2038-04-22,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2038-04-23,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2038-04-25,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2038-05-02,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2038-05-09,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2038-05-16,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2038-05-23,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2038-05-30,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2038-06-06,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2038-06-13,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2038-06-20,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2038-06-27,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2038-07-02,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2038-01-17,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2038-01-24,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2038-01-31,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2038-02-07,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2038-02-14,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2038-02-21,Sunday,VII domenica del Tempo Ordinario,C42-A
+8° D.T.O.,2038-02-28,Sunday,VIII domenica del Tempo Ordinario,C43-A
+9° D.T.O.,2038-03-07,Sunday,IX domenica del Tempo Ordinario,C44-A
+14° D.T.O.,2038-07-04,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2038-07-11,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2038-07-18,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2038-07-25,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2038-08-01,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2038-08-08,Sunday,XIX domenica del Tempo Ordinario,C54-A
+21° D.T.O.,2038-08-22,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2038-08-29,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2038-09-05,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2038-09-12,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2038-09-19,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2038-09-26,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2038-10-03,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2038-10-10,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2038-10-17,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2038-10-24,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2038-10-31,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2038-11-07,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2038-11-14,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2038-11-21,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2038-02-02,Tuesday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2038-06-24,Thursday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2038-06-29,Tuesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2038-08-06,Friday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2038-08-15,Sunday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2038-09-14,Tuesday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2038-11-01,Monday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2038-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2038-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2038-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2038-11-09,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2038-12-08,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2039-11-27,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2039-12-04,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2039-12-11,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2039-12-18,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2039-12-25,Sunday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2039-12-30,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2039-01-01,Saturday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2039-01-06,Thursday,Epifania del Signore,C12-B
+Battesimo del Signore,2039-01-09,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2039-02-27,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2039-03-06,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2039-03-13,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2039-03-20,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2039-03-27,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2039-04-03,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2039-04-07,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2039-04-07,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2039-04-08,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2039-04-10,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2039-04-17,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2039-04-24,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2039-05-01,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2039-05-08,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2039-05-15,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2039-05-22,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2039-05-29,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2039-06-05,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2039-06-12,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2039-06-17,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2039-01-16,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2039-01-23,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2039-01-30,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2039-02-06,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2039-02-13,Sunday,VI domenica del Tempo Ordinario,C41-B
+7° D.T.O.,2039-02-20,Sunday,VII domenica del Tempo Ordinario,C42-B
+12° D.T.O.,2039-06-19,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2039-06-26,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2039-07-03,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2039-07-10,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2039-07-17,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2039-07-24,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2039-07-31,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2039-08-07,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2039-08-14,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2039-08-21,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2039-08-28,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2039-09-04,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2039-09-11,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2039-09-18,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2039-09-25,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2039-10-02,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2039-10-09,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2039-10-16,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2039-10-23,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2039-10-30,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2039-11-06,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2039-11-13,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2039-11-20,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2039-02-02,Wednesday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2039-06-24,Friday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2039-06-29,Wednesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2039-08-06,Saturday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2039-08-15,Monday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2039-09-14,Wednesday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2039-11-01,Tuesday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2039-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2039-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2039-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2039-11-09,Wednesday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2039-12-08,Thursday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2040-12-02,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2040-12-09,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2040-12-16,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2040-12-23,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2040-12-25,Tuesday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2040-12-30,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2040-01-01,Sunday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2040-01-06,Friday,Epifania del Signore,C12-C
+Battesimo del Signore,2040-01-08,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2040-02-19,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2040-02-26,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2040-03-04,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2040-03-11,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2040-03-18,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2040-03-25,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2040-03-29,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2040-03-29,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2040-03-30,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2040-04-01,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2040-04-08,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2040-04-15,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2040-04-22,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2040-04-29,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2040-05-06,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2040-05-13,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2040-05-20,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2040-05-27,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2040-06-03,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2040-06-08,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2040-01-15,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2040-01-22,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2040-01-29,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2040-02-05,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2040-02-12,Sunday,VI domenica del Tempo Ordinario,C41-C
+10° D.T.O.,2040-06-10,Sunday,X domenica del Tempo Ordinario,C45-C
+11° D.T.O.,2040-06-17,Sunday,XI domenica del Tempo Ordinario,C46-C
+13° D.T.O.,2040-07-01,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2040-07-08,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2040-07-15,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2040-07-22,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2040-07-29,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2040-08-05,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2040-08-12,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2040-08-19,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2040-08-26,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2040-09-02,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2040-09-09,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2040-09-16,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2040-09-23,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2040-09-30,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2040-10-07,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2040-10-14,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2040-10-21,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2040-10-28,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2040-11-04,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2040-11-11,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2040-11-18,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2040-11-25,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2040-02-02,Thursday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2040-06-24,Sunday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2040-06-29,Friday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2040-08-06,Monday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2040-08-15,Wednesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2040-09-14,Friday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2040-11-01,Thursday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2040-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2040-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2040-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2040-11-09,Friday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2040-12-08,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2041-12-01,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2041-12-08,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2041-12-15,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2041-12-22,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2041-12-25,Wednesday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2041-12-29,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2041-01-01,Tuesday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2041-01-06,Sunday,Epifania del Signore,C12-A
+Battesimo del Signore,2041-01-13,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2041-03-10,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2041-03-17,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2041-03-24,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2041-03-31,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2041-04-07,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2041-04-14,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2041-04-18,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2041-04-18,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2041-04-19,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2041-04-21,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2041-04-28,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2041-05-05,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2041-05-12,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2041-05-19,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2041-05-26,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2041-06-02,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2041-06-09,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2041-06-16,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2041-06-23,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2041-06-28,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2041-01-20,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2041-01-27,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2041-02-03,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2041-02-10,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2041-02-17,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2041-02-24,Sunday,VII domenica del Tempo Ordinario,C42-A
+8° D.T.O.,2041-03-03,Sunday,VIII domenica del Tempo Ordinario,C43-A
+13° D.T.O.,2041-06-30,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2041-07-07,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2041-07-14,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2041-07-21,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2041-07-28,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2041-08-04,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2041-08-11,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2041-08-18,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2041-08-25,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2041-09-01,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2041-09-08,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2041-09-15,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2041-09-22,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2041-09-29,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2041-10-06,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2041-10-13,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2041-10-20,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2041-10-27,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2041-11-03,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2041-11-10,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2041-11-17,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2041-11-24,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2041-02-02,Saturday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2041-06-24,Monday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2041-06-29,Saturday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2041-08-06,Tuesday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2041-08-15,Thursday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2041-09-14,Saturday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2041-11-01,Friday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2041-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2041-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2041-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2041-11-09,Saturday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2041-12-08,Sunday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2042-11-30,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2042-12-07,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2042-12-14,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2042-12-21,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2042-12-25,Thursday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2042-12-28,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2042-01-01,Wednesday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2042-01-06,Monday,Epifania del Signore,C12-B
+Battesimo del Signore,2042-01-12,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2042-02-23,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2042-03-02,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2042-03-09,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2042-03-16,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2042-03-23,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2042-03-30,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2042-04-03,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2042-04-03,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2042-04-04,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2042-04-06,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2042-04-13,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2042-04-20,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2042-04-27,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2042-05-04,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2042-05-11,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2042-05-18,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2042-05-25,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2042-06-01,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2042-06-08,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2042-06-13,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2042-01-19,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2042-01-26,Sunday,III domenica del Tempo Ordinario,C38-B
+5° D.T.O.,2042-02-09,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2042-02-16,Sunday,VI domenica del Tempo Ordinario,C41-B
+11° D.T.O.,2042-06-15,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2042-06-22,Sunday,XII domenica del Tempo Ordinario,C47-B
+14° D.T.O.,2042-07-06,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2042-07-13,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2042-07-20,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2042-07-27,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2042-08-03,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2042-08-10,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2042-08-17,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2042-08-24,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2042-08-31,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2042-09-07,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+25° D.T.O.,2042-09-21,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2042-09-28,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2042-10-05,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2042-10-12,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2042-10-19,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2042-10-26,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2042-11-02,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+33° D.T.O.,2042-11-16,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2042-11-23,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2042-02-02,Sunday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2042-06-24,Tuesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2042-06-29,Sunday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2042-08-06,Wednesday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2042-08-15,Friday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2042-09-14,Sunday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2042-11-01,Saturday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2042-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2042-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2042-11-02,Sunday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2042-11-09,Sunday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2042-12-08,Monday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2043-11-29,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2043-12-06,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2043-12-13,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2043-12-20,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2043-12-25,Friday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2043-12-27,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2043-01-01,Thursday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2043-01-06,Tuesday,Epifania del Signore,C12-C
+Battesimo del Signore,2043-01-11,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2043-02-15,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2043-02-22,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2043-03-01,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2043-03-08,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2043-03-15,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2043-03-22,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2043-03-26,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2043-03-26,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2043-03-27,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2043-03-29,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2043-04-05,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2043-04-12,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2043-04-19,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2043-04-26,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2043-05-03,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2043-05-10,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2043-05-17,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2043-05-24,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2043-05-31,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2043-06-05,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2043-01-18,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2043-01-25,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2043-02-01,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2043-02-08,Sunday,V domenica del Tempo Ordinario,C40-C
+10° D.T.O.,2043-06-07,Sunday,X domenica del Tempo Ordinario,C45-C
+11° D.T.O.,2043-06-14,Sunday,XI domenica del Tempo Ordinario,C46-C
+12° D.T.O.,2043-06-21,Sunday,XII domenica del Tempo Ordinario,C47-C
+13° D.T.O.,2043-06-28,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2043-07-05,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2043-07-12,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2043-07-19,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2043-07-26,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2043-08-02,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2043-08-09,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2043-08-16,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2043-08-23,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2043-08-30,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2043-09-06,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2043-09-13,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2043-09-20,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2043-09-27,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2043-10-04,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2043-10-11,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2043-10-18,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2043-10-25,Sunday,XXX domenica del Tempo Ordinario,C65-C
+32° D.T.O.,2043-11-08,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2043-11-15,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2043-11-22,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2043-02-02,Monday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2043-06-24,Wednesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2043-06-29,Monday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2043-08-06,Thursday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2043-08-15,Saturday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2043-09-14,Monday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2043-11-01,Sunday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2043-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2043-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2043-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2043-11-09,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2043-12-08,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2044-11-27,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2044-12-04,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2044-12-11,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2044-12-18,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2044-12-25,Sunday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2044-12-30,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2044-01-01,Friday,Solennità di Maria SS Madre di Dio,C10-A
+2° domenica dopo natale,2044-01-03,Sunday,II domenica dopo Natale,C11-A
+Epifania del Signore,2044-01-06,Wednesday,Epifania del Signore,C12-A
+Battesimo del Signore,2044-01-10,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2044-03-06,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2044-03-13,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2044-03-20,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2044-03-27,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2044-04-03,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2044-04-10,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2044-04-14,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2044-04-14,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2044-04-15,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2044-04-17,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2044-04-24,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2044-05-01,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2044-05-08,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2044-05-15,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2044-05-22,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2044-05-29,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2044-06-05,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2044-06-12,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2044-06-19,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2044-06-24,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2044-01-17,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2044-01-24,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2044-01-31,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2044-02-07,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2044-02-14,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2044-02-21,Sunday,VII domenica del Tempo Ordinario,C42-A
+8° D.T.O.,2044-02-28,Sunday,VIII domenica del Tempo Ordinario,C43-A
+13° D.T.O.,2044-06-26,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2044-07-03,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2044-07-10,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2044-07-17,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2044-07-24,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2044-07-31,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2044-08-07,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2044-08-14,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2044-08-21,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2044-08-28,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2044-09-04,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2044-09-11,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2044-09-18,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2044-09-25,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2044-10-02,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2044-10-09,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2044-10-16,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2044-10-23,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2044-10-30,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2044-11-06,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2044-11-13,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2044-11-20,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2044-02-02,Tuesday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2044-06-24,Friday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2044-06-29,Wednesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2044-08-06,Saturday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2044-08-15,Monday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2044-09-14,Wednesday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2044-11-01,Tuesday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2044-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2044-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2044-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2044-11-09,Wednesday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2044-12-08,Thursday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2045-12-03,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2045-12-10,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2045-12-17,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2045-12-24,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2045-12-25,Monday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2045-12-31,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2045-01-01,Sunday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2045-01-06,Friday,Epifania del Signore,C12-B
+Battesimo del Signore,2045-01-08,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2045-02-26,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2045-03-05,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2045-03-12,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2045-03-19,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2045-03-26,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2045-04-02,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2045-04-06,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2045-04-06,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2045-04-07,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2045-04-09,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2045-04-16,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2045-04-23,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2045-04-30,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2045-05-07,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2045-05-14,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2045-05-21,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2045-05-28,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2045-06-04,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2045-06-11,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2045-06-16,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2045-01-15,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2045-01-22,Sunday,III domenica del Tempo Ordinario,C38-B
+4° D.T.O.,2045-01-29,Sunday,IV domenica del Tempo Ordinario,C39-B
+5° D.T.O.,2045-02-05,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2045-02-12,Sunday,VI domenica del Tempo Ordinario,C41-B
+7° D.T.O.,2045-02-19,Sunday,VII domenica del Tempo Ordinario,C42-B
+11° D.T.O.,2045-06-18,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2045-06-25,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2045-07-02,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2045-07-09,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2045-07-16,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2045-07-23,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2045-07-30,Sunday,XVII domenica del Tempo Ordinario,C52-B
+19° D.T.O.,2045-08-13,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2045-08-20,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2045-08-27,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2045-09-03,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2045-09-10,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2045-09-17,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2045-09-24,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2045-10-01,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2045-10-08,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2045-10-15,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2045-10-22,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2045-10-29,Sunday,XXX domenica del Tempo Ordinario,C65-B
+31° D.T.O.,2045-11-05,Sunday,XXXI domenica del Tempo Ordinario,C66-B
+32° D.T.O.,2045-11-12,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2045-11-19,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2045-11-26,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2045-02-02,Thursday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2045-06-24,Saturday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2045-06-29,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2045-08-06,Sunday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2045-08-15,Tuesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2045-09-14,Thursday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2045-11-01,Wednesday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2045-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2045-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2045-11-02,Thursday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2045-11-09,Thursday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2045-12-08,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2046-12-02,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2046-12-09,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2046-12-16,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2046-12-23,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2046-12-25,Tuesday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2046-12-30,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2046-01-01,Monday,Solennità di Maria SS Madre di Dio,C10-C
+Epifania del Signore,2046-01-06,Saturday,Epifania del Signore,C12-C
+Battesimo del Signore,2046-01-07,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2046-02-11,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2046-02-18,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2046-02-25,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2046-03-04,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2046-03-11,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2046-03-18,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2046-03-22,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2046-03-22,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2046-03-23,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2046-03-25,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2046-04-01,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2046-04-08,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2046-04-15,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2046-04-22,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2046-04-29,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2046-05-06,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2046-05-13,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2046-05-20,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2046-05-27,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2046-06-01,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2046-01-14,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2046-01-21,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2046-01-28,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2046-02-04,Sunday,V domenica del Tempo Ordinario,C40-C
+9° D.T.O.,2046-06-03,Sunday,IX domenica del Tempo Ordinario,C44-C
+10° D.T.O.,2046-06-10,Sunday,X domenica del Tempo Ordinario,C45-C
+11° D.T.O.,2046-06-17,Sunday,XI domenica del Tempo Ordinario,C46-C
+13° D.T.O.,2046-07-01,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2046-07-08,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2046-07-15,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2046-07-22,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2046-07-29,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2046-08-05,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2046-08-12,Sunday,XIX domenica del Tempo Ordinario,C54-C
+20° D.T.O.,2046-08-19,Sunday,XX domenica del Tempo Ordinario,C55-C
+21° D.T.O.,2046-08-26,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2046-09-02,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2046-09-09,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2046-09-16,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2046-09-23,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2046-09-30,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2046-10-07,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2046-10-14,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2046-10-21,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2046-10-28,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2046-11-04,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2046-11-11,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2046-11-18,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2046-11-25,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2046-02-02,Friday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2046-06-24,Sunday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2046-06-29,Friday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2046-08-06,Monday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2046-08-15,Wednesday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2046-09-14,Friday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2046-11-01,Thursday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2046-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2046-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2046-11-02,Friday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2046-11-09,Friday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2046-12-08,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2047-12-01,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2047-12-08,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2047-12-15,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2047-12-22,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2047-12-25,Wednesday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2047-12-29,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2047-01-01,Tuesday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2047-01-06,Sunday,Epifania del Signore,C12-A
+Battesimo del Signore,2047-01-13,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2047-03-03,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2047-03-10,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2047-03-17,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2047-03-24,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2047-03-31,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2047-04-07,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2047-04-11,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2047-04-11,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2047-04-12,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2047-04-14,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2047-04-21,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2047-04-28,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2047-05-05,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2047-05-12,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2047-05-19,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2047-05-26,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2047-06-02,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2047-06-09,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2047-06-16,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2047-06-21,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2047-01-20,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2047-01-27,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2047-02-03,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2047-02-10,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2047-02-17,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2047-02-24,Sunday,VII domenica del Tempo Ordinario,C42-A
+12° D.T.O.,2047-06-23,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2047-06-30,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2047-07-07,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2047-07-14,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2047-07-21,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2047-07-28,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2047-08-04,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2047-08-11,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2047-08-18,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2047-08-25,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2047-09-01,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2047-09-08,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2047-09-15,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2047-09-22,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2047-09-29,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2047-10-06,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2047-10-13,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2047-10-20,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2047-10-27,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2047-11-03,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2047-11-10,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2047-11-17,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2047-11-24,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2047-02-02,Saturday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2047-06-24,Monday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2047-06-29,Saturday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2047-08-06,Tuesday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2047-08-15,Thursday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2047-09-14,Saturday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2047-11-01,Friday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2047-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2047-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2047-11-02,Saturday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2047-11-09,Saturday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2047-12-08,Sunday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A
+1° Domenica di Avvento,2048-11-29,Sunday,I domenica di Avvento,C1-B
+2° Domenica di Avvento,2048-12-06,Sunday,II domenica di Avvento,C2-B
+3° Domenica di Avvento - Gaudete,2048-12-13,Sunday,III domenica di Avvento,C3-B
+4° Domenica di Avvento,2048-12-20,Sunday,IV domenica di Avvento,C4-B
+Natale del Signore,2048-12-25,Friday,Natale del Signore – Messa del giorno,C8-B
+Festa della Sacra Famiglia,2048-12-27,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B
+Maria Santissima Madre di Dio,2048-01-01,Wednesday,Solennità di Maria SS Madre di Dio,C10-B
+Epifania del Signore,2048-01-06,Monday,Epifania del Signore,C12-B
+Battesimo del Signore,2048-01-12,Sunday,Battesimo del Signore,C13-B
+1° Domenica di Quaresima,2048-02-23,Sunday,I domenica di Quaresima,C14-B
+2° Domenica di Quaresima,2048-03-01,Sunday,II domenica di Quaresima,C15-B
+3° Domenica di Quaresima,2048-03-08,Sunday,III domenica di Quaresima,C16-B
+Domenica Laetare,2048-03-15,Sunday,IV domenica di Quaresima,C17-B
+5° Domenica di Quaresima,2048-03-22,Sunday,V domenica di Quaresima,C18-B
+Domenica delle Palme,2048-03-29,Sunday,Domenica delle Palme: Passione del Signore,C19-B
+Giovedì Santo (Messa del Crisma),2048-04-02,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B
+Giovedì Santo (In Cena Domini),2048-04-02,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B
+Venerdì Santo (Passione del Signore),2048-04-03,Friday,Venerdì Santo «Passione del Signore»,C22-B
+Pasqua - Risurrezione del Signore,2048-04-05,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2048-04-12,Sunday,II domenica di Pasqua,C25-B
+3° Domenica di Pasqua (Misericordias Domini),2048-04-19,Sunday,III domenica di Pasqua,C26-B
+4° Domenica di Pasqua (Jubilate),2048-04-26,Sunday,IV domenica di Pasqua,C27-B
+5° Domenica di Pasqua (Cantate),2048-05-03,Sunday,V domenica di Pasqua,C28-B
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2048-05-10,Sunday,VI domenica di Pasqua,C29-B
+Ascensione di Gesù,2048-05-17,Sunday,Ascensione del Signore,C30-B
+Pentecoste,2048-05-24,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B
+Solennità della Santissima Trinità,2048-05-31,Sunday,Solennità della SS Trinità,C34-B
+Santissimo Corpo e Sangue di Cristo,2048-06-07,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B
+Santissimo Cuore di Gesù,2048-06-12,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B
+2° D.T.O.,2048-01-19,Sunday,II domenica del Tempo Ordinario,C37-B
+3° D.T.O.,2048-01-26,Sunday,III domenica del Tempo Ordinario,C38-B
+5° D.T.O.,2048-02-09,Sunday,V domenica del Tempo Ordinario,C40-B
+6° D.T.O.,2048-02-16,Sunday,VI domenica del Tempo Ordinario,C41-B
+11° D.T.O.,2048-06-14,Sunday,XI domenica del Tempo Ordinario,C46-B
+12° D.T.O.,2048-06-21,Sunday,XII domenica del Tempo Ordinario,C47-B
+13° D.T.O.,2048-06-28,Sunday,XIII domenica del Tempo Ordinario,C48-B
+14° D.T.O.,2048-07-05,Sunday,XIV domenica del Tempo Ordinario,C49-B
+15° D.T.O.,2048-07-12,Sunday,XV domenica del Tempo Ordinario,C50-B
+16° D.T.O.,2048-07-19,Sunday,XVI domenica del Tempo Ordinario,C51-B
+17° D.T.O.,2048-07-26,Sunday,XVII domenica del Tempo Ordinario,C52-B
+18° D.T.O.,2048-08-02,Sunday,XVIII domenica del Tempo Ordinario,C53-B
+19° D.T.O.,2048-08-09,Sunday,XIX domenica del Tempo Ordinario,C54-B
+20° D.T.O.,2048-08-16,Sunday,XX domenica del Tempo Ordinario,C55-B
+21° D.T.O.,2048-08-23,Sunday,XXI domenica del Tempo Ordinario,C56-B
+22° D.T.O.,2048-08-30,Sunday,XXII domenica del Tempo Ordinario,C57-B
+23° D.T.O.,2048-09-06,Sunday,XXIII domenica del Tempo Ordinario,C58-B
+24° D.T.O.,2048-09-13,Sunday,XXIV domenica del Tempo Ordinario,C59-B
+25° D.T.O.,2048-09-20,Sunday,XXV domenica del Tempo Ordinario,C60-B
+26° D.T.O.,2048-09-27,Sunday,XXVI domenica del Tempo Ordinario,C61-B
+27° D.T.O.,2048-10-04,Sunday,XXVII domenica del Tempo Ordinario,C62-B
+28° D.T.O.,2048-10-11,Sunday,XXVIII domenica del Tempo Ordinario,C63-B
+29° D.T.O.,2048-10-18,Sunday,XXIX domenica del Tempo Ordinario,C64-B
+30° D.T.O.,2048-10-25,Sunday,XXX domenica del Tempo Ordinario,C65-B
+32° D.T.O.,2048-11-08,Sunday,XXXII domenica del Tempo Ordinario,C67-B
+33° D.T.O.,2048-11-15,Sunday,XXXIII domenica del Tempo Ordinario,C68-B
+34° D.T.O. - Solennità di Cristo Re,2048-11-22,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B
+Presentazione del Signore (Candelora),2048-02-02,Sunday,2 febbraio: Presentazione del Signore,C70-B
+Natività di San Giovanni Battista,2048-06-24,Wednesday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-B
+Santi Pietro e Paolo Apostoli,2048-06-29,Monday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B
+Trasfigurazione del Signore,2048-08-06,Thursday,6 agosto: Trasfigurazione del Signore,C75-B
+Assunzione della Beata Vergine Maria,2048-08-15,Saturday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-B
+Esaltazione della Santa Croce,2048-09-14,Monday,14 settembre: Esaltazione della Santa Croce,C78-B
+Solennità di tutti i Santi,2048-11-01,Sunday,1 novembre: Tutti i Santi,C79-B
+Commemorazione dei defunti,2048-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-B
+Commemorazione dei defunti,2048-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-B
+Commemorazione dei defunti,2048-11-02,Monday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-B
+Dedicazione Basilica Lateranense,2048-11-09,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-B
+Immacolata Concezione,2048-12-08,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B
+1° Domenica di Avvento,2049-11-28,Sunday,I domenica di Avvento,C1-C
+2° Domenica di Avvento,2049-12-05,Sunday,II domenica di Avvento,C2-C
+3° Domenica di Avvento - Gaudete,2049-12-12,Sunday,III domenica di Avvento,C3-C
+4° Domenica di Avvento,2049-12-19,Sunday,IV domenica di Avvento,C4-C
+Natale del Signore,2049-12-25,Saturday,Natale del Signore – Messa del giorno,C8-C
+Festa della Sacra Famiglia,2049-12-26,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C
+Maria Santissima Madre di Dio,2049-01-01,Friday,Solennità di Maria SS Madre di Dio,C10-C
+2° domenica dopo natale,2049-01-03,Sunday,II domenica dopo Natale,C11-C
+Epifania del Signore,2049-01-06,Wednesday,Epifania del Signore,C12-C
+Battesimo del Signore,2049-01-10,Sunday,Battesimo del Signore,C13-C
+1° Domenica di Quaresima,2049-03-07,Sunday,I domenica di Quaresima,C14-C
+2° Domenica di Quaresima,2049-03-14,Sunday,II domenica di Quaresima,C15-C
+3° Domenica di Quaresima,2049-03-21,Sunday,III domenica di Quaresima,C16-C
+Domenica Laetare,2049-03-28,Sunday,IV domenica di Quaresima,C17-C
+5° Domenica di Quaresima,2049-04-04,Sunday,V domenica di Quaresima,C18-C
+Domenica delle Palme,2049-04-11,Sunday,Domenica delle Palme: Passione del Signore,C19-C
+Giovedì Santo (Messa del Crisma),2049-04-15,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C
+Giovedì Santo (In Cena Domini),2049-04-15,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C
+Venerdì Santo (Passione del Signore),2049-04-16,Friday,Venerdì Santo «Passione del Signore»,C22-C
+Pasqua - Risurrezione del Signore,2049-04-18,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2049-04-25,Sunday,II domenica di Pasqua,C25-C
+3° Domenica di Pasqua (Misericordias Domini),2049-05-02,Sunday,III domenica di Pasqua,C26-C
+4° Domenica di Pasqua (Jubilate),2049-05-09,Sunday,IV domenica di Pasqua,C27-C
+5° Domenica di Pasqua (Cantate),2049-05-16,Sunday,V domenica di Pasqua,C28-C
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2049-05-23,Sunday,VI domenica di Pasqua,C29-C
+Ascensione di Gesù,2049-05-30,Sunday,Ascensione del Signore,C30-C
+Pentecoste,2049-06-06,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C
+Solennità della Santissima Trinità,2049-06-13,Sunday,Solennità della SS Trinità,C34-C
+Santissimo Corpo e Sangue di Cristo,2049-06-20,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C
+Santissimo Cuore di Gesù,2049-06-25,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C
+2° D.T.O.,2049-01-17,Sunday,II domenica del Tempo Ordinario,C37-C
+3° D.T.O.,2049-01-24,Sunday,III domenica del Tempo Ordinario,C38-C
+4° D.T.O.,2049-01-31,Sunday,IV domenica del Tempo Ordinario,C39-C
+5° D.T.O.,2049-02-07,Sunday,V domenica del Tempo Ordinario,C40-C
+6° D.T.O.,2049-02-14,Sunday,VI domenica del Tempo Ordinario,C41-C
+7° D.T.O.,2049-02-21,Sunday,VII domenica del Tempo Ordinario,C42-C
+8° D.T.O.,2049-02-28,Sunday,VIII domenica del Tempo Ordinario,C43-C
+13° D.T.O.,2049-06-27,Sunday,XIII domenica del Tempo Ordinario,C48-C
+14° D.T.O.,2049-07-04,Sunday,XIV domenica del Tempo Ordinario,C49-C
+15° D.T.O.,2049-07-11,Sunday,XV domenica del Tempo Ordinario,C50-C
+16° D.T.O.,2049-07-18,Sunday,XVI domenica del Tempo Ordinario,C51-C
+17° D.T.O.,2049-07-25,Sunday,XVII domenica del Tempo Ordinario,C52-C
+18° D.T.O.,2049-08-01,Sunday,XVIII domenica del Tempo Ordinario,C53-C
+19° D.T.O.,2049-08-08,Sunday,XIX domenica del Tempo Ordinario,C54-C
+21° D.T.O.,2049-08-22,Sunday,XXI domenica del Tempo Ordinario,C56-C
+22° D.T.O.,2049-08-29,Sunday,XXII domenica del Tempo Ordinario,C57-C
+23° D.T.O.,2049-09-05,Sunday,XXIII domenica del Tempo Ordinario,C58-C
+24° D.T.O.,2049-09-12,Sunday,XXIV domenica del Tempo Ordinario,C59-C
+25° D.T.O.,2049-09-19,Sunday,XXV domenica del Tempo Ordinario,C60-C
+26° D.T.O.,2049-09-26,Sunday,XXVI domenica del Tempo Ordinario,C61-C
+27° D.T.O.,2049-10-03,Sunday,XXVII domenica del Tempo Ordinario,C62-C
+28° D.T.O.,2049-10-10,Sunday,XXVIII domenica del Tempo Ordinario,C63-C
+29° D.T.O.,2049-10-17,Sunday,XXIX domenica del Tempo Ordinario,C64-C
+30° D.T.O.,2049-10-24,Sunday,XXX domenica del Tempo Ordinario,C65-C
+31° D.T.O.,2049-10-31,Sunday,XXXI domenica del Tempo Ordinario,C66-C
+32° D.T.O.,2049-11-07,Sunday,XXXII domenica del Tempo Ordinario,C67-C
+33° D.T.O.,2049-11-14,Sunday,XXXIII domenica del Tempo Ordinario,C68-C
+34° D.T.O. - Solennità di Cristo Re,2049-11-21,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C
+Presentazione del Signore (Candelora),2049-02-02,Tuesday,2 febbraio: Presentazione del Signore,C70-C
+Natività di San Giovanni Battista,2049-06-24,Thursday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-C
+Santi Pietro e Paolo Apostoli,2049-06-29,Tuesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C
+Trasfigurazione del Signore,2049-08-06,Friday,6 agosto: Trasfigurazione del Signore,C75-C
+Assunzione della Beata Vergine Maria,2049-08-15,Sunday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-C
+Esaltazione della Santa Croce,2049-09-14,Tuesday,14 settembre: Esaltazione della Santa Croce,C78-C
+Solennità di tutti i Santi,2049-11-01,Monday,1 novembre: Tutti i Santi,C79-C
+Commemorazione dei defunti,2049-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C
+Commemorazione dei defunti,2049-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-C
+Commemorazione dei defunti,2049-11-02,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-C
+Dedicazione Basilica Lateranense,2049-11-09,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-C
+Immacolata Concezione,2049-12-08,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C
+1° Domenica di Avvento,2050-11-27,Sunday,I domenica di Avvento,C1-A
+2° Domenica di Avvento,2050-12-04,Sunday,II domenica di Avvento,C2-A
+3° Domenica di Avvento - Gaudete,2050-12-11,Sunday,III domenica di Avvento,C3-A
+4° Domenica di Avvento,2050-12-18,Sunday,IV domenica di Avvento,C4-A
+Natale del Signore,2050-12-25,Sunday,Natale del Signore – Messa del giorno,C8-A
+Festa della Sacra Famiglia,2050-12-30,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A
+Maria Santissima Madre di Dio,2050-01-01,Saturday,Solennità di Maria SS Madre di Dio,C10-A
+Epifania del Signore,2050-01-06,Thursday,Epifania del Signore,C12-A
+Battesimo del Signore,2050-01-09,Sunday,Battesimo del Signore,C13-A
+1° Domenica di Quaresima,2050-02-27,Sunday,I domenica di Quaresima,C14-A
+2° Domenica di Quaresima,2050-03-06,Sunday,II domenica di Quaresima,C15-A
+3° Domenica di Quaresima,2050-03-13,Sunday,III domenica di Quaresima,C16-A
+Domenica Laetare,2050-03-20,Sunday,IV domenica di Quaresima,C17-A
+5° Domenica di Quaresima,2050-03-27,Sunday,V domenica di Quaresima,C18-A
+Domenica delle Palme,2050-04-03,Sunday,Domenica delle Palme: Passione del Signore,C19-A
+Giovedì Santo (Messa del Crisma),2050-04-07,Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A
+Giovedì Santo (In Cena Domini),2050-04-07,Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A
+Venerdì Santo (Passione del Signore),2050-04-08,Friday,Venerdì Santo «Passione del Signore»,C22-A
+Pasqua - Risurrezione del Signore,2050-04-10,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A
+2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),2050-04-17,Sunday,II domenica di Pasqua,C25-A
+3° Domenica di Pasqua (Misericordias Domini),2050-04-24,Sunday,III domenica di Pasqua,C26-A
+4° Domenica di Pasqua (Jubilate),2050-05-01,Sunday,IV domenica di Pasqua,C27-A
+5° Domenica di Pasqua (Cantate),2050-05-08,Sunday,V domenica di Pasqua,C28-A
+6° Domenica di Pasqua (Rogate - Vocem jocunditatis),2050-05-15,Sunday,VI domenica di Pasqua,C29-A
+Ascensione di Gesù,2050-05-22,Sunday,Ascensione del Signore,C30-A
+Pentecoste,2050-05-29,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A
+Solennità della Santissima Trinità,2050-06-05,Sunday,Solennità della SS Trinità,C34-A
+Santissimo Corpo e Sangue di Cristo,2050-06-12,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A
+Santissimo Cuore di Gesù,2050-06-17,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A
+2° D.T.O.,2050-01-16,Sunday,II domenica del Tempo Ordinario,C37-A
+3° D.T.O.,2050-01-23,Sunday,III domenica del Tempo Ordinario,C38-A
+4° D.T.O.,2050-01-30,Sunday,IV domenica del Tempo Ordinario,C39-A
+5° D.T.O.,2050-02-06,Sunday,V domenica del Tempo Ordinario,C40-A
+6° D.T.O.,2050-02-13,Sunday,VI domenica del Tempo Ordinario,C41-A
+7° D.T.O.,2050-02-20,Sunday,VII domenica del Tempo Ordinario,C42-A
+12° D.T.O.,2050-06-19,Sunday,XII domenica del Tempo Ordinario,C47-A
+13° D.T.O.,2050-06-26,Sunday,XIII domenica del Tempo Ordinario,C48-A
+14° D.T.O.,2050-07-03,Sunday,XIV domenica del Tempo Ordinario,C49-A
+15° D.T.O.,2050-07-10,Sunday,XV domenica del Tempo Ordinario,C50-A
+16° D.T.O.,2050-07-17,Sunday,XVI domenica del Tempo Ordinario,C51-A
+17° D.T.O.,2050-07-24,Sunday,XVII domenica del Tempo Ordinario,C52-A
+18° D.T.O.,2050-07-31,Sunday,XVIII domenica del Tempo Ordinario,C53-A
+19° D.T.O.,2050-08-07,Sunday,XIX domenica del Tempo Ordinario,C54-A
+20° D.T.O.,2050-08-14,Sunday,XX domenica del Tempo Ordinario,C55-A
+21° D.T.O.,2050-08-21,Sunday,XXI domenica del Tempo Ordinario,C56-A
+22° D.T.O.,2050-08-28,Sunday,XXII domenica del Tempo Ordinario,C57-A
+23° D.T.O.,2050-09-04,Sunday,XXIII domenica del Tempo Ordinario,C58-A
+24° D.T.O.,2050-09-11,Sunday,XXIV domenica del Tempo Ordinario,C59-A
+25° D.T.O.,2050-09-18,Sunday,XXV domenica del Tempo Ordinario,C60-A
+26° D.T.O.,2050-09-25,Sunday,XXVI domenica del Tempo Ordinario,C61-A
+27° D.T.O.,2050-10-02,Sunday,XXVII domenica del Tempo Ordinario,C62-A
+28° D.T.O.,2050-10-09,Sunday,XXVIII domenica del Tempo Ordinario,C63-A
+29° D.T.O.,2050-10-16,Sunday,XXIX domenica del Tempo Ordinario,C64-A
+30° D.T.O.,2050-10-23,Sunday,XXX domenica del Tempo Ordinario,C65-A
+31° D.T.O.,2050-10-30,Sunday,XXXI domenica del Tempo Ordinario,C66-A
+32° D.T.O.,2050-11-06,Sunday,XXXII domenica del Tempo Ordinario,C67-A
+33° D.T.O.,2050-11-13,Sunday,XXXIII domenica del Tempo Ordinario,C68-A
+34° D.T.O. - Solennità di Cristo Re,2050-11-20,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A
+Presentazione del Signore (Candelora),2050-02-02,Wednesday,2 febbraio: Presentazione del Signore,C70-A
+Natività di San Giovanni Battista,2050-06-24,Friday,24 giugno: Natività di san Giovanni Battista – Messa del giorno,C72-A
+Santi Pietro e Paolo Apostoli,2050-06-29,Wednesday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-A
+Trasfigurazione del Signore,2050-08-06,Saturday,6 agosto: Trasfigurazione del Signore,C75-A
+Assunzione della Beata Vergine Maria,2050-08-15,Monday,15 agosto: Assunzione della beata Vergine Maria – Messa del giorno,C77-A
+Esaltazione della Santa Croce,2050-09-14,Wednesday,14 settembre: Esaltazione della Santa Croce,C78-A
+Solennità di tutti i Santi,2050-11-01,Tuesday,1 novembre: Tutti i Santi,C79-A
+Commemorazione dei defunti,2050-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A
+Commemorazione dei defunti,2050-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 2° schema,C81-A
+Commemorazione dei defunti,2050-11-02,Wednesday,2 novembre: Commemorazione di tutti i fedeli defunti – 3° schema,C82-A
+Dedicazione Basilica Lateranense,2050-11-09,Wednesday,9 novembre: Dedicazione della Basilica lateranense,C83-A
+Immacolata Concezione,2050-12-08,Thursday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A

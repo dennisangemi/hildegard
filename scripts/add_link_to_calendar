@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# input
+PATH_CALENDARIO_LITURGICO_NO_LINKS="data/calendari_liturgici/processing/calendario_2019-2050_no_links.csv"
+PATH_LINK_CALENDARIO="data/calendari_liturgici/processing/link_2019-2050.csv"
+
+# output
+PATH_CALENDARIO_LITURGICO="data/calendari_liturgici/calendario_2019-2050.csv"
+
+get_link_calendario() {
+   URL="https://www.favrin.net/misc/calendario_liturgico/?intervallo=anno&nofc=1&output=json&anno="
+
+   TZ="Europe/Rome" curl -skL $URL$1 \
+   | jq "[.eventi[] | {giorno, mese, anno, liturgia1, liturgia2}]" \
+   | mlr --j2c cat \
+   then put 'if (strlen(string($giorno)) == "1") { $giorno = "0" . $giorno}' \
+   then put 'if (strlen(string($mese)) == "1") { $mese = "0" . $mese}' \
+   then put -S '$date = $anno . "-" . $mese . "-" . $giorno' \
+   then cut -x -f giorno,mese \
+   then reorder -f anno,date,liturgia1,liturgia2 
+}
+
+# scarica tutti i calendari con link dal 2019 al 2050
+for i in $(seq 2019 2050); do get_link_calendario $i > data/calendari_liturgici/cld_link_$i.csv; done
+
+# wait for all downloads to finish
+wait
+
+# merge calendari with link
+mlr --csv cat data/calendari_liturgici/cld_link*.csv > $PATH_LINK_CALENDARIO
+rm data/calendari_liturgici/cld_link*.csv
+
+# join calendario extended with map
+mlr --csv join --ul -j date -f $PATH_CALENDARIO_LITURGICO_NO_LINKS then unsparsify $PATH_LINK_CALENDARIO > $PATH_CALENDARIO_LITURGICO
+
+# convert to json
+mlr --c2j cat $PATH_CALENDARIO_LITURGICO > data/calendari_liturgici/calendario_2019-2050_with_links.json
+
+# to do
+# si potrebbero selezionare i valori univoci di id_liturgia, prendere i campi popolati di liturgia1 e liturgia2 e ripeterli per evitare di incorrere in null
+# <data/calendari_liturgici/calendario_2019-2050_with_links.csv mlr --csv filter -S '$liturgia1 != "null" || $liturgia2 != "null"' then cut -f id_liturgia,liturgia1,liturgia2 | uniq | vd -f csv

@@ -48,3 +48,6 @@ mlr --c2j cat $PATH_CALENDARIO_OUT > ${PATH_CALENDARIO_OUT%.*}.json
 # mlr --csv cut -f date $PATH_CALENDARIO_OUT | wc -l
 # mlr --csv uniq -f date $PATH_CALENDARIO_OUT | wc -l
 # mlr --csv filter -S '$id_celebrazione != ""' then filter -S '$weekday == "Sunday"' $PATH_CALENDARIO_OUT > $PATH_SUNDAYS_OUT 
+
+# questo script continua con add_link_to_calendar
+# l'output data/calendari_liturgici/calendario_2019-2050.csv è stato rinominato in data/calendari_liturgici/processing/calendario_2019-2050_no_links.csv
