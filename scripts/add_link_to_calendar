@@ -31,10 +31,10 @@ mlr --csv cat data/calendari_liturgici/cld_link*.csv > $PATH_LINK_CALENDARIO
 rm data/calendari_liturgici/cld_link*.csv
 
 # join calendario extended with map
-mlr --csv join --ul -j date -f $PATH_CALENDARIO_LITURGICO_NO_LINKS then unsparsify $PATH_LINK_CALENDARIO > $PATH_CALENDARIO_LITURGICO
+mlr --csv join --ul -j date -f $PATH_CALENDARIO_LITURGICO_NO_LINKS then unsparsify $PATH_LINK_CALENDARIO | uniq > $PATH_CALENDARIO_LITURGICO
 
 # convert to json
-mlr --c2j cat $PATH_CALENDARIO_LITURGICO > data/calendari_liturgici/calendario_2019-2050_with_links.json
+mlr --c2j cat $PATH_CALENDARIO_LITURGICO > data/calendari_liturgici/calendario_2019-2050.json
 
 # to do
 # si potrebbero selezionare i valori univoci di id_liturgia, prendere i campi popolati di liturgia1 e liturgia2 e ripeterli per evitare di incorrere in null

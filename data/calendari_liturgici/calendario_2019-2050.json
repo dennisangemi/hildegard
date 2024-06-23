@@ -10,16 +10,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2019-01-01.html"
 },
 {
-  "date": "2019-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Tuesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2019,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20190101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2019-01-01.html"
-},
-{
   "date": "2019-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Sunday",
@@ -770,16 +760,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2020-01-01.html"
 },
 {
-  "date": "2020-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Wednesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2020,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20200101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2020-01-01.html"
-},
-{
   "date": "2020-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Monday",
@@ -1048,16 +1028,6 @@
   "anno": 2020,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20200524.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2020-05-24.html"
-},
-{
-  "date": "2020-05-31",
-  "evento": "Pentecoste",
-  "weekday": "Sunday",
-  "celebrazione": "Domenica di Pentecoste – Messa del giorno",
-  "id_liturgia": "C33-A",
-  "anno": 2020,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20200531.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2020-05-31.html"
 },
 {
   "date": "2020-05-31",
@@ -1420,16 +1390,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2020-11-22.html"
 },
 {
-  "date": "2020-11-22",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-A",
-  "anno": 2020,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20201122.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2020-11-22.html"
-},
-{
   "date": "2020-11-29",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -1480,16 +1440,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2020-12-13.html"
 },
 {
-  "date": "2020-12-13",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-A",
-  "anno": 2020,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20201213.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2020-12-13.html"
-},
-{
   "date": "2020-12-20",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -1518,16 +1468,6 @@
   "anno": 2020,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20201227.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2020-12-27.html"
-},
-{
-  "date": "2021-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Friday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2021,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20210101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2021-01-01.html"
 },
 {
   "date": "2021-01-01",
@@ -2200,16 +2140,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2021-11-21.html"
 },
 {
-  "date": "2021-11-21",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-B",
-  "anno": 2021,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20211121.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2021-11-21.html"
-},
-{
   "date": "2021-11-28",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -2278,26 +2208,6 @@
   "anno": 2021,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20211226.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2021-12-26.html"
-},
-{
-  "date": "2021-12-26",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-B",
-  "anno": 2021,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20211226.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2021-12-26.html"
-},
-{
-  "date": "2022-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Saturday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2022,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20220101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2022-01-01.html"
 },
 {
   "date": "2022-01-01",
@@ -2548,16 +2458,6 @@
   "anno": 2022,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20220424.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2022-04-24.html"
-},
-{
-  "date": "2022-05-01",
-  "evento": "3° Domenica di Pasqua (Misericordias Domini)",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Pasqua",
-  "id_liturgia": "C26-C",
-  "anno": 2022,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20220501.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2022-05-01.html"
 },
 {
   "date": "2022-05-01",
@@ -3070,16 +2970,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2023-01-01.html"
 },
 {
-  "date": "2023-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2023,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20230101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2023-01-01.html"
-},
-{
   "date": "2023-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Friday",
@@ -3470,16 +3360,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2023-07-16.html"
 },
 {
-  "date": "2023-07-16",
-  "evento": "15° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XV domenica del Tempo Ordinario",
-  "id_liturgia": "C50-A",
-  "anno": 2023,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20230716.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2023-07-16.html"
-},
-{
   "date": "2023-07-23",
   "evento": "16° D.T.O.",
   "weekday": "Sunday",
@@ -3770,16 +3650,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2023-12-10.html"
 },
 {
-  "date": "2023-12-10",
-  "evento": "2° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Avvento",
-  "id_liturgia": "C2-A",
-  "anno": 2023,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20231210.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2023-12-10.html"
-},
-{
   "date": "2023-12-17",
   "evento": "3° Domenica di Avvento - Gaudete",
   "weekday": "Sunday",
@@ -3818,26 +3688,6 @@
   "anno": 2023,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20231231.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2023-12-31.html"
-},
-{
-  "date": "2023-12-31",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-A",
-  "anno": 2023,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20231231.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2023-12-31.html"
-},
-{
-  "date": "2024-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Monday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2024,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20240101.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2024-01-01.html"
 },
 {
   "date": "2024-01-01",
@@ -3918,16 +3768,6 @@
   "anno": 2024,
   "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20240204.shtml",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2024-02-04.html"
-},
-{
-  "date": "2024-02-11",
-  "evento": "6° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "VI domenica del Tempo Ordinario",
-  "id_liturgia": "C41-B",
-  "anno": 2024,
-  "liturgia1": "http://www.lachiesa.it/calendario/Detailed/20240211.shtml",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2024-02-11.html"
 },
 {
   "date": "2024-02-11",
@@ -4608,16 +4448,6 @@
   "anno": 2024,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2024-12-29.html"
-},
-{
-  "date": "2025-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Wednesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2025,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2025-01-01.html"
 },
 {
   "date": "2025-01-01",
@@ -5360,16 +5190,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-01-01.html"
 },
 {
-  "date": "2026-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Thursday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2026,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2026-01-01.html"
-},
-{
   "date": "2026-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Tuesday",
@@ -5448,16 +5268,6 @@
   "anno": 2026,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-02-15.html"
-},
-{
-  "date": "2026-02-22",
-  "evento": "1° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Quaresima",
-  "id_liturgia": "C14-A",
-  "anno": 2026,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2026-02-22.html"
 },
 {
   "date": "2026-02-22",
@@ -5658,16 +5468,6 @@
   "anno": 2026,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-05-24.html"
-},
-{
-  "date": "2026-05-31",
-  "evento": "Solennità della Santissima Trinità",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità della SS Trinità",
-  "id_liturgia": "C34-A",
-  "anno": 2026,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2026-05-31.html"
 },
 {
   "date": "2026-05-31",
@@ -6030,16 +5830,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-11-22.html"
 },
 {
-  "date": "2026-11-22",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-A",
-  "anno": 2026,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2026-11-22.html"
-},
-{
   "date": "2026-11-29",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -6090,16 +5880,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-12-13.html"
 },
 {
-  "date": "2026-12-13",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-A",
-  "anno": 2026,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2026-12-13.html"
-},
-{
   "date": "2026-12-20",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -6128,16 +5908,6 @@
   "anno": 2026,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2026-12-27.html"
-},
-{
-  "date": "2027-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Friday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2027,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2027-01-01.html"
 },
 {
   "date": "2027-01-01",
@@ -6810,16 +6580,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2027-11-21.html"
 },
 {
-  "date": "2027-11-21",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-B",
-  "anno": 2027,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2027-11-21.html"
-},
-{
   "date": "2027-11-28",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -6888,26 +6648,6 @@
   "anno": 2027,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2027-12-26.html"
-},
-{
-  "date": "2027-12-26",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-B",
-  "anno": 2027,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2027-12-26.html"
-},
-{
-  "date": "2028-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Saturday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2028,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2028-01-01.html"
 },
 {
   "date": "2028-01-01",
@@ -7310,16 +7050,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2028-07-16.html"
 },
 {
-  "date": "2028-07-16",
-  "evento": "15° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XV domenica del Tempo Ordinario",
-  "id_liturgia": "C50-C",
-  "anno": 2028,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2028-07-16.html"
-},
-{
   "date": "2028-07-23",
   "evento": "16° D.T.O.",
   "weekday": "Sunday",
@@ -7610,16 +7340,6 @@
   "liturgia2": "https://liturgia.silvestrini.org/letture/2028-12-10.html"
 },
 {
-  "date": "2028-12-10",
-  "evento": "2° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Avvento",
-  "id_liturgia": "C2-C",
-  "anno": 2028,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2028-12-10.html"
-},
-{
   "date": "2028-12-17",
   "evento": "3° Domenica di Avvento - Gaudete",
   "weekday": "Sunday",
@@ -7658,26 +7378,6 @@
   "anno": 2028,
   "liturgia1": "null",
   "liturgia2": "https://liturgia.silvestrini.org/letture/2028-12-31.html"
-},
-{
-  "date": "2028-12-31",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-C",
-  "anno": 2028,
-  "liturgia1": "null",
-  "liturgia2": "https://liturgia.silvestrini.org/letture/2028-12-31.html"
-},
-{
-  "date": "2029-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Monday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
 },
 {
   "date": "2029-01-01",
@@ -7755,16 +7455,6 @@
   "weekday": "Sunday",
   "celebrazione": "V domenica del Tempo Ordinario",
   "id_liturgia": "C40-A",
-  "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2029-02-11",
-  "evento": "6° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "VI domenica del Tempo Ordinario",
-  "id_liturgia": "C41-A",
   "anno": 2029,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -7875,16 +7565,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2029-03-30",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2029,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -8230,16 +7910,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2029-10-07",
-  "evento": "27° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXVII domenica del Tempo Ordinario",
-  "id_liturgia": "C62-A",
-  "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2029-10-14",
   "evento": "28° D.T.O.",
   "weekday": "Sunday",
@@ -8400,16 +8070,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2029-12-16",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-A",
-  "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2029-12-23",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -8436,16 +8096,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-A",
   "anno": 2029,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2030-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Tuesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2030,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -8655,16 +8305,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-B",
-  "anno": 2030,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2030-04-19",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
   "anno": 2030,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -9210,16 +8850,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2031-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Wednesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2031,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2031-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Monday",
@@ -9395,16 +9025,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-C",
-  "anno": 2031,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2031-04-11",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
   "anno": 2031,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -9950,16 +9570,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2032-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Thursday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2032-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Tuesday",
@@ -10050,16 +9660,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2032-02-22",
-  "evento": "2° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Quaresima",
-  "id_liturgia": "C15-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2032-02-29",
   "evento": "3° Domenica di Quaresima",
   "weekday": "Sunday",
@@ -10135,16 +9735,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2032-03-26",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2032,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -10520,16 +10110,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2032-10-24",
-  "evento": "30° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXX domenica del Tempo Ordinario",
-  "id_liturgia": "C65-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2032-10-31",
   "evento": "31° D.T.O.",
   "weekday": "Sunday",
@@ -10620,16 +10200,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2032-11-21",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2032-11-28",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -10696,26 +10266,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-A",
   "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2032-12-26",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-A",
-  "anno": 2032,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2033-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Saturday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2033,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -10940,16 +10490,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2033-04-15",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
-  "anno": 2033,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2033-04-17",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -10965,16 +10505,6 @@
   "weekday": "Sunday",
   "celebrazione": "II domenica di Pasqua",
   "id_liturgia": "C25-B",
-  "anno": 2033,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2033-05-01",
-  "evento": "3° Domenica di Pasqua (Misericordias Domini)",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Pasqua",
-  "id_liturgia": "C26-B",
   "anno": 2033,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -11490,16 +11020,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2034-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2034-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Friday",
@@ -11700,16 +11220,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2034-04-07",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
-  "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2034-04-09",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -11875,16 +11385,6 @@
   "weekday": "Sunday",
   "celebrazione": "XIV domenica del Tempo Ordinario",
   "id_liturgia": "C49-C",
-  "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2034-07-16",
-  "evento": "15° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XV domenica del Tempo Ordinario",
-  "id_liturgia": "C50-C",
   "anno": 2034,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -12190,16 +11690,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2034-12-10",
-  "evento": "2° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Avvento",
-  "id_liturgia": "C2-C",
-  "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2034-12-17",
   "evento": "3° Domenica di Avvento - Gaudete",
   "weekday": "Sunday",
@@ -12236,26 +11726,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2034-12-31",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-C",
-  "anno": 2034,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2035-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Monday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2035,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -12335,16 +11805,6 @@
   "weekday": "Sunday",
   "celebrazione": "V domenica del Tempo Ordinario",
   "id_liturgia": "C40-A",
-  "anno": 2035,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2035-02-11",
-  "evento": "1° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Quaresima",
-  "id_liturgia": "C14-A",
   "anno": 2035,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -12445,16 +11905,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2035,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2035-03-23",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2035,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -12810,16 +12260,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2035-10-07",
-  "evento": "27° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXVII domenica del Tempo Ordinario",
-  "id_liturgia": "C62-A",
-  "anno": 2035,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2035-10-14",
   "evento": "28° D.T.O.",
   "weekday": "Sunday",
@@ -12980,16 +12420,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2035-12-16",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-A",
-  "anno": 2035,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2035-12-23",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -13016,16 +12446,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-A",
   "anno": 2035,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2036-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Tuesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2036,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -13225,16 +12645,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-B",
-  "anno": 2036,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2036-04-11",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
   "anno": 2036,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -13780,16 +13190,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2037-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Thursday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2037-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Tuesday",
@@ -13865,16 +13265,6 @@
   "weekday": "Sunday",
   "celebrazione": "VI domenica del Tempo Ordinario",
   "id_liturgia": "C41-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2037-02-22",
-  "evento": "1° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Quaresima",
-  "id_liturgia": "C14-C",
   "anno": 2037,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -13990,16 +13380,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2037-04-03",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2037-04-05",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -14075,16 +13455,6 @@
   "weekday": "Sunday",
   "celebrazione": "Domenica di Pentecoste – Messa del giorno",
   "id_liturgia": "C33-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2037-05-31",
-  "evento": "Solennità della Santissima Trinità",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità della SS Trinità",
-  "id_liturgia": "C34-C",
   "anno": 2037,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -14450,26 +13820,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2037-11-22",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2037-11-29",
-  "evento": "1° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Avvento",
-  "id_liturgia": "C1-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2037-11-29",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -14495,16 +13845,6 @@
   "weekday": "Tuesday",
   "celebrazione": "8 dicembre: Immacolata Concezione della beata Vergine Maria",
   "id_liturgia": "C84-C",
-  "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2037-12-13",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-C",
   "anno": 2037,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -14546,16 +13886,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2037,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2038-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Friday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2038,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -14785,16 +14115,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2038,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2038-04-23",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2038,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -15130,16 +14450,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2038-10-24",
-  "evento": "30° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXX domenica del Tempo Ordinario",
-  "id_liturgia": "C65-A",
-  "anno": 2038,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2038-10-31",
   "evento": "31° D.T.O.",
   "weekday": "Sunday",
@@ -15230,16 +14540,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2038-11-21",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-A",
-  "anno": 2038,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2038-11-28",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -15306,26 +14606,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-A",
   "anno": 2038,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2038-12-26",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-A",
-  "anno": 2038,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2039-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Saturday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2039,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -15540,16 +14820,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2039-04-08",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
-  "anno": 2039,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2039-04-10",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -15575,16 +14845,6 @@
   "weekday": "Sunday",
   "celebrazione": "III domenica di Pasqua",
   "id_liturgia": "C26-B",
-  "anno": 2039,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2039-05-01",
-  "evento": "4° Domenica di Pasqua (Jubilate)",
-  "weekday": "Sunday",
-  "celebrazione": "IV domenica di Pasqua",
-  "id_liturgia": "C27-B",
   "anno": 2039,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -16080,16 +15340,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2040-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2040,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2040-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Friday",
@@ -16265,16 +15515,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-C",
-  "anno": 2040,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2040-03-30",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
   "anno": 2040,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -16620,16 +15860,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2040-10-07",
-  "evento": "27° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXVII domenica del Tempo Ordinario",
-  "id_liturgia": "C62-C",
-  "anno": 2040,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2040-10-14",
   "evento": "28° D.T.O.",
   "weekday": "Sunday",
@@ -16790,16 +16020,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2040-12-16",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-C",
-  "anno": 2040,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2040-12-23",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -16826,16 +16046,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2040,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2041-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Tuesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2041,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -17045,16 +16255,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2041,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2041-04-19",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2041,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -17600,16 +16800,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2042-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Wednesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2042,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2042-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Monday",
@@ -17775,16 +16965,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-B",
-  "anno": 2042,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2042-04-04",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
   "anno": 2042,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -18340,16 +17520,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2043-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Thursday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2043-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Tuesday",
@@ -18425,16 +17595,6 @@
   "weekday": "Sunday",
   "celebrazione": "I domenica di Quaresima",
   "id_liturgia": "C14-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2043-02-22",
-  "evento": "2° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Quaresima",
-  "id_liturgia": "C15-C",
   "anno": 2043,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -18540,16 +17700,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2043-03-27",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2043-03-29",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -18635,16 +17785,6 @@
   "weekday": "Sunday",
   "celebrazione": "Solennità della SS Trinità",
   "id_liturgia": "C34-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2043-05-31",
-  "evento": "Santissimo Corpo e Sangue di Cristo",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità del SS Corpo e Sangue di Cristo",
-  "id_liturgia": "C35-C",
   "anno": 2043,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -19010,26 +18150,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2043-11-22",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2043-11-29",
-  "evento": "1° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Avvento",
-  "id_liturgia": "C1-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2043-11-29",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -19055,16 +18175,6 @@
   "weekday": "Tuesday",
   "celebrazione": "8 dicembre: Immacolata Concezione della beata Vergine Maria",
   "id_liturgia": "C84-C",
-  "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2043-12-13",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-C",
   "anno": 2043,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -19106,16 +18216,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2043,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2044-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Friday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2044,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -19350,16 +18450,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2044-04-15",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
-  "anno": 2044,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2044-04-17",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -19375,16 +18465,6 @@
   "weekday": "Sunday",
   "celebrazione": "II domenica di Pasqua",
   "id_liturgia": "C25-A",
-  "anno": 2044,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2044-05-01",
-  "evento": "3° Domenica di Pasqua (Misericordias Domini)",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Pasqua",
-  "id_liturgia": "C26-A",
   "anno": 2044,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -19900,16 +18980,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2045-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2045-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Friday",
@@ -20110,16 +19180,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2045-04-07",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
-  "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2045-04-09",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -20285,16 +19345,6 @@
   "weekday": "Sunday",
   "celebrazione": "XIV domenica del Tempo Ordinario",
   "id_liturgia": "C49-B",
-  "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2045-07-16",
-  "evento": "15° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XV domenica del Tempo Ordinario",
-  "id_liturgia": "C50-B",
   "anno": 2045,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -20600,16 +19650,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2045-12-10",
-  "evento": "2° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "II domenica di Avvento",
-  "id_liturgia": "C2-B",
-  "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2045-12-17",
   "evento": "3° Domenica di Avvento - Gaudete",
   "weekday": "Sunday",
@@ -20646,26 +19686,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-B",
   "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2045-12-31",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-B",
-  "anno": 2045,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2046-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Monday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2046,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -20745,16 +19765,6 @@
   "weekday": "Sunday",
   "celebrazione": "V domenica del Tempo Ordinario",
   "id_liturgia": "C40-C",
-  "anno": 2046,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2046-02-11",
-  "evento": "1° Domenica di Quaresima",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Quaresima",
-  "id_liturgia": "C14-C",
   "anno": 2046,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -20855,16 +19865,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-C",
-  "anno": 2046,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2046-03-23",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
   "anno": 2046,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -21220,16 +20220,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2046-10-07",
-  "evento": "27° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXVII domenica del Tempo Ordinario",
-  "id_liturgia": "C62-C",
-  "anno": 2046,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2046-10-14",
   "evento": "28° D.T.O.",
   "weekday": "Sunday",
@@ -21390,16 +20380,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2046-12-16",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-C",
-  "anno": 2046,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2046-12-23",
   "evento": "4° Domenica di Avvento",
   "weekday": "Sunday",
@@ -21426,16 +20406,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2046,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2047-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Tuesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2047,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -21635,16 +20605,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-A",
-  "anno": 2047,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2047-04-12",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
   "anno": 2047,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -22200,16 +21160,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2048-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Wednesday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2048-01-06",
   "evento": "Epifania del Signore",
   "weekday": "Monday",
@@ -22390,16 +21340,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2048-04-03",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2048-04-05",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -22475,16 +21415,6 @@
   "weekday": "Sunday",
   "celebrazione": "Domenica di Pentecoste – Messa del giorno",
   "id_liturgia": "C33-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2048-05-31",
-  "evento": "Solennità della Santissima Trinità",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità della SS Trinità",
-  "id_liturgia": "C34-B",
   "anno": 2048,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -22850,26 +21780,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2048-11-22",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2048-11-29",
-  "evento": "1° Domenica di Avvento",
-  "weekday": "Sunday",
-  "celebrazione": "I domenica di Avvento",
-  "id_liturgia": "C1-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2048-11-29",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -22895,16 +21805,6 @@
   "weekday": "Tuesday",
   "celebrazione": "8 dicembre: Immacolata Concezione della beata Vergine Maria",
   "id_liturgia": "C84-B",
-  "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2048-12-13",
-  "evento": "3° Domenica di Avvento - Gaudete",
-  "weekday": "Sunday",
-  "celebrazione": "III domenica di Avvento",
-  "id_liturgia": "C3-B",
   "anno": 2048,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -22946,16 +21846,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-B",
   "anno": 2048,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2049-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Friday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-C",
-  "anno": 2049,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -23175,16 +22065,6 @@
   "weekday": "Thursday",
   "celebrazione": "Giovedì Santo – Messa vespertina «Cena del Signore»",
   "id_liturgia": "C21-C",
-  "anno": 2049,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2049-04-16",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-C",
   "anno": 2049,
   "liturgia1": "null",
   "liturgia2": "null"
@@ -23530,16 +22410,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2049-10-24",
-  "evento": "30° D.T.O.",
-  "weekday": "Sunday",
-  "celebrazione": "XXX domenica del Tempo Ordinario",
-  "id_liturgia": "C65-C",
-  "anno": 2049,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2049-10-31",
   "evento": "31° D.T.O.",
   "weekday": "Sunday",
@@ -23630,16 +22500,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2049-11-21",
-  "evento": "34° D.T.O. - Solennità di Cristo Re",
-  "weekday": "Sunday",
-  "celebrazione": "Solennità di nostro Signore Gesù Cristo Re dell’universo",
-  "id_liturgia": "C69-C",
-  "anno": 2049,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2049-11-28",
   "evento": "1° Domenica di Avvento",
   "weekday": "Sunday",
@@ -23706,26 +22566,6 @@
   "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
   "id_liturgia": "C9-C",
   "anno": 2049,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2049-12-26",
-  "evento": "Festa della Sacra Famiglia",
-  "weekday": "Sunday",
-  "celebrazione": "Santa Famiglia di Gesù, Maria e Giuseppe",
-  "id_liturgia": "C9-C",
-  "anno": 2049,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2050-01-01",
-  "evento": "Maria Santissima Madre di Dio",
-  "weekday": "Saturday",
-  "celebrazione": "Solennità di Maria SS Madre di Dio",
-  "id_liturgia": "C10-A",
-  "anno": 2050,
   "liturgia1": "null",
   "liturgia2": "null"
 },
@@ -23940,16 +22780,6 @@
   "liturgia2": "null"
 },
 {
-  "date": "2050-04-08",
-  "evento": "Venerdì Santo (Passione del Signore)",
-  "weekday": "Friday",
-  "celebrazione": "Venerdì Santo «Passione del Signore»",
-  "id_liturgia": "C22-A",
-  "anno": 2050,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
   "date": "2050-04-10",
   "evento": "Pasqua - Risurrezione del Signore",
   "weekday": "Sunday",
@@ -23975,16 +22805,6 @@
   "weekday": "Sunday",
   "celebrazione": "III domenica di Pasqua",
   "id_liturgia": "C26-A",
-  "anno": 2050,
-  "liturgia1": "null",
-  "liturgia2": "null"
-},
-{
-  "date": "2050-05-01",
-  "evento": "4° Domenica di Pasqua (Jubilate)",
-  "weekday": "Sunday",
-  "celebrazione": "IV domenica di Pasqua",
-  "id_liturgia": "C27-A",
   "anno": 2050,
   "liturgia1": "null",
   "liturgia2": "null"

@@ -1,6 +1,5 @@
 date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2019-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-C,2019,http://www.lachiesa.it/calendario/Detailed/20190101.shtml,https://liturgia.silvestrini.org/letture/2019-01-01.html
-2019-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-C,2019,http://www.lachiesa.it/calendario/Detailed/20190101.shtml,https://liturgia.silvestrini.org/letture/2019-01-01.html
 2019-01-06,Epifania del Signore,Sunday,Epifania del Signore,C12-C,2019,http://www.lachiesa.it/calendario/Detailed/20190106.shtml,https://liturgia.silvestrini.org/letture/2019-01-06.html
 2019-01-13,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2019,http://www.lachiesa.it/calendario/Detailed/20190113.shtml,https://liturgia.silvestrini.org/letture/2019-01-13.html
 2019-01-20,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2019,http://www.lachiesa.it/calendario/Detailed/20190120.shtml,https://liturgia.silvestrini.org/letture/2019-01-20.html
@@ -76,7 +75,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2019-12-25,Natale del Signore,Wednesday,Natale del Signore – Messa del giorno,C8-C,2019,http://www.lachiesa.it/calendario/Detailed/20191225.shtml,https://liturgia.silvestrini.org/letture/2019-12-25.html
 2019-12-29,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2019,http://www.lachiesa.it/calendario/Detailed/20191229.shtml,https://liturgia.silvestrini.org/letture/2019-12-29.html
 2020-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-A,2020,http://www.lachiesa.it/calendario/Detailed/20200101.shtml,https://liturgia.silvestrini.org/letture/2020-01-01.html
-2020-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-A,2020,http://www.lachiesa.it/calendario/Detailed/20200101.shtml,https://liturgia.silvestrini.org/letture/2020-01-01.html
 2020-01-06,Epifania del Signore,Monday,Epifania del Signore,C12-A,2020,http://www.lachiesa.it/calendario/Detailed/20200106.shtml,https://liturgia.silvestrini.org/letture/2020-01-06.html
 2020-01-12,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2020,http://www.lachiesa.it/calendario/Detailed/20200112.shtml,https://liturgia.silvestrini.org/letture/2020-01-12.html
 2020-01-19,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-A,2020,http://www.lachiesa.it/calendario/Detailed/20200119.shtml,https://liturgia.silvestrini.org/letture/2020-01-19.html
@@ -104,7 +102,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2020-05-10,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-A,2020,http://www.lachiesa.it/calendario/Detailed/20200510.shtml,https://liturgia.silvestrini.org/letture/2020-05-10.html
 2020-05-17,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-A,2020,http://www.lachiesa.it/calendario/Detailed/20200517.shtml,https://liturgia.silvestrini.org/letture/2020-05-17.html
 2020-05-24,Ascensione di Gesù,Sunday,Ascensione del Signore,C30-A,2020,http://www.lachiesa.it/calendario/Detailed/20200524.shtml,https://liturgia.silvestrini.org/letture/2020-05-24.html
-2020-05-31,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A,2020,http://www.lachiesa.it/calendario/Detailed/20200531.shtml,https://liturgia.silvestrini.org/letture/2020-05-31.html
 2020-05-31,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A,2020,http://www.lachiesa.it/calendario/Detailed/20200531.shtml,https://liturgia.silvestrini.org/letture/2020-05-31.html
 2020-06-07,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-A,2020,http://www.lachiesa.it/calendario/Detailed/20200607.shtml,https://liturgia.silvestrini.org/letture/2020-06-07.html
 2020-06-14,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A,2020,http://www.lachiesa.it/calendario/Detailed/20200614.shtml,https://liturgia.silvestrini.org/letture/2020-06-14.html
@@ -141,17 +138,14 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2020-11-09,Dedicazione Basilica Lateranense,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-A,2020,http://www.lachiesa.it/calendario/Detailed/20201109.shtml,https://liturgia.silvestrini.org/letture/2020-11-09.html
 2020-11-15,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-A,2020,http://www.lachiesa.it/calendario/Detailed/20201115.shtml,https://liturgia.silvestrini.org/letture/2020-11-15.html
 2020-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2020,http://www.lachiesa.it/calendario/Detailed/20201122.shtml,https://liturgia.silvestrini.org/letture/2020-11-22.html
-2020-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2020,http://www.lachiesa.it/calendario/Detailed/20201122.shtml,https://liturgia.silvestrini.org/letture/2020-11-22.html
 2020-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2020,http://www.lachiesa.it/calendario/Detailed/20201129.shtml,https://liturgia.silvestrini.org/letture/2020-11-29.html
 2020-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2020,null,null
 2020-12-06,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2020,http://www.lachiesa.it/calendario/Detailed/20201206.shtml,https://liturgia.silvestrini.org/letture/2020-12-06.html
 2020-12-08,Immacolata Concezione,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2020,http://www.lachiesa.it/calendario/Detailed/20201208.shtml,https://liturgia.silvestrini.org/letture/2020-12-08.html
 2020-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2020,http://www.lachiesa.it/calendario/Detailed/20201213.shtml,https://liturgia.silvestrini.org/letture/2020-12-13.html
-2020-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2020,http://www.lachiesa.it/calendario/Detailed/20201213.shtml,https://liturgia.silvestrini.org/letture/2020-12-13.html
 2020-12-20,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2020,http://www.lachiesa.it/calendario/Detailed/20201220.shtml,https://liturgia.silvestrini.org/letture/2020-12-20.html
 2020-12-25,Natale del Signore,Friday,Natale del Signore – Messa del giorno,C8-A,2020,http://www.lachiesa.it/calendario/Detailed/20201225.shtml,https://liturgia.silvestrini.org/letture/2020-12-25.html
 2020-12-27,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2020,http://www.lachiesa.it/calendario/Detailed/20201227.shtml,https://liturgia.silvestrini.org/letture/2020-12-27.html
-2021-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-B,2021,http://www.lachiesa.it/calendario/Detailed/20210101.shtml,https://liturgia.silvestrini.org/letture/2021-01-01.html
 2021-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-B,2021,http://www.lachiesa.it/calendario/Detailed/20210101.shtml,https://liturgia.silvestrini.org/letture/2021-01-01.html
 2021-01-03,2° domenica dopo natale,Sunday,II domenica dopo Natale,C11-B,2021,http://www.lachiesa.it/calendario/Detailed/20210103.shtml,https://liturgia.silvestrini.org/letture/2021-01-03.html
 2021-01-06,Epifania del Signore,Wednesday,Epifania del Signore,C12-B,2021,http://www.lachiesa.it/calendario/Detailed/20210106.shtml,https://liturgia.silvestrini.org/letture/2021-01-06.html
@@ -219,7 +213,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2021-11-09,Dedicazione Basilica Lateranense,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-B,2021,http://www.lachiesa.it/calendario/Detailed/20211109.shtml,https://liturgia.silvestrini.org/letture/2021-11-09.html
 2021-11-14,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-B,2021,http://www.lachiesa.it/calendario/Detailed/20211114.shtml,https://liturgia.silvestrini.org/letture/2021-11-14.html
 2021-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2021,http://www.lachiesa.it/calendario/Detailed/20211121.shtml,https://liturgia.silvestrini.org/letture/2021-11-21.html
-2021-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2021,http://www.lachiesa.it/calendario/Detailed/20211121.shtml,https://liturgia.silvestrini.org/letture/2021-11-21.html
 2021-11-28,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-B,2021,http://www.lachiesa.it/calendario/Detailed/20211128.shtml,https://liturgia.silvestrini.org/letture/2021-11-28.html
 2021-12-05,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-B,2021,http://www.lachiesa.it/calendario/Detailed/20211205.shtml,https://liturgia.silvestrini.org/letture/2021-12-05.html
 2021-12-08,Immacolata Concezione,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B,2021,http://www.lachiesa.it/calendario/Detailed/20211208.shtml,https://liturgia.silvestrini.org/letture/2021-12-08.html
@@ -227,8 +220,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2021-12-19,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-B,2021,http://www.lachiesa.it/calendario/Detailed/20211219.shtml,https://liturgia.silvestrini.org/letture/2021-12-19.html
 2021-12-25,Natale del Signore,Saturday,Natale del Signore – Messa del giorno,C8-B,2021,http://www.lachiesa.it/calendario/Detailed/20211225.shtml,https://liturgia.silvestrini.org/letture/2021-12-25.html
 2021-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2021,http://www.lachiesa.it/calendario/Detailed/20211226.shtml,https://liturgia.silvestrini.org/letture/2021-12-26.html
-2021-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2021,http://www.lachiesa.it/calendario/Detailed/20211226.shtml,https://liturgia.silvestrini.org/letture/2021-12-26.html
-2022-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-C,2022,http://www.lachiesa.it/calendario/Detailed/20220101.shtml,https://liturgia.silvestrini.org/letture/2022-01-01.html
 2022-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-C,2022,http://www.lachiesa.it/calendario/Detailed/20220101.shtml,https://liturgia.silvestrini.org/letture/2022-01-01.html
 2022-01-06,Epifania del Signore,Thursday,Epifania del Signore,C12-C,2022,http://www.lachiesa.it/calendario/Detailed/20220106.shtml,https://liturgia.silvestrini.org/letture/2022-01-06.html
 2022-01-09,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2022,http://www.lachiesa.it/calendario/Detailed/20220109.shtml,https://liturgia.silvestrini.org/letture/2022-01-09.html
@@ -254,7 +245,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2022-04-15,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2022,null,null
 2022-04-17,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2022,http://www.lachiesa.it/calendario/Detailed/20220417.shtml,https://liturgia.silvestrini.org/letture/2022-04-17.html
 2022-04-24,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2022,http://www.lachiesa.it/calendario/Detailed/20220424.shtml,https://liturgia.silvestrini.org/letture/2022-04-24.html
-2022-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-C,2022,http://www.lachiesa.it/calendario/Detailed/20220501.shtml,https://liturgia.silvestrini.org/letture/2022-05-01.html
 2022-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-C,2022,http://www.lachiesa.it/calendario/Detailed/20220501.shtml,https://liturgia.silvestrini.org/letture/2022-05-01.html
 2022-05-08,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-C,2022,http://www.lachiesa.it/calendario/Detailed/20220508.shtml,https://liturgia.silvestrini.org/letture/2022-05-08.html
 2022-05-15,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-C,2022,http://www.lachiesa.it/calendario/Detailed/20220515.shtml,https://liturgia.silvestrini.org/letture/2022-05-15.html
@@ -306,7 +296,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2022-12-25,Natale del Signore,Sunday,Natale del Signore – Messa del giorno,C8-C,2022,http://www.lachiesa.it/calendario/Detailed/20221225.shtml,https://liturgia.silvestrini.org/letture/2022-12-25.html
 2022-12-30,Festa della Sacra Famiglia,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2022,http://www.lachiesa.it/calendario/Detailed/20221230.shtml,https://liturgia.silvestrini.org/letture/2022-12-30.html
 2023-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-A,2023,http://www.lachiesa.it/calendario/Detailed/20230101.shtml,https://liturgia.silvestrini.org/letture/2023-01-01.html
-2023-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-A,2023,http://www.lachiesa.it/calendario/Detailed/20230101.shtml,https://liturgia.silvestrini.org/letture/2023-01-01.html
 2023-01-06,Epifania del Signore,Friday,Epifania del Signore,C12-A,2023,http://www.lachiesa.it/calendario/Detailed/20230106.shtml,https://liturgia.silvestrini.org/letture/2023-01-06.html
 2023-01-08,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2023,http://www.lachiesa.it/calendario/Detailed/20230108.shtml,https://liturgia.silvestrini.org/letture/2023-01-08.html
 2023-01-15,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-A,2023,http://www.lachiesa.it/calendario/Detailed/20230115.shtml,https://liturgia.silvestrini.org/letture/2023-01-15.html
@@ -346,7 +335,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2023-07-02,13° D.T.O.,Sunday,XIII domenica del Tempo Ordinario,C48-A,2023,http://www.lachiesa.it/calendario/Detailed/20230702.shtml,https://liturgia.silvestrini.org/letture/2023-07-02.html
 2023-07-09,14° D.T.O.,Sunday,XIV domenica del Tempo Ordinario,C49-A,2023,http://www.lachiesa.it/calendario/Detailed/20230709.shtml,https://liturgia.silvestrini.org/letture/2023-07-09.html
 2023-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-A,2023,http://www.lachiesa.it/calendario/Detailed/20230716.shtml,https://liturgia.silvestrini.org/letture/2023-07-16.html
-2023-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-A,2023,http://www.lachiesa.it/calendario/Detailed/20230716.shtml,https://liturgia.silvestrini.org/letture/2023-07-16.html
 2023-07-23,16° D.T.O.,Sunday,XVI domenica del Tempo Ordinario,C51-A,2023,http://www.lachiesa.it/calendario/Detailed/20230723.shtml,https://liturgia.silvestrini.org/letture/2023-07-23.html
 2023-07-30,17° D.T.O.,Sunday,XVII domenica del Tempo Ordinario,C52-A,2023,http://www.lachiesa.it/calendario/Detailed/20230730.shtml,https://liturgia.silvestrini.org/letture/2023-07-30.html
 2023-08-06,Trasfigurazione del Signore,Sunday,6 agosto: Trasfigurazione del Signore,C75-A,2023,http://www.lachiesa.it/calendario/Detailed/20230806.shtml,https://liturgia.silvestrini.org/letture/2023-08-06.html
@@ -376,13 +364,10 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2023-12-03,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2023,http://www.lachiesa.it/calendario/Detailed/20231203.shtml,https://liturgia.silvestrini.org/letture/2023-12-03.html
 2023-12-08,Immacolata Concezione,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2023,http://www.lachiesa.it/calendario/Detailed/20231208.shtml,https://liturgia.silvestrini.org/letture/2023-12-08.html
 2023-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2023,http://www.lachiesa.it/calendario/Detailed/20231210.shtml,https://liturgia.silvestrini.org/letture/2023-12-10.html
-2023-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2023,http://www.lachiesa.it/calendario/Detailed/20231210.shtml,https://liturgia.silvestrini.org/letture/2023-12-10.html
 2023-12-17,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2023,http://www.lachiesa.it/calendario/Detailed/20231217.shtml,https://liturgia.silvestrini.org/letture/2023-12-17.html
 2023-12-24,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2023,http://www.lachiesa.it/calendario/Detailed/20231224.shtml,https://liturgia.silvestrini.org/letture/2023-12-24.html
 2023-12-25,Natale del Signore,Monday,Natale del Signore – Messa del giorno,C8-A,2023,http://www.lachiesa.it/calendario/Detailed/20231225.shtml,https://liturgia.silvestrini.org/letture/2023-12-25.html
 2023-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2023,http://www.lachiesa.it/calendario/Detailed/20231231.shtml,https://liturgia.silvestrini.org/letture/2023-12-31.html
-2023-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2023,http://www.lachiesa.it/calendario/Detailed/20231231.shtml,https://liturgia.silvestrini.org/letture/2023-12-31.html
-2024-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-B,2024,http://www.lachiesa.it/calendario/Detailed/20240101.shtml,https://liturgia.silvestrini.org/letture/2024-01-01.html
 2024-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-B,2024,http://www.lachiesa.it/calendario/Detailed/20240101.shtml,https://liturgia.silvestrini.org/letture/2024-01-01.html
 2024-01-06,Epifania del Signore,Saturday,Epifania del Signore,C12-B,2024,http://www.lachiesa.it/calendario/Detailed/20240106.shtml,https://liturgia.silvestrini.org/letture/2024-01-06.html
 2024-01-07,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2024,http://www.lachiesa.it/calendario/Detailed/20240107.shtml,https://liturgia.silvestrini.org/letture/2024-01-07.html
@@ -391,7 +376,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2024-01-28,4° D.T.O.,Sunday,IV domenica del Tempo Ordinario,C39-B,2024,http://www.lachiesa.it/calendario/Detailed/20240128.shtml,https://liturgia.silvestrini.org/letture/2024-01-28.html
 2024-02-02,Presentazione del Signore (Candelora),Friday,2 febbraio: Presentazione del Signore,C70-B,2024,http://www.lachiesa.it/calendario/Detailed/20240202.shtml,https://liturgia.silvestrini.org/letture/2024-02-02.html
 2024-02-04,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-B,2024,http://www.lachiesa.it/calendario/Detailed/20240204.shtml,https://liturgia.silvestrini.org/letture/2024-02-04.html
-2024-02-11,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-B,2024,http://www.lachiesa.it/calendario/Detailed/20240211.shtml,https://liturgia.silvestrini.org/letture/2024-02-11.html
 2024-02-11,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-B,2024,http://www.lachiesa.it/calendario/Detailed/20240211.shtml,https://liturgia.silvestrini.org/letture/2024-02-11.html
 2024-02-18,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-B,2024,http://www.lachiesa.it/calendario/Detailed/20240218.shtml,https://liturgia.silvestrini.org/letture/2024-02-18.html
 2024-02-25,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-B,2024,http://www.lachiesa.it/calendario/Detailed/20240225.shtml,https://liturgia.silvestrini.org/letture/2024-02-25.html
@@ -460,7 +444,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2024-12-22,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-B,2024,null,https://liturgia.silvestrini.org/letture/2024-12-22.html
 2024-12-25,Natale del Signore,Wednesday,Natale del Signore – Messa del giorno,C8-B,2024,null,https://liturgia.silvestrini.org/letture/2024-12-25.html
 2024-12-29,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2024,null,https://liturgia.silvestrini.org/letture/2024-12-29.html
-2025-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-C,2025,null,https://liturgia.silvestrini.org/letture/2025-01-01.html
 2025-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-C,2025,null,https://liturgia.silvestrini.org/letture/2025-01-01.html
 2025-01-06,Epifania del Signore,Monday,Epifania del Signore,C12-C,2025,null,https://liturgia.silvestrini.org/letture/2025-01-06.html
 2025-01-12,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2025,null,https://liturgia.silvestrini.org/letture/2025-01-12.html
@@ -535,7 +518,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2025-12-25,Natale del Signore,Thursday,Natale del Signore – Messa del giorno,C8-C,2025,null,https://liturgia.silvestrini.org/letture/2025-12-25.html
 2025-12-28,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2025,null,https://liturgia.silvestrini.org/letture/2025-12-28.html
 2026-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-A,2026,null,https://liturgia.silvestrini.org/letture/2026-01-01.html
-2026-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-A,2026,null,https://liturgia.silvestrini.org/letture/2026-01-01.html
 2026-01-06,Epifania del Signore,Tuesday,Epifania del Signore,C12-A,2026,null,https://liturgia.silvestrini.org/letture/2026-01-06.html
 2026-01-11,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2026,null,https://liturgia.silvestrini.org/letture/2026-01-11.html
 2026-01-18,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-A,2026,null,https://liturgia.silvestrini.org/letture/2026-01-18.html
@@ -544,7 +526,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2026-02-02,Presentazione del Signore (Candelora),Monday,2 febbraio: Presentazione del Signore,C70-A,2026,null,https://liturgia.silvestrini.org/letture/2026-02-02.html
 2026-02-08,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-A,2026,null,https://liturgia.silvestrini.org/letture/2026-02-08.html
 2026-02-15,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-A,2026,null,https://liturgia.silvestrini.org/letture/2026-02-15.html
-2026-02-22,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2026,null,https://liturgia.silvestrini.org/letture/2026-02-22.html
 2026-02-22,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2026,null,https://liturgia.silvestrini.org/letture/2026-02-22.html
 2026-03-01,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-A,2026,null,https://liturgia.silvestrini.org/letture/2026-03-01.html
 2026-03-08,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-A,2026,null,https://liturgia.silvestrini.org/letture/2026-03-08.html
@@ -565,7 +546,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2026-05-10,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-A,2026,null,https://liturgia.silvestrini.org/letture/2026-05-10.html
 2026-05-17,Ascensione di Gesù,Sunday,Ascensione del Signore,C30-A,2026,null,https://liturgia.silvestrini.org/letture/2026-05-17.html
 2026-05-24,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-A,2026,null,https://liturgia.silvestrini.org/letture/2026-05-24.html
-2026-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-A,2026,null,https://liturgia.silvestrini.org/letture/2026-05-31.html
 2026-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-A,2026,null,https://liturgia.silvestrini.org/letture/2026-05-31.html
 2026-06-07,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-A,2026,null,https://liturgia.silvestrini.org/letture/2026-06-07.html
 2026-06-12,Santissimo Cuore di Gesù,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-A,2026,null,https://liturgia.silvestrini.org/letture/2026-06-12.html
@@ -602,17 +582,14 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2026-11-09,Dedicazione Basilica Lateranense,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-A,2026,null,https://liturgia.silvestrini.org/letture/2026-11-09.html
 2026-11-15,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-A,2026,null,https://liturgia.silvestrini.org/letture/2026-11-15.html
 2026-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2026,null,https://liturgia.silvestrini.org/letture/2026-11-22.html
-2026-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2026,null,https://liturgia.silvestrini.org/letture/2026-11-22.html
 2026-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2026,null,https://liturgia.silvestrini.org/letture/2026-11-29.html
 2026-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2026,null,null
 2026-12-06,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-06.html
 2026-12-08,Immacolata Concezione,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-08.html
 2026-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-13.html
-2026-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-13.html
 2026-12-20,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-20.html
 2026-12-25,Natale del Signore,Friday,Natale del Signore – Messa del giorno,C8-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-25.html
 2026-12-27,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2026,null,https://liturgia.silvestrini.org/letture/2026-12-27.html
-2027-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-B,2027,null,https://liturgia.silvestrini.org/letture/2027-01-01.html
 2027-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-B,2027,null,https://liturgia.silvestrini.org/letture/2027-01-01.html
 2027-01-03,2° domenica dopo natale,Sunday,II domenica dopo Natale,C11-B,2027,null,https://liturgia.silvestrini.org/letture/2027-01-03.html
 2027-01-06,Epifania del Signore,Wednesday,Epifania del Signore,C12-B,2027,null,https://liturgia.silvestrini.org/letture/2027-01-06.html
@@ -680,7 +657,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2027-11-09,Dedicazione Basilica Lateranense,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-B,2027,null,https://liturgia.silvestrini.org/letture/2027-11-09.html
 2027-11-14,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-B,2027,null,https://liturgia.silvestrini.org/letture/2027-11-14.html
 2027-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2027,null,https://liturgia.silvestrini.org/letture/2027-11-21.html
-2027-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2027,null,https://liturgia.silvestrini.org/letture/2027-11-21.html
 2027-11-28,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-B,2027,null,https://liturgia.silvestrini.org/letture/2027-11-28.html
 2027-12-05,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-05.html
 2027-12-08,Immacolata Concezione,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-08.html
@@ -688,8 +664,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2027-12-19,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-19.html
 2027-12-25,Natale del Signore,Saturday,Natale del Signore – Messa del giorno,C8-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-25.html
 2027-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-26.html
-2027-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2027,null,https://liturgia.silvestrini.org/letture/2027-12-26.html
-2028-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-C,2028,null,https://liturgia.silvestrini.org/letture/2028-01-01.html
 2028-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-C,2028,null,https://liturgia.silvestrini.org/letture/2028-01-01.html
 2028-01-06,Epifania del Signore,Thursday,Epifania del Signore,C12-C,2028,null,https://liturgia.silvestrini.org/letture/2028-01-06.html
 2028-01-09,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2028,null,https://liturgia.silvestrini.org/letture/2028-01-09.html
@@ -730,7 +704,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2028-07-02,13° D.T.O.,Sunday,XIII domenica del Tempo Ordinario,C48-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-02.html
 2028-07-09,14° D.T.O.,Sunday,XIV domenica del Tempo Ordinario,C49-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-09.html
 2028-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-16.html
-2028-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-16.html
 2028-07-23,16° D.T.O.,Sunday,XVI domenica del Tempo Ordinario,C51-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-23.html
 2028-07-30,17° D.T.O.,Sunday,XVII domenica del Tempo Ordinario,C52-C,2028,null,https://liturgia.silvestrini.org/letture/2028-07-30.html
 2028-08-06,Trasfigurazione del Signore,Sunday,6 agosto: Trasfigurazione del Signore,C75-C,2028,null,https://liturgia.silvestrini.org/letture/2028-08-06.html
@@ -760,13 +733,10 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2028-12-03,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-03.html
 2028-12-08,Immacolata Concezione,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-08.html
 2028-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-10.html
-2028-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-10.html
 2028-12-17,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-17.html
 2028-12-24,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-24.html
 2028-12-25,Natale del Signore,Monday,Natale del Signore – Messa del giorno,C8-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-25.html
 2028-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-31.html
-2028-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2028,null,https://liturgia.silvestrini.org/letture/2028-12-31.html
-2029-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-A,2029,null,null
 2029-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-A,2029,null,null
 2029-01-06,Epifania del Signore,Saturday,Epifania del Signore,C12-A,2029,null,null
 2029-01-07,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2029,null,null
@@ -775,7 +745,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2029-01-28,4° D.T.O.,Sunday,IV domenica del Tempo Ordinario,C39-A,2029,null,null
 2029-02-02,Presentazione del Signore (Candelora),Friday,2 febbraio: Presentazione del Signore,C70-A,2029,null,null
 2029-02-04,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-A,2029,null,null
-2029-02-11,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-A,2029,null,null
 2029-02-11,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-A,2029,null,null
 2029-02-18,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2029,null,null
 2029-02-25,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-A,2029,null,null
@@ -787,7 +756,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2029-03-29,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2029,null,null
 2029-03-29,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2029,null,null
 2029-03-29,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2029,null,null
-2029-03-30,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2029,null,null
 2029-03-30,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2029,null,null
 2029-04-01,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2029,null,null
 2029-04-08,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2029,null,null
@@ -822,7 +790,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2029-09-23,25° D.T.O.,Sunday,XXV domenica del Tempo Ordinario,C60-A,2029,null,null
 2029-09-30,26° D.T.O.,Sunday,XXVI domenica del Tempo Ordinario,C61-A,2029,null,null
 2029-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-A,2029,null,null
-2029-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-A,2029,null,null
 2029-10-14,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-A,2029,null,null
 2029-10-21,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-A,2029,null,null
 2029-10-28,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2029,null,null
@@ -839,11 +806,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2029-12-08,Immacolata Concezione,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2029,null,null
 2029-12-09,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2029,null,null
 2029-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2029,null,null
-2029-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2029,null,null
 2029-12-23,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2029,null,null
 2029-12-25,Natale del Signore,Tuesday,Natale del Signore – Messa del giorno,C8-A,2029,null,null
 2029-12-30,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2029,null,null
-2030-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-B,2030,null,null
 2030-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-B,2030,null,null
 2030-01-06,Epifania del Signore,Sunday,Epifania del Signore,C12-B,2030,null,null
 2030-01-13,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2030,null,null
@@ -865,7 +830,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2030-04-18,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2030,null,null
 2030-04-18,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2030,null,null
 2030-04-18,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2030,null,null
-2030-04-19,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2030,null,null
 2030-04-19,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2030,null,null
 2030-04-21,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2030,null,null
 2030-04-28,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2030,null,null
@@ -920,7 +884,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2030-12-25,Natale del Signore,Wednesday,Natale del Signore – Messa del giorno,C8-B,2030,null,null
 2030-12-29,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2030,null,null
 2031-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-C,2031,null,null
-2031-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-C,2031,null,null
 2031-01-06,Epifania del Signore,Monday,Epifania del Signore,C12-C,2031,null,null
 2031-01-12,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2031,null,null
 2031-01-19,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2031,null,null
@@ -939,7 +902,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2031-04-10,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2031,null,null
 2031-04-10,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2031,null,null
 2031-04-10,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2031,null,null
-2031-04-11,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2031,null,null
 2031-04-11,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2031,null,null
 2031-04-13,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2031,null,null
 2031-04-20,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2031,null,null
@@ -994,7 +956,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2031-12-25,Natale del Signore,Thursday,Natale del Signore – Messa del giorno,C8-C,2031,null,null
 2031-12-28,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2031,null,null
 2032-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-A,2032,null,null
-2032-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-A,2032,null,null
 2032-01-06,Epifania del Signore,Tuesday,Epifania del Signore,C12-A,2032,null,null
 2032-01-11,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2032,null,null
 2032-01-18,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-A,2032,null,null
@@ -1004,7 +965,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2032-02-08,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-A,2032,null,null
 2032-02-15,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2032,null,null
 2032-02-22,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-A,2032,null,null
-2032-02-22,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-A,2032,null,null
 2032-02-29,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-A,2032,null,null
 2032-03-07,Domenica Laetare,Sunday,IV domenica di Quaresima,C17-A,2032,null,null
 2032-03-14,5° Domenica di Quaresima,Sunday,V domenica di Quaresima,C18-A,2032,null,null
@@ -1013,7 +973,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2032-03-25,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2032,null,null
 2032-03-25,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2032,null,null
 2032-03-25,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2032,null,null
-2032-03-26,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2032,null,null
 2032-03-26,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2032,null,null
 2032-03-28,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2032,null,null
 2032-04-04,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2032,null,null
@@ -1051,7 +1010,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2032-10-10,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-A,2032,null,null
 2032-10-17,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-A,2032,null,null
 2032-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2032,null,null
-2032-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2032,null,null
 2032-10-31,31° D.T.O.,Sunday,XXXI domenica del Tempo Ordinario,C66-A,2032,null,null
 2032-11-01,Solennità di tutti i Santi,Monday,1 novembre: Tutti i Santi,C79-A,2032,null,null
 2032-11-02,Commemorazione dei defunti,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A,2032,null,null
@@ -1061,7 +1019,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2032-11-09,Dedicazione Basilica Lateranense,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-A,2032,null,null
 2032-11-14,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-A,2032,null,null
 2032-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2032,null,null
-2032-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2032,null,null
 2032-11-28,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2032,null,null
 2032-12-05,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2032,null,null
 2032-12-08,Immacolata Concezione,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2032,null,null
@@ -1069,8 +1026,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2032-12-19,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2032,null,null
 2032-12-25,Natale del Signore,Saturday,Natale del Signore – Messa del giorno,C8-A,2032,null,null
 2032-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2032,null,null
-2032-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2032,null,null
-2033-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-B,2033,null,null
 2033-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-B,2033,null,null
 2033-01-06,Epifania del Signore,Thursday,Epifania del Signore,C12-B,2033,null,null
 2033-01-09,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2033,null,null
@@ -1093,10 +1048,8 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2033-04-14,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2033,null,null
 2033-04-14,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2033,null,null
 2033-04-15,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2033,null,null
-2033-04-15,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2033,null,null
 2033-04-17,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2033,null,null
 2033-04-24,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2033,null,null
-2033-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-B,2033,null,null
 2033-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-B,2033,null,null
 2033-05-08,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-B,2033,null,null
 2033-05-15,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-B,2033,null,null
@@ -1148,7 +1101,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2033-12-25,Natale del Signore,Sunday,Natale del Signore – Messa del giorno,C8-B,2033,null,null
 2033-12-30,Festa della Sacra Famiglia,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2033,null,null
 2034-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-C,2034,null,null
-2034-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-C,2034,null,null
 2034-01-06,Epifania del Signore,Friday,Epifania del Signore,C12-C,2034,null,null
 2034-01-08,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2034,null,null
 2034-01-15,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2034,null,null
@@ -1169,7 +1121,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2034-04-06,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2034,null,null
 2034-04-06,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2034,null,null
 2034-04-07,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2034,null,null
-2034-04-07,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2034,null,null
 2034-04-09,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2034,null,null
 2034-04-16,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2034,null,null
 2034-04-23,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-C,2034,null,null
@@ -1187,7 +1138,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2034-06-29,Santi Pietro e Paolo Apostoli,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-C,2034,null,null
 2034-07-02,13° D.T.O.,Sunday,XIII domenica del Tempo Ordinario,C48-C,2034,null,null
 2034-07-09,14° D.T.O.,Sunday,XIV domenica del Tempo Ordinario,C49-C,2034,null,null
-2034-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-C,2034,null,null
 2034-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-C,2034,null,null
 2034-07-23,16° D.T.O.,Sunday,XVI domenica del Tempo Ordinario,C51-C,2034,null,null
 2034-07-30,17° D.T.O.,Sunday,XVII domenica del Tempo Ordinario,C52-C,2034,null,null
@@ -1218,13 +1168,10 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2034-12-03,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2034,null,null
 2034-12-08,Immacolata Concezione,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2034,null,null
 2034-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2034,null,null
-2034-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2034,null,null
 2034-12-17,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2034,null,null
 2034-12-24,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2034,null,null
 2034-12-25,Natale del Signore,Monday,Natale del Signore – Messa del giorno,C8-C,2034,null,null
 2034-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2034,null,null
-2034-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2034,null,null
-2035-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-A,2035,null,null
 2035-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-A,2035,null,null
 2035-01-06,Epifania del Signore,Saturday,Epifania del Signore,C12-A,2035,null,null
 2035-01-07,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2035,null,null
@@ -1233,7 +1180,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2035-01-28,4° D.T.O.,Sunday,IV domenica del Tempo Ordinario,C39-A,2035,null,null
 2035-02-02,Presentazione del Signore (Candelora),Friday,2 febbraio: Presentazione del Signore,C70-A,2035,null,null
 2035-02-04,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-A,2035,null,null
-2035-02-11,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2035,null,null
 2035-02-11,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-A,2035,null,null
 2035-02-18,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-A,2035,null,null
 2035-02-25,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-A,2035,null,null
@@ -1244,7 +1190,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2035-03-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2035,null,null
 2035-03-22,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2035,null,null
 2035-03-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2035,null,null
-2035-03-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2035,null,null
 2035-03-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2035,null,null
 2035-03-25,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2035,null,null
 2035-04-01,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2035,null,null
@@ -1280,7 +1225,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2035-09-23,25° D.T.O.,Sunday,XXV domenica del Tempo Ordinario,C60-A,2035,null,null
 2035-09-30,26° D.T.O.,Sunday,XXVI domenica del Tempo Ordinario,C61-A,2035,null,null
 2035-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-A,2035,null,null
-2035-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-A,2035,null,null
 2035-10-14,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-A,2035,null,null
 2035-10-21,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-A,2035,null,null
 2035-10-28,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2035,null,null
@@ -1297,11 +1241,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2035-12-08,Immacolata Concezione,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2035,null,null
 2035-12-09,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2035,null,null
 2035-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2035,null,null
-2035-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-A,2035,null,null
 2035-12-23,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2035,null,null
 2035-12-25,Natale del Signore,Tuesday,Natale del Signore – Messa del giorno,C8-A,2035,null,null
 2035-12-30,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2035,null,null
-2036-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-B,2036,null,null
 2036-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-B,2036,null,null
 2036-01-06,Epifania del Signore,Sunday,Epifania del Signore,C12-B,2036,null,null
 2036-01-13,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2036,null,null
@@ -1322,7 +1264,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2036-04-10,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2036,null,null
 2036-04-10,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2036,null,null
 2036-04-10,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2036,null,null
-2036-04-11,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2036,null,null
 2036-04-11,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2036,null,null
 2036-04-13,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2036,null,null
 2036-04-20,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2036,null,null
@@ -1377,7 +1318,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2036-12-25,Natale del Signore,Thursday,Natale del Signore – Messa del giorno,C8-B,2036,null,null
 2036-12-28,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2036,null,null
 2037-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-C,2037,null,null
-2037-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-C,2037,null,null
 2037-01-06,Epifania del Signore,Tuesday,Epifania del Signore,C12-C,2037,null,null
 2037-01-11,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2037,null,null
 2037-01-18,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2037,null,null
@@ -1386,7 +1326,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2037-02-02,Presentazione del Signore (Candelora),Monday,2 febbraio: Presentazione del Signore,C70-C,2037,null,null
 2037-02-08,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-C,2037,null,null
 2037-02-15,6° D.T.O.,Sunday,VI domenica del Tempo Ordinario,C41-C,2037,null,null
-2037-02-22,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-C,2037,null,null
 2037-02-22,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-C,2037,null,null
 2037-03-01,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-C,2037,null,null
 2037-03-08,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-C,2037,null,null
@@ -1398,7 +1337,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2037-04-02,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2037,null,null
 2037-04-02,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2037,null,null
 2037-04-03,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2037,null,null
-2037-04-03,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2037,null,null
 2037-04-05,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2037,null,null
 2037-04-12,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2037,null,null
 2037-04-19,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-C,2037,null,null
@@ -1407,7 +1345,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2037-05-10,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-C,2037,null,null
 2037-05-17,Ascensione di Gesù,Sunday,Ascensione del Signore,C30-C,2037,null,null
 2037-05-24,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C,2037,null,null
-2037-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-C,2037,null,null
 2037-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-C,2037,null,null
 2037-06-07,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C,2037,null,null
 2037-06-12,Santissimo Cuore di Gesù,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C,2037,null,null
@@ -1444,17 +1381,13 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2037-11-09,Dedicazione Basilica Lateranense,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-C,2037,null,null
 2037-11-15,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-C,2037,null,null
 2037-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2037,null,null
-2037-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2037,null,null
-2037-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2037,null,null
 2037-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2037,null,null
 2037-12-06,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2037,null,null
 2037-12-08,Immacolata Concezione,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2037,null,null
 2037-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2037,null,null
-2037-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2037,null,null
 2037-12-20,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2037,null,null
 2037-12-25,Natale del Signore,Friday,Natale del Signore – Messa del giorno,C8-C,2037,null,null
 2037-12-27,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2037,null,null
-2038-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-A,2038,null,null
 2038-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-A,2038,null,null
 2038-01-03,2° domenica dopo natale,Sunday,II domenica dopo Natale,C11-A,2038,null,null
 2038-01-06,Epifania del Signore,Wednesday,Epifania del Signore,C12-A,2038,null,null
@@ -1478,7 +1411,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2038-04-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2038,null,null
 2038-04-22,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2038,null,null
 2038-04-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2038,null,null
-2038-04-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2038,null,null
 2038-04-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2038,null,null
 2038-04-25,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2038,null,null
 2038-05-02,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2038,null,null
@@ -1512,7 +1444,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2038-10-10,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-A,2038,null,null
 2038-10-17,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-A,2038,null,null
 2038-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2038,null,null
-2038-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-A,2038,null,null
 2038-10-31,31° D.T.O.,Sunday,XXXI domenica del Tempo Ordinario,C66-A,2038,null,null
 2038-11-01,Solennità di tutti i Santi,Monday,1 novembre: Tutti i Santi,C79-A,2038,null,null
 2038-11-02,Commemorazione dei defunti,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-A,2038,null,null
@@ -1522,7 +1453,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2038-11-09,Dedicazione Basilica Lateranense,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-A,2038,null,null
 2038-11-14,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-A,2038,null,null
 2038-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2038,null,null
-2038-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-A,2038,null,null
 2038-11-28,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-A,2038,null,null
 2038-12-05,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-A,2038,null,null
 2038-12-08,Immacolata Concezione,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-A,2038,null,null
@@ -1530,8 +1460,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2038-12-19,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-A,2038,null,null
 2038-12-25,Natale del Signore,Saturday,Natale del Signore – Messa del giorno,C8-A,2038,null,null
 2038-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2038,null,null
-2038-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2038,null,null
-2039-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-B,2039,null,null
 2039-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-B,2039,null,null
 2039-01-06,Epifania del Signore,Thursday,Epifania del Signore,C12-B,2039,null,null
 2039-01-09,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2039,null,null
@@ -1553,11 +1481,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2039-04-07,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2039,null,null
 2039-04-07,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2039,null,null
 2039-04-08,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2039,null,null
-2039-04-08,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2039,null,null
 2039-04-10,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2039,null,null
 2039-04-17,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2039,null,null
 2039-04-24,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-B,2039,null,null
-2039-05-01,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-B,2039,null,null
 2039-05-01,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-B,2039,null,null
 2039-05-08,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-B,2039,null,null
 2039-05-15,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-B,2039,null,null
@@ -1607,7 +1533,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2039-12-25,Natale del Signore,Sunday,Natale del Signore – Messa del giorno,C8-B,2039,null,null
 2039-12-30,Festa della Sacra Famiglia,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2039,null,null
 2040-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-C,2040,null,null
-2040-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-C,2040,null,null
 2040-01-06,Epifania del Signore,Friday,Epifania del Signore,C12-C,2040,null,null
 2040-01-08,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2040,null,null
 2040-01-15,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2040,null,null
@@ -1626,7 +1551,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2040-03-29,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2040,null,null
 2040-03-29,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2040,null,null
 2040-03-29,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2040,null,null
-2040-03-30,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2040,null,null
 2040-03-30,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2040,null,null
 2040-04-01,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2040,null,null
 2040-04-08,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2040,null,null
@@ -1661,7 +1585,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2040-09-23,25° D.T.O.,Sunday,XXV domenica del Tempo Ordinario,C60-C,2040,null,null
 2040-09-30,26° D.T.O.,Sunday,XXVI domenica del Tempo Ordinario,C61-C,2040,null,null
 2040-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-C,2040,null,null
-2040-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-C,2040,null,null
 2040-10-14,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-C,2040,null,null
 2040-10-21,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-C,2040,null,null
 2040-10-28,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-C,2040,null,null
@@ -1678,11 +1601,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2040-12-08,Immacolata Concezione,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2040,null,null
 2040-12-09,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2040,null,null
 2040-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2040,null,null
-2040-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2040,null,null
 2040-12-23,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2040,null,null
 2040-12-25,Natale del Signore,Tuesday,Natale del Signore – Messa del giorno,C8-C,2040,null,null
 2040-12-30,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2040,null,null
-2041-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-A,2041,null,null
 2041-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-A,2041,null,null
 2041-01-06,Epifania del Signore,Sunday,Epifania del Signore,C12-A,2041,null,null
 2041-01-13,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2041,null,null
@@ -1704,7 +1625,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2041-04-18,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2041,null,null
 2041-04-18,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2041,null,null
 2041-04-18,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2041,null,null
-2041-04-19,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2041,null,null
 2041-04-19,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2041,null,null
 2041-04-21,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2041,null,null
 2041-04-28,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2041,null,null
@@ -1759,7 +1679,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2041-12-25,Natale del Signore,Wednesday,Natale del Signore – Messa del giorno,C8-A,2041,null,null
 2041-12-29,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2041,null,null
 2042-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-B,2042,null,null
-2042-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-B,2042,null,null
 2042-01-06,Epifania del Signore,Monday,Epifania del Signore,C12-B,2042,null,null
 2042-01-12,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2042,null,null
 2042-01-19,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-B,2042,null,null
@@ -1777,7 +1696,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2042-04-03,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2042,null,null
 2042-04-03,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2042,null,null
 2042-04-03,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2042,null,null
-2042-04-04,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2042,null,null
 2042-04-04,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2042,null,null
 2042-04-06,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2042,null,null
 2042-04-13,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2042,null,null
@@ -1833,7 +1751,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2042-12-25,Natale del Signore,Thursday,Natale del Signore – Messa del giorno,C8-B,2042,null,null
 2042-12-28,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2042,null,null
 2043-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-C,2043,null,null
-2043-01-01,Maria Santissima Madre di Dio,Thursday,Solennità di Maria SS Madre di Dio,C10-C,2043,null,null
 2043-01-06,Epifania del Signore,Tuesday,Epifania del Signore,C12-C,2043,null,null
 2043-01-11,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2043,null,null
 2043-01-18,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-C,2043,null,null
@@ -1842,7 +1759,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2043-02-02,Presentazione del Signore (Candelora),Monday,2 febbraio: Presentazione del Signore,C70-C,2043,null,null
 2043-02-08,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-C,2043,null,null
 2043-02-15,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-C,2043,null,null
-2043-02-22,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-C,2043,null,null
 2043-02-22,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-C,2043,null,null
 2043-03-01,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-C,2043,null,null
 2043-03-08,Domenica Laetare,Sunday,IV domenica di Quaresima,C17-C,2043,null,null
@@ -1853,7 +1769,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2043-03-26,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2043,null,null
 2043-03-26,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2043,null,null
 2043-03-27,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2043,null,null
-2043-03-27,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2043,null,null
 2043-03-29,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2043,null,null
 2043-04-05,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2043,null,null
 2043-04-12,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-C,2043,null,null
@@ -1863,7 +1778,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2043-05-10,Ascensione di Gesù,Sunday,Ascensione del Signore,C30-C,2043,null,null
 2043-05-17,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-C,2043,null,null
 2043-05-24,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-C,2043,null,null
-2043-05-31,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C,2043,null,null
 2043-05-31,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-C,2043,null,null
 2043-06-05,Santissimo Cuore di Gesù,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-C,2043,null,null
 2043-06-07,10° D.T.O.,Sunday,X domenica del Tempo Ordinario,C45-C,2043,null,null
@@ -1900,17 +1814,13 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2043-11-09,Dedicazione Basilica Lateranense,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-C,2043,null,null
 2043-11-15,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-C,2043,null,null
 2043-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2043,null,null
-2043-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2043,null,null
-2043-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2043,null,null
 2043-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2043,null,null
 2043-12-06,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2043,null,null
 2043-12-08,Immacolata Concezione,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2043,null,null
 2043-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2043,null,null
-2043-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2043,null,null
 2043-12-20,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2043,null,null
 2043-12-25,Natale del Signore,Friday,Natale del Signore – Messa del giorno,C8-C,2043,null,null
 2043-12-27,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2043,null,null
-2044-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-A,2044,null,null
 2044-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-A,2044,null,null
 2044-01-03,2° domenica dopo natale,Sunday,II domenica dopo Natale,C11-A,2044,null,null
 2044-01-06,Epifania del Signore,Wednesday,Epifania del Signore,C12-A,2044,null,null
@@ -1934,10 +1844,8 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2044-04-14,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2044,null,null
 2044-04-14,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2044,null,null
 2044-04-15,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2044,null,null
-2044-04-15,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2044,null,null
 2044-04-17,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2044,null,null
 2044-04-24,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2044,null,null
-2044-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-A,2044,null,null
 2044-05-01,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-A,2044,null,null
 2044-05-08,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-A,2044,null,null
 2044-05-15,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-A,2044,null,null
@@ -1989,7 +1897,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2044-12-25,Natale del Signore,Sunday,Natale del Signore – Messa del giorno,C8-A,2044,null,null
 2044-12-30,Festa della Sacra Famiglia,Friday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2044,null,null
 2045-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-B,2045,null,null
-2045-01-01,Maria Santissima Madre di Dio,Sunday,Solennità di Maria SS Madre di Dio,C10-B,2045,null,null
 2045-01-06,Epifania del Signore,Friday,Epifania del Signore,C12-B,2045,null,null
 2045-01-08,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2045,null,null
 2045-01-15,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-B,2045,null,null
@@ -2010,7 +1917,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2045-04-06,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2045,null,null
 2045-04-06,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2045,null,null
 2045-04-07,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2045,null,null
-2045-04-07,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2045,null,null
 2045-04-09,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2045,null,null
 2045-04-16,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2045,null,null
 2045-04-23,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-B,2045,null,null
@@ -2028,7 +1934,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2045-06-29,Santi Pietro e Paolo Apostoli,Thursday,29 giugno: Santi Pietro e Paolo apostoli – Messa del giorno,C74-B,2045,null,null
 2045-07-02,13° D.T.O.,Sunday,XIII domenica del Tempo Ordinario,C48-B,2045,null,null
 2045-07-09,14° D.T.O.,Sunday,XIV domenica del Tempo Ordinario,C49-B,2045,null,null
-2045-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-B,2045,null,null
 2045-07-16,15° D.T.O.,Sunday,XV domenica del Tempo Ordinario,C50-B,2045,null,null
 2045-07-23,16° D.T.O.,Sunday,XVI domenica del Tempo Ordinario,C51-B,2045,null,null
 2045-07-30,17° D.T.O.,Sunday,XVII domenica del Tempo Ordinario,C52-B,2045,null,null
@@ -2059,13 +1964,10 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2045-12-03,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-B,2045,null,null
 2045-12-08,Immacolata Concezione,Friday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B,2045,null,null
 2045-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-B,2045,null,null
-2045-12-10,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-B,2045,null,null
 2045-12-17,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-B,2045,null,null
 2045-12-24,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-B,2045,null,null
 2045-12-25,Natale del Signore,Monday,Natale del Signore – Messa del giorno,C8-B,2045,null,null
 2045-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2045,null,null
-2045-12-31,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2045,null,null
-2046-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-C,2046,null,null
 2046-01-01,Maria Santissima Madre di Dio,Monday,Solennità di Maria SS Madre di Dio,C10-C,2046,null,null
 2046-01-06,Epifania del Signore,Saturday,Epifania del Signore,C12-C,2046,null,null
 2046-01-07,Battesimo del Signore,Sunday,Battesimo del Signore,C13-C,2046,null,null
@@ -2074,7 +1976,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2046-01-28,4° D.T.O.,Sunday,IV domenica del Tempo Ordinario,C39-C,2046,null,null
 2046-02-02,Presentazione del Signore (Candelora),Friday,2 febbraio: Presentazione del Signore,C70-C,2046,null,null
 2046-02-04,5° D.T.O.,Sunday,V domenica del Tempo Ordinario,C40-C,2046,null,null
-2046-02-11,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-C,2046,null,null
 2046-02-11,1° Domenica di Quaresima,Sunday,I domenica di Quaresima,C14-C,2046,null,null
 2046-02-18,2° Domenica di Quaresima,Sunday,II domenica di Quaresima,C15-C,2046,null,null
 2046-02-25,3° Domenica di Quaresima,Sunday,III domenica di Quaresima,C16-C,2046,null,null
@@ -2085,7 +1986,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2046-03-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2046,null,null
 2046-03-22,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2046,null,null
 2046-03-22,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2046,null,null
-2046-03-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2046,null,null
 2046-03-23,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2046,null,null
 2046-03-25,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2046,null,null
 2046-04-01,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2046,null,null
@@ -2121,7 +2021,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2046-09-23,25° D.T.O.,Sunday,XXV domenica del Tempo Ordinario,C60-C,2046,null,null
 2046-09-30,26° D.T.O.,Sunday,XXVI domenica del Tempo Ordinario,C61-C,2046,null,null
 2046-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-C,2046,null,null
-2046-10-07,27° D.T.O.,Sunday,XXVII domenica del Tempo Ordinario,C62-C,2046,null,null
 2046-10-14,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-C,2046,null,null
 2046-10-21,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-C,2046,null,null
 2046-10-28,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-C,2046,null,null
@@ -2138,11 +2037,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2046-12-08,Immacolata Concezione,Saturday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2046,null,null
 2046-12-09,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2046,null,null
 2046-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2046,null,null
-2046-12-16,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-C,2046,null,null
 2046-12-23,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2046,null,null
 2046-12-25,Natale del Signore,Tuesday,Natale del Signore – Messa del giorno,C8-C,2046,null,null
 2046-12-30,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2046,null,null
-2047-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-A,2047,null,null
 2047-01-01,Maria Santissima Madre di Dio,Tuesday,Solennità di Maria SS Madre di Dio,C10-A,2047,null,null
 2047-01-06,Epifania del Signore,Sunday,Epifania del Signore,C12-A,2047,null,null
 2047-01-13,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2047,null,null
@@ -2163,7 +2060,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2047-04-11,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2047,null,null
 2047-04-11,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2047,null,null
 2047-04-11,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2047,null,null
-2047-04-12,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2047,null,null
 2047-04-12,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2047,null,null
 2047-04-14,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2047,null,null
 2047-04-21,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2047,null,null
@@ -2219,7 +2115,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2047-12-25,Natale del Signore,Wednesday,Natale del Signore – Messa del giorno,C8-A,2047,null,null
 2047-12-29,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-A,2047,null,null
 2048-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-B,2048,null,null
-2048-01-01,Maria Santissima Madre di Dio,Wednesday,Solennità di Maria SS Madre di Dio,C10-B,2048,null,null
 2048-01-06,Epifania del Signore,Monday,Epifania del Signore,C12-B,2048,null,null
 2048-01-12,Battesimo del Signore,Sunday,Battesimo del Signore,C13-B,2048,null,null
 2048-01-19,2° D.T.O.,Sunday,II domenica del Tempo Ordinario,C37-B,2048,null,null
@@ -2238,7 +2133,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2048-04-02,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-B,2048,null,null
 2048-04-02,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-B,2048,null,null
 2048-04-03,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2048,null,null
-2048-04-03,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-B,2048,null,null
 2048-04-05,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-B,2048,null,null
 2048-04-12,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-B,2048,null,null
 2048-04-19,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-B,2048,null,null
@@ -2247,7 +2141,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2048-05-10,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-B,2048,null,null
 2048-05-17,Ascensione di Gesù,Sunday,Ascensione del Signore,C30-B,2048,null,null
 2048-05-24,Pentecoste,Sunday,Domenica di Pentecoste – Messa del giorno,C33-B,2048,null,null
-2048-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-B,2048,null,null
 2048-05-31,Solennità della Santissima Trinità,Sunday,Solennità della SS Trinità,C34-B,2048,null,null
 2048-06-07,Santissimo Corpo e Sangue di Cristo,Sunday,Solennità del SS Corpo e Sangue di Cristo,C35-B,2048,null,null
 2048-06-12,Santissimo Cuore di Gesù,Friday,Solennità del Sacratissimo Cuore di Gesù,C36-B,2048,null,null
@@ -2284,17 +2177,13 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2048-11-09,Dedicazione Basilica Lateranense,Monday,9 novembre: Dedicazione della Basilica lateranense,C83-B,2048,null,null
 2048-11-15,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-B,2048,null,null
 2048-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2048,null,null
-2048-11-22,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-B,2048,null,null
-2048-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-B,2048,null,null
 2048-11-29,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-B,2048,null,null
 2048-12-06,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-B,2048,null,null
 2048-12-08,Immacolata Concezione,Tuesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-B,2048,null,null
 2048-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-B,2048,null,null
-2048-12-13,3° Domenica di Avvento - Gaudete,Sunday,III domenica di Avvento,C3-B,2048,null,null
 2048-12-20,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-B,2048,null,null
 2048-12-25,Natale del Signore,Friday,Natale del Signore – Messa del giorno,C8-B,2048,null,null
 2048-12-27,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-B,2048,null,null
-2049-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-C,2049,null,null
 2049-01-01,Maria Santissima Madre di Dio,Friday,Solennità di Maria SS Madre di Dio,C10-C,2049,null,null
 2049-01-03,2° domenica dopo natale,Sunday,II domenica dopo Natale,C11-C,2049,null,null
 2049-01-06,Epifania del Signore,Wednesday,Epifania del Signore,C12-C,2049,null,null
@@ -2317,7 +2206,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2049-04-15,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2049,null,null
 2049-04-15,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-C,2049,null,null
 2049-04-15,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-C,2049,null,null
-2049-04-16,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2049,null,null
 2049-04-16,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-C,2049,null,null
 2049-04-18,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-C,2049,null,null
 2049-04-25,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-C,2049,null,null
@@ -2352,7 +2240,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2049-10-10,28° D.T.O.,Sunday,XXVIII domenica del Tempo Ordinario,C63-C,2049,null,null
 2049-10-17,29° D.T.O.,Sunday,XXIX domenica del Tempo Ordinario,C64-C,2049,null,null
 2049-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-C,2049,null,null
-2049-10-24,30° D.T.O.,Sunday,XXX domenica del Tempo Ordinario,C65-C,2049,null,null
 2049-10-31,31° D.T.O.,Sunday,XXXI domenica del Tempo Ordinario,C66-C,2049,null,null
 2049-11-01,Solennità di tutti i Santi,Monday,1 novembre: Tutti i Santi,C79-C,2049,null,null
 2049-11-02,Commemorazione dei defunti,Tuesday,2 novembre: Commemorazione di tutti i fedeli defunti – 1° schema,C80-C,2049,null,null
@@ -2362,7 +2249,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2049-11-09,Dedicazione Basilica Lateranense,Tuesday,9 novembre: Dedicazione della Basilica lateranense,C83-C,2049,null,null
 2049-11-14,33° D.T.O.,Sunday,XXXIII domenica del Tempo Ordinario,C68-C,2049,null,null
 2049-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2049,null,null
-2049-11-21,34° D.T.O. - Solennità di Cristo Re,Sunday,Solennità di nostro Signore Gesù Cristo Re dell’universo,C69-C,2049,null,null
 2049-11-28,1° Domenica di Avvento,Sunday,I domenica di Avvento,C1-C,2049,null,null
 2049-12-05,2° Domenica di Avvento,Sunday,II domenica di Avvento,C2-C,2049,null,null
 2049-12-08,Immacolata Concezione,Wednesday,8 dicembre: Immacolata Concezione della beata Vergine Maria,C84-C,2049,null,null
@@ -2370,8 +2256,6 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2049-12-19,4° Domenica di Avvento,Sunday,IV domenica di Avvento,C4-C,2049,null,null
 2049-12-25,Natale del Signore,Saturday,Natale del Signore – Messa del giorno,C8-C,2049,null,null
 2049-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2049,null,null
-2049-12-26,Festa della Sacra Famiglia,Sunday,"Santa Famiglia di Gesù, Maria e Giuseppe",C9-C,2049,null,null
-2050-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-A,2050,null,null
 2050-01-01,Maria Santissima Madre di Dio,Saturday,Solennità di Maria SS Madre di Dio,C10-A,2050,null,null
 2050-01-06,Epifania del Signore,Thursday,Epifania del Signore,C12-A,2050,null,null
 2050-01-09,Battesimo del Signore,Sunday,Battesimo del Signore,C13-A,2050,null,null
@@ -2393,11 +2277,9 @@ date,evento,weekday,celebrazione,id_liturgia,anno,liturgia1,liturgia2
 2050-04-07,Giovedì Santo (Messa del Crisma),Thursday,Giovedì della Settimana Santa – Messa del Crisma,C20-A,2050,null,null
 2050-04-07,Giovedì Santo (In Cena Domini),Thursday,Giovedì Santo – Messa vespertina «Cena del Signore»,C21-A,2050,null,null
 2050-04-08,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2050,null,null
-2050-04-08,Venerdì Santo (Passione del Signore),Friday,Venerdì Santo «Passione del Signore»,C22-A,2050,null,null
 2050-04-10,Pasqua - Risurrezione del Signore,Sunday,Domenica di Pasqua «Risurrezione del Signore» – Messa del giorno,C24-A,2050,null,null
 2050-04-17,2° Domenica di Pasqua o della Divina Misericordia (dom. in Albis),Sunday,II domenica di Pasqua,C25-A,2050,null,null
 2050-04-24,3° Domenica di Pasqua (Misericordias Domini),Sunday,III domenica di Pasqua,C26-A,2050,null,null
-2050-05-01,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-A,2050,null,null
 2050-05-01,4° Domenica di Pasqua (Jubilate),Sunday,IV domenica di Pasqua,C27-A,2050,null,null
 2050-05-08,5° Domenica di Pasqua (Cantate),Sunday,V domenica di Pasqua,C28-A,2050,null,null
 2050-05-15,6° Domenica di Pasqua (Rogate - Vocem jocunditatis),Sunday,VI domenica di Pasqua,C29-A,2050,null,null
