@@ -1,6 +1,6 @@
 site_name: Hildegard
 repo_url: https://github.com/dennisangemi/hildegard
-site_url: https://dennisangemi.github.io/hildegard/
+site_url: https://hildegard.it
 theme:
   name: material
   language: it
