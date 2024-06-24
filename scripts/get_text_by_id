@@ -2,11 +2,20 @@
 
 # function get_text_by_id
 # input:  
-# - id del canto (int). vd. data/anagrafica_canti.csv
-# - access token
+# - $1 id del canto (int). vd. data/anagrafica_canti.csv
+# - $2 access token
 # output: testo del canto (string)
 
 get_text_by_id() {
+
+    # check $1 and $2 not empty
+    if [ -z "$1" ] || [ -z "$2" ]; then
+        echo "Error: missing input"
+        echo "Usage: get_text_by_id <id_canto> <access_token>"
+        echo "Example: get_text_by_id 1 1234567890"
+        return 1
+    fi
+
     # scarica il testo del canto con id uguale all'input
     curl -skL "https://www.librettocanti.it/api/get_canti/$1?access_token=$2" \
     | jq -r ".data[0].testo" \
