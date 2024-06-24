@@ -21,8 +21,8 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
       run: |  
-        chmod +x scripts/test_token_cc.sh
-        ./scripts/test_token_cc.sh
+        chmod +x scripts/db_downloader
+        ./scripts/db_downloader
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "suggeritore-automatico"
