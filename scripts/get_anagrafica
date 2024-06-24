@@ -1,11 +1,25 @@
 #!/bin/bash
 
+# this function returns a csv with the list of songs from librettocanti.it
+
+# input:
 # $1: access token
+
+# output: stdout
 
 API="https://www.librettocanti.it/api/get_canti?access_token="
 
 # funzione get_anagrafica che in output torna un csv
 get_anagrafica() {
+
+    # check $1 not empty
+    if [ -z "$1" ]; then
+        echo "Error: missing access token"
+        echo "Usage: get_anagrafica <access_token>"
+        echo "Example: get_anagrafica 1234567890"
+        return 1
+    fi
+
     curl -skL $API$1 \
     | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" \
     | mlr --j2c cat
