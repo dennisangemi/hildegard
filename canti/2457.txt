@@ -37,18 +37,16 @@ Hai conquistato
 ogni parte di me.
 Meraviglioso sei!
 
-{start_bridge}
 Io non desidero che Te.
 Io non desidero che Te.
 Io non desidero che Te.
 Io non desidero che Te.
-{end_bridge}
-{start_bridge}
+
 Io non desidero che Te.
 Io non desidero che Te.
 Io non desidero che Te.
 Io non desidero che Te.
-{end_bridge}
+
 
 Meraviglioso sei!
 Per l’eternità

@@ -174,9 +174,9 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2085,Ascolta Israele,,,"2,3,4,5,17",
 2267,Ascolta Israele,Piera Cori,Come passi di danza,"21,4",DWSykMIacqY
 2617,Ascolta la nostra lode ,RnS - R.Morgan,Grazie,"21,32,10,14,16,52",Ux8cys8tH08
-61,Ascolta la Preghiera,---,,"4,7",null
+61,Ascolta la Preghiera,---,,"4,7",
 2248,Ascolta oggi ,Silverio Fioravanti,,21,
-64,Astro del ciel,Meli - F. Gruber - Picchi,,"21,26,31,3",null
+64,Astro del ciel,Meli - F. Gruber - Picchi,,"21,26,31,3",
 2331,Atto di amore,Marco Frisina,Sacerdote per sempre,"21,31,4",3yQLNZZ20kE
 1656,Ave dolce Maria,"RnS - D.Branca, L.Ciancio",Parla al mio cuore,7,xCQr3qg9uDw
 66,Ave donna Maria,Oratorio di Arese,Beata te che hai creduto,7,uSVKgm9atwc
@@ -244,7 +244,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2095,"Canoni - Confitemini, Domino (Ringrazia il Signore perché è buono)",Taizè,,"31,9,10",khXIGwIhpYE
 2096,Canoni - Dona la pace,Taizè,,"31,9,10",MNRLFsTPWOM
 2062,Canoni - Il Signore è la mia forza,Taizè,,"31,32,4,9,11,18",xyd9gSAKYXU
-98,"Canoni - Jubilate Deo, omnis terra",Taize,,"25,18",null
+98,"Canoni - Jubilate Deo, omnis terra",Taize,,"25,18",
 100,Canoni - Laudate omnes gentes,Taize,,"14,18",lbb-kaurSW0
 101,Canoni - Magnificat,Taize,,18,nLM0GiihIbs
 102,Canoni - Misericordias Domini,Taize,,"22,18",pva71b0fTMM
@@ -346,7 +346,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 141,Con il mio canto,Pierangelo Sequeri ,E mi sorprende,32,2Y8Di7zVS8w
 2240,Con l'offerta di Gesù,F. Buttazzo; P. Dargenio,Esulta il cielo,"26,5",7c3fFWR1PjA
 2300,Con Te Camminerò,Gen Verde,,"9,20",HrICedZnaSk
-142,Con Te faremo cose grandi,G. Meregalli,,"21,31",null
+142,Con Te faremo cose grandi,G. Meregalli,,"21,31",
 2040,Con tutto il cuor,Servi di Cristo vivo,,"28,31,9,12",
 2485,Con un cuore solo,"RnS - Ferrante, Salvemini",Sentieri di speranza,31,40tFwBuV8rM
 1902,Confidiamo in te,Figli del Divino Amore,,"21,31,6,20,52",
@@ -534,7 +534,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 1627,Giorno di Pentecoste,Giosy Cento,,6,op08cAePvIk
 206,Giovane donna,Luciano Scaglianti - Liliana Bancolini,,"32,2,7",v325wim3Ibo
 2626,Giovani e Vecchi ,RnS - M.Watson,Anche gli alberi batteranno le mani,"21,30,32,10,14",jvShGPdf7sE
-2107,Giovani orizzonti,I. Valoppi,,null,rnzItELf_gc
+2107,Giovani orizzonti,I. Valoppi,,,rnzItELf_gc
 2764,Giovani Orizzonti,Ivo Valoppi,C'è da non crederci,53,caP9rPCIk20
 2003,Giovanni,Marco Frisina,Non temere,"21,31,32,2,12",R5TkDWVJi5E
 2581,Girl On A Mission,Gen Verde,,7,7hsza1S_lrA
@@ -657,7 +657,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2568,Il Signore in eterno ,,,"26,10,13",6hdC4PqQId0
 238,Il Signore mi guardi e mi benedica,---,,21,ucidkZTkWnM
 2535,Il suo amore per me,Don Livio Tacchini,,"31,9",-nkZOZXmhxU
-239,Il Tuo amore,---,,31,null
+239,Il Tuo amore,---,,31,
 2469,Il Tuo amore è grande,RnS,Venti dello Spirito,"31,9",jJrggKrvBXw
 2305,Il tuo amore per noi,Piera Cori,,26,9aaxeabeNq0
 1672,"Il tuo Corpo, il tuo Sangue",Luciana Leone - Salvatore Martinez,,31,MBlHzbDY6Qo
@@ -692,7 +692,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2371,Inno GMG 2016,,,10,pLQbhtquBGI
 245,Insieme a Te,Francesco Buttazzo,Alla tua festa,31,_1taK6Kc8gw
 2537,Insieme come fratelli,Pierangelo Comi,,"21,52",fzvPEdSe57M
-1556,Insieme è forte,Paolo Spoladore,,"21,32",null
+1556,Insieme è forte,Paolo Spoladore,,"21,32",
 246,Insieme è più bello,Gen Verde,,"31,32",TqSOTegT2Jg
 2776,Invoca il nome del tuo Signore,Comunità Gesù Ama,,"28,4,9,11,13,14",-DChAnhBc6Q
 247,Invocazione allo Spirito,---,,6,
@@ -705,7 +705,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 1355,Io dico il mio sì - Marco Guadin,Marco Guadin - Nuovi Orizzonti,,"21,26",X_VKYWaw694
 2438,Io ho un amico,RnS,Sempre canterò,"32,10,51",iI0YYQirz7A
 2373,Io ho una gioia nel cuore ,Canto popolare dell’America Latina.,RnS,"21,2,3,5,14,52",38wTq8ms47E
-252,Io loderò il Signore,Matteo Calisi,,21,null
+252,Io loderò il Signore,Matteo Calisi,,21,
 2483,Io mi arrendo,ADI Media - Matt Crocker,,9,-XMDKz0m4ts
 1972,Io Mi Arrendo (HillSong - I Surrender),HillSong,,"22,9,11",jHWAZIrV6eU
 253,Io non sono degno,Claudio Chieffo,È bella la strada,31,6pb9LFGAM2E
@@ -736,7 +736,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 1705,Kyrie Ekeison,Alessandra De Luca,,22,ojK6O37jV88
 261,Kyrie Eleison,Marco Emberti Gialloreti,,22,O1VlQ9tVGmo
 262,Kyrie Eleison,Giosy Cento,Messa delle Savane,22,NZABdoaE6QE
-263,Kyrie Eleison,---,,22,null
+263,Kyrie Eleison,---,,22,
 1834,Kyrie Eleison,Marco Frisina,Salvatore del mondo,"22,2",DqUPts8ApGU
 2289,Kyrie eleison,Nella Casa del Padre - Riti di introduzione - n. 219,,22,
 2032,"Kyrie, eleison",Rosangela Trovato,,22,YA9-y7kcYpM
@@ -810,7 +810,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 503,Lode al Nome Tuo,RnS,,"21,9,10",fsdt3_akU_0
 2388,Lode alla Trinità,RnS,Risplendi Gerusalemme,"14,19,52",8SNKs3YGERg
 1588,Lode e Gloria,Paolo Spoladore,Dacci Pace,"23,24",3zvarhz2k9U
-290,Lode e gloria a Te,---,,"24,25,14",null
+290,Lode e gloria a Te,---,,"24,25,14",
 2630,Lode e Gloria al tuo nome,RnS - E.Baranger,Benedici il Signore,"21,32,14,52",mkR3GFJY3AQ
 2614,Lode e onore a Te,Daniele Esposito,,"25,4",_q5fVwBVf6E
 2391,Lode ed esortazione,Fra Giuseppe Di Fatta,,"31,9,12,52,54",w1eVSZtDZ5U
@@ -818,7 +818,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 467,Lodi all'altissimo (Tu sei Santo),Marco Frisina,,31,yfC285eSiXU
 291,Lodi di Dio altissimo,---,,"31,14",p4he2yrMMiY
 502,Lord I Need You,Matt Maher,,"21,15",LuvfMDhTyMA
-504,Luce,RnS,Luce,null,bZVHm-iDJv8
+504,Luce,RnS,Luce,,bZVHm-iDJv8
 1908,Luce,Reale,,"31,32,3,10,20",
 2112,Luce,Rns,Luce,"21,31,32,3,5,10,12,15,16,20,52",Hk0tgrr5mHI
 1944,Luce che sorgi nella notte,Francesco Buttazzo,E' Natale ancora,"21,3",FQVguXqfOtE
@@ -892,7 +892,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2299,Narrano i cieli,Valmaggi,,"21,24,32,3,5,52",Xgv_nreJX8Q
 314,Nasce l’amore,Gen Rosso,,3,r-Q9lEpLZkI
 2550,Nascerà,Gen Rosso,,31,2umvrdWyYgo
-1543,Nato per noi,Meli - F. Gruber - Picchi,,"21,26,31,3",null
+1543,Nato per noi,Meli - F. Gruber - Picchi,,"21,26,31,3",
 315,Nei cieli un grido risuonò,Gino Stefani - Greiter,,"21,5",1YWB2ztVVk4
 1383,Nel nome del Padre,R.Paulo,,21,wkzhZu1eBkM
 2552,Nel nome di Gesù,Darlene Zschech,,14,aV9cP5gWG6Q
@@ -908,10 +908,10 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2399,Nelle tue mani,A. De Luca - B. Conte,RnS - Nelle tue mani,"31,2,3,4,9,10",Zo6CuMpR_c8
 1454,Nessuno è come Te,Lenny LeBlanc,,"22,26,28,31",njTN4cMmHo0
 2559,Niente ti fermerà (Magnificat),Gen Verde,,7,Soe76XqhzUQ
-320,Ninna Nanna,---,,3,null
+320,Ninna Nanna,---,,3,
 321,Noi canteremo gloria a Te,Gino Stefani - D. Stefani,,"21,32,14,19",beOpc0kvk0c
 322,Noi con Te,Francesco Buttazzo - Alessandra Beltrami,,26,FPm6gt3zPM8
-323,Noi crediamo in Te,"Valentino Meloni Dal Canto Africano ""Kumbaya""",,"21,32,14",null
+323,Noi crediamo in Te,"Valentino Meloni Dal Canto Africano ""Kumbaya""",,"21,32,14",
 1407,Noi ti diamo gloria,---,,"28,31",H93SearWnjM
 2403,Noi t’invochiamo,F.G.Pesare,,6,rgplGCJAqaU
 324,Noi veglieremo,Domenico Marchetta,,"2,17",jx7E62TpIR0
@@ -1023,7 +1023,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2649,Prenditi a cuore,,,"32,10,16,20",
 2165,Prepariamo la via,"Pasquale Dargenio, Matteo Zambuto",,"21,2",jeXNXBlGhtk
 1726,Prepariamo la via al Signore,Francesco Buttazzo,"Maranathà, vieni Signore","21,2",pPkha6utNBU
-505,Prima Corinzi 13,Guido Meregalli,,null,7Gum6ktqoLQ
+505,Prima Corinzi 13,Guido Meregalli,,,7Gum6ktqoLQ
 2679,Prodigio d'amore,RnS - Dante Balbo,Luce,"31,9",tgJn1qioiuw
 2445,Proteggimi o Dio (Salmo 15(16)),Alberto Galotta,,"24,5",RTHo6joY1MM
 1788,Purificami o Signore (Salmo 50),A. Martorell,,"24,8,11,13",Tvmyj_Exujw
@@ -1100,10 +1100,10 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 1928,Santa degli impossibili (Santa Rita),canto popolare,,"21,32,10",
 394,Santa Maria del cammino,Renato D’andrea - Juan Antonio Espinosa,,"32,7",EyIpjjhjyII
 397,Santo,Gen Rosso / Gen Verde,Come fuoco vivo,27,Hh4PX1BnyJY
-399,Santo,valeria,,27,null
+399,Santo,valeria,,27,
 401,Santo,Michele Bonfitto ,Sei grande nell'amore,27,XwgdEXPZ4js
 402,Santo,Francesco Buttazzo,Vita nuova con Te,27,TYl8x7oqD6o
-404,Santo,Gen Rosso,,27,null
+404,Santo,Gen Rosso,,27,
 1641,Santo,Francesco Buttazzo,Sorgente di unità,27,fgLczyr5VVg
 1753,Santo,Lorenzo Angelini,,27,
 1857,Santo,Marco Frisina,Salvatore del mondo,27,OOxw854Alpc
@@ -1121,7 +1121,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 2118,Santo (Dio del Cielo),Spoladore,,"27,5,6,10,14,15,20",E7sfZZ6O71E
 1735,Santo (Do Re Mi),,,27,
 403,Santo (Gen Verde),Gen Verde,,27,wMhu5w2VaDg
-405,Santo (GUC),Gruppo Universitari Cattolici,,27,null
+405,Santo (GUC),Gruppo Universitari Cattolici,,27,
 1611,Santo (Jesus Christ Superstar),Jesus Christ Superstar,,27,5c8XAW-eIa0
 2652,Santo (Nato per noi),Luca Bosso,,27,p_TPDIpCF9E
 406,Santo (Osanna Eh),Da Tradizionale Zairese,,27,Qr6PFoDRYIE
@@ -1148,7 +1148,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 412,Se hai un cuore grande,Pino Bordini,Mi dichiaro per Cristo,6,QA-Q6y2o54w
 1839,Se il chicco di frumento,Domenico Machetta,,"26,2,3,4,5,10",THmqpVOQ7yA
 2571,Se il diavolo è arrabbiato,Popolare America Latina,,16,Ec-_Kg5kBeU
-413,Se il Signore non costruisce la città,Maioli,,"21,24",null
+413,Se il Signore non costruisce la città,Maioli,,"21,24",
 414,Se m’accogli,Pierangelo Sequeri,,"21,26,13,14",YkAIWOfJiJM
 415,Se qualcuno ha dei beni,Michele Bonfitto,Sei grande nell'amore,26,CJZGnpyJ51g
 2293,Se tu mi ami Simone,Marco Frisina,Signore è il Suo nome,31,c3QYTBkofvs
@@ -1239,7 +1239,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 447,Symbolum ‘80 (Ma la tua Parola),Pierangelo Sequeri,Ma la tua Parola,"31,2,17,19",pSMZAXrvT4A
 2610,T'amo Gesù,RnS - D.Visconti - A.Visconti,Luce,25,9bHWgyzlxzs
 2359,T'invochiamo Spirito,RnS - A. Di Russo,Venti dello spirito,"21,6",iVKSgOEbrFU
-449,Tacita notte,---,,3,null
+449,Tacita notte,---,,3,
 1651,Talità Kum,RnS,Misericordia sei,21,m-54f4aPx1Q
 1699,Tantum Ergo,Gregoriano,,9,Swns4Kjzc9E
 2247,Te Deum,RnS,,24,Ghh9yhJZasI
@@ -1326,7 +1326,7 @@ id_canti,titolo,autore,raccolta,momento,link_youtube
 1698,Vergin Santa,RnS,,"21,31,2,3,7",mTnD1HXRnfk
 2197,Vergine Madre,Marco Frisina,Vergine Madre,7,
 1664,Vero cibo è il tuo corpo,RnS,Mi arrendo al tuo amore,31,MT5d5ErYJ10
-479,Verremo a Te,Guido Meregalli,,21,null
+479,Verremo a Te,Guido Meregalli,,21,
 2047,Vexilla regis prodeunt,Venanzio Fortunato-Urbano VIII,,4,
 480,Vi amo così,M. Brusati - M. Versaci,,"31,32",QErFrdcT4RA
 1732,Vi annuncio la gioia,Fabio Baggio,,"21,3",E619YuHXNMc

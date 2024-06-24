@@ -12,14 +12,13 @@ non avrà mai fine
 ed allora cercherai
 parole nuove…
 
-{start_bridge}
 E all’improvviso la strada
 si illumina e scopri
 che non sei più solo;
 sarà il Signore risorto
 a tracciare il cammino
 e a ridare la vita.
-{end_bridge}
+
 
 Arderanno sempre i nostri cuori
 Se la tua parola in noi dimorerà:
@@ -35,14 +34,13 @@ non avrà confini
 che riporterà nel mondo
 la speranza…
 
-{start_bridge}
 Gesù è il Signore risorto
 che vive nel tempo,
 è presente tra gli uomini;
 è lui la vita del mondo,
 il pane che nutre la
 Chiesa in cammino.
-{end_bridge}
+
 
 Arderanno sempre i nostri cuori
 Se la tua parola in noi dimorerà:

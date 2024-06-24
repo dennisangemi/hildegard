@@ -5,12 +5,10 @@ La fede non è morta in me
 Io devo confessar
 Mi è difficile pregar
 
-{start_bridge}
 Io non so che cosa dire
 E da dove cominciare
 Ma per la grazia Tua
 Con tutto il cuore mio
-{end_bridge}
 
 Canterò, loderò
 Anche nell'oscurità
@@ -28,12 +26,10 @@ Ma io confido in Te, Signor
 Che morto sei per la mia 
 libertà
 
-{start_bridge}
 Io non so che cosa dire
 E da dove cominciare
 Ma per la grazia Tua
 Con tutto il cuore mio
-{end_bridge}
 
 Canterò, loderò
 Anche nell'oscurità

@@ -25,9 +25,9 @@ santa Gerusalemme,
 santa Gerusalemme,
 santa Gerusalemme.
 
-{start_bridge} 
+ 
 ULTERIORI STROFE
-{end_bridge} 
+ 
 Ecco le tue sentinelle
 con gioia hanno alzato la voce
 perchè hanno visto con gli occhi

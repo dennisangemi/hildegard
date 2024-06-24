@@ -2,10 +2,10 @@ E rivedo il sole
 fra le bianche case di Nazareth
 e Maria che al mattino
 esce cantando e va alla fonte.
-{start_bridge}
+
 E lei va, cantando Salmi
 al Signore Dio.
-{end_bridge}
+
 Popolo di Israele non sai
 che Lei è la diletta,
 popolo di Israele non sai
@@ -18,11 +18,11 @@ la tua piccola stanza
 era già notte quando una Luce
 forte e chiara
 illuminò la stanza:
-{start_bridge}
+
 Ave Maria Maria
 piena di grazia
 il Signore è con te!
-{end_bridge}
+
 Popolo di Israele non sai
 che Lei è la diletta,
 popolo di Israele non sai
@@ -36,11 +36,11 @@ gli occhi di Gesù.
 E ti sento Madre
 nel freddo inverno
 cantare al Signore.
-{start_bridge}
+
 Ti vedo bianca sposa
 una grotta per casa
 aspettando Gesù.
-{end_bridge}
+
 Popolo di Israele non sai
 che Lei è la diletta,
 popolo di Israele non sai

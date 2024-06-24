@@ -29,6 +29,5 @@ ti ringraziamo per i doni che dai e per l'amore che riversi in noi
 O Signore veniamo a Te con i cuori ricolmi di gioia
 le nostre mani innalziamo al cielo a Te con gioia veniam
 
-{start_bridge}
 O Signor a Te con gioia veniam
-{end_bridge}
+

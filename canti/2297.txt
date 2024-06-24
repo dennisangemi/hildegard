@@ -16,23 +16,20 @@ Lui ora vive in me
 Io ero morto e Lui mi risvegliò
 Mi liberò
 
-{start_bridge}
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
-{end_bridge}
 
 Non vivo più per me
 Lui ora vive in me
 Io ero morto e Lui mi risvegliò
 Mi liberò
 
-{start_bridge}
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
 Sì! Tutto per la Tua gloria
-{end_bridge}
+

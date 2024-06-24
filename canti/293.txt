@@ -13,11 +13,10 @@ A chi ha il cuore ferito tu dirai: Confida in Dio,
 il tuo Signore è qui, col suo grande amore.
 Quando invochi il suo nome Lui ti salverà. 
 {paste/rit}
-{start_bridge}
+
 Egli è rifugio nelle avversità,
 Dalla tempesta ti riparerà,
 è il tuo baluardo e ti difenderà,
 La forza sua Lui ti darà. 
-{end_bridge}
 {paste/rit}
 

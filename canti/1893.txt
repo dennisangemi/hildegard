@@ -24,12 +24,11 @@ Canterò con mani alzate Cristo Redentor,
 Canterò con arpa e cetra la tua Santità,
 Canterò Per sempre la tua fedeltà
 
-{start_bridge}
 Al tuo popolo hai promesso il regno dei cieli,
 sulla croce hai donato la tua eredità,
 dalla morte sei risorto, sei luce del mondo
 e chi crede in te, Signore, per sempre vivrà.
-{end_bridge}
+
 Canterò le meraviglie del signor,
 cantero con mani alzate cristo Redentor,
 canterò con arpa e cetra la tua santità,

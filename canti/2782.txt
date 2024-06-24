@@ -12,12 +12,10 @@ E noi crediamo in te Signore
 Sei tu il nostro Dio 
 Noi siamo nelle mani tue
 
-{start_bridge}
 We are, we are, we are
 We are in your hands
 We are, we are, we are
 We are in your hands
-{end_bridge}
 
 Ora il vento è più forte
 Si sollevano le onde
@@ -53,12 +51,10 @@ Cammineremo sulle acque
 Perché tu sei con noi 
 Noi siamo nelle mani tue 
 
-{start_bridge}
 We are, we are, we are
 We are in your hands
 We are, we are, we are
 We are in your hands
-{end_bridge}
 
 Cammineremo sulle acque
 Perché tu sei con noi 

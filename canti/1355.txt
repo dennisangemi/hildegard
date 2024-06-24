@@ -17,17 +17,16 @@ Per proclamarti mio Signore
 Per cantare il tuo Amore
 Per lodarti mio Signore
 Per donarti il mio cuore
-{start_bridge}
+
 Alleluia Alleluia
 Alleluia Alleluia
 Alleluia Alleluia
 Alleluia Alleluia
-{end_bridge}
-{start_bridge}
+
 Io ti dico il mio si! Al tuo Amore.
 Io ti grido il mio si! Con il cuore. 
 (2vv)
-{end_bridge}
+
 Per proclamarti mio Signore
 Per cantare il tuo Amore
 Per lodarti mio Signore

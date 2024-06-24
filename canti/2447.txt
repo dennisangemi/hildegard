@@ -27,10 +27,9 @@ stelle sopra il fango
 d’ogni povertà
 e l’unità.
 
-{start_bridge}
 Parlato con sottofondo
 sugli accordidella strofa.
-{end_bridge}
+
 Rimetti a noi i nostri debiti
 come noi li rimettiamo
 ai nostri debitori
@@ -57,10 +56,8 @@ stelle sopra il fango
 d’ogni povertà
 e l’unità.
 
-{start_bridge}
 Parlato con sottofondo
 sugli accordidella strofa.
-{end_bridge}
 
 Non lasciarti vincere dal male,
 ma vinci con il bene il male.
@@ -89,10 +86,9 @@ stelle sopra il fango
 d’ogni povertà
 e l’unità.
 
-{start_bridge}
 Parlato con sottofondo
 sugli accordidella strofa.
-{end_bridge}
+
 Vieni dolce Spirito
 scendi col tuo balsamo
 tu che lo puoi

@@ -38,7 +38,6 @@ sarò sostegno per il regno
 che il Padre dà
 Ed è già dentro voi.
 
-{start_bridge}
 Io vi ho scelto per vivere
 d’amore e verità.
 Questo è il mio comandamento:
@@ -46,10 +45,8 @@ amore e libertà!
 E da questo sapranno che
 siete voi i miei fratelli.
 Amore più grande al mondo non c’è.
-{end_bridge}
-{start_bridge}
+
 Strumentale
-{end_bridge}
 
 Sarai per sempre con noi
 nelle avversità,

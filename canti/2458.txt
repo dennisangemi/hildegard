@@ -30,14 +30,12 @@ nel mondo tutto passa
 e finirà
 ma con Dio è l’eternità.
 
-{start_bridge}
 Noi siamo opera
 delle tue mani,
 un prodigio agli occhi tuoi;
 i nostri nomi
 sono scritti nei cieli,
 l’infinito in noi sarà.
-{end_bridge}
 
 Siamo destinati all’eternità
 ci hai donato la vita
@@ -46,9 +44,7 @@ nel mondo tutto passa
 e finirà
 ma con Dio è l’eternità.
 
-{start_bridge}
 Strumentale
-{end_bridge}
 
 Nel mondo tutto passa
 e finirà

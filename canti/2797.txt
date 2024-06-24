@@ -1,5 +1,5 @@
 Il canto può subire variazioni sul numero di volte che si ripete ogni strofa, pertanto mi limiterò a riportare le singole strofe numerate ed il ritornello che anch'esso può essere ripetuto più volte a discrezione di chi dirige il coro.
-{end_bridge}
+
 Dio ti protegga, ti benedica
 che risplenda il Suo volto
 e la Sua grazia su di Te,
@@ -31,9 +31,7 @@ nel tuo pianto, nella gioia
 A-a-a-amen, amen, a-amen
 A-a-a-amen, amen, a-amen
 
-{start_bridge}
 finale
-{end_bridge}
 È per te Lui,
 la Sua benedizione
 è su di te,

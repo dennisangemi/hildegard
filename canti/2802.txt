@@ -1,6 +1,5 @@
-{start_bridge}
+
 pre-coro
-{end_bridge}
 Shemà Israel, Shemà Israel
 Adonai Elohenu
 Adonai Ehad.
@@ -47,9 +46,7 @@ Ascolta Israele                  - Shemà Israel
 Ascolta Israele                  - Shemà Israel
 Il Signore è il nostro Dio    - Adonai Elohenu
 Il Signore è uno.                - Adonai Ehad
-{start_bridge}
 post-coro
-{end_bridge}
 Shemà Israel, Shemà Israel
 Adonai Elohenu
 Adonai Ehad.
