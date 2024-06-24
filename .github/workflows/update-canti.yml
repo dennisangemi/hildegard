@@ -15,12 +15,19 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Enviroment setup (mlr, scrape, yq, scikit-learn, pandas, tabulate)
+    - name: Enviroment setup (mlr, jq)
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        chmod +x ~/bin/mlr
+        sudo pip install jq
+    - name: Download database librettocanti.it
       shell: bash
       env:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
-      run: |  
+      run: |-
+        export PATH=$PATH:~/bin
         chmod +x scripts/db_downloader
         ./scripts/db_downloader
     - name: Committa e pusha se ci sono variazioni nei dati
