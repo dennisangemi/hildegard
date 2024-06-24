@@ -1,10 +1,12 @@
 #!/bin/bash
 
-API="https://www.librettocanti.it/api/get_canti"
+# $1: access token
+
+API="https://www.librettocanti.it/api/get_canti?access_token="
 
 # funzione get_anagrafica che in output torna un csv
 get_anagrafica() {
-    curl -skL $API \
+    curl -skL $API$1 \
     | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" \
     | mlr --j2c cat
 }

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# function get_text_by_id
+# input:  
+# - id del canto (int). vd. data/anagrafica_canti.csv
+# - access token
+# output: testo del canto (string)
+
+get_text_by_id() {
+    # scarica il testo del canto con id uguale all'input
+    curl -skL "https://www.librettocanti.it/api/get_canti/$1?access_token=$2" \
+    | jq -r ".data[0].testo" \
+    | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g;s/{end_chorus}//g;s/{start_chorus}//g;s/{start_verse}//g;s/{end_verse}//g;s/{end_verse_num}//g;s/{start_verse_num}//g;s/{start_bridge}//g;s/{end_bridge}//g' \
+    | sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g'
+}
