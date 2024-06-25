@@ -1,0 +1,31 @@
+- canti/
+- data/
+  - anagrafica_canti.csv
+  - anagrafica_momenti.csv
+  - calendari_liturgici/
+    - processing/
+    - calendario_blabla.csv
+    - calendario_blabla.json
+  - suggerimenti/
+    - archivio/
+      - suggerimenti-YYYYMMDD.csv
+    - suggerimenti-latest.csv
+    - suggerimenti-comunione-latest.csv
+    - suggerimenti-congedo-latest.sv
+    - suggerimenti-offertorio-latest.csv
+    - suggerimenti-ingresso-latest.csv
+    - suggerimenti-top20-latest.csv
+  - liturgie
+    - lezionari/
+      - indici/
+      - processing/
+      - raw/
+      - lezionario_anno_a.csv
+      - lezionario_anno_b.csv
+      - lezionario_anno_c.csv
+   - anagrafica_celebrazioni.csv
+   - anagrafica_liturgie_cei.csv
+   - liturgie.csv
+   - liturgie_structured.csv
+   - liturgia-latest.txt
+
