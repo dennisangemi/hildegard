@@ -23,24 +23,24 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | --- | --- | --- | --- |
 | [Signore da chi andremo](https://www.youtube.com/watch?v=J5tytDPEmCc) | 21 | Alejandro Mejia |  |
 | [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
-| [Fonti di Nazareth](https://www.youtube.com/watch?v=vUOhl98MLuY) | 20 | Chiara Bizzetti |  |
-| [Preconio Pasquale](https://www.youtube.com/watch?v=5QKwhomm0G8) | 20 | Fra Giuseppe di Fatta |  |
 | [Beatitudine (La preghiera di Gesù è la nostra)](https://www.youtube.com/watch?v=c6uJoG9BbJ8) | 20 | Gaetano Castiglia |  |
-| [Giorno di Pentecoste](https://www.youtube.com/watch?v=op08cAePvIk) | 20 | Giosy Cento |  |
 | [In principio](https://www.youtube.com/watch?v=jsFibHveYW4) | 20 | Daniele Ricci |  |
 | [Il suo amore per me](https://www.youtube.com/watch?v=-nkZOZXmhxU) | 20 | Don Livio Tacchini |  |
-| [Io ti cerco](https://www.youtube.com/watch?v=9shFqgM_OgQ) | 19 | Sequeri - Belli |  |
-| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 19 | Stefano Pianori |  |
-| Ascolta oggi  | 19 | Silverio Fioravanti |  |
-| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
+| [Fonti di Nazareth](https://www.youtube.com/watch?v=vUOhl98MLuY) | 20 | Chiara Bizzetti |  |
+| [Giorno di Pentecoste](https://www.youtube.com/watch?v=op08cAePvIk) | 20 | Giosy Cento |  |
+| [Preconio Pasquale](https://www.youtube.com/watch?v=5QKwhomm0G8) | 20 | Fra Giuseppe di Fatta |  |
 | [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
+| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 19 | Stefano Pianori |  |
+| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
+| [Il figliol prodigo](https://www.youtube.com/watch?v=c3oRLXMQXE0) | 19 | Vittorio Nadalin |  |
+| [Dio mio, Dio mio perchè mi hai abbandonato ](https://www.youtube.com/watch?v=34BhRHX7mzE) | 19 | Marco Frisina | Non temere - Signore è il suo nome |
+| [Io ti cerco](https://www.youtube.com/watch?v=9shFqgM_OgQ) | 19 | Sequeri - Belli |  |
+| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
 | Annuncio Pasquale | 19 | Domenico Machetta |  |
 | Preconio Pasquale | 19 | Kiko Arguello |  |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
-| [Dio mio, Dio mio perchè mi hai abbandonato ](https://www.youtube.com/watch?v=34BhRHX7mzE) | 19 | Marco Frisina | Non temere - Signore è il suo nome |
-| [Il figliol prodigo](https://www.youtube.com/watch?v=c3oRLXMQXE0) | 19 | Vittorio Nadalin |  |
 | [E correremo insieme](https://www.youtube.com/watch?v=8av9XCKUVMo) | 19 | Giosy Cento |  |
+| [Il canto della creazione](https://www.youtube.com/watch?v=UmZMsOYQtUY) | 19 | Giosy Cento |  |
+| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -50,14 +50,14 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | --- | --- | --- | --- |
 | [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
 | [In principio](https://www.youtube.com/watch?v=jsFibHveYW4) | 20 | Daniele Ricci |  |
-| [Io ti cerco](https://www.youtube.com/watch?v=9shFqgM_OgQ) | 19 | Sequeri - Belli |  |
-| Ascolta oggi  | 19 | Silverio Fioravanti |  |
-| Preconio Pasquale | 19 | Kiko Arguello |  |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
 | [Il figliol prodigo](https://www.youtube.com/watch?v=c3oRLXMQXE0) | 19 | Vittorio Nadalin |  |
+| [Io ti cerco](https://www.youtube.com/watch?v=9shFqgM_OgQ) | 19 | Sequeri - Belli |  |
+| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
+| Preconio Pasquale | 19 | Kiko Arguello |  |
 | [Il canto della creazione](https://www.youtube.com/watch?v=UmZMsOYQtUY) | 19 | Giosy Cento |  |
-| [Il Signore è la mia salvezza](https://www.youtube.com/watch?v=hYoJr1jamX0) | 17 | A. Marani |  |
-| [La casa sulla Roccia](https://www.youtube.com/watch?v=yj9TtmyjmaE) | 17 | Gen Rosso | La vita di ogni cosa |
+| Ascolta oggi  | 19 | Silverio Fioravanti |  |
+| [Lo Spirito del Signore](https://www.youtube.com/watch?v=wy2g6aSREag) | 17 | Marco Frisina |  |
+| [La sua casa](https://www.youtube.com/watch?v=aZB9J7PpAmicltm6) | 17 | Francesco Buttazzo | Guidati nel deserto |
 
 ## Offertorio
 
@@ -70,9 +70,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Il tuo amore per noi](https://www.youtube.com/watch?v=9aaxeabeNq0) | 14 | Piera Cori |  |
 | [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I) | 14 | Franco Motta - Pierangelo Sequeri |  |
 | [Mani](https://www.youtube.com/watch?v=FexZCiC8SJw) | 13 | Fabrizio Colombo |  |
+| [Passa ancora in mezzo a noi](https://www.youtube.com/watch?v=Wtr-lw8go8g) | 13 | RnS | Fuoco d'Amore |
 | [Benedici il Signore](https://www.youtube.com/watch?v=iepex6XBHo0) | 13 | Marco Frisina |  |
 | [Tu sarai profeta](https://www.youtube.com/watch?v=3RlXWfB_ALI) | 13 | Marco Frisina | Tu sarai profeta |
-| [Passa ancora in mezzo a noi](https://www.youtube.com/watch?v=Wtr-lw8go8g) | 13 | RnS | Fuoco d'Amore |
 
 ## Comunione
 
@@ -82,25 +82,25 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
 | [Beatitudine (La preghiera di Gesù è la nostra)](https://www.youtube.com/watch?v=c6uJoG9BbJ8) | 20 | Gaetano Castiglia |  |
 | [Il suo amore per me](https://www.youtube.com/watch?v=-nkZOZXmhxU) | 20 | Don Livio Tacchini |  |
-| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 19 | Stefano Pianori |  |
-| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
 | [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
-| [Dio s’è fatto come noi](https://www.youtube.com/watch?v=lGaqYA2I-lU) | 18 | Gino Stefani - Marcello Giombini |  |
+| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 19 | Stefano Pianori |  |
+| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
+| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
 | [Io sono il pane della vita](https://www.youtube.com/watch?v=jtFyO8nGGN8) | 18 | Lucio Maria Zappatore | Il Signore è vita |
+| [Dio s’è fatto come noi](https://www.youtube.com/watch?v=lGaqYA2I-lU) | 18 | Gino Stefani - Marcello Giombini |  |
 
 ## Congedo
 
 | Titolo | Similarità (%) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
 | [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
+| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
 | [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
 | [E correremo insieme](https://www.youtube.com/watch?v=8av9XCKUVMo) | 19 | Giosy Cento |  |
 | [Ti ringrazio, o mio Signore](https://www.youtube.com/watch?v=v5ewwgxAuA4) | 18 | C. Gabarain |  |
 | [Signore come è bello (La tenda)](https://www.youtube.com/watch?v=q6OTCpB63LM) | 18 | Claudio Chieffo |  |
-| [Il Signore è la mia salvezza](https://www.youtube.com/watch?v=hYoJr1jamX0) | 17 | A. Marani |  |
-| [Gioisci Figlia di Sion](https://www.youtube.com/watch?v=CdMfAsdFpxU) | 17 | Gen Verde | Sulla via della speranza |
 | [Esci dalla Tua terra](https://www.youtube.com/watch?v=56QlRaUrcyg) | 17 | Gigi Cocquio |  |
 | Rendo grazie al tuo nome, Signore | 17 | Ciardella P. |  |
+| [Non cercate tra i morti](https://www.youtube.com/watch?v=edRuRWlCMHE) | 17 | Angelo Lagorio |  |
+| [Isaia 62](https://www.youtube.com/watch?v=amu-_m4wRKM) | 17 | Silvia Gardi |  |
 
