@@ -1,10 +1,12 @@
 #!/bin/bash
 
-# questa funzione viene usato per generare la data della prossima domenica a partire da oggi nel formato YYYYMMDD
+# questa funzione viene usato per generare la data della prossima domenica a partire da oggi nel formato YYYY-MM-DD
+# (prima era +%Y%m%d, old version)
 
 get_next_sunday() {
+
     # calcola la data di oggi
-    data_oggi=$(date +%Y%m%d)
+    data_oggi=$(date +%Y-%m-%d)
 
     # calcola il giorno della settimana
     giorno_settimana=$(date +%u)
@@ -13,7 +15,7 @@ get_next_sunday() {
     giorni_da_aggiungere=$((7 - $giorno_settimana))
 
     # calcola la data della prossima domenica
-    data_prossima_domenica=$(date -d "$giorni_da_aggiungere days" +%Y%m%d)
+    data_prossima_domenica=$(date -d "$giorni_da_aggiungere days" +%Y-%m-%d)
 
     echo $data_prossima_domenica
 }

@@ -6,7 +6,8 @@ set -a
 # constants
 DATA_DIR="data"
 LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
-LITURGIA_DIR="liturgie"
+LITURGIA_DIR="risorse/lezionari/liturgie"
+PATH_CALENDARIO_LITURGICO="data/calendari_liturgici/calendario_2019-2050.csv"
 LITURGIA_FILE_BASENAME="liturgia"
 SUGGERIMENTI_FILE_BASENAME="suggerimenti"
 HOMEPAGE_PATH="docs/index.md"
@@ -41,16 +42,13 @@ chmod +x ./scripts/*
 
 # scarica liturgia
 LITURGIA_DATE=$(get_next_sunday)
-#LITURGIA_DATE=20240616
-
-liturgia_data_iso=$(date -d $LITURGIA_DATE +%Y-%m-%d)
+liturgia_data_iso=$LITURGIA_DATE
 liturgia_data_estesa=$(converti_data "$liturgia_data_iso")
 
-get_liturgia $LITURGIA_DATE > $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt
-cp $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-$LITURGIA_DATE.txt $LITURGIA_DIR/$LITURGIA_FILE_BASENAME-latest.txt
+get_liturgia $LITURGIA_DATE $PATH_CALENDARIO_LITURGICO $LITURGIA_DIR > $LITURGIA_DIR/../$LITURGIA_FILE_BASENAME-latest.txt
 
 echo "📅 Data della prossima liturgia domenicale: $(date -d $LITURGIA_DATE +%d/%m/%Y)"
-echo "✅ Scaricata liturgia"
+echo "✅ Individuata liturgia"
 
 # run suggeritore
 ./scripts/suggeritore.py "$liturgia_data_iso"

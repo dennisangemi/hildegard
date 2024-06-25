@@ -13,10 +13,9 @@ import sys
 
 # costants
 # OUTPUT_FILE = 'suggerimenti.md'
-CANTI_DIR = 'canti'
-LITURGIA_DIR = 'liturgie'
-LITURGIA_FILE = 'liturgia-latest.txt'
-ANAGRAFICA_CANTI_PATH = 'data/anagrafica_canti.csv'
+CANTI_DIR = 'risorse/canti'
+PATH_LITURGIA_FILE = 'risorse/lezionari/liturgia-latest.txt'
+PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
 
 # functions
 def get_text_from_file(file):
@@ -37,7 +36,7 @@ else:
     print("Nessun valore passato come argomento.")
 
 # apri liturgia.txt
-liturgia = get_text_from_file(os.path.join(LITURGIA_DIR, LITURGIA_FILE))
+liturgia = get_text_from_file(PATH_LITURGIA_FILE)
 
 # apri un canto
 file_canti = get_files_from_dir(CANTI_DIR)
@@ -81,7 +80,7 @@ df = pd.DataFrame(data)
 df['id_canti'] = df['id_canti'].astype(int)
 
 # import anagrafica_canti.csv
-anagrafica = pd.read_csv(ANAGRAFICA_CANTI_PATH)
+anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
 
 # merge df and anagrafica on id_canti column
 result = pd.merge(df, anagrafica, on='id_canti')

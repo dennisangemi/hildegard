@@ -3,7 +3,7 @@
 # questo script usa get_text_by id e get_anagrafica per scaricare tutti i canti dal sito librettocanti.it
 
 # constants
-CANTI_DIR="canti"
+CANTI_DIR="risorse/canti"
 
 # output
 ANAGRAFICA_FILE="data/anagrafica_canti.csv"

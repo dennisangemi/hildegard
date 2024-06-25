@@ -16,7 +16,8 @@ theme:
   font:
     text: Poppins
 
- 
+plugins:
+  - include-markdown
 
 markdown_extensions:
   - footnotes

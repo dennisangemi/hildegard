@@ -12,8 +12,8 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
 ??? quote "Leggi la liturgia"
 
     [Apri la liturgia della CEI :material-arrow-right:]({{{URL_LITURGIA_CEI}}}){ .md-button }
-
-    {{{TESTO_LITURGIA}}}
+    
+    {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
 
 ## :material-music-note-plus: Canti suggeriti per {{{DATA_LITURGIA}}}
 
