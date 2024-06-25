@@ -1,4 +1,3 @@
-- canti/
 - data/
   - anagrafica_canti.csv
   - anagrafica_momenti.csv
@@ -7,25 +6,24 @@
     - calendario_blabla.csv
     - calendario_blabla.json
   - suggerimenti/
-    - archivio/
-      - suggerimenti-YYYYMMDD.csv
     - suggerimenti-latest.csv
     - suggerimenti-comunione-latest.csv
     - suggerimenti-congedo-latest.sv
     - suggerimenti-offertorio-latest.csv
     - suggerimenti-ingresso-latest.csv
     - suggerimenti-top20-latest.csv
-  - liturgie
+  - risorse
+    - canti/
     - lezionari/
       - indici/
       - processing/
-      - raw/
+      - liturgie/
       - lezionario_anno_a.csv
       - lezionario_anno_b.csv
       - lezionario_anno_c.csv
+      - liturgia-latest.txt
    - anagrafica_celebrazioni.csv
    - anagrafica_liturgie_cei.csv
    - liturgie.csv
-   - liturgie_structured.csv
    - liturgia-latest.txt
 
