@@ -12,7 +12,7 @@ theme:
   icon:
     logo: material/church
     repo: fontawesome/brands/github
-  favicon: material/church
+  favicon: images/favicon.png
   font:
     text: Poppins
 
