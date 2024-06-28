@@ -1,5 +1,6 @@
 ---
 title: Suggerimenti
+description: I canti suggeriti per la liturgia di {{{DATA_LITURGIA}}} 
 hide:
   - navigation
   # - toc

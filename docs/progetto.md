@@ -1,5 +1,6 @@
 ---
 title: Progetto
+description: Hildegard è un suggeritore di canti liturgici. Ogni settimana trovi i canti suggeriti per la liturgia domenicale.
 hide:
   - navigation
   - toc

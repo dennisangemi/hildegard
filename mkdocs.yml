@@ -18,6 +18,9 @@ theme:
 
 plugins:
   - include-markdown
+  - social:
+      cards_layout_options:
+        font_family: Poppins
 
 markdown_extensions:
   - footnotes

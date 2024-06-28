@@ -1,5 +1,6 @@
 ---
 title: Suggerimenti
+description: I canti suggeriti per la liturgia di Domenica 30 giugno 2024 
 hide:
   - navigation
   # - toc

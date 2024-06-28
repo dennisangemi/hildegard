@@ -9,10 +9,10 @@ curl "https://liturgia.silvestrini.org/letture/2019-02-03.html" | scrape -be ".t
 
 
 Per avere antifona comunione e dopo comunione:
-curl "https://liturgia.silvestrini.org/letture/2019-02-03.html" | scrape -be ".text-justify" | xq -r '.html.body.div.div[] | {"@id" ,h3, "#text"} | select(."@id" == "div_comunione")."#text"' | sed -e 's/ \+/ /g' -e 's/)/) /g' -e 's/\*//g'
+curl -s "https://liturgia.silvestrini.org/letture/2019-02-03.html" | scrape -be ".text-justify" | xq -r '.html.body.div.div[] | {"@id" ,h3, "#text"} | select(."@id" == "div_comunione")."#text"' | sed -e 's/ \+/ /g' -e 's/)/) /g' -e 's/\*//g'
 
 per avere antifona ingresso:
-curl "https://liturgia.silvestrini.org/letture/2019-02-03.html" | scrape -be ".text-justify" | xq -r '.html.body.div.div[] | {"@id" ,h3, "#text"} | select(."@id" == "div_antifona_ingresso")."#text"' | tr -d '*' | sed 's/^[ \t]*//;s/[ \t]*$//;s/[ \t]\+/ /g'
+curl -s "https://liturgia.silvestrini.org/letture/2019-02-03.html" | scrape -be ".text-justify" | xq -r '.html.body.div.div[] | {"@id" ,h3, "#text"} | select(."@id" == "div_antifona_ingresso")."#text"' | tr -d '*' | sed 's/^[ \t]*//;s/[ \t]*$//;s/[ \t]\+/ /g'
 
 
 
