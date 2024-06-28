@@ -1,5 +1,5 @@
 ---
-title: Suggerimenti
+title: Suggerimenti di animazione liturgica
 description: I canti suggeriti per la liturgia di {{{DATA_LITURGIA}}} 
 hide:
   - navigation
