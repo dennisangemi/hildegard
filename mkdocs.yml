@@ -29,3 +29,18 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+extra:
+  analytics:
+    provider: google
+    property: G-CJPEL5GRH5
+  consent:
+    title: Cookie consent
+    description: >- 
+      Utilizziamo i cookie di Google Analytics solo per monitorare il traffico sul nostro sito. Non raccogliamo dati personali. Non condividiamo le informazioni con terze parti.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
+    actions:
+      - accept
+      - manage 
