@@ -1,0 +1,23 @@
+#!/bin/bash
+
+extract_antifona_ingresso() {
+    if [ $# -ne 1 ]; then
+        echo "Usage: $0 <file>"
+        return 1
+    fi
+    # check if the input is provided
+    if [ -z "$1" ]; then
+        echo "Please provide the date in the format YYYY-MM-DD (e.g. $0 2024-06-02)"
+        return 1
+    fi
+
+    # check if the input is a valid iso date
+    if ! date -d $1 > /dev/null 2>&1; then
+        echo "Please provide a valid date in the format YYYY-MM-DD (e.g., $0 2024-06-02)"
+        return 1
+    fi
+
+    curl -s "https://liturgia.silvestrini.org/letture/$1.html" | scrape -be ".text-justify" | xq -r '.html.body.div.div[] | {"@id" ,h3, "#text"} | select(."@id" == "div_antifona_ingresso")."#text"' | tr -d '*' | sed 's/^[ \t]*//;s/[ \t]*$//;s/[ \t]\+/ /g'
+
+
+}
