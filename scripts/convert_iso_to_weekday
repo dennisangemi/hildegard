@@ -1,0 +1,24 @@
+#!/bin/bash
+
+convert_iso_to_weekday() {
+    # Imposta la localizzazione in italiano
+    # export LC_TIME=en_US.UTF-8
+
+    # Leggi la data in formato ISO
+    iso_date=$1
+    
+    # Usa il comando date per ottenere il giorno della settimana in inglese
+    weekday_english=$(date -d "$iso_date" +"%A")
+    
+    # Mappa i giorni della settimana dall'inglese all'italiano
+    declare -A days_map=( ["Monday"]="Lunedì" ["Tuesday"]="Martedì" ["Wednesday"]="Mercoledì" ["Thursday"]="Giovedì" ["Friday"]="Venerdì" ["Saturday"]="Sabato" ["Sunday"]="Domenica" )
+    
+    # Ottieni il giorno della settimana in italiano
+    weekday_italian=${days_map[$weekday_english]}
+    
+    # Stampa il risultato
+    echo $weekday_italian
+}
+
+# Esempio di utilizzo
+# convert_iso_to_weekday "2024-06-28"  # Output: venerdì

@@ -15,92 +15,100 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
     
     {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
 
-## :material-music-note-plus: Canti suggeriti per 30/06/2024
+## :material-music-note-plus: Canti suggeriti per Domenica 30 giugno 2024
 
 Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)
 
 | Titolo | Similarità (%) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [In principio](https://www.youtube.com/watch?v=jsFibHveYW4) | 21 | Daniele Ricci |  |
-| [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
-| [Signore da chi andremo](https://www.youtube.com/watch?v=J5tytDPEmCc) | 21 | Alejandro Mejia |  |
-| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.youtube.com/watch?v=c6uJoG9BbJ8) | 20 | Gaetano Castiglia |  |
-| [Il suo amore per me](https://www.youtube.com/watch?v=-nkZOZXmhxU) | 20 | Don Livio Tacchini |  |
-| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 20 | Stefano Pianori |  |
-| [Fonti di Nazareth](https://www.youtube.com/watch?v=vUOhl98MLuY) | 20 | Chiara Bizzetti |  |
-| [Giorno di Pentecoste](https://www.youtube.com/watch?v=op08cAePvIk) | 20 | Giosy Cento |  |
-| Preconio Pasquale | 20 | Kiko Arguello |  |
-| [Preconio Pasquale](https://www.youtube.com/watch?v=5QKwhomm0G8) | 20 | Fra Giuseppe di Fatta |  |
-| [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
-| [Dio mio, Dio mio perchè mi hai abbandonato ](https://www.youtube.com/watch?v=34BhRHX7mzE) | 19 | Marco Frisina | Non temere - Signore è il suo nome |
-| Annuncio Pasquale | 19 | Domenico Machetta |  |
-| [Il canto della creazione](https://www.youtube.com/watch?v=UmZMsOYQtUY) | 19 | Giosy Cento |  |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
-| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
-| [E correremo insieme](https://www.youtube.com/watch?v=8av9XCKUVMo) | 19 | Giosy Cento |  |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
-| [Io sono il pane della vita](https://www.youtube.com/watch?v=jtFyO8nGGN8) | 19 | Lucio Maria Zappatore | Il Signore è vita |
-| [Il figliol prodigo](https://www.youtube.com/watch?v=c3oRLXMQXE0) | 19 | Vittorio Nadalin |  |
+| [Inno alla Parola](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2737) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
+| [Signore da chi andremo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1709) | 21 | Alejandro Mejia |  |
+| [In principio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/242) | 21 | Daniele Ricci |  |
+| [Fonti di Nazareth](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/196) | 20 | Chiara Bizzetti |  |
+| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/76) | 20 | Gaetano Castiglia |  |
+| [Preconio Pasquale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1879) | 20 | Kiko Arguello |  |
+| [In comunione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/240) | 20 | Stefano Pianori |  |
+| [Il suo amore per me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2535) | 20 | Don Livio Tacchini |  |
+| [Preconio Pasquale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2087) | 20 | Fra Giuseppe di Fatta |  |
+| [Giorno di Pentecoste](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1627) | 20 | Giosy Cento |  |
+| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 19 | Claudio Chieffo |  |
+| [Io sono il pane della vita](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2354) | 19 | Lucio Maria Zappatore | Il Signore è vita |
+| [E correremo insieme](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/169) | 19 | Giosy Cento |  |
+| [Annuncio Pasquale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2303) | 19 | Domenico Machetta |  |
+| [E lo credemmo abbandonato da DIo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2301) | 19 | Pierangelo Sequeri |  |
+| [Il figliol prodigo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/227) | 19 | Vittorio Nadalin |  |
+| [Dio mio, Dio mio perchè mi hai abbandonato ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2818) | 19 | Marco Frisina | Non temere - Signore è il suo nome |
+| [Cristo è risorto è vivo!  È con noi!](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2081) | 19 | A. Roncari – L. Capello |  |
+| [Grazie Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1848) | 19 | Mascagni |  |
+| [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | 19 | Silverio Fioravanti |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
-## Ingresso
+### Ingresso
 
 | Titolo | Similarità (%) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [In principio](https://www.youtube.com/watch?v=jsFibHveYW4) | 21 | Daniele Ricci |  |
-| [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
-| Preconio Pasquale | 20 | Kiko Arguello |  |
-| [Il canto della creazione](https://www.youtube.com/watch?v=UmZMsOYQtUY) | 19 | Giosy Cento |  |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
-| [Il figliol prodigo](https://www.youtube.com/watch?v=c3oRLXMQXE0) | 19 | Vittorio Nadalin |  |
-| Ascolta oggi  | 19 | Silverio Fioravanti |  |
-| [Io ti cerco](https://www.youtube.com/watch?v=9shFqgM_OgQ) | 18 | Sequeri - Belli |  |
-| [Venite applaudiamo al Signore](https://www.youtube.com/watch?v=AV8drfqaYE0) | 17 | Kiko Arguello |  |
-| [Aprite le porte a Cristo](https://www.youtube.com/watch?v=tQO6XO9syFk) | 17 | Marco Frisina | Sacerdote per sempre |
+| [Inno alla Parola](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2737) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
+| [In principio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/242) | 21 | Daniele Ricci |  |
+| [Preconio Pasquale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1879) | 20 | Kiko Arguello |  |
+| [Il figliol prodigo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/227) | 19 | Vittorio Nadalin |  |
+| [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | 19 | Silverio Fioravanti |  |
+| [Noi canteremo gloria a Te](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/321) | 19 | Gino Stefani - D. Stefani |  |
+| [Il canto della creazione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/225) | 19 | Giosy Cento |  |
+| [Io ti cerco](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1759) | 18 | Sequeri - Belli |  |
+| [Aprite le porte a Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1946) | 17 | Marco Frisina | Sacerdote per sempre |
+| [Il Signore è la mia salvezza](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/236) | 17 | A. Marani |  |
 
-## Offertorio
-
-| Titolo | Similarità (%) | Autore | Raccolta |
-| --- | --- | --- | --- |
-| [Il Vangelo della terra](https://www.youtube.com/watch?v=5du0mvIwEJE) | 17 | Andrea Testa |  |
-| [La trasfigurazione](https://www.youtube.com/watch?v=6gU3t0nuHuw) | 16 | Marco Frisina | Non di solo pane |
-| [Ci nutri alla Tua mensa](https://www.youtube.com/watch?v=RPQ8ORkm9bo) | 15 | F. Buttazzo, P. Dargenio | Esulta il cielo |
-| [Se m’accogli](https://www.youtube.com/watch?v=YkAIWOfJiJM) | 15 | Pierangelo Sequeri |  |
-| [Il tuo amore per noi](https://www.youtube.com/watch?v=9aaxeabeNq0) | 14 | Piera Cori |  |
-| [Il Pane del Cammino](https://www.youtube.com/watch?v=bjaWckUY05I) | 14 | Franco Motta - Pierangelo Sequeri |  |
-| [Frutto della nostra terra](https://www.youtube.com/watch?v=hF9namOkLoE) | 13 | Francesco Buttazzo |  |
-| [Tu sarai profeta](https://www.youtube.com/watch?v=3RlXWfB_ALI) | 13 | Marco Frisina | Tu sarai profeta |
-| [Alzerò i miei occhi ](https://www.youtube.com/watch?v=pMxW97hIleM) | 13 | Marco Frisina |  |
-| [Passa ancora in mezzo a noi](https://www.youtube.com/watch?v=Wtr-lw8go8g) | 13 | RnS | Fuoco d'Amore |
-
-## Comunione
+### Offertorio
 
 | Titolo | Similarità (%) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Inno alla Parola](https://www.youtube.com/watch?v=q2GgtAvd53M) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
-| [Signore da chi andremo](https://www.youtube.com/watch?v=J5tytDPEmCc) | 21 | Alejandro Mejia |  |
-| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.youtube.com/watch?v=c6uJoG9BbJ8) | 20 | Gaetano Castiglia |  |
-| [Il suo amore per me](https://www.youtube.com/watch?v=-nkZOZXmhxU) | 20 | Don Livio Tacchini |  |
-| [In comunione](https://www.youtube.com/watch?v=EMH4PDL-Y5k) | 20 | Stefano Pianori |  |
-| [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
-| [E lo credemmo abbandonato da DIo](https://www.youtube.com/watch?v=rkW8-9ToP9s) | 19 | Pierangelo Sequeri |  |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
-| [Io sono il pane della vita](https://www.youtube.com/watch?v=jtFyO8nGGN8) | 19 | Lucio Maria Zappatore | Il Signore è vita |
-| [Signore come è bello (La tenda)](https://www.youtube.com/watch?v=q6OTCpB63LM) | 19 | Claudio Chieffo |  |
+| [Il Vangelo della terra](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1926) | 17 | Andrea Testa |  |
+| [La trasfigurazione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2269) | 16 | Marco Frisina | Non di solo pane |
+| [Ci nutri alla Tua mensa](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1932) | 15 | F. Buttazzo, P. Dargenio | Esulta il cielo |
+| [Se m’accogli](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/414) | 15 | Pierangelo Sequeri |  |
+| [Il Pane del Cammino](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/231) | 14 | Franco Motta - Pierangelo Sequeri |  |
+| [Il tuo amore per noi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2305) | 14 | Piera Cori |  |
+| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 13 | Marco Frisina | Tu sarai profeta |
+| [Quelli che amano te](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2174) | 13 | Gen Rosso |  |
+| [Frutto della nostra terra](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/201) | 13 | Francesco Buttazzo |  |
+| [Alzerò i miei occhi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2151) | 13 | Marco Frisina |  |
 
-## Congedo
+### Comunione
 
 | Titolo | Similarità (%) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Grazie Signore](https://www.youtube.com/watch?v=WhF2Yw1_eHw) | 19 | Mascagni |  |
-| [Noi canteremo gloria a Te](https://www.youtube.com/watch?v=beOpc0kvk0c) | 19 | Gino Stefani - D. Stefani |  |
-| [E correremo insieme](https://www.youtube.com/watch?v=8av9XCKUVMo) | 19 | Giosy Cento |  |
-| [Cristo è risorto è vivo!  È con noi!](https://www.youtube.com/watch?v=od7T90zC794) | 19 | A. Roncari – L. Capello |  |
-| [Signore come è bello (La tenda)](https://www.youtube.com/watch?v=q6OTCpB63LM) | 19 | Claudio Chieffo |  |
-| [Ti ringrazio, o mio Signore](https://www.youtube.com/watch?v=v5ewwgxAuA4) | 18 | C. Gabarain |  |
-| [Gioisci Figlia di Sion](https://www.youtube.com/watch?v=CdMfAsdFpxU) | 17 | Gen Verde | Sulla via della speranza |
-| [Non cercate tra i morti](https://www.youtube.com/watch?v=edRuRWlCMHE) | 17 | Angelo Lagorio |  |
-| [Esci dalla Tua terra](https://www.youtube.com/watch?v=56QlRaUrcyg) | 17 | Gigi Cocquio |  |
-| Rendo grazie al tuo nome, Signore | 17 | Ciardella P. |  |
+| [Inno alla Parola](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2737) | 21 | R.Farruggio, V.Valenti | Da uomo a uomo |
+| [Signore da chi andremo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1709) | 21 | Alejandro Mejia |  |
+| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/76) | 20 | Gaetano Castiglia |  |
+| [In comunione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/240) | 20 | Stefano Pianori |  |
+| [Il suo amore per me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2535) | 20 | Don Livio Tacchini |  |
+| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 19 | Claudio Chieffo |  |
+| [Io sono il pane della vita](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2354) | 19 | Lucio Maria Zappatore | Il Signore è vita |
+| [E lo credemmo abbandonato da DIo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2301) | 19 | Pierangelo Sequeri |  |
+| [Cristo è risorto è vivo!  È con noi!](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2081) | 19 | A. Roncari – L. Capello |  |
+| [Grazie Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1848) | 19 | Mascagni |  |
+
+### Congedo
+
+| Titolo | Similarità (%) | Autore | Raccolta |
+| --- | --- | --- | --- |
+| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 19 | Claudio Chieffo |  |
+| [E correremo insieme](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/169) | 19 | Giosy Cento |  |
+| [Cristo è risorto è vivo!  È con noi!](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2081) | 19 | A. Roncari – L. Capello |  |
+| [Grazie Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1848) | 19 | Mascagni |  |
+| [Noi canteremo gloria a Te](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/321) | 19 | Gino Stefani - D. Stefani |  |
+| [Ti ringrazio, o mio Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1713) | 18 | C. Gabarain |  |
+| [Alzo gli occhi verso i monti](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2366) | 17 | Kiko Arguello |  |
+| [Esci dalla Tua terra](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/189) | 17 | Gigi Cocquio |  |
+| [Rendo grazie al tuo nome, Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1894) | 17 | Ciardella P. |  |
+| [Il Signore è la mia salvezza](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/236) | 17 | A. Marani |  |
+
+## Note
+!!! warning "Attenzione"
+    I canti suggeriti sono stati selezionati automaticamente nelle modalità descritte nella [pagina del progetto](progetto.md) e potrebbero non essere adeguati. Si consiglia di verificare la loro aderenza al contesto liturgico.
+
+!!! info "Testi"
+    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/).
+
 

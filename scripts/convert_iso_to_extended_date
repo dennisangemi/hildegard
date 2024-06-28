@@ -1,6 +1,9 @@
 #!/bin/bash
 
-converti_data() {
+convert_iso_to_extended_date() {
+  # input: data in formato ISO (YYYY-MM-DD)
+  # output: data estesa in italiano (DD mese YYYY)
+
   # Accetta la data come argomento
   data="$1"
 

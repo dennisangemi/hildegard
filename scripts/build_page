@@ -19,7 +19,7 @@ TESTO_LITURGIA_PLACEHOLDER="{{{TESTO_LITURGIA}}}"
 cp $TEMPLATE_PATH $OUTPUT_FILE_PATH
 
 # replace date placeholder with current date
-sed -i "s#$DATE_PLACEHOLDER#$(date -d $LITURGIA_DATE +%d/%m/%Y)#g" $OUTPUT_FILE_PATH
+sed -i "s#$DATE_PLACEHOLDER#$liturgia_weekday $liturgia_data_estesa#g" $OUTPUT_FILE_PATH
 
 # replace testo liturgia placeholder with liturgia text
 #testo_liturgia=$(cat $LITURGIA_PATH)
@@ -33,31 +33,41 @@ sed -i "s#$DATE_PLACEHOLDER#$(date -d $LITURGIA_DATE +%d/%m/%Y)#g" $OUTPUT_FILE_
 # replace url liturgia cei placeholder with url liturgia cei
 sed -i "s#$URL_CEI_PLACEHOLDER#$LITURGIA_URL$(date -d $LITURGIA_DATE +%Y%m%d)#g" $OUTPUT_FILE_PATH
 
+# compile rest of the page (tables with suggested songs)
 mlr --c2m cat $TOP20_DATA_PATH >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
 echo "Di seguito i canti suggeriti per i vari momenti della liturgia" >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
-echo "## Ingresso" >> $OUTPUT_FILE_PATH
+echo "### Ingresso" >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 mlr --c2m cat $INGRESSO_DATA_PATH >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
-echo "## Offertorio" >> $OUTPUT_FILE_PATH
+echo "### Offertorio" >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 mlr --c2m cat $OFFERTORIO_DATA_PATH >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
-echo "## Comunione" >> $OUTPUT_FILE_PATH
+echo "### Comunione" >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 mlr --c2m cat $COMUNIONE_DATA_PATH >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
-echo "## Congedo" >> $OUTPUT_FILE_PATH
+echo "### Congedo" >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 mlr --c2m cat $CONGEDO_DATA_PATH >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
+# add note
+echo "## Note" >> $OUTPUT_FILE_PATH
+echo '!!! warning "Attenzione"' >> $OUTPUT_FILE_PATH
+echo "    I canti suggeriti sono stati selezionati automaticamente nelle modalità descritte nella [pagina del progetto](progetto.md) e potrebbero non essere adeguati. Si consiglia di verificare la loro aderenza al contesto liturgico." >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
 
+echo '!!! info "Testi"' >> $OUTPUT_FILE_PATH
+echo "    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/)." >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
+echo "" >> $OUTPUT_FILE_PATH
 

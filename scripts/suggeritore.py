@@ -98,9 +98,9 @@ result = result.sort_values(by='similarity', ascending=False)
 output_result_path = 'data/suggerimenti-latest.csv'
 result.to_csv(output_result_path, index=False)
 
-# crea una nuova colonna titolo_md che contenga '[' + result.titolo + '](https://www.youtube.com/' + result.link_youtube  +')'
-# se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.youtube.com/' + result['link_youtube'] + ')'
-result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['link_youtube']) else '[' + row['titolo'] + '](https://www.youtube.com/watch?v=' + row['link_youtube'] + ')', axis=1)
+# crea una nuova colonna titolo_md che contenga '[' + result.titolo + '](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/' + result.id_canti  +')'
+# se link_youtube è NaN, non mettere il link e lascia titolo, altrimenti '[' + result['titolo'] + '](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/' + result['id_canti'] + ')'
+result['titolo_md'] = result.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/' + str(row['id_canti']) + ')', axis=1)
 
 # prima di esportare aggiungi data_liturgia a tutti quelli che saranno json (top20 e i 4 momenti)
 result['data'] = data_liturgia

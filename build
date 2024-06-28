@@ -17,7 +17,8 @@ HOMEPAGE_PATH="docs/index.md"
 source ./scripts/get_anagrafica
 source ./scripts/get_next_sunday
 source ./scripts/get_liturgia
-source ./scripts/converti_data
+source ./scripts/convert_iso_to_extended_date
+source ./scripts/convert_iso_to_weekday
 
 # crea cartella data se non esiste
 if [ ! -d "$DATA_DIR" ]; then
@@ -43,7 +44,8 @@ chmod +x ./scripts/*
 # scarica liturgia
 LITURGIA_DATE=$(get_next_sunday)
 liturgia_data_iso=$LITURGIA_DATE
-liturgia_data_estesa=$(converti_data "$liturgia_data_iso")
+liturgia_data_estesa=$(convert_iso_to_extended_date "$liturgia_data_iso")
+liturgia_weekday=$(convert_iso_to_weekday "$liturgia_data_iso")
 
 get_liturgia $LITURGIA_DATE $PATH_CALENDARIO_LITURGICO $LITURGIA_DIR > $LITURGIA_DIR/../$LITURGIA_FILE_BASENAME-latest.txt
 
