@@ -63,7 +63,7 @@ echo "" >> $OUTPUT_FILE_PATH
 # add note
 echo "## Note" >> $OUTPUT_FILE_PATH
 echo '!!! warning "Attenzione"' >> $OUTPUT_FILE_PATH
-echo "    I canti suggeriti sono stati selezionati automaticamente nelle modalità descritte nella [pagina del progetto](progetto.md) e potrebbero non essere adeguati. Si consiglia di verificare la loro aderenza al contesto liturgico." >> $OUTPUT_FILE_PATH
+echo "    I canti suggeriti sono stati selezionati automaticamente nelle modalità descritte nella [pagina del progetto](https://hildegard.it/progetto/) e potrebbero non essere adeguati. Si consiglia di verificare la loro aderenza al contesto liturgico." >> $OUTPUT_FILE_PATH
 echo "" >> $OUTPUT_FILE_PATH
 
 echo '!!! info "Testi"' >> $OUTPUT_FILE_PATH
