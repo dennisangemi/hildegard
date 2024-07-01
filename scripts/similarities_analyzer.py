@@ -6,6 +6,8 @@
 # to do 
 # - generare delle label basate su deviazione normalizzata per classifficare l'adeguatezza dei canti per una liturgia (alta, buona, bassa)
 
+# pulire questo file perchè molte cose adesso le fa get_all_similarities.py
+
 # constants
 INPUT_FILE = 'data/all_similarities.csv'
 
@@ -42,8 +44,11 @@ df['mean_similarity'] = df.groupby('id_canti')['similarity'].transform('mean')
 
 # add deviation from the mean
 df['deviation'] = df['similarity'] - df['mean_similarity']
-devs = df[['id_canti','similarity','mean_deviation','deviation','id_liturgia']]
+devs = df[['id_canti','similarity','deviation','id_liturgia']]
 devs = devs.drop_duplicates()
+
+# save to csv all_similarities_with_deviation.csv
+devs.to_csv('data/all_similarities_with_deviation.csv', index=False)
 
 # print size of the dataset
 print(devs.shape)
@@ -75,6 +80,10 @@ print(devs[devs['id_canti'] == 1879].sort_values(by='deviation', ascending=False
 # forse quindi conviene manentere solo i cantici con deviazione > 20 o di 15 o di 17?
 
 # controllare ad esempio io ti amo signore mia forza tu sei 2432 con liturgia C65-A perchè mi pare che non va
+
+# beh attenzione alla selezione. Bisogna confrontare similarità e deviazione
+# se similarità è alta (normalizzata 33%) ma la deviazione non è molto alta, allora il canto è comunque adatto (come nel caso io ti amo signore mia forza tu sei 2432 con liturgia C65-A)
+# se 
 
 # plot hist of deviation
 plt.hist(devs['deviation'], bins=30)

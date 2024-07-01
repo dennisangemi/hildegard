@@ -96,6 +96,7 @@ df_list = []
 
 # per ogni file di testo della liturgia
 for liturgia_file in liturgia_files:
+    # print(f"🔎 Calcolo la similarità tra la liturgia {liturgia_file} e i canti ...")
     # ottieni il testo della liturgia
     liturgia_text = get_text_from_file(os.path.join(PATH_LITURGIE, liturgia_file))
     # calcola la similarità con i testi dei canti
@@ -126,6 +127,28 @@ for liturgia_file in liturgia_files:
 
 # concatena tutti i DataFrame in df_list
 df = pd.concat(df_list)
+
+# add mean and deviation
+max_similarity = df['similarity'].max()
+
+# normalize similarity
+df['similarity'] = df['similarity'] / max_similarity
+
+# turn similarity into a percentage with no decimal
+df['similarity'] = (df['similarity'] * 100).astype(int)
+
+# Calcolo della media della colonna 'similarity' per ogni 'id_canti' e associazione del risultato a ogni riga
+df['mean_similarity'] = df.groupby('id_canti')['similarity'].transform('mean')
+
+# add deviation from the mean
+df['deviation'] = df['similarity'] - df['mean_similarity']
+
+# ruound mean and deviation to 2 decimal places
+df['mean_similarity'] = df['mean_similarity'].round(2)
+df['deviation'] = df['deviation'].round(2)
+
+# sort df
+df = df.sort_values(by='similarity', ascending=False)
 
 # export to csv
 df.to_csv(OUTPUT_FILE, index=False)
