@@ -1,0 +1,5 @@
+metric,description,weight
+similarity,similarità calcolata con get_similarity,1.5
+deviation,scarto della similarità dalla media,2
+history,numero di volte che un canto è stato suonato according to canticristiani,2
+selection,accuratezza manualmente selezionata dal db manually selected,3

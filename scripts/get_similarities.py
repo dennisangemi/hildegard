@@ -10,15 +10,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import sys
 
-
+# importing costants
+import config
 
 # costants (input)
-PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
-PATH_CANTI = 'risorse/canti'
-PATH_LITURGIE = 'risorse/lezionari/liturgie'
-
-# costants (output)
-PATH_SIMILARITIES = 'data/similarities.csv'
+# config.PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
+# config.PATH_CANTI = 'risorse/canti'
+# config.PATH_LITURGIE = 'risorse/lezionari/liturgie'
+# 
+# # costants (output)
+# config.PATH_SIMILARITIES = 'data/similarities.csv'
 
 
 
@@ -48,7 +49,7 @@ def get_similarities(text_to_compare, filename_canti):
         global canti
         canti = []
         for canto in file_canti:
-            canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(PATH_CANTI, canto))))
+            canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(config.PATH_CANTI, canto))))
 
     # Unisci il testo di riferimento con gli altri testi
     all_texts = [text_to_compare] + canti
@@ -85,11 +86,11 @@ def get_similarities(text_to_compare, filename_canti):
 # main
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 
-# ottieni lista di filename contenuti in directory PATH_CANTI
-file_canti = get_files_from_dir(PATH_CANTI)
+# ottieni lista di filename contenuti in directory config.PATH_CANTI
+file_canti = get_files_from_dir(config.PATH_CANTI)
 
 # ottieni la lista di file di testo della liturgia
-liturgia_files = get_files_from_dir(PATH_LITURGIE)
+liturgia_files = get_files_from_dir(config.PATH_LITURGIE)
 
 # crea lista di DataFrame vuota
 df_list = []
@@ -98,7 +99,7 @@ df_list = []
 for liturgia_file in liturgia_files:
 
     # ottieni il testo della liturgia
-    liturgia_text = get_text_from_file(os.path.join(PATH_LITURGIE, liturgia_file))
+    liturgia_text = get_text_from_file(os.path.join(config.PATH_LITURGIE, liturgia_file))
 
     # calcola la similarità con i testi dei canti
     data = get_similarities(liturgia_text, file_canti)
@@ -128,10 +129,22 @@ max_similarity = df['similarity'].max()
 df['similarity'] = df['similarity'] / max_similarity
 
 # turn similarity into a percentage with no decimal
-df['similarity'] = ((df['similarity'].round(2)) * 100).astype(int)
+df['similarity'] = (df['similarity'] * 100).round(2)
 
 # Calcolo della media della colonna 'similarity' per ogni 'id_canti' e associazione del risultato a ogni riga
 df['mean_similarity'] = df.groupby('id_canti')['similarity'].transform('mean')
+
+# crea un nuovo df con la colonna univoca id_canti e mean_similarity
+# mean_similarity = df.groupby('id_canti')['similarity'].mean().reset_index()
+# 
+# # preview mean_similarity
+# print(mean_similarity.head())
+# 
+# #shape of mean_similarity
+# print(mean_similarity.shape)
+# 
+# # wait for user input
+# input("Press Enter to continue...")
 
 # add deviation from the mean
 df['deviation'] = df['similarity'] - df['mean_similarity']
@@ -144,12 +157,12 @@ df['deviation'] = df['deviation'].round(2)
 df = df.sort_values(by=['id_liturgia', 'deviation'], ascending=[True, False])
 
 # export to csv
-df.to_csv(PATH_SIMILARITIES, index=False)
-print(f"📄 Esportato il file {PATH_SIMILARITIES} con successo.")
+df.to_csv(config.PATH_SIMILARITIES, index=False)
+print(f"📄 Esportato il file {config.PATH_SIMILARITIES} con successo.")
 print("✅ Tutte similiarità con deviazioni sono state calcolate!")
 
 # qui posso fare eventualmente il merging con l'anagrafica per una preview dei risultati ma non serve
 # import anagrafica_canti.csv
-# anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
+# anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
 
 # questo script continua con similarities_analyzer.py
