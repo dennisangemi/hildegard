@@ -102,7 +102,8 @@ print(id_liturgia)
 similarities = similarities[similarities['id_liturgia'] == id_liturgia]
 
 # remove titolo column
-similarities = similarities.drop(columns=['titolo'])
+# similarities = similarities.drop(columns=['titolo'])
+# non c'è bisogno di rimuoverlo perché non è presente nella nuova versione
 
 # join con anagrafica by id_canti
 similarities = pd.merge(similarities, anagrafica, on='id_canti')

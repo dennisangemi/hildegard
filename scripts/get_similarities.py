@@ -13,8 +13,8 @@ import sys
 
 
 # costants (input)
-CANTI_DIR = 'risorse/canti'
 PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
+PATH_CANTI = 'risorse/canti'
 PATH_LITURGIE = 'risorse/lezionari/liturgie'
 
 # costants (output)
@@ -34,14 +34,21 @@ def get_files_from_dir(directory):
       return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
 
 # ottieni un dizionario con id_canti e similarity tra il testo di riferimento e i testi dei canti
-def get_similarities(text_to_compare, filename_canti, canti):
+def get_similarities(text_to_compare, filename_canti):
     # input
     # liturgia:       testo della liturgia o testo di riferimento
     # filename_canti: lista di nomi dei file contenenti i testi dei canti (generato con get_files_from_dir())
-    # canti:          lista di testi dei canti
 
     # output
     # data:           dizionario con id_canti e similarity
+
+    # carica i canti (una volta sola, e quindi solo se la variabile `canti` non esiste già)
+    if 'canti' not in globals():
+        print("🎵 Carico i testi dei canti...")
+        global canti
+        canti = []
+        for canto in file_canti:
+            canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(PATH_CANTI, canto))))
 
     # Unisci il testo di riferimento con gli altri testi
     all_texts = [text_to_compare] + canti
@@ -70,6 +77,7 @@ def get_similarities(text_to_compare, filename_canti, canti):
     # Create a dictionary with the file names and similarity values
     data = {'id_canti': filename_canti, 'similarity': similarities}
 
+    # output of the function
     return data
 
 
@@ -77,59 +85,41 @@ def get_similarities(text_to_compare, filename_canti, canti):
 # main
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 
-# genera lista di filename contenuti in directory CANTI_DIR
-file_canti = get_files_from_dir(CANTI_DIR)
+# ottieni lista di filename contenuti in directory PATH_CANTI
+file_canti = get_files_from_dir(PATH_CANTI)
 
-# per ogni elemento di file_canti estrai il testo e salvalo in un vettore concatenato
-# `canti` è una list contenente i testi dei canti
-canti = []
-for canto in file_canti:
-    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(CANTI_DIR, canto))))
-
-# import anagrafica_canti.csv
-anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
-
-# fai tutto quello che c'è sopra (cioè calcola la similarità con tutti i testi canti) per ogni liturgia testo file presente in risorse/lezionari/liturgia
 # ottieni la lista di file di testo della liturgia
 liturgia_files = get_files_from_dir(PATH_LITURGIE)
 
-# lista di DataFrame
+# crea lista di DataFrame vuota
 df_list = []
 
 # per ogni file di testo della liturgia
 for liturgia_file in liturgia_files:
-    # print(f"🔎 Calcolo la similarità tra la liturgia {liturgia_file} e i canti ...")
+
     # ottieni il testo della liturgia
     liturgia_text = get_text_from_file(os.path.join(PATH_LITURGIE, liturgia_file))
+
     # calcola la similarità con i testi dei canti
-    data = get_similarities(liturgia_text, file_canti, canti)
+    data = get_similarities(liturgia_text, file_canti)
+
     # Create a DataFrame from the dictionary
     df = pd.DataFrame(data)
-    # make id column an integer
-    df['id_canti'] = df['id_canti'].astype(int)
-    # merge df and anagrafica on id_canti column
-    ### WARNING: NON FARE QUESTO MERGE PER OGNI LITURGIA. FAILO UNA VOLTA SOLA ALLA FINE SE PROPRIO LO DEVI FARE.
-    df = pd.merge(df, anagrafica, on='id_canti')
-    # select only columns id_canti similatiry titolo
-    df = df[['id_canti', 'similarity', 'titolo']]
-    # make similarity a percentage
-    df.similarity = df.similarity.round(2)*100
-    df.similarity = df.similarity.astype(int)
-    # sort the DataFrame by similarity
-    df = df.sort_values(by='similarity', ascending=False)
-    # add to df the liturgia_file column withouth the .txt extension
+
+    # add to df the liturgia_file column without the .txt extension
     df['id_liturgia'] = liturgia_file[:-4]
+
     # append the result to a df_list
     df_list.append(df)
+
     # display the size of the list df
-    print(f"La lista df_list ha {len(df_list)} elementi.")
-    # preview dell'ultimo elemento della lista
-    # print(" ⏯ I testi più simili sono:")
-    # print(df_list[-1].head())
-    # input("Press Enter to continue...")
+    print(f"🔄 Processate {len(df_list)} liturgie...")
 
 # concatena tutti i DataFrame in df_list
 df = pd.concat(df_list)
+
+# print 
+print("📊 Calcolo la media normalizzata e la deviazione della similarità per ogni canto...")
 
 # add mean and deviation
 max_similarity = df['similarity'].max()
@@ -138,7 +128,7 @@ max_similarity = df['similarity'].max()
 df['similarity'] = df['similarity'] / max_similarity
 
 # turn similarity into a percentage with no decimal
-df['similarity'] = (df['similarity'] * 100).astype(int)
+df['similarity'] = ((df['similarity'].round(2)) * 100).astype(int)
 
 # Calcolo della media della colonna 'similarity' per ogni 'id_canti' e associazione del risultato a ogni riga
 df['mean_similarity'] = df.groupby('id_canti')['similarity'].transform('mean')
@@ -150,12 +140,16 @@ df['deviation'] = df['similarity'] - df['mean_similarity']
 df['mean_similarity'] = df['mean_similarity'].round(2)
 df['deviation'] = df['deviation'].round(2)
 
-# sort df
-df = df.sort_values(by='similarity', ascending=False)
+# sort df by id_liturgia and by deviation
+df = df.sort_values(by=['id_liturgia', 'deviation'], ascending=[True, False])
 
 # export to csv
 df.to_csv(PATH_SIMILARITIES, index=False)
-print(f"Esportato il file {PATH_SIMILARITIES} con successo.")
-print("Fine del programma.")
+print(f"📄 Esportato il file {PATH_SIMILARITIES} con successo.")
+print("✅ Tutte similiarità con deviazioni sono state calcolate!")
+
+# qui posso fare eventualmente il merging con l'anagrafica per una preview dei risultati ma non serve
+# import anagrafica_canti.csv
+# anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
 
 # questo script continua con similarities_analyzer.py
