@@ -3,14 +3,9 @@
 # esporta le variabili d'ambiente
 set -a
 
-# constants
-DATA_DIR="data"
-LITURGIA_URL="https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia="
-LITURGIA_DIR="risorse/lezionari/liturgie"
-PATH_CALENDARIO_LITURGICO="data/calendari_liturgici/calendario_2019-2050.csv"
-LITURGIA_FILE_BASENAME="liturgia"
-SUGGERIMENTI_FILE_BASENAME="suggerimenti"
-HOMEPAGE_PATH="docs/index.md"
+# import variables
+source <(grep = scripts/config.ini)
+
 
 
 # importing functions
@@ -21,35 +16,39 @@ source ./scripts/convert_iso_to_extended_date
 source ./scripts/convert_iso_to_weekday
 
 # crea cartella data se non esiste
-if [ ! -d "$DATA_DIR" ]; then
-  mkdir $DATA_DIR
+if [ ! -d "$PATH_DATA" ]; then
+  mkdir $PATH_DATA
+  echo "✅ Creata cartella data"
 fi
 
 # crea cartella liturgie se non esiste
-if [ ! -d "$LITURGIA_DIR" ]; then
-  mkdir $LITURGIA_DIR
+if [ ! -d "$PATH_LITURGIE" ]; then
+  mkdir $PATH_LITURGIE
+  echo "✅ Creata cartella liturgie"
 fi
 
 # rendi eseguibili gli script
 chmod +x ./scripts/*
 
-# scarica anagrafica
-# get_anagrafica > $DATA_DIR/anagrafica_canti.csv
-# echo "✅ Scaricata anagrafica canti"
-
-# scarica testi
-# ./scripts/db_downloader
-# echo "✅ Scaricati testi canti"
+# se vuoi scaricare anagrafica canti e testi canti devi usare
+# db_downloader
+# con le opportune istruzioni e autenticazioni
 
 # scarica liturgia
-LITURGIA_DATE=$(get_next_sunday)
-liturgia_data_iso=$LITURGIA_DATE
+liturgia_data_iso=$(get_next_sunday)
+liturgia_data_yyyymmdd=$(date -d $liturgia_data_iso +%Y%m%d)
 liturgia_data_estesa=$(convert_iso_to_extended_date "$liturgia_data_iso")
 liturgia_weekday=$(convert_iso_to_weekday "$liturgia_data_iso")
 
-get_liturgia $LITURGIA_DATE $PATH_CALENDARIO_LITURGICO $LITURGIA_DIR > $LITURGIA_DIR/../$LITURGIA_FILE_BASENAME-latest.txt
+get_liturgia "$liturgia_data_iso" "$PATH_CALENDARIO_LITURGICO" "$PATH_LITURGIE" > $PATH_LITURGIA
 
-echo "📅 Data della prossima liturgia domenicale: $(date -d $LITURGIA_DATE +%d/%m/%Y)"
+# se get liturgia ritorna errore, esci
+if [ $? -eq 1 ]; then
+  echo "❌ $0: Errore durante il recupero della liturgia" >&2
+  exit 1
+fi
+
+echo "📅 Data della prossima liturgia domenicale: $(date -d $liturgia_data_iso +%d/%m/%Y)"
 echo "✅ Individuata liturgia"
 
 # run suggeritore
@@ -59,10 +58,10 @@ echo "✅ Individuata liturgia"
 ./scripts/build_page
 
 # organize files 
-cp $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-latest.csv $DATA_DIR/$SUGGERIMENTI_FILE_BASENAME-$LITURGIA_DATE.csv
+cp $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-latest.csv $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-$liturgia_data_yyyymmdd.csv
 
 suggerimenti_on_archive_path="docs/archivio/$liturgia_data_estesa.md"
-cp $HOMEPAGE_PATH "$suggerimenti_on_archive_path"
+cp $PATH_HOMEPAGE "$suggerimenti_on_archive_path"
 
 # clean suggerimenti on archive
 line_end=$(cat "$suggerimenti_on_archive_path" | grep -n ":material-music" | cut -d: -f1)
