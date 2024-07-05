@@ -10,11 +10,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import sys
 
-# costants
-# OUTPUT_FILE = 'suggerimenti.md'
-CANTI_DIR = 'risorse/canti'
-PATH_LITURGIA_FILE = 'risorse/lezionari/liturgia-latest.txt'
-PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
+# importing costants
+import config
+
+
 
 # functions
 
@@ -77,19 +76,19 @@ else:
     print("Nessun valore passato come argomento.")
 
 # ottieni il testo della liturgia
-liturgia = get_text_from_file(PATH_LITURGIA_FILE)
+liturgia = get_text_from_file(config.PATH_LITURGIA)
 
 # testo di riferimento per testare il codice
 # liturgia = "Popoli tutti battete le mani"
 
-# genera lista di filename contenuti in directory CANTI_DIR
-file_canti = get_files_from_dir(CANTI_DIR)
+# genera lista di filename contenuti in directory config.PATH_CANTI
+file_canti = get_files_from_dir(config.PATH_CANTI)
 
 # per ogni elemento di file_canti estrai il testo e salvalo in un vettore concatenato
 # `canti` è una list contenente i testi dei canti
 canti = []
 for canto in file_canti:
-    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(CANTI_DIR, canto))))
+    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(config.PATH_CANTI, canto))))
 
 # calcolo similatirà
 data = get_similarities(liturgia, file_canti, canti)
@@ -101,7 +100,7 @@ df = pd.DataFrame(data)
 df['id_canti'] = df['id_canti'].astype(int)
 
 # import anagrafica_canti.csv
-anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
+anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
 
 # merge df and anagrafica on id_canti column
 df = pd.merge(df, anagrafica, on='id_canti')
