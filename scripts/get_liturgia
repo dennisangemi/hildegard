@@ -30,7 +30,7 @@ get_liturgia() {
     path_calendario_liturgico=$2
     path_liturgie=$3
 
-    
+
 
     # se $path_calendario_liturgico non esiste, ritorna errore
     if [ ! -f $path_calendario_liturgico ]; then
@@ -49,7 +49,6 @@ get_liturgia() {
 
     # build filename_liturgia usando questa logica $path_liturgie/$id_liturgia.txt
     filename_liturgia=$path_liturgie/$id_liturgia.txt
-    echo $filename_liturgia >&2
 
     # se $path_liturgie/$id_liturgia.txt non esiste, ritorna errore
     if [ ! -f "$filename_liturgia" ]; then
