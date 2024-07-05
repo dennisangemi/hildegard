@@ -2,11 +2,10 @@
 
 # questo script usa get_text_by id e get_anagrafica per scaricare tutti i canti dal sito librettocanti.it
 
-# constants
-CANTI_DIR="risorse/canti"
+# import constants
+source <(grep = scripts/config.ini)
 
-# output
-ANAGRAFICA_FILE="data/anagrafica_canti.csv"
+# constants
 IDS_FILE="data/id_canti.txt"
 
 # importa funzioni
@@ -14,45 +13,48 @@ source ./scripts/get_text_by_id
 source ./scripts/get_anagrafica
 
 # get access token
-token=$(curl -s https://www.librettocanti.it/api/get_access_token/$USERNAME/$PASSWORD | jq -r ".access_token")
+echo "🔑 Ottengo l'access token..."
+url="https://www.librettocanti.it/api/get_access_token/$USERNAME/$PASSWORD"
+# echo "🔗 $url"
+token=$(curl -s "$url" | jq -r ".access_token")
 
 # se non riesce a ottenere il token, esce
 if [ -z $token ]; then
-   echo "❌ Errore: non è stato possibile ottenere l'access token. Controlla le credenziali inserite."
+   echo "❌ Errore: non è stato possibile ottenere l'access token. Controlla le credenziali inserite." >&2
    exit 1
 fi
 
 # controlla se esiste il file anagrafica 
-# if [ ! -f $ANAGRAFICA_FILE ]; then
-#    echo "File $ANAGRAFICA_FILE non trovato! Lo sto scaricando..."
-#    get_anagrafica > ANAGRAFICA_FILE
+# if [ ! -f $PATH_ANAGRAFICA_CANTI ]; then
+#    echo "File $PATH_ANAGRAFICA_CANTI non trovato! Lo sto scaricando..."
+#    get_anagrafica > PATH_ANAGRAFICA_CANTI
 # fi
 
 # se la cartella canti non esiste, creala
-if [ ! -d $CANTI_DIR ]; then
-   mkdir $CANTI_DIR
+if [ ! -d $PATH_CANTI ]; then
+   mkdir $PATH_CANTI
 fi
 
 # aggiorna l'anagrafica
-get_anagrafica $token > $ANAGRAFICA_FILE
+get_anagrafica $token > $PATH_ANAGRAFICA_CANTI
 
 # controlla se l'anagrafica è vuota
-if [ ! -s $ANAGRAFICA_FILE ]; then
+if [ ! -s $PATH_ANAGRAFICA_CANTI ]; then
    echo "❌ Errore: l'anagrafica è vuota. Controlla le credenziali inserite."
    exit 1
 fi
 
 # usa mlr per estrarre solo la colonna id_canti
-mlr --csv cut -f id_canti $ANAGRAFICA_FILE | tail -n +2 | sed 's/"//g' > $IDS_FILE
+mlr --csv cut -f id_canti $PATH_ANAGRAFICA_CANTI | tail -n +2 | sed 's/"//g' > $IDS_FILE
 
-# per ogni id_canto, usa get_text_by_id per estrarre il testo e salvarlo in CANTI_DIR con filename id_canto.txt
+# per ogni id_canto, usa get_text_by_id per estrarre il testo e salvarlo in PATH_CANTI con filename id_canto.txt
 total_lines=$(wc -l < $IDS_FILE)
 current_line=1
 
 echo "🛠 Ho trovato $total_lines canti da scaricare. Inizio il download..."
 
 while read id_canto; do
-   get_text_by_id $id_canto $token > $CANTI_DIR/$id_canto.txt
+   get_text_by_id $id_canto $token > $PATH_CANTI/$id_canto.txt
    echo "Progresso: $current_line/$total_lines"
    ((current_line++))
 done < $IDS_FILE
@@ -62,5 +64,5 @@ rm $IDS_FILE
 
 # fine
 echo "✅ Finito!"
-echo "📂 I testi dei canti sono stati scaricati nella cartella $CANTI_DIR"
-echo "📄 L'anagrafica dei canti è stata salvata in $ANAGRAFICA_FILE"
+echo "📂 I testi dei canti sono stati scaricati nella cartella $PATH_CANTI"
+echo "📄 L'anagrafica dei canti è stata salvata in $PATH_ANAGRAFICA_CANTI"

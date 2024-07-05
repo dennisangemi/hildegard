@@ -10,16 +10,18 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import sys
 
+# importing costants
+import config
 
 
 # costants
 # OUTPUT_FILE = 'suggerimenti.md'
-CANTI_DIR = 'risorse/canti'
-PATH_LITURGIA_FILE = 'risorse/lezionari/liturgia-latest.txt'
-PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
-PATH_LITURGIE = 'risorse/lezionari/liturgie'
-PATH_SIMILARITIES = 'data/all_similarities.csv'
-PATH_CALENDARIO = 'data/calendari_liturgici/calendario_2019-2050.csv'
+# config.PATH_CANTI = 'risorse/canti'
+# config.PATH_LITURGIA = 'risorse/lezionari/liturgia-latest.txt'
+# config.PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
+# config.PATH_LITURGIE = 'risorse/lezionari/liturgie'
+# config.PATH_SIMILARITIES = 'data/all_similarities.csv'
+# config.PATH_CALENDARIO_LITURGICO = 'data/calendari_liturgici/calendario_2019-2050.csv'
 MIN_THRESHOLD_DEVIATION = 5
 
 
@@ -89,9 +91,9 @@ else:
 
 
 # importing tables
-anagrafica = pd.read_csv(PATH_ANAGRAFICA_CANTI)
-calendario = pd.read_csv(PATH_CALENDARIO)
-similarities = pd.read_csv(PATH_SIMILARITIES)
+anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
+calendario = pd.read_csv(config.PATH_CALENDARIO_LITURGICO)
+similarities = pd.read_csv(config.PATH_SIMILARITIES)
 
 # cerca data_liturgia in calendario (colonna date) e estrai colonna id_liturgia
 data_liturgia = "2024-06-30" # to comment
@@ -128,17 +130,17 @@ print(similarities.shape)
 # --------------------------------- SALMO E ANTIFONE --------------------------------- #
 
 # test salmo e antifone
-liturgia = get_text_from_file(os.path.join(PATH_LITURGIE, id_liturgia + '.txt'))
+liturgia = get_text_from_file(os.path.join(config.PATH_LITURGIE, id_liturgia + '.txt'))
 print(liturgia)
 
-# genera lista di filename contenuti in directory CANTI_DIR
-file_canti = get_files_from_dir(CANTI_DIR)
+# genera lista di filename contenuti in directory config.PATH_CANTI
+file_canti = get_files_from_dir(config.PATH_CANTI)
 
 # per ogni elemento di file_canti estrai il testo e salvalo in un vettore concatenato
 # `canti` è una list contenente i testi dei canti
 canti = []
 for canto in file_canti:
-    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(CANTI_DIR, canto))))
+    canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(config.PATH_CANTI, canto))))
 
 # estrai salmo
 salmo = get_text_between_strings(liturgia, 'SALMO RESPONSORIALE', 'SECONDA LETTURA')
