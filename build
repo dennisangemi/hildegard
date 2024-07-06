@@ -52,7 +52,7 @@ echo "📅 Data della prossima liturgia domenicale: $(date -d $liturgia_data_iso
 echo "✅ Individuata liturgia"
 
 # run suggeritore
-./scripts/suggeritore.py "$liturgia_data_iso"
+./scripts/suggeritore_v3.py "$liturgia_data_iso"
 
 # build website homepage
 ./scripts/build_page

@@ -23,90 +23,86 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
 
 Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)
 
-| Titolo | Similarità (%) | Autore | Raccolta |
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Non sono più io che vivo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1674) | 23 | Stefano La Porta |  |
-| [Lo Spirito del Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/282) | 23 | Marco Frisina |  |
-| [E sono solo un uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/179) | 22 | Pierangelo Sequeri  | In cerca d'autore |
-| [E' giunta l’ora](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/170) | 22 | Luciano Scaglianti |  |
-| [Non sono più io che vivo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2270) | 22 | RnS | Misericordia sei |
-| [Io credo, risorgerò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/249) | 21 | Gino Stefani |  |
-| [Io sono il pane della vita](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2354) | 21 | Lucio Maria Zappatore | Il Signore è vita |
-| [Io non sono degno](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/253) | 21 | Claudio Chieffo | È bella la strada |
-| [Signore da chi andremo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1709) | 21 | Alejandro Mejia |  |
-| [Gloria a Dio - 2023](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2799) | 21 | Daniele Esposito |  |
-| [Gloria a Dio nell'alto dei cieli](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2176) | 21 | Francesco Buttazzo | Dall'amore di Dio |
-| [Maria piccola Maria](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2547) | 21 | Kiko Arguello |  |
-| [Symbolum ‘77 (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/446) | 20 | Pierangelo Sequeri | In cerca d'autore |
-| [Gloria a Dio ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2628) | 20 | RnS - S.Martinez | Ad una voce |
-| [Lasciate che i bambini vengano a me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2600) | 20 | Daniele Esposito |  |
-| [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 20 | Domenico Machetta |  |
-| [Gloria a Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2454) | 20 | Giuseppe Tranchida | Con Voci di Gioia |
-| [Symbolum ‘77](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1675) | 20 | Pierangelo Sequeri | In cerca d'autore |
-| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 20 | Claudio Chieffo |  |
-| [Preconio Pasquale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2087) | 20 | Fra Giuseppe di Fatta |  |
+| [Signore pietà  ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2345) | 2.41 | Avolio-Capacchione-La Rocca | Festa con Gesù |
+| [Signore Pietà](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2084) | 1.42 | Daniele Ricci | E' l'incontro della vita |
+| [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
+| [Occhi di cielo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1621) | 0.54 | Comunità Gesù risorto |  |
+| [Who you say I am](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2121) | 0.4 | Hillsong |  |
+| [Santo nelle Altezze ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2150) | 0.32 | RnS |  |
+| [Le mie mani son piene (di benedizioni)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2405) | 0.32 | José Vargas |  |
+| [Ai piedi di Gesù](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1446) | 0.32 | RnS - S.Martinez | Vittoria! |
+| [Ai piedi di Gesù (semplificata)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1889) | 0.32 | Salvatore Martinez |  |
+| [Canto Penitenziale](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2291) | 0.3 | Marco Frisina | O Croce nostra speranza |
+| [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 0.3 | Domenico Machetta |  |
+| [Ti salutiamo, o Vergine](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1712) | 0.29 | Canto tradizionale  |  |
+| [Tu mi conosci](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1828) | 0.29 |  |  |
+| [Grazie Gesù](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2526) | 0.28 | Francesco Biagini |  |
+| [Anima di Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1890) | 0.26 | RnS | Voglio vedere il tuo volto |
+| [Io Mi Arrendo (HillSong - I Surrender)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1972) | 0.26 | HillSong |  |
+| [E' giunta l’ora](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/170) | 0.25 | Luciano Scaglianti |  |
+| [Io mi arrendo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2483) | 0.25 | ADI Media - Matt Crocker |  |
+| [Agnello di Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2490) | 0.25 | Francesco Buttazzo | Si è fatto come noi |
+| [Gesù mori per me (invocazione)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1630) | 0.23 |  |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
 ### Ingresso
 
-| Titolo | Similarità (%) | Autore | Raccolta |
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Lo Spirito del Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/282) | 23 | Marco Frisina |  |
-| [Io credo, risorgerò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/249) | 21 | Gino Stefani |  |
-| [Lasciate che i bambini vengano a me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2600) | 20 | Daniele Esposito |  |
-| [Io ti cerco](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1759) | 20 | Sequeri - Belli |  |
-| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 20 | Marco Frisina | Tu sarai profeta |
-| [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | 20 | Silverio Fioravanti |  |
-| [Isaia 62](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2155) | 19 | Silvia Gardi |  |
-| [Inno alla Parola](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2737) | 19 | R.Farruggio, V.Valenti | Da uomo a uomo |
-| [Venite applaudiamo al Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2253) | 19 | Kiko Arguello |  |
-| [In principio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/242) | 19 | Daniele Ricci |  |
+| [Ti salutiamo, o Vergine](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1712) | 0.29 | Canto tradizionale  |  |
+| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 0.19 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
+| [Tu sarai profeta (2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1955) | 0.19 | Marco Frisina | Tu sarai profeta |
+| [Santo Spirito](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2325) | 0.16 | RnS - Vigo, Napoli | Mi affido a te |
+| [Apri i miei occhi Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1567) | 0.15 | RnS |  |
+| [Aprimi gli occhi del cuore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2135) | 0.12 | Jeunesse en Mission |  |
+| [Nelle mani tue](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2782) | 0.12 | Gen Verde |  |
+| [Io credo, risorgerò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/249) | 0.11 | Gino Stefani |  |
+| [La giusta direzione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2664) | 0.06 | Davide Vigano |  |
 
 ### Offertorio
 
-| Titolo | Similarità (%) | Autore | Raccolta |
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 20 | Marco Frisina | Tu sarai profeta |
-| [Il tuo amore per noi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2305) | 20 | Piera Cori |  |
-| [La trasfigurazione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2269) | 18 | Marco Frisina | Non di solo pane |
-| [Se m’accogli](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/414) | 18 | Pierangelo Sequeri |  |
-| [Fa' che io creda](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2394) | 18 | RnS - De Luca, Conte | Io scelgo Te |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 17 | Marco Frisina | Pane di vita nuova |
-| [Il Vangelo della terra](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1926) | 17 | Andrea Testa |  |
-| [Benedetto nei secoli](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2119) | 17 | Matteo Zambuto |  |
-| [Passa ancora in mezzo a noi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2266) | 16 | RnS | Fuoco d'Amore |
-| [Mani](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/298) | 16 | Fabrizio Colombo |  |
+| [Anima di Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1890) | 0.26 | RnS | Voglio vedere il tuo volto |
+| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
+| [Io ti offro](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1768) | 0.17 | Marcello Giombini | La Messa dei Giovani (Messa Beat) |
+| [Santo Spirito](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2325) | 0.16 | RnS - Vigo, Napoli | Mi affido a te |
+| [Signore, fa di me uno strumento](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1797) | 0.13 | M. Gonzo |  |
+| [Misericordias Domini](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1829) | 0.02 | Henryk Jan Botor |  |
 
 ### Comunione
 
-| Titolo | Similarità (%) | Autore | Raccolta |
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Non sono più io che vivo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1674) | 23 | Stefano La Porta |  |
-| [E sono solo un uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/179) | 22 | Pierangelo Sequeri  | In cerca d'autore |
-| [Non sono più io che vivo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2270) | 22 | RnS | Misericordia sei |
-| [Io sono il pane della vita](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2354) | 21 | Lucio Maria Zappatore | Il Signore è vita |
-| [Io non sono degno](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/253) | 21 | Claudio Chieffo | È bella la strada |
-| [Signore da chi andremo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1709) | 21 | Alejandro Mejia |  |
-| [Symbolum ‘77 (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/446) | 20 | Pierangelo Sequeri | In cerca d'autore |
-| [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 20 | Domenico Machetta |  |
-| [Symbolum ‘77](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1675) | 20 | Pierangelo Sequeri | In cerca d'autore |
-| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 20 | Claudio Chieffo |  |
+| [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
+| [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 0.3 | Domenico Machetta |  |
+| [Tu mi conosci](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1828) | 0.29 |  |  |
+| [Anima di Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1890) | 0.26 | RnS | Voglio vedere il tuo volto |
+| [Lascia i tuoi pesi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2778) | 0.23 | Sefora Nelson | Spero |
+| [Chi perde la sua vita per me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2665) | 0.22 | Sr. Hermana Glenda |  |
+| [Lascia i tuoi pesi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2542) | 0.21 | Sefora Nelson |  |
+| [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
+| [Tu sarai profeta (2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1955) | 0.19 | Marco Frisina | Tu sarai profeta |
+| [Cristo vive in me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2621) | 0.19 | RnS - Canto popolare america latina |  |
 
 ### Congedo
 
-| Titolo | Similarità (%) | Autore | Raccolta |
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Signore come è bello (La tenda)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/428) | 20 | Claudio Chieffo |  |
-| [Ti ringrazio, o mio Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1713) | 20 | C. Gabarain |  |
-| [Beato l’uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/78) | 20 | Antonio Porrino |  |
-| [Isaia 62](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2155) | 19 | Silvia Gardi |  |
-| [Gioisci Figlia di Sion](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/205) | 19 | Gen Verde | Sulla via della speranza |
-| [Alzo gli occhi verso i monti](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2366) | 18 | Kiko Arguello |  |
-| [Noi canteremo gloria a Te](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/321) | 18 | Gino Stefani - D. Stefani |  |
-| [E' il Signore e dà la vita](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1777) | 18 | Comunità Gesù Risorto |  |
-| [Cieli e terra nuova](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/129) | 18 | Mario Piatti |  |
-| [La giusta direzione](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2664) | 17 | Davide Vigano |  |
+| [Who you say I am](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2121) | 0.4 | Hillsong |  |
+| [Le mie mani son piene (di benedizioni)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2405) | 0.32 | José Vargas |  |
+| [Ti salutiamo, o Vergine](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1712) | 0.29 | Canto tradizionale  |  |
+| [Su ali d’aquila](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/443) | 0.17 | Michael Jancas |  |
+| [Mi alma canta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1756) | 0.16 | Gen Verde  | Sulla via della speranza |
+| [Quello che Dio dice di me (versione italiana)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2120) | 0.16 | Hillsong |  |
+| [Sono nato di nuovo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2043) | 0.16 | Servi di Cristo vivo |  |
+| [Nelle mani tue](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2782) | 0.12 | Gen Verde |  |
+| [Mi basta la tua grazia](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1752) | 0.1 | RnS (G. Sanfratello - G. Cucuzza)  |  |
+| [Be thou my vision](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2162) | 0.09 | popolare irlandese |  |
 
 ## Note
 !!! warning "Attenzione"

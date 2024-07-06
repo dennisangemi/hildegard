@@ -9,7 +9,7 @@ echo "⚙️ Downloading manually selected songs from the google sheet..."
 
 # check if variables are set
 if [ -z "$PATH_MANUALLY_SELECTED" ] || [ -z "$URL_MANUALLY_SELECTED" ]; then
-   echo "❌ The PATH_MANUALLY_SELECTED or URL_MANUALLY_SELECTED variable is not set in the config.ini file"
+   echo "❌ The PATH_MANUALLY_SELECTED or URL_MANUALLY_SELECTED variable is not set in the config.ini file" >&2
    exit 1
 fi
 
