@@ -2,12 +2,21 @@
 
 # This script downloads the manually selected songs from the google sheet and saves it to a csv file.
 
-# input
-CSV_URL="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJvTs8qJSUfjUWcEsl0u94WgH66Mhvz0aVkN2IbtFgNAQzizlTaMLtin9tcd0AOXqtxTKHcNpfSRyV/pub?gid=598014936&single=true&output=csv"
+# import the environment variables
+source <(grep -e PATH_MANUALLY_SELECTED -e URL_MANUALLY_SELECTED scripts/config.ini)
 
-# output
-OUTPUT_PATH="data/manually_selected.csv"
+echo "⚙️ Downloading manually selected songs from the google sheet..."
+
+# check if variables are set
+if [ -z "$PATH_MANUALLY_SELECTED" ] || [ -z "$URL_MANUALLY_SELECTED" ]; then
+   echo "❌ The PATH_MANUALLY_SELECTED or URL_MANUALLY_SELECTED variable is not set in the config.ini file"
+   exit 1
+fi
 
 # download and save
-curl -kL $CSV_URL > $OUTPUT_PATH
+curl -skL $URL_MANUALLY_SELECTED \
+| mlr --csv cut -f id_canti,id_liturgia,accuratezza,note then filter -S '$id_canti!=""' > $PATH_MANUALLY_SELECTED
 
+# end
+echo "✅ Manually selected songs downloaded"
+echo "📄 The songs are saved in $PATH_MANUALLY_SELECTED"
