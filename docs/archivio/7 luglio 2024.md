@@ -4,6 +4,8 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.8 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
 | [Signore pietà  ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2345) | 2.41 | Avolio-Capacchione-La Rocca | Festa con Gesù |
 | [Signore Pietà](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2084) | 1.42 | Daniele Ricci | E' l'incontro della vita |
 | [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
@@ -22,8 +24,6 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | [Io Mi Arrendo (HillSong - I Surrender)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1972) | 0.26 | HillSong |  |
 | [E' giunta l’ora](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/170) | 0.25 | Luciano Scaglianti |  |
 | [Io mi arrendo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2483) | 0.25 | ADI Media - Matt Crocker |  |
-| [Agnello di Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2490) | 0.25 | Francesco Buttazzo | Si è fatto come noi |
-| [Gesù mori per me (invocazione)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1630) | 0.23 |  |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -31,9 +31,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.8 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
 | [Ti salutiamo, o Vergine](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1712) | 0.29 | Canto tradizionale  |  |
 | [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 0.19 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
 | [Tu sarai profeta (2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1955) | 0.19 | Marco Frisina | Tu sarai profeta |
 | [Santo Spirito](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2325) | 0.16 | RnS - Vigo, Napoli | Mi affido a te |
 | [Apri i miei occhi Signore](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1567) | 0.15 | RnS |  |
@@ -46,6 +46,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
 | [Anima di Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1890) | 0.26 | RnS | Voglio vedere il tuo volto |
 | [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
 | [Io ti offro](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1768) | 0.17 | Marcello Giombini | La Messa dei Giovani (Messa Beat) |
@@ -57,6 +58,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
 | [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
 | [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 0.3 | Domenico Machetta |  |
 | [Tu mi conosci](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1828) | 0.29 |  |  |
@@ -66,7 +68,6 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Lascia i tuoi pesi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2542) | 0.21 | Sefora Nelson |  |
 | [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
 | [Tu sarai profeta (2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1955) | 0.19 | Marco Frisina | Tu sarai profeta |
-| [Cristo vive in me](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2621) | 0.19 | RnS - Canto popolare america latina |  |
 
 ### Congedo
 
