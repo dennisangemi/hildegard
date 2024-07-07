@@ -25,8 +25,8 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.8 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 4.69 | Marco Frisina | Pane di vita nuova |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.36 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
 | [Signore pietà  ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2345) | 2.41 | Avolio-Capacchione-La Rocca | Festa con Gesù |
 | [Signore Pietà](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2084) | 1.42 | Daniele Ricci | E' l'incontro della vita |
 | [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
@@ -52,7 +52,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.8 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2355) | 4.36 | Ciravegna Dell'Orso | E' bello dal lode a Dio |
 | [Ti salutiamo, o Vergine](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1712) | 0.29 | Canto tradizionale  |  |
 | [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
 | [Tu sarai profeta (2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1955) | 0.19 | Marco Frisina | Tu sarai profeta |
@@ -67,7 +67,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 4.69 | Marco Frisina | Pane di vita nuova |
 | [Anima di Cristo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1890) | 0.26 | RnS | Voglio vedere il tuo volto |
 | [Tu sarai profeta](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/464) | 0.21 | Marco Frisina | Tu sarai profeta |
 | [Io ti offro](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1768) | 0.17 | Marcello Giombini | La Messa dei Giovani (Messa Beat) |
@@ -79,7 +79,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 5.13 | Marco Frisina | Pane di vita nuova |
+| [Gustate e vedete](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2152) | 4.69 | Marco Frisina | Pane di vita nuova |
 | [Anima Christi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2083) | 0.92 | Marco Frisina | Pane di vita nuova |
 | [Volto dell'Uomo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2367) | 0.3 | Domenico Machetta |  |
 | [Tu mi conosci](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1828) | 0.29 |  |  |
