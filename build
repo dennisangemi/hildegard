@@ -51,6 +51,9 @@ fi
 echo "📅 Data della prossima liturgia domenicale: $(date -d $liturgia_data_iso +%d/%m/%Y)"
 echo "✅ Individuata liturgia"
 
+# aggiorna canti manually selected
+./scripts/get_manually_selected
+
 # run suggeritore
 ./scripts/suggeritore_v3.py "$liturgia_data_iso"
 
