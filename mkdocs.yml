@@ -1,6 +1,8 @@
 site_name: Hildegard
+site_description: Un suggeritore di canti liturgici per la messa domenicale
 repo_url: https://github.com/dennisangemi/hildegard
 site_url: https://hildegard.it
+
 theme:
   name: material
   language: it
@@ -23,6 +25,16 @@ plugins:
         font_family: Poppins
   - search
   - table-reader
+  - blog:
+      blog_dir: news
+      blog_toc: false
+
+authors:
+  dennis:
+    name: Dennis Angemi
+    description: Creator
+    avatar: https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/310656134_475449297957394_4542120185605842286_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sGbCXzJBVeoQ7kNvgFOdlU0&_nc_ht=scontent-fco2-1.xx&oh=00_AYBiWYRe1di9Vwv6hPPhogcBI87hZoLr8YHKibKMOsAmcw&oe=66922ACA
+# https://pbs.twimg.com/profile_images/1466469160964272134/lKSTa674_400x400.jpg
 
 markdown_extensions:
   - footnotes
