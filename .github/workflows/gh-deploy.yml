@@ -34,5 +34,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging]
+      - run: pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging] mkdocs-table-reader-plugin
       - run: mkdocs gh-deploy --force
