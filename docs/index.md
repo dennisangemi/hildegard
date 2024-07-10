@@ -15,7 +15,7 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
     
 ??? quote "Leggi la liturgia"
 
-    [Apri la liturgia della CEI :material-arrow-right:](20240714){ .md-button }
+    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240714){ .md-button }
     
     {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
 
