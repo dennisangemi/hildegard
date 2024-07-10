@@ -18,7 +18,7 @@ sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOM
 # ARCHIVE_FILE_PATH="docs/archive/$liturgia_data_estesa.md"
 
 # replace url liturgia cei placeholder with url liturgia cei
-sed -i "s#$PLACEHOLDER_URL_CEI#$LITURGIA_URL$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
+sed -i "s#$PLACEHOLDER_URL_CEI#$URL_LITURGIA_CEI$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
 
 # compile rest of the page (tables with suggested songs)
 mlr --c2m cat $PATH_DATA_TOP20 >> $PATH_HOMEPAGE
