@@ -19,6 +19,7 @@ theme:
     text: Poppins
 
 plugins:
+  - glightbox
   - include-markdown
   - social:
       cards_layout_options:
