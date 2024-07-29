@@ -27,3 +27,7 @@
    - liturgie.csv
    - liturgia-latest.txt
 
+forse mi conviene spostare data e risorse dentro docs altrimenti non posso raggiungere questi files da hildegard.it
+
+sarebbe bello per esempio poter accedere ai dati di hildegard con 
+- https://hildegard.it/data/anagrafica_canti.csv

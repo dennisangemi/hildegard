@@ -22,3 +22,5 @@ get_text_by_id() {
     | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g;s/{end_chorus}//g;s/{start_chorus}//g;s/{start_verse}//g;s/{end_verse}//g;s/{end_verse_num}//g;s/{start_verse_num}//g;s/{start_bridge}//g;s/{end_bridge}//g' \
     | sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g'
 }
+
+# ci sarebbe da rimuovere anche {start_lyrics_num} e {end_lyrics_num}
