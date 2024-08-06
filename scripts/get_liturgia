@@ -48,7 +48,7 @@ get_liturgia() {
     fi
 
     # build filename_liturgia usando questa logica $path_liturgie/$id_liturgia.txt
-    filename_liturgia=$path_liturgie/$id_liturgia.txt
+    filename_liturgia=$path_liturgie/$id_liturgia.md
 
     # se $path_liturgie/$id_liturgia.txt non esiste, ritorna errore
     if [ ! -f "$filename_liturgia" ]; then

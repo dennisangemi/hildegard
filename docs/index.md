@@ -15,9 +15,11 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
     
 ??? quote "Leggi la liturgia"
 
-    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240811){ .md-button }
-    
     {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
+
+    ---
+
+    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20240811){ .md-button }
 
 ## :material-music-note-plus: Canti suggeriti per Domenica 11 agosto 2024
 

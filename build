@@ -40,7 +40,7 @@ liturgia_data_yyyymmdd=$(date -d $liturgia_data_iso +%Y%m%d)
 liturgia_data_estesa=$(convert_iso_to_extended_date "$liturgia_data_iso")
 liturgia_weekday=$(convert_iso_to_weekday "$liturgia_data_iso")
 
-get_liturgia "$liturgia_data_iso" "$PATH_CALENDARIO_LITURGICO" "$PATH_LITURGIE" > $PATH_LITURGIA
+get_liturgia "$liturgia_data_iso" "$PATH_CALENDARIO_LITURGICO" "$PATH_LITURGIE_FORMATTED" > $PATH_LITURGIA
 
 # se get liturgia ritorna errore, esci
 if [ $? -eq 1 ]; then
