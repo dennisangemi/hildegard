@@ -3,12 +3,11 @@
 ### SANTA FAMIGLIA DI GESÙ, MARIA E GIUSEPPE
 > 
 ### PRIMA LETTURA
-**
-Samuele per tutti i giorni della sua vita è richiesto per il Signore.
-:material-book-open-outline: 
-Dal primo libro di Samuèle
+*Samuele per tutti i giorni della sua vita è richiesto per il Signore.*
+
+:material-book-open-outline: Dal primo libro di Samuèle
 1, 20-22.24-28
-> 
+
 > Achiamò Samuèle, «perché – diceva – al Signore l’ho verrò, finché il bambino non sia svezzato e io possa condurlo a vedere il volto del Signore; poi resterà là per sempre». Dopo averlo svezzato, lo portò con sé, con un giovenco di tre anni, un’efa di farina e un otre di vino, e lo introdusse nel tempio del Signore a Silo: era ancora un fanciullo. Immolato il giovenco, presentarono il fanciullo a Eli e lei disse: «Perdona, mio signore. Per la tua vita, mio signore, io sono quella donna che era stata qui presso di te a pregare il Signore. Per questo fanciullo ho pregato e il Signore mi ha concesso la grazia che gli ho richiesto. Anch’io lascio che il Signore lo richieda: per tutti i giorni della sua vita egli è richiesto per il Signore». E si prostrarono là davanti al Signore. Parola di Dio.
 > 
 ### SALMO RESPONSORIALE

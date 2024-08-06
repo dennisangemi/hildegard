@@ -32,17 +32,12 @@
 > e tutte le genti lo dicano beato.
 > 
 ### SECONDA LETTURA
-**
-Gesù Cristo salva tutti gli uomini.
-:material-book-open-outline: 
-Dalla lettera di san Paolo apostolo ai Romani
+*Gesù Cristo salva tutti gli uomini.*
+
+:material-book-open-outline: Dalla lettera di san Paolo apostolo ai Romani
 15, 4-9
-> 
+
 > Fratelli, tutto ciò che è stato scritto prima di noi, è stato scritto per nostra istruzione, perché, in virtù della perseveranza e della consolazione che provengono dalle Scritture, teniamo viva la speranza. E il Dio della perseveranza e della consolazione vi conceda di avere gli uni verso gli altri gli stessi sentimenti, sull’esempio di Cristo Gesù, perché con un solo animo e una voce sola rendiate gloria a Dio, Padre del Signore nostro Gesù Cristo. Accoglietevi perciò gli uni gli altri come anche Cristo accolse voi, per la gloria di Dio. Dico infatti che Cristo è diventato servitore dei circoncisi per mostrare la fedeltà di Dio nel compiere le promesse dei padri; le genti invece glorificano Dio per la sua misericordia, come sta scritto: «Per questo ti loderò fra le genti e canterò inni al tuo nome». Parola di Dio.
-> 
-> 
-> 
-> 
 > 
 ### CANTO AL VANGELO
 :material-book-open-outline: Lc 3, 4.6

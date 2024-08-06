@@ -27,7 +27,6 @@
 > Gli conserverò sempre il mio amore,
 > la mia alleanza gli sarà fedele».
 > 
-> 
 ### SECONDA LETTURA
 *Il mistero avvolto nel silenzio per secoli, ora è manifestato.*
 

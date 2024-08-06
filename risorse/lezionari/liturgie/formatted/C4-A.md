@@ -27,12 +27,11 @@
 > che cerca il tuo volto, Dio di Giacobbe.
 > 
 ### SECONDA LETTURA
-**
-Gesù Cristo, dal seme di Davide, Figlio di Dio.
-:material-book-open-outline: 
-Dalla lettera di san Paolo apostolo ai Romani
+*Gesù Cristo, dal seme di Davide, Figlio di Dio.*
+
+:material-book-open-outline: Dalla lettera di san Paolo apostolo ai Romani
 1, 1-7
-> 
+
 > Paolo, servo di Cristo Gesù, apostolo per chiamata, scelto per annunciare il vangelo di Dio – che egli aveva promesso per mezzo dei suoi profeti nelle sacre Scritture e che riguarda il Figlio suo, nato dal seme di Davide secondo la carne, costituito Figlio di Dio con potenza, secondo lo Spirito di santità, in virtù della risurrezione dei morti, Gesù Cristo nostro Signore; per mezzo di lui abbiamo ricevuto la grazia di essere apostoli, per suscitare l’obbedienza della fede in tutte le genti, a gloria del suo nome, e tra queste siete anche voi, chiamati da Gesù Cristo –, a tutti quelli che sono a Roma, amati da Dio e santi per chiamata, grazia a voi e pace da Dio, Padre nostro, e dal Signore Gesù Cristo! Parola di Dio.
 > 
 ### CANTO AL VANGELO

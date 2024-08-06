@@ -30,7 +30,6 @@
 > Gli conserverò sempre il mio amore,
 > la mia alleanza gli sarà fedele».
 > 
-> 
 ### SECONDA LETTURA
 *Testimonianza di Paolo a Cristo, figlio di Davide.*
 

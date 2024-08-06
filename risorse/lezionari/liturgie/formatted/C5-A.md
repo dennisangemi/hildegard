@@ -58,7 +58,6 @@ Domani sarà distrutto il peccato della terra
 > Dal Vangelo secondo Matteo
 > 1, 18-25
 > 
-> 
 > Così fu generato Gesù Cristo: sua madre Maria, essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme si trovò incinta per opera dello Spirito Santo. Giuseppe suo sposo, poiché era uomo giusto e non voleva accusarla pubblicamente, pensò di ripudiarla in segreto. Mentre però stava considerando queste cose, ecco, gli apparve in sogno un angelo del Signore e gli disse: «Giuseppe, figlio di Davide, non temere di prendere con te Maria, tua sposa. Infatti il bambino che è generato in lei viene dallo Spirito Santo; ella darà alla luce un figlio e tu lo chiamerai Gesù: egli infatti salverà il suo popolo dai suoi peccati». Tutto questo è avvenuto perché si compisse ciò che era stato detto dal Signore per mezzo del profeta: «Ecco, la vergine concepirà e darà alla luce un figlio: a lui sarà dato il nome di Emmanuele», che significa «Dio con noi». Quando si destò dal sonno, Giuseppe fece come gli aveva ordinato l’angelo del Signore e prese con sé la sua sposa; senza che egli la conoscesse, ella diede alla luce un figlio ed egli lo chiamò Gesù. Parola del Signore.
 > 
 > Per le Messe di Natale si usano i tre formulari qui indicati, così come sono disposti. Tuttavia è consentito scegliere, tra le letture delle tre Messe – sempre nel loro ordine (Antico Testamento, Apostolo, Vangelo) – quelle ritenute pastoralmente più adatte all’assemblea che partecipa.

@@ -12,7 +12,8 @@
 :material-book-open-outline: Dal Salmo 145 (146)
 
 >**Vieni, Signore, a salvarci.**
-Oppure:
+
+> Oppure:
 > 
 > Alleluia, alleluia, alleluia.
 > Il Signore rimane fedele per sempre

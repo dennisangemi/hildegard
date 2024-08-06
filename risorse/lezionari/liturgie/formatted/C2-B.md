@@ -1,12 +1,11 @@
 ## II DOMENICA DI AVVENTO
 > 
 ### PRIMA LETTURA
-**
-Preparate la via al Signore.
-:material-book-open-outline: 
-Dal libro del profeta Isaìa
+*Preparate la via al Signore.*
+
+:material-book-open-outline: Dal libro del profeta Isaìa
 40, 1-5.9-11
-> 
+
 > «Consolate, consolate il mio popolo – dice il vostro Dio –. Parlate al cuore di Gerusalemme e gridatele che la sua tribolazione è compiuta, la sua colpa è scontata, perché ha ricevuto dalla mano del Signore il doppio per tutti i suoi peccati». Una voce grida: «Nel deserto preparate la via al Signore, spianate nella steppa la strada per il nostro Dio. Ogni valle sia innalzata, ogni monte e ogni colle siano abbassati; il terreno accidentato si trasformi in piano e quello scosceso in vallata. Allora si rivelerà la gloria del Signore e tutti gli uomini insieme la vedranno, perché la bocca del Signore ha parlato». Sali su un alto monte, tu che annunci liete notizie a Sion! Alza la tua voce con forza, tu che annunci liete notizie a Gerusalemme. Alza la voce, non temere; annuncia alle città di Giuda: «Ecco il vostro Dio! Ecco, il Signore Dio viene con potenza, il suo braccio esercita il dominio. Ecco, egli ha con sé il premio e la sua ricompensa lo precede. Come un pastore egli fa pascolare il gregge e con il suo braccio lo raduna; porta gli agnellini sul petto e conduce dolcemente le pecore madri». Parola di Dio.
 > 
 ### SALMO RESPONSORIALE
@@ -27,7 +26,6 @@ Dal libro del profeta Isaìa
 > e la nostra terra darà il suo frutto;
 > giustizia camminerà davanti a lui:
 > i suoi passi tracceranno il cammino.
-> 
 > 
 ### SECONDA LETTURA
 *Aspettiamo nuovi cieli e una terra nuova.*
@@ -53,3 +51,4 @@ Dal libro del profeta Isaìa
 1, 1-8
 
 > Inizio del vangelo di Gesù, Cristo, Figlio di Dio. Come sta scritto nel profeta Isaìa: «Ecco, dinanzi a te io mando il mio messaggero: egli preparerà la tua via. Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri», vi fu Giovanni, che battezzava nel deserto e proclamava un battesimo di conversione per il perdono dei peccati. Accorrevano a lui tutta la regione della Giudea e tutti gli abitanti di Gerusalemme. E si facevano battezzare da lui nel fiume Giordano, confessando i loro peccati. Giovanni era vestito di peli di cammello, con una cintura di pelle attorno ai fianchi, e mangiava cavallette e miele selvatico. E proclamava: «Viene dopo di me colui che è più forte di me: io non sono degno di chinarmi per slegare i lacci dei suoi sandali. Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo». Parola del Signore.
+> 
