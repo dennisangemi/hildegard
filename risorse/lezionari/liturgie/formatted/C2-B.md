@@ -1,0 +1,55 @@
+## II DOMENICA DI AVVENTO
+> 
+### PRIMA LETTURA
+**
+Preparate la via al Signore.
+:material-book-open-outline: 
+Dal libro del profeta Isaìa
+40, 1-5.9-11
+> 
+> «Consolate, consolate il mio popolo – dice il vostro Dio –. Parlate al cuore di Gerusalemme e gridatele che la sua tribolazione è compiuta, la sua colpa è scontata, perché ha ricevuto dalla mano del Signore il doppio per tutti i suoi peccati». Una voce grida: «Nel deserto preparate la via al Signore, spianate nella steppa la strada per il nostro Dio. Ogni valle sia innalzata, ogni monte e ogni colle siano abbassati; il terreno accidentato si trasformi in piano e quello scosceso in vallata. Allora si rivelerà la gloria del Signore e tutti gli uomini insieme la vedranno, perché la bocca del Signore ha parlato». Sali su un alto monte, tu che annunci liete notizie a Sion! Alza la tua voce con forza, tu che annunci liete notizie a Gerusalemme. Alza la voce, non temere; annuncia alle città di Giuda: «Ecco il vostro Dio! Ecco, il Signore Dio viene con potenza, il suo braccio esercita il dominio. Ecco, egli ha con sé il premio e la sua ricompensa lo precede. Come un pastore egli fa pascolare il gregge e con il suo braccio lo raduna; porta gli agnellini sul petto e conduce dolcemente le pecore madri». Parola di Dio.
+> 
+### SALMO RESPONSORIALE
+:material-book-open-outline: Dal Salmo 84 (85)
+
+>**Mostraci, Signore, la tua misericordia e donaci la tua salvezza.**
+
+> Ascolterò che cosa dice Dio, il Signore:
+> egli annuncia la pace
+> per il suo popolo, per i suoi fedeli.
+> Sì, la sua salvezza è vicina a chi lo teme,
+> perché la sua gloria abiti la nostra terra.
+> Amore e verità s’incontreranno,
+> giustizia e pace si baceranno.
+> Verità germoglierà dalla terra
+> e giustizia si affaccerà dal cielo.
+> Certo, il Signore donerà il suo bene
+> e la nostra terra darà il suo frutto;
+> giustizia camminerà davanti a lui:
+> i suoi passi tracceranno il cammino.
+> 
+> 
+### SECONDA LETTURA
+*Aspettiamo nuovi cieli e una terra nuova.*
+
+:material-book-open-outline: Dalla seconda lettera di san Pietro apostolo
+3, 8-14
+
+> Una cosa non dovete perdere di vista, carissimi: davanti al Signore un solo giorno è come mille anni e mille anni come un solo giorno. Il Signore non ritarda nel compiere la sua promessa, anche se alcuni parlano di lentezza. Egli invece è magnanimo con voi, perché non vuole che alcuno si perda, ma che tutti abbiano modo di pentirsi. Il giorno del Signore verrà come un ladro; allora i cieli spariranno in un grande boato, gli elementi, consumati dal calore, si dissolveranno e la terra, con tutte le sue opere, sarà distrutta. Dato che tutte queste cose dovranno finire in questo modo, quale deve essere la vostra vita nella santità della condotta e nelle preghiere, mentre aspettate e affrettate la venuta del giorno di Dio, nel quale i cieli in fiamme si dissolveranno e gli elementi incendiati fonderanno! Noi infatti, secondo la sua promessa, aspettiamo nuovi cieli e una terra nuova, nei quali abita la giustizia. Perciò, carissimi, nell’attesa di questi eventi, fate di tutto perché Dio vi trovi in pace, senza colpa e senza macchia. Parola di Dio.
+> 
+### CANTO AL VANGELO
+:material-book-open-outline: Lc 3, 4.6
+
+> Alleluia, alleluia.
+> Preparate la via del Signore,
+> raddrizzate i suoi sentieri!
+> Ogni uomo vedrà la salvezza di Dio!
+> Alleluia.
+> 
+### VANGELO
+*Raddrizzate le vie del Signore.*
+
+:material-book-open-outline: Dal Vangelo secondo Marco
+1, 1-8
+
+> Inizio del vangelo di Gesù, Cristo, Figlio di Dio. Come sta scritto nel profeta Isaìa: «Ecco, dinanzi a te io mando il mio messaggero: egli preparerà la tua via. Voce di uno che grida nel deserto: Preparate la via del Signore, raddrizzate i suoi sentieri», vi fu Giovanni, che battezzava nel deserto e proclamava un battesimo di conversione per il perdono dei peccati. Accorrevano a lui tutta la regione della Giudea e tutti gli abitanti di Gerusalemme. E si facevano battezzare da lui nel fiume Giordano, confessando i loro peccati. Giovanni era vestito di peli di cammello, con una cintura di pelle attorno ai fianchi, e mangiava cavallette e miele selvatico. E proclamava: «Viene dopo di me colui che è più forte di me: io non sono degno di chinarmi per slegare i lacci dei suoi sandali. Io vi ho battezzato con acqua, ma egli vi battezzerà in Spirito Santo». Parola del Signore.

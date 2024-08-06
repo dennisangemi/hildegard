@@ -66,3 +66,89 @@ def get_similarities(text_to_compare, filename_canti):
 
     # output of the function
     return data
+
+
+
+# converti liturgia da txt a md
+def text_formatter(input_file, output_file):
+   # input:
+   # input_file:  percorso del file txt da convertire
+
+   # output:
+   # output_file: percorso del file md convertito
+
+   with open(input_file, 'r', encoding='utf-8') as f:
+      lines = f.readlines()
+
+   markdown_lines = []
+   n_lines = enumerate(lines)
+
+   for i, line in n_lines:
+      line = line.strip()
+
+      # Prima riga come titolo di secondo livello
+      if i == 0:
+         markdown_lines.append(f"## {line}")
+
+      # se la linea contiene "PRIMA LETTURA" oppure "SECONDA LETTURA" oppure "VANGELO", trasformo in titolo di terzo livello 
+      elif re.search(r'PRIMA LETTURA|SECONDA LETTURA|VANGELO', line):
+         # if line not contain "CANTO AL VANGELO"
+         if not re.search(r'CANTO AL VANGELO', line):
+            markdown_lines.append(f"### {line}")
+
+            # trasformo in corsivo la riga successiva
+            next_line = next(n_lines)
+            markdown_lines.append(f"*{next_line[1].strip()}*")
+
+            # trasforma  la riga successivo in niente
+            next_line = next(n_lines)
+            markdown_lines.append(f"{next_line[1].strip()}")
+
+            # trasforma la riga successiva concantenando ":material-book-open-outline:" con la riga
+            next_line = next(n_lines)
+            markdown_lines.append(f":material-book-open-outline: {next_line[1].strip()}")
+
+            # trasforma la riga successiva in niente
+            next_line = next(n_lines)
+            markdown_lines.append(f"{next_line[1].strip()}")
+
+            # trasforma la riga successiva in niente
+            next_line = next(n_lines)
+            markdown_lines.append(f"{next_line[1].strip()}")
+         else:
+            # formatto il canto al vangelo
+            markdown_lines.append(f"### {line}")
+            next_line = next(n_lines)
+            markdown_lines.append(f":material-book-open-outline: {next_line[1].strip()}")
+            next_line = next(n_lines)
+            markdown_lines.append(f"{next_line[1].strip()}")
+      
+      # formatto salmo responsoriale
+      elif re.search(r'SALMO', line):
+         markdown_lines.append(f"### {line}")
+
+         # riferimento dalmo
+         next_line = next(n_lines)
+         markdown_lines.append(f":material-book-open-outline: {next_line[1].strip()}")
+
+         # riga vuota
+         next_line = next(n_lines)
+         markdown_lines.append(f"{next_line[1].strip()}")
+
+         # ritornello
+         next_line = next(n_lines)
+         markdown_lines.append(f">**{next_line[1].strip()}**")
+
+         # riga vuota
+         next_line = next(n_lines)
+         markdown_lines.append(f"{next_line[1].strip()}")
+
+      elif line.isupper():
+         # Titoli di terzo livello
+         markdown_lines.append(f"### {line}")
+      else:
+         markdown_lines.append(f"> {line}")
+
+   with open(output_file, 'w', encoding='utf-8') as f:
+      f.write('\n'.join(markdown_lines))
+
