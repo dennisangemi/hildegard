@@ -154,8 +154,14 @@ print("score = [", df['score'].min(), ",", df['score'].max(), "]")
 output_df_path = 'data/suggerimenti-latest.csv'
 df.to_csv(output_df_path, index=False)
 
-# mantieni in df solo  le righe con score > 0
-df = df[df['score'] > 0]
+print("")
+print("✅ I suggerimenti raw esportati")   
+print("📄 File prodotti:")
+print("   data/suggerimenti-latest.csv")
+print("   data/suggeriti-yyyymmdd.csv")
+
+# mantieni in df solo  le righe con score > config.THRESHOLD_MIN_SCORE
+df = df[df['score'] > config.THRESHOLD_MIN_SCORE]
 
 # crea una nuova colonna titolo_md che contenga il link al canto su librettocanti.it
 df['titolo_md'] = df.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/' + str(row['id_canti']) + ')', axis=1)
