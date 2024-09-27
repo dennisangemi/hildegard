@@ -15,12 +15,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Enviroment setup (mlr, jq)
+    - name: Enviroment setup (mlr, jq, scikit-learn, pandas)
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         chmod +x ~/bin/mlr
-        sudo pip install jq
+        sudo pip install jq scikit-learn pandas
     - name: Download database librettocanti.it
       shell: bash
       env:
