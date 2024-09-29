@@ -3,16 +3,29 @@
 # this script will build the md page for the site
 # this script is called by build.sh and the variables are shared
 
+# to do
+# - trasformare il check delle linee e il print di nessun risultato in una funzione che accetta come argomento il file da controllare
+
+# functions 
+check_and_print() {
+   # se il file con i suggerimenti ha più di una riga, concatena i contenuti al file della homepage, altrimenti aggiungi alla home un messaggio di "nessun risultato"
+   local file_path=$1
+   if [ $(wc -l < "$file_path") -gt 1 ]; then
+      mlr --c2m cat "$file_path" >> $PATH_HOMEPAGE
+   else
+      echo '!!! info "Nessun risultato"' >> $PATH_HOMEPAGE
+      echo "    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(" >> $PATH_HOMEPAGE
+   fi
+}
+
 # import variables
 # source <(grep = scripts/config.ini)
-
 
 # copy template to output file
 cp $PATH_TEMPLATE $PATH_HOMEPAGE
 
 # replace date placeholder with current date
 sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOMEPAGE
-
 
 # create archive file
 # ARCHIVE_FILE_PATH="docs/archive/$liturgia_data_estesa.md"
@@ -29,32 +42,30 @@ echo "" >> $PATH_HOMEPAGE
 
 echo "### Ingresso" >> $PATH_HOMEPAGE
 echo "" >> $PATH_HOMEPAGE
-mlr --c2m cat $PATH_DATA_INGRESSO >> $PATH_HOMEPAGE
+check_and_print $PATH_DATA_INGRESSO
 echo "" >> $PATH_HOMEPAGE
 
 echo "### Offertorio" >> $PATH_HOMEPAGE
 echo "" >> $PATH_HOMEPAGE
-mlr --c2m cat $PATH_DATA_OFFERTORIO >> $PATH_HOMEPAGE
+check_and_print $PATH_DATA_OFFERTORIO
 echo "" >> $PATH_HOMEPAGE
 
 echo "### Comunione" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-mlr --c2m cat $PATH_DATA_COMUNIONE >> $PATH_HOMEPAGE
+check_and_print $PATH_DATA_COMUNIONE
 echo "" >> $PATH_HOMEPAGE
 
 echo "### Congedo" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-mlr --c2m cat $PATH_DATA_CONGEDO >> $PATH_HOMEPAGE
+check_and_print $PATH_DATA_CONGEDO
 echo "" >> $PATH_HOMEPAGE
 
 # add note
 echo "## Note" >> $PATH_HOMEPAGE
 echo '!!! warning "Attenzione"' >> $PATH_HOMEPAGE
-echo "    I canti suggeriti sono stati selezionati automaticamente nelle modalità descritte nella [pagina del progetto](https://hildegard.it/progetto/) e potrebbero non essere adeguati. Si consiglia di verificare la loro aderenza al contesto liturgico." >> $PATH_HOMEPAGE
+echo "    I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/)." >> $PATH_HOMEPAGE
 echo "" >> $PATH_HOMEPAGE
 
 echo '!!! info "Testi"' >> $PATH_HOMEPAGE
-echo "    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/)." >> $PATH_HOMEPAGE
+echo "    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/). Si ringrazia Michele Mammini per la disponibilità <3" >> $PATH_HOMEPAGE
 echo "" >> $PATH_HOMEPAGE
 echo "" >> $PATH_HOMEPAGE
 
