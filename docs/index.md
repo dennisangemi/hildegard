@@ -1,6 +1,6 @@
 ---
 title: Suggerimenti di animazione liturgica
-description: I canti suggeriti per la liturgia di Domenica 6 ottobre 2024 
+description: I canti suggeriti per la liturgia di Domenica 13 ottobre 2024 
 hide:
   - navigation
   # - toc
@@ -19,23 +19,31 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
 
     ---
 
-    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20241006){ .md-button }
+    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20241013){ .md-button }
 
-## :material-music-note-plus: Canti suggeriti per Domenica 6 ottobre 2024
+## :material-music-note-plus: Canti suggeriti per Domenica 13 ottobre 2024
 
 Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [L’uomo nuovo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/268) | 2.62 | Juan Antonio Espinosa |  |
-| [Non più due (Buttazzo)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1467) | 0.58 | Buttazzo |  |
+| [Il giovane ricco](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/228) | 5.74 | Claudio Chieffo |  |
+| [Tutto è Possibile (Nuovi Orizzonti)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1379) | 4.24 | Giuliano Pili |  |
+| [Io ti seguirò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2283) | 3.92 | Giuseppe Cucuzza |  |
+| [Ti seguirò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/462) | 3.3 | Marco Frisina |  |
+| [Vieni e seguimi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/486) | 2.9 | Gen Rosso | Se siamo uniti |
+| [La scelta di Maria](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1620) | 0.54 | Mario Clemente (Comunità Gesù risorto) |  |
+| [Buono è il Signor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2207) | 0.51 | Comunità Dio Vivente |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
 ### Ingresso
 
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
+| --- | --- | --- | --- |
+| [Il giovane ricco](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/228) | 5.74 | Claudio Chieffo |  |
+| [Vieni e seguimi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/486) | 2.9 | Gen Rosso | Se siamo uniti |
+| [Buono è il Signor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2207) | 0.51 | Comunità Dio Vivente |  |
 
 ### Offertorio
 
@@ -45,13 +53,17 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 ### Comunione
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [L’uomo nuovo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/268) | 2.62 | Juan Antonio Espinosa |  |
-| [Non più due (Buttazzo)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1467) | 0.58 | Buttazzo |  |
+| [Il giovane ricco](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/228) | 5.74 | Claudio Chieffo |  |
+| [Tutto è Possibile (Nuovi Orizzonti)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1379) | 4.24 | Giuliano Pili |  |
+| [Ti seguirò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/462) | 3.3 | Marco Frisina |  |
 
 ### Congedo
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
-| [L’uomo nuovo](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/268) | 2.62 | Juan Antonio Espinosa |  |
+| [Tutto è Possibile (Nuovi Orizzonti)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1379) | 4.24 | Giuliano Pili |  |
+| [Io ti seguirò](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2283) | 3.92 | Giuseppe Cucuzza |  |
+| [Vieni e seguimi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/486) | 2.9 | Gen Rosso | Se siamo uniti |
+| [Buono è il Signor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2207) | 0.51 | Comunità Dio Vivente |  |
 
 ## Note
 !!! warning "Attenzione"
