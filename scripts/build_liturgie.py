@@ -79,7 +79,7 @@ liturgie['testo_liturgia'] = liturgie['testo_liturgia'].apply(replace_date)
 
 liturgie['testo_liturgia'] = liturgie['testo_liturgia'].str.strip()
 
-liturgie.to_csv('risorse/lezionari/liturgie.csv', index=False)
+liturgie.to_csv('risorse/lezionari/processing/raw_liturgie.csv', index=False)
 
 # rm le tre liturgie
 for ciclo_domenicale in cicli_domenicali:
