@@ -4,6 +4,7 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
 | --- | --- | --- | --- |
+| [Servire è regnare](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1478) | 4.67 | Gen  Verde |  |
 | [Beati voi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1745) | 2.55 | Francesco Buttazzo |  |
 | [Pace sia, pace a voi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/347) | 1.64 | Gen Rosso / Gen Verde | Come fuoco vivo |
 | [Effonderò il mio spirito](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2520) | 0.73 | Recalcati Carlo | Esultanti cantiamo |
@@ -19,8 +20,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 ### Offertorio
 
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza (0-10) | Autore | Raccolta |
+| --- | --- | --- | --- |
+| [Servire è regnare](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1478) | 4.67 | Gen  Verde |  |
 
 ### Comunione
 | Titolo | Adeguatezza (0-10) | Autore | Raccolta |
