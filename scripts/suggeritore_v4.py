@@ -37,7 +37,7 @@ if len(sys.argv) > 1:
     data_liturgia = sys.argv[1]
     # print(f"La data della liturgia prossima liturgia che includo nei json è: {data_liturgia}")
 else:
-    print("Nessun valore passato come argomento.")
+    print("Nessun valore passato come argomento. Inserisci la data della liturgia nel formato 'YYYY-MM-DD'")
     sys.exit()
 
 
