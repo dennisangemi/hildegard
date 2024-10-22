@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# input:
+# $1: data liturgia nel formato yyyy-mm-dd
+# $2: access token
+# $3: filename di output
+
+API_CANTI_SUONATI="https://www.librettocanti.it/api/get_messa_suggerimenti/"
+
+# funzione get_anagrafica che in output torna un csv
+get_canti_suonati() {
+
+    # check $1 not empty
+    if [ -z "$1" ]; then
+        echo "Error: missing data liturgia"
+        echo "Usage: get_canti_suonati <data_liturgia> <access_token> (<filename>)"
+        echo "Example: get_canti_suonati 2023-10-01 xyz canti_suonati_latest.csv"
+        return 1
+    fi
+
+    # check $2 not empty
+    if [ -z "$2" ]; then
+        echo "Error: missing access token"
+        echo "Usage: get_canti_suonati <data_liturgia> <access_token> (<filename>)"
+        echo "Example: get_canti_suonati 2023-10-01 xyz canti_suonati_latest.csv"
+        return 1
+    fi
+
+    # if $3 is empty, output to stdout
+    if [ -z "$3" ]; then
+        # echo "Warning: missing filename, outputting to stdout"
+        FILENAME="/dev/stdout"
+    else
+        FILENAME="$3"
+    fi
+
+    curl -skL $API_CANTI_SUONATI$1?access_token=$2\
+    | jq "[.canti.data[] | {id_canti, titolo, cnt}]" \
+    | mlr --j2c filter '$cnt >= 3' then sort -nr cnt then put "\$date = \"$1\"" > $FILENAME
+}
