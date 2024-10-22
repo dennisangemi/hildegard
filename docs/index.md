@@ -24,10 +24,13 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 76 | Gen Rosso |  |
-| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | 🧐 Mh | 50 | Gen Verde | E' bello lodarti |
-| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | 🧐 Mh | 50 | Gen Verde | E' bello lodarti |
-| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | 👌 Buona | 40 | RnS | Misericordia sei |
+| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 78 | Gen Rosso |  |
+| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | 🧐 Mh | 52 | Gen Verde | E' bello lodarti |
+| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | 🧐 Mh | 52 | Gen Verde | E' bello lodarti |
+| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | 👌 Buona | 38 | RnS | Misericordia sei |
+| [Come è grande](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/133) | 🧐 Mh | 38 | Roberto Grotti |  |
+| [Cose stupende ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1999) | 🧐 Mh | 35 | Marco Frisina |  |
+| [Fissa gli occhi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/195) | 🧐 Mh | 34 | Franco Costantini |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -35,24 +38,27 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 76 | Gen Rosso |  |
-| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | 👌 Buona | 40 | RnS | Misericordia sei |
+| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 78 | Gen Rosso |  |
+| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | 👌 Buona | 38 | RnS | Misericordia sei |
+| [Cose stupende ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1999) | 🧐 Mh | 35 | Marco Frisina |  |
 
 ### Offertorio
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | 🧐 Mh | 50 | Gen Verde | E' bello lodarti |
-| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | 🧐 Mh | 50 | Gen Verde | E' bello lodarti |
+| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | 🧐 Mh | 52 | Gen Verde | E' bello lodarti |
+| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | 🧐 Mh | 52 | Gen Verde | E' bello lodarti |
 
 ### Comunione
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza | % | Autore | Raccolta |
+| --- | --- | --- | --- | --- |
+| [Come è grande](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/133) | 🧐 Mh | 38 | Roberto Grotti |  |
+| [Fissa gli occhi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/195) | 🧐 Mh | 34 | Franco Costantini |  |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 76 | Gen Rosso |  |
+| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | ✅ Alta | 78 | Gen Rosso |  |
 
 ## Note
 !!! warning "Attenzione"
