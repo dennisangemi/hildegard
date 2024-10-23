@@ -263,8 +263,6 @@ df['score'] = ((
     (df['score_history'].notna() * weight_history)
 )).round(2)*100
 
-
-
 # sort by score
 df = df.sort_values(by='score', ascending=False)
 
@@ -279,11 +277,11 @@ print("📊 Sto calcolando l'adeguatezza dei canti...")
 # Funzione per calcolare l'adeguatezza
 def calcola_adeguatezza(row):
     if (row['score_selection'] >= 0.92 ) or (row['score_history'] >= 0.9):
-        return '✅ Alta'
+        return ':material-check-all: Alta'
     elif (0.7 <= row['score_selection'] < 0.92):
-        return '👌 Buona'
+        return ':material-check: Buona'
     else:
-        return '🧐 Mh'
+        return ':material-dots-horizontal: Mh'
 
 # Applicazione della funzione
 df['adeguatezza'] = df.apply(calcola_adeguatezza, axis=1)
