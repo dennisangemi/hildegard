@@ -24,13 +24,16 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | :material-check-all: Alta | 78 | Gen Rosso |  |
-| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | :material-dots-horizontal: Mh | 52 | Gen Verde | E' bello lodarti |
-| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | :material-dots-horizontal: Mh | 52 | Gen Verde | E' bello lodarti |
-| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | :material-check: Buona | 38 | RnS | Misericordia sei |
-| [Come è grande](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/133) | :material-dots-horizontal: Mh | 38 | Roberto Grotti |  |
-| [Cose stupende ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1999) | :material-dots-horizontal: Mh | 35 | Marco Frisina |  |
-| [Fissa gli occhi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/195) | :material-dots-horizontal: Mh | 34 | Franco Costantini |  |
+| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-dots-horizontal: Mh | 100 | Piera Cori | Come passi di danza |
+| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2085) | :material-dots-horizontal: Mh | 55 |  |  |
+| [Col Tuo amor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/130) | :material-dots-horizontal: Mh | 52 | RnS | Dio della mia lode |
+| [Te Deum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2247) | :material-dots-horizontal: Mh | 46 | RnS |  |
+| [Mia forza e mio canto](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/307) | :material-dots-horizontal: Mh | 42 | Pierangelo Comi |  |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
+| [Con tutto il cuor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2040) | :material-dots-horizontal: Mh | 42 | Servi di Cristo vivo |  |
+| [I miei occhi elevo a te ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2168) | :material-dots-horizontal: Mh | 37 | RnS | Ha vinto il tuo amore |
+| [Lode gloriosa](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1896) | :material-dots-horizontal: Mh | 36 | SDV worship |  |
+| [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | :material-dots-horizontal: Mh | 33 | Silverio Fioravanti |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -38,27 +41,26 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | :material-check-all: Alta | 78 | Gen Rosso |  |
-| [Talità Kum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1651) | :material-check: Buona | 38 | RnS | Misericordia sei |
-| [Cose stupende ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1999) | :material-dots-horizontal: Mh | 35 | Marco Frisina |  |
+| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-dots-horizontal: Mh | 100 | Piera Cori | Come passi di danza |
+| [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | :material-dots-horizontal: Mh | 33 | Silverio Fioravanti |  |
 
 ### Offertorio
 
-| Titolo | Adeguatezza | % | Autore | Raccolta |
-| --- | --- | --- | --- | --- |
-| [Accogli Signore i nostri doni (v2)](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1649) | :material-dots-horizontal: Mh | 52 | Gen Verde | E' bello lodarti |
-| [Accogli Signore i nostri doni](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/6) | :material-dots-horizontal: Mh | 52 | Gen Verde | E' bello lodarti |
+!!! info "Nessun risultato"
+    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
 
 ### Comunione
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Come è grande](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/133) | :material-dots-horizontal: Mh | 38 | Roberto Grotti |  |
-| [Fissa gli occhi](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/195) | :material-dots-horizontal: Mh | 34 | Franco Costantini |  |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
+| [Con tutto il cuor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2040) | :material-dots-horizontal: Mh | 42 | Servi di Cristo vivo |  |
+| [Lode gloriosa](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1896) | :material-dots-horizontal: Mh | 36 | SDV worship |  |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Grandi cose](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/217) | :material-check-all: Alta | 78 | Gen Rosso |  |
+| [Col Tuo amor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/130) | :material-dots-horizontal: Mh | 52 | RnS | Dio della mia lode |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
 
 ## Note
 !!! warning "Attenzione"
