@@ -20,7 +20,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import sys
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 # importing costants
