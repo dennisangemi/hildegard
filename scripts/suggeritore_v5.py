@@ -271,12 +271,12 @@ print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_sele
 # input("Premi invio per continuare...")
 
 
-# --------------------------------- adeguatezza --------------------------------- #
+# --------------------------------- adeguatezza (label) --------------------------------- #
 print("📊 Sto calcolando l'adeguatezza dei canti...")
 
 # Funzione per calcolare l'adeguatezza
 def calcola_adeguatezza(row):
-    if (row['score_selection'] >= 0.92 ) or (row['score_history'] >= 0.9):
+    if (row['score_selection'] >= 0.92 ) or ((row['score_history'] >= 0.9) and row['score'] >= 80) or (row['score'] >= 95):
         return ':material-check-all: Alta'
     elif (0.7 <= row['score_selection'] < 0.92):
         return ':material-check: Buona'
@@ -351,13 +351,13 @@ suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('
 # print(df.head(20).drop(columns=['titolo_md']).fillna(''))
 
 # export data to json for canticristiani
-json_cols = ['id_canti', 'similarity', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
+json_cols = ['id_canti', 'similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
 
-df.rename(columns={'score': 'similarity'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
-suggested_ingresso.rename(columns={'score': 'similarity'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-ingresso-latest.json', orient='records')
-suggested_offertorio.rename(columns={'score': 'similarity'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-offertorio-latest.json', orient='records')
-suggested_comunione.rename(columns={'score': 'similarity'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-comunione-latest.json', orient='records')
-suggested_congedo.rename(columns={'score': 'similarity'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-congedo-latest.json', orient='records')
+df.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
+suggested_ingresso.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-congedo-latest.json', orient='records')
 
 print("")
 print("✅ I suggerimenti formattati per librettocanti sono stati scritti nei file json")

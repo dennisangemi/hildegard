@@ -4,14 +4,14 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-dots-horizontal: Mh | 100 | Piera Cori | Come passi di danza |
+| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-check-all: Alta | 100 | Piera Cori | Come passi di danza |
 | [Io ti amo Signore, mia forza Tu sei](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2432) | :material-check-all: Alta | 56 | RnS | Il deserto canta |
 | [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2085) | :material-dots-horizontal: Mh | 55 |  |  |
 | [Col Tuo amor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/130) | :material-dots-horizontal: Mh | 52 | RnS | Dio della mia lode |
 | [Te Deum](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2247) | :material-dots-horizontal: Mh | 46 | RnS |  |
-| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
-| [Mia forza e mio canto](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/307) | :material-dots-horizontal: Mh | 42 | Pierangelo Comi |  |
 | [Con tutto il cuor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2040) | :material-dots-horizontal: Mh | 42 | Servi di Cristo vivo |  |
+| [Mia forza e mio canto](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/307) | :material-dots-horizontal: Mh | 42 | Pierangelo Comi |  |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-dots-horizontal: Mh | 42 | --- |  |
 | [I miei occhi elevo a te ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2168) | :material-dots-horizontal: Mh | 37 | RnS | Ha vinto il tuo amore |
 | [Lode gloriosa](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1896) | :material-dots-horizontal: Mh | 36 | SDV worship |  |
 | [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | :material-dots-horizontal: Mh | 33 | Silverio Fioravanti |  |
@@ -22,7 +22,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-dots-horizontal: Mh | 100 | Piera Cori | Come passi di danza |
+| [Ascolta Israele](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2267) | :material-check-all: Alta | 100 | Piera Cori | Come passi di danza |
 | [Ascolta oggi ](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2248) | :material-dots-horizontal: Mh | 33 | Silverio Fioravanti |  |
 
 ### Offertorio
@@ -33,15 +33,15 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 ### Comunione
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
 | [Con tutto il cuor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/2040) | :material-dots-horizontal: Mh | 42 | Servi di Cristo vivo |  |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-dots-horizontal: Mh | 42 | --- |  |
 | [Lode gloriosa](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1896) | :material-dots-horizontal: Mh | 36 | SDV worship |  |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Col Tuo amor](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/130) | :material-dots-horizontal: Mh | 52 | RnS | Dio della mia lode |
-| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-check-all: Alta | 42 | --- |  |
+| [Come ti ama Dio](https://www.librettocanti.it/mod_canti_gestione#!canto/vedi/1619) | :material-dots-horizontal: Mh | 42 | --- |  |
 
 ## Note
 !!! warning "Attenzione"
