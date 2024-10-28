@@ -10,7 +10,6 @@ Il calcolo dell'accuratezza dipende da 4 score: similarity, deviation, selection
 - History: accuratezza basata sulla frequenza di suonata dei canti in passato grazie a librettocanti.it/canticristiani.it;
 """
 
-print("QUESTO è IL SUGGERITORE V5")
 
 # librairies
 import os
@@ -73,7 +72,6 @@ manually_selected = manually_selected[['id_canti', 'score_selection']]
 manually_selected['score_selection'] = (manually_selected['score_selection'] / 100).round(2)
 print("")
 print("✅ Score (manual) selection determinato")
-print("")
 # print(manually_selected) # comment this print (it's just for debug)
 # input("Premi invio per continuare...")
 
@@ -127,8 +125,8 @@ storico_suonati = storico_suonati[['id_canti', 'score_history']]
 liturgia = get_text_from_file(os.path.join(config.PATH_LITURGIE, id_liturgia + '.txt'))
 file_canti = get_files_from_dir(config.PATH_CANTI)
 
-print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 df = get_similarities(liturgia, file_canti)
+print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 df = pd.DataFrame(df)
 
 # sort by similarity
@@ -142,7 +140,6 @@ df = pd.merge(df, mean_similarities, on='id_canti')
 # compute score_similarity
 df['score_similarity'] = (df['similarity'] / df['similarity'].max()).round(2)
 print(df)
-print("")
 print("✅ Score similarity determinato")
 print("")
 
@@ -160,7 +157,6 @@ df['score_deviation'] = df['score_deviation'].round(2)
 print("max score_deviation:", df['score_deviation'].max())
 print("min score_deviation:", df['score_deviation'].min())
 print(df)
-print("")
 print("✅ Score deviation determinato")
 print("")
 # input("Premi invio per continuare...")
@@ -272,6 +268,7 @@ print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_sele
 
 
 # --------------------------------- adeguatezza (label) --------------------------------- #
+print("")
 print("📊 Sto calcolando l'adeguatezza dei canti...")
 
 # Funzione per calcolare l'adeguatezza
