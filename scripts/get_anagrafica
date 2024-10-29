@@ -21,6 +21,6 @@ get_anagrafica() {
     fi
 
     curl -skL $API$1 \
-    | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" \
+    | jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, url, link_youtube}]" \
     | mlr --j2c cat
 }
