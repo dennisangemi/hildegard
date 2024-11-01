@@ -1,31 +1,31 @@
 id_canti,id_liturgia,accuratezza,note
-2083,C35-A,97,
-2083,C35-B,97,
-2083,C35-C,97,
-500,C35-A,98,
-500,C35-B,98,
-500,C35-C,98,
-1785,C35-A,98,
-1785,C35-B,98,
-1785,C35-C,98,
-1569,C47-B,100,
-423,C47-B,96,
-82,C48-B,97,antifona com
-82,C16-C,99,è il salmo
-2432,C65-A,99,è il salmo
-1651,C48-B,100,è il vangelo
-2152,C49-B,87,ant com
+#N/A,C35-A,97,
+#N/A,C35-B,97,
+#N/A,C35-C,97,
+#N/A,C35-A,98,
+#N/A,C35-B,98,
+#N/A,C35-C,98,
+#N/A,C35-A,98,
+#N/A,C35-B,98,
+#N/A,C35-C,98,
+#N/A,C47-B,100,
+#N/A,C47-B,96,
+#N/A,C48-B,97,antifona com
+#N/A,C16-C,99,è il salmo
+#N/A,C65-A,99,è il salmo
+#N/A,C48-B,100,è il vangelo
+#N/A,C49-B,87,ant com
 2355,C49-B,87,and com
-1478,C60-B,100,
-1379,C63-B,85,"Vangelo: Ma Gesù, guardandoli in faccia, disse: «Impossibile agli uomini, ma non a Dio! Perché tutto è possibile a Dio»."
-462,C63-B,70,"Vangelo: Pietro allora prese a dirgli: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito»"
-2283,C63-B,70,"Vangelo: Pietro allora prese a dirgli: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito»"
-228,C63-B,100,è il vangelo
-486,C63-B,90,
-2624,C63-B,-100,
-1969,C63-B,-100,
-1478,C64-B,100,è vangelo
-423,C64-B,85,
-217,C65-B,100,è il salmo
-1651,C65-B,70,il vangelo è guarigione cieco (thx Rosanna Polillo <3)
-2432,C66-B,100,è il salmo
+#N/A,C60-B,100,
+#N/A,C63-B,85,"Vangelo: Ma Gesù, guardandoli in faccia, disse: «Impossibile agli uomini, ma non a Dio! Perché tutto è possibile a Dio»."
+#N/A,C63-B,70,"Vangelo: Pietro allora prese a dirgli: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito»"
+#N/A,C63-B,70,"Vangelo: Pietro allora prese a dirgli: «Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito»"
+#N/A,C63-B,100,è il vangelo
+#N/A,C63-B,90,
+#N/A,C63-B,-100,
+#N/A,C63-B,-100,
+#N/A,C64-B,100,è vangelo
+#N/A,C64-B,85,
+#N/A,C65-B,100,è il salmo
+#N/A,C65-B,70,il vangelo è guarigione cieco (thx Rosanna Polillo <3)
+#N/A,C66-B,100,è il salmo

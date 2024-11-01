@@ -327,7 +327,7 @@ df = df.reset_index(drop=True)
 
 ### md
 # crea una nuova colonna titolo_md che contenga il link al canto su librettocanti.it
-df['titolo_md'] = df.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it/' + str(row['url']) + ')', axis=1)
+df['titolo_md'] = df.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
 
 # prima di esportare aggiungi data_liturgia a tutti quelli che saranno json (top20 e i 4 momenti)
 df['data'] = data_liturgia
