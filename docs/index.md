@@ -24,6 +24,7 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
+| [Io ti amo Signore, mia forza Tu sei](https://www.librettocanti.it/canto/io-ti-amo-signore-mia-forza-tu-sei-2432) | :material-check-all: Alta | 50 | RnS | Il deserto canta |
 | [Ascolta Israele](https://www.librettocanti.it/canto/ascolta-israele-2267) | :material-dots-horizontal: Mh | 43 | Piera Cori | Come passi di danza |
 | [Come ti ama Dio](https://www.librettocanti.it/canto/come-ti-ama-dio-1619) | :material-dots-horizontal: Mh | 36 | --- |  |
 | [Col Tuo amor](https://www.librettocanti.it/canto/col-tuo-amor-130) | :material-dots-horizontal: Mh | 35 | RnS | Dio della mia lode |
