@@ -6,6 +6,7 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | --- | --- | --- | --- | --- |
 | [Ecco quel che abbiamo](https://www.librettocanti.it/canto/ecco-quel-che-abbiamo-1416) | :material-dots-horizontal: Mh | 42 | Gen Verde | Accordi |
 | [Popoli tutti acclamate](https://www.librettocanti.it/canto/popoli-tutti-acclamate-361) | :material-dots-horizontal: Mh | 38 | RnS |  |
+| [Stai con me](https://www.librettocanti.it/canto/stai-con-me-1569) | :material-check: Buona | 36 | RnS |  |
 | [Questo è il tempo](https://www.librettocanti.it/canto/questo-il-tempo-2059) | :material-dots-horizontal: Mh | 34 | Daniele Semprini - Anna Maria Galliano | Parla Signore |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
