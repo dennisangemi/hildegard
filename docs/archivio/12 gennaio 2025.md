@@ -6,6 +6,7 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | --- | --- | --- | --- | --- |
 | [Invochiamo la Tua Presenza](https://www.librettocanti.it/canto/invochiamo-la-tua-presenza-1412) | :material-dots-horizontal: Mh | 42 | RnS |  |
 | [Frutto della nostra terra](https://www.librettocanti.it/canto/frutto-della-nostra-terra-201) | :material-dots-horizontal: Mh | 33 | Francesco Buttazzo | Sorgente di unità |
+| [Benedici il Signore](https://www.librettocanti.it/canto/benedici-il-signore-82) | :material-dots-horizontal: Mh | 30 | Marco Frisina |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -20,6 +21,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Frutto della nostra terra](https://www.librettocanti.it/canto/frutto-della-nostra-terra-201) | :material-dots-horizontal: Mh | 33 | Francesco Buttazzo | Sorgente di unità |
+| [Benedici il Signore](https://www.librettocanti.it/canto/benedici-il-signore-82) | :material-dots-horizontal: Mh | 30 | Marco Frisina |  |
 
 ### Comunione
 !!! info "Nessun risultato"

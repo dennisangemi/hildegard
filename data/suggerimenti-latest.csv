@@ -91,7 +91,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2887,Alla cena dell’Agnello,0.54,-0.38,,,13.0,:material-dots-horizontal: Mh
 3011,Lo Spirito di Cristo,0.61,-0.48,,,13.0,:material-dots-horizontal: Mh
 2344,Trisaghion,0.68,-0.55,,,13.0,:material-dots-horizontal: Mh
-2213,Santo (Come fuoco vivo) v2,0.47,-0.29,,,13.0,:material-dots-horizontal: Mh
+397,Santo,0.47,-0.29,,,13.0,:material-dots-horizontal: Mh
 1551,Cantiamo con gioia,0.63,-0.49,,,13.0,:material-dots-horizontal: Mh
 1877,E' Santo,0.55,-0.4,,,13.0,:material-dots-horizontal: Mh
 1640,"Sei Tu, Signore",0.67,-0.55,,,13.0,:material-dots-horizontal: Mh
@@ -107,7 +107,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2080,Esultiamo in Te Gesù,0.67,-0.54,,,13.0,:material-dots-horizontal: Mh
 2794,O Signore nostro Dio,0.71,-0.6,,,13.0,:material-dots-horizontal: Mh
 285,Lodate Dio,0.71,-0.6,,,13.0,:material-dots-horizontal: Mh
-397,Santo,0.47,-0.29,,,13.0,:material-dots-horizontal: Mh
+2213,Santo (Come fuoco vivo) v2,0.47,-0.29,,,13.0,:material-dots-horizontal: Mh
 2325,Santo Spirito,0.4,-0.23,,,12.0,:material-dots-horizontal: Mh
 2026,Tu un giorno,0.63,-0.51,,,12.0,:material-dots-horizontal: Mh
 2777,Tu sei il mio Dio (Meraviglioso),0.63,-0.51,,,12.0,:material-dots-horizontal: Mh
@@ -293,7 +293,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2534,Il padre che è nei cieli,0.59,-0.54,,,9.0,:material-dots-horizontal: Mh
 2218,I frutti che ci dai,0.6,-0.54,,,9.0,:material-dots-horizontal: Mh
 2318,Santo,0.36,-0.24,,,9.0,:material-dots-horizontal: Mh
-402,Santo,0.38,-0.27,,,9.0,:material-dots-horizontal: Mh
+1923,Santo Santo,0.38,-0.27,,,9.0,:material-dots-horizontal: Mh
 1987,Canto dei tre giovani,0.49,-0.41,,,9.0,:material-dots-horizontal: Mh
 2580,Beato il cuore che perdona (inno GMG 2016),0.49,-0.41,,,9.0,:material-dots-horizontal: Mh
 2648,Sanctus! Holy!,0.35,-0.24,,,9.0,:material-dots-horizontal: Mh
@@ -314,7 +314,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 167,E' bello,0.57,-0.52,,,9.0,:material-dots-horizontal: Mh
 2688,"Amici, è lui",0.49,-0.41,,,9.0,:material-dots-horizontal: Mh
 318,Nella Tua tenda,0.42,-0.33,,,9.0,:material-dots-horizontal: Mh
-1923,Santo Santo,0.38,-0.27,,,9.0,:material-dots-horizontal: Mh
+402,Santo,0.38,-0.27,,,9.0,:material-dots-horizontal: Mh
 2920,Fiamma viva d’amore,0.37,-0.27,,,9.0,:material-dots-horizontal: Mh
 2219,Spalancate le porte a Cristo,0.56,-0.5,,,9.0,:material-dots-horizontal: Mh
 2589,Come un faro nel buio,0.61,-0.56,,,9.0,:material-dots-horizontal: Mh
@@ -373,12 +373,12 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2274,Santo santo sei,0.41,-0.31,,,9.0,:material-dots-horizontal: Mh
 13,Alla mensa del Signore,0.51,-0.44,,,9.0,:material-dots-horizontal: Mh
 2326,Tu sei qui,0.52,-0.44,,,9.0,:material-dots-horizontal: Mh
-2518,E' il Signor,0.41,-0.32,,,9.0,:material-dots-horizontal: Mh
+2602,E' il Signor,0.41,-0.32,,,9.0,:material-dots-horizontal: Mh
 2395,"O Signore, raccogli i tuoi figli",0.41,-0.31,,,9.0,:material-dots-horizontal: Mh
 1795,Sei giunto da molto lontano,0.51,-0.44,,,9.0,:material-dots-horizontal: Mh
 316,Nel Tuo silenzio,0.67,-0.64,,,9.0,:material-dots-horizontal: Mh
 1812,"Vieni Spirito Santo, Vieni",0.41,-0.32,,,9.0,:material-dots-horizontal: Mh
-2602,E' il Signor,0.41,-0.32,,,9.0,:material-dots-horizontal: Mh
+2518,E' il Signor,0.41,-0.32,,,9.0,:material-dots-horizontal: Mh
 2766,Alleluia dello Spirito,0.45,-0.37,,,9.0,:material-dots-horizontal: Mh
 1709,Signore da chi andremo,0.97,-1.0,,,9.0,:material-dots-horizontal: Mh
 2616,Resurrezione,0.74,-0.74,,,8.0,:material-dots-horizontal: Mh
@@ -640,8 +640,8 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 404,Santo,0.26,-0.18,,,6.0,:material-dots-horizontal: Mh
 323,Noi crediamo in Te,0.26,-0.18,,,6.0,:material-dots-horizontal: Mh
 2979,Il Signore è mia luce e salvezza,0.59,-0.6,,,6.0,:material-dots-horizontal: Mh
-1780,Vocazione,0.58,-0.6,,,6.0,:material-dots-horizontal: Mh
 493,Vocazione (v2),0.58,-0.6,,,6.0,:material-dots-horizontal: Mh
+1780,Vocazione,0.58,-0.6,,,6.0,:material-dots-horizontal: Mh
 2448,Ai piedi della Croce,0.58,-0.59,,,6.0,:material-dots-horizontal: Mh
 2104,Luce per noi,0.59,-0.61,,,6.0,:material-dots-horizontal: Mh
 2251,"Alleluia, Cristo e' risorto",0.59,-0.61,,,6.0,:material-dots-horizontal: Mh
@@ -891,8 +891,8 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 196,Fonti di Nazareth,0.68,-0.77,,,4.0,:material-dots-horizontal: Mh
 1869,"Maria, tua dolcezza",0.49,-0.52,,,4.0,:material-dots-horizontal: Mh
 2132,Ora che il giorno finisce,0.49,-0.52,,,4.0,:material-dots-horizontal: Mh
-497,Voi siete di Dio,0.49,-0.52,,,4.0,:material-dots-horizontal: Mh
 506,Voi siete di Dio (v2),0.49,-0.52,,,4.0,:material-dots-horizontal: Mh
+497,Voi siete di Dio,0.49,-0.52,,,4.0,:material-dots-horizontal: Mh
 474,Venite fedeli,0.28,-0.26,,,4.0,:material-dots-horizontal: Mh
 83,Benedici o Signore,0.36,-0.36,,,4.0,:material-dots-horizontal: Mh
 1814,Un canto semplice d’amore,0.36,-0.36,,,4.0,:material-dots-horizontal: Mh
@@ -1006,8 +1006,8 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2452,Al Santo Glorioso (Inno in onore di San Francesco di Paola),0.35,-0.34,,,4.0,:material-dots-horizontal: Mh
 1865,Osanna al Figlio di David,0.35,-0.34,,,4.0,:material-dots-horizontal: Mh
 2423,Dell'aurora Tu sorgi più bella (v2),0.35,-0.34,,,4.0,:material-dots-horizontal: Mh
-1889,Ai piedi di Gesù (semplificata),0.4,-0.4,,,4.0,:material-dots-horizontal: Mh
 1446,Ai piedi di Gesù,0.4,-0.4,,,4.0,:material-dots-horizontal: Mh
+1889,Ai piedi di Gesù (semplificata),0.4,-0.4,,,4.0,:material-dots-horizontal: Mh
 2484,Come la cerva - Salmo 41,0.4,-0.41,,,4.0,:material-dots-horizontal: Mh
 1816,Figlia di Sion,0.47,-0.5,,,4.0,:material-dots-horizontal: Mh
 7,Accoglimi,0.63,-0.69,,,4.0,:material-dots-horizontal: Mh
@@ -1016,12 +1016,12 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2569,Scatenate la gioia,0.35,-0.36,,,3.0,:material-dots-horizontal: Mh
 2060,Dove la carità è vera,0.34,-0.36,,,3.0,:material-dots-horizontal: Mh
 1891,Alleluia Cristo è risorto veramente,0.35,-0.37,,,3.0,:material-dots-horizontal: Mh
-1547,Alleluia - Lode Cosmica (semplificata),0.34,-0.35,,,3.0,:material-dots-horizontal: Mh
+1399,Alleluia - Lode Cosmica,0.34,-0.35,,,3.0,:material-dots-horizontal: Mh
 1878,Ti lodino i popoli Dio,0.25,-0.25,,,3.0,:material-dots-horizontal: Mh
 177,E pace intima,0.46,-0.51,,,3.0,:material-dots-horizontal: Mh
 1956,Inno all'amore,0.47,-0.52,,,3.0,:material-dots-horizontal: Mh
 428,Signore come è bello (La tenda),0.66,-0.75,,,3.0,:material-dots-horizontal: Mh
-1399,Alleluia - Lode Cosmica,0.34,-0.35,,,3.0,:material-dots-horizontal: Mh
+1547,Alleluia - Lode Cosmica (semplificata),0.34,-0.35,,,3.0,:material-dots-horizontal: Mh
 2376,"Apocalisse 19,6",0.35,-0.38,,,3.0,:material-dots-horizontal: Mh
 25,Alleluia e poi,0.36,-0.39,,,3.0,:material-dots-horizontal: Mh
 1686,Dio aprirà una via,0.36,-0.38,,,3.0,:material-dots-horizontal: Mh
@@ -1253,8 +1253,8 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2348,"Alleluia, il tuo Vangelo",0.26,-0.31,,,1.0,:material-dots-horizontal: Mh
 1643,Alleluia Gen Verde,0.25,-0.32,,,-0.0,:material-dots-horizontal: Mh
 11,Adeste Fideles,0.01,-0.02,,,-0.0,:material-dots-horizontal: Mh
-1755,Kyrie,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-329,"O Dio, Tu sei il mio Dio",0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2013,Madonna nera,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+1638,Ad una voce,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 1393,Il Piccolo Tamburino (The little drummer boys),0.03,-0.03,,,0.0,:material-dots-horizontal: Mh
 2162,Be thou my vision,0.01,-0.01,,,0.0,:material-dots-horizontal: Mh
 1840,Salvator Mundi,0.01,-0.02,,,-0.0,:material-dots-horizontal: Mh
@@ -1268,15 +1268,15 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 101,Canoni - Magnificat,0.01,-0.01,,,0.0,:material-dots-horizontal: Mh
 2083,Anima Christi,0.05,-0.06,,,0.0,:material-dots-horizontal: Mh
 1988,É l'ora che pia,0.06,-0.07,,,0.0,:material-dots-horizontal: Mh
-2888,"Alleluia, io sono il buon Pastore",0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-2142,Laudate Dominum,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-2273,Lode a te oh Cristo,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+1755,Kyrie,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 1922,Alleluja (Terry),0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-2024,Venite fedeli (v2),0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-453,Ti esalto Dio mio Re,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-1973,Si accende una luce,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-2033,Alleluja,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+100,Canoni - Laudate omnes gentes,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2142,Laudate Dominum,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 1914,"Alleluja, Tradizionale",0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2024,Venite fedeli (v2),0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2888,"Alleluia, io sono il buon Pastore",0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2033,Alleluja,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+1973,Si accende una luce,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 2861,Mi ami tu?,0.26,-0.33,,,-0.0,:material-dots-horizontal: Mh
 1972,Io Mi Arrendo (HillSong - I Surrender),0.24,-0.29,,,0.0,:material-dots-horizontal: Mh
 2339,Come Davide,0.24,-0.29,,,0.0,:material-dots-horizontal: Mh
@@ -1285,12 +1285,12 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 1747,"Alleluia, da chi andremo",0.26,-0.32,,,0.0,:material-dots-horizontal: Mh
 2075,Alleluia - Questa Tua Parola,0.24,-0.3,,,0.0,:material-dots-horizontal: Mh
 2257,Yes Lord,0.06,-0.07,,,0.0,:material-dots-horizontal: Mh
-2913,Canto al Vangelo,0.18,-0.23,,,-0.0,:material-dots-horizontal: Mh
 2154,Alleluia (Messa della Concordia),0.18,-0.23,,,-0.0,:material-dots-horizontal: Mh
+2913,Canto al Vangelo,0.18,-0.23,,,-0.0,:material-dots-horizontal: Mh
 2306,Inno alla carita,0.26,-0.33,,,-0.0,:material-dots-horizontal: Mh
-1996,Kyrie,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-100,Canoni - Laudate omnes gentes,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
-1638,Ad una voce,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2527,Griderò,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+329,"O Dio, Tu sei il mio Dio",0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+2273,Lode a te oh Cristo,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 1856,Canoni - Ubi Caritas,0.0,-0.01,,,-0.0,:material-dots-horizontal: Mh
 2926,Alleluia,0.18,-0.22,,,0.0,:material-dots-horizontal: Mh
 1845,La pietra (salmo 117),0.17,-0.22,,,-0.0,:material-dots-horizontal: Mh
@@ -1300,7 +1300,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 28,"Alleluia, chi ascolta",0.32,-0.39,,,0.0,:material-dots-horizontal: Mh
 1765,Inno all'amore,0.32,-0.39,,,0.0,:material-dots-horizontal: Mh
 2322,Lodate il Signore dai Cieli,0.24,-0.31,,,-0.0,:material-dots-horizontal: Mh
-2013,Madonna nera,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+1996,Kyrie,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 1967,"Tota pulchra es, Maria",0.08,-0.11,,,-0.0,:material-dots-horizontal: Mh
 2175,Benedicat tibi Dominu,0.01,-0.01,,,0.0,:material-dots-horizontal: Mh
 2314,Magnificat - Mina,0.03,-0.03,,,0.0,:material-dots-horizontal: Mh
@@ -1334,7 +1334,7 @@ id_canti,titolo,score_similarity,score_deviation,score_selection,score_history,s
 2443,E' nato nel mondo ,0.13,-0.16,,,0.0,:material-dots-horizontal: Mh
 1699,Tantum Ergo,0.0,-0.01,,,-0.0,:material-dots-horizontal: Mh
 2581,Girl On A Mission,0.02,-0.02,,,0.0,:material-dots-horizontal: Mh
-2527,Griderò,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
+453,Ti esalto Dio mio Re,0.0,0.0,,,0.0,:material-dots-horizontal: Mh
 305,Messaggio ai giovani,0.55,-0.71,,,-1.0,:material-dots-horizontal: Mh
 2576,Uomo di galilea,0.17,-0.24,,,-1.0,:material-dots-horizontal: Mh
 1910,Nel Signore io ti do la pace,0.18,-0.24,,,-1.0,:material-dots-horizontal: Mh
