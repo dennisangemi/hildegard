@@ -24,6 +24,8 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
+| [Le tue meraviglie](https://www.librettocanti.it/canto/le-tue-meraviglie-1558) | :material-check-all: Alta | 47 | Chiara Casucci, Mite Balduzzi |  |
+| [Luce di verità](https://www.librettocanti.it/canto/luce-di-verit-292) | :material-check: Buona | 44 | G. Becchimanzi - S. Puri - C. Giordano |  |
 | [Sono qui a lodarti (luce del mondo)](https://www.librettocanti.it/canto/sono-qui-a-lodarti-luce-del-mondo-434) | :material-dots-horizontal: Mh | 38 | RnS - Tim Hughes | Canzoni d'amore al Padre |
 | [Il Signore è la Luce](https://www.librettocanti.it/canto/il-signore-la-luce-235) | :material-dots-horizontal: Mh | 30 | Marcello Giombini |  |
 
@@ -33,6 +35,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
+| [Luce di verità](https://www.librettocanti.it/canto/luce-di-verit-292) | :material-check: Buona | 44 | G. Becchimanzi - S. Puri - C. Giordano |  |
 | [Sono qui a lodarti (luce del mondo)](https://www.librettocanti.it/canto/sono-qui-a-lodarti-luce-del-mondo-434) | :material-dots-horizontal: Mh | 38 | RnS - Tim Hughes | Canzoni d'amore al Padre |
 
 ### Offertorio
@@ -43,6 +46,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 ### Comunione
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
+| [Le tue meraviglie](https://www.librettocanti.it/canto/le-tue-meraviglie-1558) | :material-check-all: Alta | 47 | Chiara Casucci, Mite Balduzzi |  |
 | [Il Signore è la Luce](https://www.librettocanti.it/canto/il-signore-la-luce-235) | :material-dots-horizontal: Mh | 30 | Marcello Giombini |  |
 
 ### Congedo
