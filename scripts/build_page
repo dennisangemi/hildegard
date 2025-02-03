@@ -4,7 +4,7 @@
 # this script is called by build.sh and the variables are shared
 
 # to do
-# - trasformare il check delle linee e il print di nessun risultato in una funzione che accetta come argomento il file da controllare
+# - [ ] trasformare il check delle linee e il print di nessun risultato in una funzione che accetta come argomento il file da controllare
 
 # functions 
 check_and_print() {

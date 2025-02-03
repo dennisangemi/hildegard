@@ -7,8 +7,6 @@ set -a
 # import variables
 source <(grep = scripts/config.ini)
 
-
-
 # importing functions
 source ./scripts/get_anagrafica
 source ./scripts/get_next_sunday

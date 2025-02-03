@@ -1,4 +1,28 @@
 #!/usr/bin/env python3
+
+"""
+Script Name: page_mapping.py
+Description:
+    Questo script utilizza la libreria PyMuPDF (fitz) per mappare le pagine di un file PDF.
+    Estrae i numeri di pagina stampati dal margine inferiore di ogni pagina del PDF e li associa
+    ai numeri di pagina effettivi del PDF.
+
+Usage:
+    python page_mapping.py <file_path>
+
+Dependencies:
+    - PyMuPDF (fitz)
+    - pandas
+    - re
+
+Functions:
+    - map_pdf_pages(file_path): Mappa le pagine di un file PDF e restituisce una lista di numeri di pagina stampati e numeri di pagina del PDF.
+    - extract_printed_page_number(text): Estrae il numero di pagina stampato dal testo fornito.
+
+Example:
+    python page_mapping.py example.pdf
+"""
+
 import fitz  # PyMuPDF
 import pandas as pd
 import re

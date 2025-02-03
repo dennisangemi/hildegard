@@ -11,10 +11,12 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
+
     - name: Enviroment setup (mlr, scrape, yq, scikit-learn, pandas, tabulate)
       run: |-
         mkdir -p ~/bin
@@ -24,11 +26,13 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo pip install yq scikit-learn pandas tabulate
+
     - name: Suggerisci i canti della prossima domenica
       run: |-
         export PATH=$PATH:~/bin
         chmod +x ./build
         ./build
+        
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "suggeritore-automatico"

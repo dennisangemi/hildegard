@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script per ottenere il calendario liturgico in formato JSON e processarlo.
+
+# URL di riferimento per il calendario liturgico
 # https://www.favrin.net/misc/calendario_liturgico/sviluppatori.html
 
 get_calendario_json() {

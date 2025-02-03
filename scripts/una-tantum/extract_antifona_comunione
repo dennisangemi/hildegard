@@ -1,5 +1,19 @@
 #!/bin/bash
 
+
+# Script:      extract_antifona_comunione
+# Descrizione: Questo script estrae l'antifona per la comunione per una data specifica dal sito liturgia.silvestrini.org.
+# Utilizzo:    ./extract_antifona_comunione <data>
+# Esempio:     ./extract_antifona_comunione 2024-06-02
+# Parametri:
+#   <data> - La data per la quale estrarre l'antifona per la comunione, nel formato YYYY-MM-DD.
+# Requisiti:
+#   - curl: per scaricare il contenuto della pagina web.
+#   - scrape: per estrarre il contenuto HTML.
+#   - xq: per processare il contenuto JSON.
+#   - sed: per pulire e formattare il testo estratto.
+
+
 extract_antifona_comunione() {
     if [ $# -ne 1 ]; then
         echo "Usage: $0 <file>"

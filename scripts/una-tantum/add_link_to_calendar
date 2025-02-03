@@ -1,5 +1,17 @@
 #!/bin/bash
 
+
+# Script:      add_link_to_calendar
+# Descrizione: Questo script aggiunge i link ai calendari liturgici dal 2019 al 2050.
+# Note:        È stato utilizzato solo una volta perchè i link erano stati esclusi al momento della creazione 
+#              del calendario tramite api.
+# Utilizzo:    ./add_link_to_calendar
+# Requisiti:
+#   - curl: per scaricare il contenuto della pagina web.
+#   - jq: per processare il contenuto JSON.
+#   - mlr: per manipolare i file CSV.
+
+
 # input
 PATH_CALENDARIO_LITURGICO_NO_LINKS="data/calendari_liturgici/processing/calendario_2019-2050_no_links.csv"
 PATH_LINK_CALENDARIO="data/calendari_liturgici/processing/link_2019-2050.csv"

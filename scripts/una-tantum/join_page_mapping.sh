@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Script per mappare la numerazione delle pagine del lezionario con la numerazione delle pagine del PDF
+
 ANNO=$1
 
 # check che anno sia una lettera tra a,b,c e che sia minuscola

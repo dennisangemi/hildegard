@@ -58,8 +58,6 @@ for liturgia_file in liturgia_files:
 # concatena tutti i DataFrame in df_list
 df = pd.concat(df_list)
 
-
-
 # print 
 print("📊 Calcolo la media normalizzata per ogni canto...")
 
@@ -69,26 +67,14 @@ max_similarity = df['similarity'].max()
 # normalize similarity
 df['similarity'] = df['similarity'] / max_similarity
 
-# Calcolo della media e del massimo della colonna 'similarity' per ogni 'id_canti'
-df = df.groupby('id_canti')['similarity'].agg(['mean', 'max']).reset_index()
+# Calcolo della media della colonna 'similarity' per ogni 'id_canti'
+df = df.groupby('id_canti')['similarity'].mean().reset_index()
 
-# Arrotonda la media e il massimo a 2 cifre decimali
-df['mean'] = df['mean'].round(2)
-df['max'] = df['max'].round(2)
-
-# tieni solo righe con max_similarity > 0
-df = df[df['max'] > 0]
-
-# Rinominare le colonne per chiarezza
-df = df.rename(columns={'mean': 'mean_similarity', 'max': 'max_similarity'})
-
-# sort by mean_similarity
-df = df.sort_values(by='mean_similarity', ascending=False)
-
-print(df)
+# rename similarity column to mean_similarity
+df = df.rename(columns={'similarity': 'mean_similarity'})
 
 # turn mean_similarity into a percentage with no decimal
-# df['mean_similarity'] = (df['mean_similarity'] * 100).round(2)
+df['mean_similarity'] = (df['mean_similarity'] * 100).round(2)
 
 # export to csv
 df.to_csv(config.PATH_MEAN_SIMILARITIES, index=False)
