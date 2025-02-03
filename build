@@ -54,7 +54,7 @@ echo "✅ Individuata liturgia"
 ./scripts/get_manually_selected
 
 # run suggeritore
-./scripts/suggeritore_v5.py "$liturgia_data_iso"
+./scripts/suggeritore.py "$liturgia_data_iso"
 
 # build website homepage
 ./scripts/build_page
