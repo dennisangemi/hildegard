@@ -4,7 +4,9 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 41 | Gen Rosso | Se siamo uniti |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-dots-horizontal: Mh | 42 | Collu, Moro, Maxia |  |
+| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 40 | Gen Rosso | Se siamo uniti |
+| [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 32 | Marco Frisina | Tu sei bellezza |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -17,15 +19,18 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 41 | Gen Rosso | Se siamo uniti |
+| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 40 | Gen Rosso | Se siamo uniti |
 
 ### Comunione
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza | % | Autore | Raccolta |
+| --- | --- | --- | --- | --- |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-dots-horizontal: Mh | 42 | Collu, Moro, Maxia |  |
+| [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 32 | Marco Frisina | Tu sei bellezza |
 
 ### Congedo
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza | % | Autore | Raccolta |
+| --- | --- | --- | --- | --- |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-dots-horizontal: Mh | 42 | Collu, Moro, Maxia |  |
 
 ## Note
 !!! warning "Attenzione"
