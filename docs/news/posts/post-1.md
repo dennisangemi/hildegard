@@ -4,6 +4,8 @@ date:
   updated: 2024-07-09
 authors:
   - dennis
+categories:
+  - Novità
 ---
 
 # Abbiamo migliorato l'accuratezza di Hildegard

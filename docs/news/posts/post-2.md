@@ -3,6 +3,8 @@ date:
   created: 2024-10-13
 authors:
   - dennis
+categories:
+  - Novità
 ---
 
 # Grandi novità per la funzione "Leggi la liturgia"
