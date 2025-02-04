@@ -9,7 +9,6 @@ docs/index_slm.md
 ai.txt
 ai/
 embeddings.md
-risorse/embeddings.db
 data/canti.csv
 data/canti.json
 .cache/
