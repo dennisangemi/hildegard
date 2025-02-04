@@ -19,14 +19,14 @@ def get_files_from_dir(directory):
 
 
 
-# ottieni un dizionario con id_canti e similarity tra il testo di riferimento e i testi dei canti
-def get_similarities(text_to_compare, filename_canti):
+# ottieni un dizionario con id_canti e text_similarity tra il testo di riferimento e i testi dei canti
+def get_text_similarities(text_to_compare, filename_canti):
     # input
     # liturgia:       testo della liturgia o testo di riferimento
     # filename_canti: lista di nomi dei file contenenti i testi dei canti (generato con get_files_from_dir())
 
     # output
-    # data:           dizionario con id_canti e similarity
+    # data:           dizionario con id_canti e text_similarity
 
     # carica i canti (una volta sola, e quindi solo se la variabile `canti` non esiste già)
     if 'canti' not in globals():
@@ -61,8 +61,8 @@ def get_similarities(text_to_compare, filename_canti):
     # remove the .txt extension from the file names
     filename_canti = [file[:-4] for file in filename_canti]
 
-    # Create a dictionary with the file names and similarity values
-    data = {'id_canti': filename_canti, 'similarity': similarities}
+    # Create a dictionary with the file names and text_similarity values
+    data = {'id_canti': filename_canti, 'text_similarity': similarities}
 
     # output of the function
     return data

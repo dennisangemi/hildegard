@@ -20,7 +20,7 @@ import config
 # config.PATH_LITURGIA = 'risorse/lezionari/liturgia-latest.txt'
 # config.PATH_ANAGRAFICA_CANTI = 'data/anagrafica_canti.csv'
 # config.PATH_LITURGIE = 'risorse/lezionari/liturgie'
-# config.PATH_SIMILARITIES = 'data/all_similarities.csv'
+# config.PATH_TEXT_SIMILARITIES = 'data/all_similarities.csv'
 # config.PATH_CALENDARIO_LITURGICO = 'data/calendari_liturgici/calendario_2019-2050.csv'
 MIN_THRESHOLD_DEVIATION = 5
 
@@ -38,7 +38,7 @@ def get_files_from_dir(directory):
       return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
 
 # ottieni un dizionario con id_canti e similarity tra il testo di riferimento e i testi dei canti
-def get_similarities(text_to_compare, filename_canti, canti):
+def get_text_similarities(text_to_compare, filename_canti, canti):
     # INPUT
     # liturgia:       testo della liturgia o testo di riferimento
     # filename_canti: lista di nomi dei file contenenti i testi dei canti (generato con get_files_from_dir())
@@ -93,7 +93,7 @@ else:
 # importing tables
 anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
 calendario = pd.read_csv(config.PATH_CALENDARIO_LITURGICO)
-similarities = pd.read_csv(config.PATH_SIMILARITIES)
+similarities = pd.read_csv(config.PATH_TEXT_SIMILARITIES)
 
 # cerca data_liturgia in calendario (colonna date) e estrai colonna id_liturgia
 data_liturgia = "2024-06-30" # to comment
@@ -147,7 +147,7 @@ salmo = get_text_between_strings(liturgia, 'SALMO RESPONSORIALE', 'SECONDA LETTU
 
 # se salmo non è vuoto, calcola la similarità tra salmo e i testi dei canti
 if salmo:
-    data_salmo = get_similarities(salmo, file_canti, canti)
+    data_salmo = get_text_similarities(salmo, file_canti, canti)
     df_salmo = pd.DataFrame(data_salmo)
     df_salmo['id_canti'] = df_salmo['id_canti'].astype(int)
     df_salmo = df_salmo.sort_values(by='similarity', ascending=False)

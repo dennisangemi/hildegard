@@ -38,7 +38,7 @@ Ogni settimana, l'algoritmo su cui si basa questo strumento confronta (stupidame
         - fonte: API del [Calcolatore del calendario liturgico cattolico italiano](https://www.favrin.net/misc/calendario_liturgico/) sviluppato e rilasciato in CC-BY da Gabriele Favrin (grazie!).
     3. **Media delle Similarità**: Un insieme di dati che contiene le similarità medie storiche tra i testi della liturgia e i testi dei canti.
         - path: [`data/mean_similarities.csv`](https://github.com/dennisangemi/hildegard/blob/main/data/mean_similarities.csv)
-        - script: [`scripts/get_mean_similarities.py`](https://github.com/dennisangemi/hildegard/blob/main/scripts/get_mean_similarities.py)
+        - script: [`scripts/get_mean_text_similarities.py`](https://github.com/dennisangemi/hildegard/blob/main/scripts/get_mean_text_similarities.py)
     4. **Pesi**: Un documento che specifica i pesi delle diverse metriche utilizzate per il calcolo del punteggio finale.
         - path: [`data/score_weights.csv`](https://github.com/dennisangemi/hildegard/blob/main/data/score_weights.csv)
     5. **Canti Selezionati Manualmente**: Un elenco di canti selezionati manualmente per specifiche liturgie.

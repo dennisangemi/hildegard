@@ -27,7 +27,7 @@ def get_files_from_dir(directory):
       return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
 
 # ottieni un dizionario con id_canti e similarity tra il testo di riferimento e i testi dei canti
-def get_similarities(text_to_compare, filename_canti, canti):
+def get_text_similarities(text_to_compare, filename_canti, canti):
     # input
     # liturgia:       testo della liturgia o testo di riferimento
     # filename_canti: lista di nomi dei file contenenti i testi dei canti (generato con get_files_from_dir())
@@ -91,7 +91,7 @@ for canto in file_canti:
     canti.append(re.sub(r'\n', ' ', get_text_from_file(os.path.join(config.PATH_CANTI, canto))))
 
 # calcolo similatirà
-data = get_similarities(liturgia, file_canti, canti)
+data = get_text_similarities(liturgia, file_canti, canti)
 
 # Create a DataFrame from the dictionary
 df = pd.DataFrame(data)

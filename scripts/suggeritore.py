@@ -5,9 +5,9 @@
 """
 Questo script suggerisce i canti liturgici più adatti per una determinata liturgia.
 
-Il calcolo dell'accuratezza dipende da 4 score: similarity, deviation, selection e history
-- Similarity: calcolato con cosine similarity tra la liturgia e i testi dei canti;
-- Deviation (dalla media della similarità): calcolato come la differenza tra similarity e mean_similarity;
+Il calcolo dell'accuratezza dipende da 4 score: text_similarity, deviation, selection e history
+- Similarity: calcolato con cosine text_similarity tra la liturgia e i testi dei canti;
+- Deviation (dalla media della similarità): calcolato come la differenza tra text_similarity e mean_text_similarity;
 - Selection: accuratezza scelta manualmente;
 - History: accuratezza basata sulla frequenza di suonata dei canti in passato grazie a librettocanti.it/canticristiani.it;
 """
@@ -32,7 +32,7 @@ import config
 # functions
 from functions.hd_py_functions import get_text_from_file
 from functions.hd_py_functions import get_files_from_dir
-from functions.hd_py_functions import get_similarities
+from functions.hd_py_functions import get_text_similarities
 
 
 # constants of the script
@@ -52,11 +52,12 @@ else:
 # importing tables
 anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
 calendario = pd.read_csv(config.PATH_CALENDARIO_LITURGICO)
-mean_similarities = pd.read_csv(config.PATH_MEAN_SIMILARITIES)
+mean_text_similarities = pd.read_csv(config.PATH_MEAN_TEXT_SIMILARITIES)
 weights = pd.read_csv(config.PATH_WEIGHTS)
 manually_selected = pd.read_csv(config.PATH_MANUALLY_SELECTED)
 storico_suonati = pd.read_csv(config.PATH_STORICO_SUONATI)
 mean_suonati = pd.read_csv(config.PATH_MEAN_SUONATI)
+vector_similarities = pd.read_csv(config.PATH_VECTOR_SIMILARITIES)
 
 
 # cerca data_liturgia in calendario (colonna date) e estrai colonna id_liturgia
@@ -64,6 +65,19 @@ id_liturgia = calendario[calendario['date'] == data_liturgia]['id_liturgia'].val
 print("📖 La liturgia corrispondente alla data", data_liturgia, "è", id_liturgia)
 print("")
 
+
+# --------------------------------- score_vector_similarity --------------------------------- #
+print("🔍 Canti consigliati secondo vicinanza embeddings:")
+vector_similarities = vector_similarities[vector_similarities['id_liturgia'] == id_liturgia]
+print(vector_similarities)
+
+vector_similarities = vector_similarities.rename(columns={'vector_similarity': 'score_vector_similarity'})
+
+# se ci sono canti duplicati mantieni solo quelli con lo score più alto
+vector_similarities = vector_similarities.sort_values(by='score_vector_similarity', ascending=False)
+vector_similarities = vector_similarities.drop_duplicates(subset='id_canti', keep='first')
+
+vector_similarities = vector_similarities[['id_canti', 'score_vector_similarity']]
 
 
 # --------------------------------- score_selection --------------------------------- #
@@ -128,39 +142,42 @@ storico_suonati = storico_suonati[['id_canti', 'score_history']]
 
 
 
-# --------------------------------- score_similarity --------------------------------- #
+# --------------------------------- score_text_similarity --------------------------------- #
 # calcola similarità tra liturgia e canti
 liturgia = get_text_from_file(os.path.join(config.PATH_LITURGIE, id_liturgia + '.txt'))
 file_canti = get_files_from_dir(config.PATH_CANTI)
 
-df = get_similarities(liturgia, file_canti)
+df = get_text_similarities(liturgia, file_canti)
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
 df = pd.DataFrame(df)
 
-print("min similarity:", df['similarity'].min())
-print("max similarity:", df['similarity'].max())
+# change column names: similarity -> text_similarity
+df = df.rename(columns={'similarity': 'text_similarity'})
+
+print("min text_similarity:", df['text_similarity'].min())
+print("max text_similarity:", df['text_similarity'].max())
 print("")
 # input("Premi invio per continuare...")
 
-# sort by similarity
-df = df.sort_values(by='similarity', ascending=False)
+# sort by text_similarity
+df = df.sort_values(by='text_similarity', ascending=False)
 
-# join df with mean_similarities on id_canti
+# join df with mean_text_similarities on id_canti
 df['id_canti'] = df['id_canti'].astype(int)
-mean_similarities['id_canti'] = mean_similarities['id_canti'].astype(int)
-df = pd.merge(df, mean_similarities, on='id_canti')
+mean_text_similarities['id_canti'] = mean_text_similarities['id_canti'].astype(int)
+df = pd.merge(df, mean_text_similarities, on='id_canti')
 
-print("min mean_similarity:", df['mean_similarity'].min())
-print("max mean_similarity:", df['mean_similarity'].max())
+print("min mean_text_similarity:", df['mean_text_similarity'].min())
+print("max mean_text_similarity:", df['mean_text_similarity'].max())
 print("")
 #input("Premi invio per continuare...")
 
-# compute score_similarity
-df['score_similarity_c1'] = (df['similarity'] / df['similarity'].max()).round(2)
-df['score_similarity_c2'] = (df['similarity'] / df['max_similarity']).round(2)
-df['score_similarity'] = (0.65*df['score_similarity_c1'] + 0.35*df['mean_similarity']).round(2)
+# compute score_text_similarity
+df['score_text_similarity_c1'] = (df['text_similarity'] / df['text_similarity'].max()).round(2)
+df['score_text_similarity_c2'] = (df['text_similarity'] / df['max_text_similarity']).round(2)
+df['score_text_similarity'] = (0.65*df['score_text_similarity_c1'] + 0.35*df['mean_text_similarity']).round(2)
 print(df)
-print("✅ Score similarity determinato")
+print("✅ Score text_similarity determinato")
 print("")
 
 # debug
@@ -171,14 +188,14 @@ print("")
 
 # --------------------------------- score_deviation --------------------------------- #
 # crea in df una colonna score_deviation che sia la deviation
-df['deviation'] = df['similarity'] - df['mean_similarity']
+df['deviation'] = df['text_similarity'] - df['mean_text_similarity']
 df = df.sort_values(by='deviation', ascending=False)
 
 print("max deviation:", df['deviation'].max())
 print("min deviation:", df['deviation'].min())
 
-# da calcolare normalizzando con la vera max deviation che è la differenza tra max_similarity e similarity
-df['max_deviation'] = df['max_similarity'] - df['similarity']
+# da calcolare normalizzando con la vera max deviation che è la differenza tra max_text_similarity e text_similarity
+df['max_deviation'] = df['max_text_similarity'] - df['text_similarity']
 
 # calcolo score_deviation normalizzando deviation con max_deviation
 df['score_deviation'] = df['deviation'] / df['max_deviation']
@@ -192,8 +209,8 @@ print("")
 
 
 # --------------------------------- total score --------------------------------- #
-# from df maintain only id_canti, score_similarity, score_deviation
-df = df[['id_canti', 'score_similarity', 'score_deviation']]
+# from df maintain only id_canti, score_text_similarity, score_deviation
+df = df[['id_canti', 'score_text_similarity', 'score_deviation']]
 
 # debug
 # print(df.head(10))
@@ -209,10 +226,14 @@ if not storico_suonati.empty:
     df = pd.merge(df, storico_suonati, on='id_canti', how='left')
     print("Storico suonati joined")
 
-print("max score_history:", df['score_history'].max())
-print("min score_history:", df['score_history'].min())
+# join with vector_similarities if vector_similarities is not empty
+if not vector_similarities.empty:
+    df = pd.merge(df, vector_similarities, on='id_canti', how='left')
+    print("Vector similarities joined")
 
 # debug 
+# print("max score_history:", df['score_history'].max())
+# print("min score_history:", df['score_history'].min())
 # print(df.head(10))
 # input("Premi invio per continuare...")
 
@@ -237,37 +258,45 @@ print("")
 
 """
 print("")
-print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_selection', 'score_history']])
+print(df[['id_canti','titolo', 'score_text_similarity','score_deviation', 'score_selection', 'score_history']])
 input("Premi invio per continuare...")
 """
 
 # defining weights
-weight_similarity = weights[weights['metric'] == 'similarity']['weight'].values[0]
+weight_text_similarity = weights[weights['metric'] == 'text_similarity']['weight'].values[0]
+weight_vector_similarity = weights[weights['metric'] == 'vector_similarity']['weight'].values[0]
 weight_deviation  = weights[weights['metric'] == 'deviation']['weight'].values[0]
 weight_history    = weights[weights['metric'] == 'history']['weight'].values[0]
 weight_selection  = weights[weights['metric'] == 'selection']['weight'].values[0]
 print("⚖️  Pesi caricati")
-print("   similarity   :", weight_similarity)
+print("   text_similarity   :", weight_text_similarity)
+print("   vector_similarity :", weight_vector_similarity)
 print("   sim deviation:", weight_deviation)
 print("   selection    :", weight_selection)
 print("   history      :", weight_history)
 print("")
 
 # score calculation
-# fai media pesata di score_similarity,score_deviation,score_selection,score_history
-# df['score'] = (weight_similarity*df['score_similarity'] + weight_deviation*df['score_deviation'] + weight_selection*df['score_selection'] + weight_history*df['score_history']) / (weight_similarity + weight_deviation + weight_selection + weight_history)
+# fai media pesata di score_text_similarity,score_deviation,score_selection,score_history
+# df['score'] = (weight_text_similarity*df['score_text_similarity'] + weight_deviation*df['score_deviation'] + weight_selection*df['score_selection'] + weight_history*df['score_history']) / (weight_text_similarity + weight_deviation + weight_selection + weight_history)
 
 # if score_selection non fa parte del df, aggiungila e mettila NaN
 if 'score_selection' not in df.columns:
     df['score_selection'] = np.nan
 
+# stessa cosa per score_vector_similarity
+if 'score_vector_similarity' not in df.columns:
+    df['score_vector_similarity'] = np.nan
+
 df['score'] = ((
-    df['score_similarity'].fillna(0) * weight_similarity +
+    df['score_text_similarity'].fillna(0) * weight_text_similarity +
+    df['score_vector_similarity'].fillna(0) * weight_vector_similarity +
     df['score_deviation'].fillna(0) * weight_deviation +
     df['score_selection'].fillna(0) * weight_selection +
     df['score_history'].fillna(0) * weight_history
 ) / (
-    (df['score_similarity'].notna() * weight_similarity) +
+    (df['score_text_similarity'].notna() * weight_text_similarity) +
+    (df['score_vector_similarity'].notna() * weight_vector_similarity) +
     (df['score_deviation'].notna() * weight_deviation) +
     (df['score_selection'].notna() * weight_selection) +
     (df['score_history'].notna() * weight_history)
@@ -277,7 +306,7 @@ df['score'] = ((
 df = df.sort_values(by='score', ascending=False)
 
 print("")
-print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_selection', 'score_history', 'score']].head(20))
+print(df[['id_canti','titolo', 'score_text_similarity', 'score_vector_similarity', 'score_history', 'score']].head(20))
 # input("Premi invio per continuare...")
 
 
@@ -300,14 +329,14 @@ df['adeguatezza'] = df.apply(calcola_adeguatezza, axis=1)
 
 print("")
 print("Mostro solo canti > soglia")
-# print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']].head(20))
-print(df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']][df['score'] >= config.THRESHOLD_MIN_SCORE])
+# print(df[['id_canti','titolo', 'score_text_similarity','score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']].head(20))
+print(df[['id_canti','titolo', 'score_text_similarity', 'score_vector_similarity', 'score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']][df['score'] >= config.THRESHOLD_MIN_SCORE])
 
 
 
 # vorrei questo. Magari classificazione con PCA? non so
 """"
-id_canti                                          titolo  score_similarity  score_deviation  score_selection  score_history  score   adeguatezza
+id_canti                                          titolo  score_text_similarity  score_deviation  score_selection  score_history  score   adeguatezza
   217                                        Grandi cose              0.88            -0.06              1.0            1.0   78.0   ✅ Alta
  1649                 Accogli Signore i nostri doni (v2)              0.60             0.43              NaN            NaN   52.0   🧐 Mh
     6                      Accogli Signore i nostri doni              0.60             0.43              NaN            NaN   52.0   🧐 Mh
@@ -335,7 +364,7 @@ id_canti                                          titolo  score_similarity  scor
 # --------------------------------- export --------------------------------- #
 # export to csv
 output_df_path = 'data/suggerimenti-latest.csv'
-df[['id_canti','titolo', 'score_similarity','score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
+df[['id_canti','titolo', 'score_text_similarity','score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
 
 # mantieni solo score >= THRESHOLD_MIN_SCORE
 df = df[df['score'] >= config.THRESHOLD_MIN_SCORE]
@@ -364,13 +393,13 @@ suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('
 # print(df.head(20).drop(columns=['titolo_md']).fillna(''))
 
 # export data to json for canticristiani
-json_cols = ['id_canti', 'similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
+json_cols = ['id_canti', 'text_similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
 
-df.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
-suggested_ingresso.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-ingresso-latest.json', orient='records')
-suggested_offertorio.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-offertorio-latest.json', orient='records')
-suggested_comunione.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-comunione-latest.json', orient='records')
-suggested_congedo.rename(columns={'score': 'similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='similarity', ascending=False).to_json('data/suggeriti-congedo-latest.json', orient='records')
+df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
+suggested_ingresso.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-congedo-latest.json', orient='records')
 
 print("")
 print("✅ I suggerimenti formattati per librettocanti sono stati scritti nei file json")

@@ -49,8 +49,8 @@ jobs:
         export PATH=$PATH:~/bin
         chmod +x scripts/db_downloader
         ./scripts/db_downloader
-        chmod +x scripts/get_mean_similarities.py
-        ./scripts/get_mean_similarities.py
+        chmod +x scripts/get_mean_text_similarities.py
+        ./scripts/get_mean_text_similarities.py
 
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-

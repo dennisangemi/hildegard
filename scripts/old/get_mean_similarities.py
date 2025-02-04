@@ -19,7 +19,7 @@ import config
 
 from functions.hd_py_functions import get_text_from_file
 from functions.hd_py_functions import get_files_from_dir
-from functions.hd_py_functions import get_similarities
+from functions.hd_py_functions import get_text_similarities
 
 
 # main
@@ -41,7 +41,7 @@ for liturgia_file in liturgia_files:
     liturgia_text = get_text_from_file(os.path.join(config.PATH_LITURGIE, liturgia_file))
 
     # calcola la similarità con i testi dei canti
-    data = get_similarities(liturgia_text, file_canti)
+    data = get_text_similarities(liturgia_text, file_canti)
 
     # Create a DataFrame from the dictionary
     df = pd.DataFrame(data)
@@ -77,6 +77,6 @@ df = df.rename(columns={'similarity': 'mean_similarity'})
 df['mean_similarity'] = (df['mean_similarity'] * 100).round(2)
 
 # export to csv
-df.to_csv(config.PATH_MEAN_SIMILARITIES, index=False)
-print(f"📄 Esportato il file {config.PATH_MEAN_SIMILARITIES} con successo.")
+df.to_csv(config.PATH_MEAN_TEXT_SIMILARITIES, index=False)
+print(f"📄 Esportato il file {config.PATH_MEAN_TEXT_SIMILARITIES} con successo.")
 print("✅ Tutte similiarità medie sono state calcolate!")

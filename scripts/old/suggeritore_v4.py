@@ -22,7 +22,7 @@ import config
 # functions
 from functions.hd_py_functions import get_text_from_file
 from functions.hd_py_functions import get_files_from_dir
-from functions.hd_py_functions import get_similarities
+from functions.hd_py_functions import get_text_similarities
 
 
 # constants of the script
@@ -44,7 +44,7 @@ else:
 # importing tables
 anagrafica = pd.read_csv(config.PATH_ANAGRAFICA_CANTI)
 calendario = pd.read_csv(config.PATH_CALENDARIO_LITURGICO)
-mean_similarities = pd.read_csv(config.PATH_MEAN_SIMILARITIES)
+mean_similarities = pd.read_csv(config.PATH_MEAN_TEXT_SIMILARITIES)
 weights = pd.read_csv(config.PATH_WEIGHTS)
 manually_selected = pd.read_csv(config.PATH_MANUALLY_SELECTED)
 
@@ -62,7 +62,7 @@ liturgia = get_text_from_file(os.path.join(config.PATH_LITURGIE, id_liturgia + '
 file_canti = get_files_from_dir(config.PATH_CANTI)
 
 print("🔎 Calcolo la similarità tra la liturgia e i testi dei canti...")
-df = get_similarities(liturgia, file_canti)
+df = get_text_similarities(liturgia, file_canti)
 df = pd.DataFrame(df)
 
 # make similarity a percentage
