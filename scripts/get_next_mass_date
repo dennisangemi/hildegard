@@ -1,0 +1,44 @@
+#!/bin/bash
+
+get_next_mass_date() {
+    local csv_file="$1"
+    local start_date="$2"
+    local n="$3"
+
+    # Verifica il numero di argomenti
+    if [ $# -ne 3 ]; then
+        echo "Utilizzo: get_next_mass_date <file_csv> <data_iso> <n>"
+        return 1
+    fi
+
+    # Verifica esistenza file CSV
+    if [ ! -f "$csv_file" ]; then
+        echo "Errore: il file $csv_file non esiste." >&2
+        return 1
+    fi
+
+    # Verifica che n sia un numero positivo
+    if ! [[ "$n" =~ ^[1-9][0-9]*$ ]]; then
+        echo "Errore: n deve essere un numero intero positivo." >&2
+        return 1
+    fi
+
+    # Estrae la data nth utilizzando Miller
+    local next_date
+    next_date=$(mlr --csv --headerless-csv-output \
+        filter "\$date > \"$start_date\"" \
+        then sort -f date \
+        then head -n "$n" \
+        then tail -n 1 \
+        then cut -f date \
+        "$csv_file" 2>/dev/null)
+
+    # Gestione casi di errore
+    if [ -z "$next_date" ]; then
+        echo "Errore: Nessuna celebrazione trovata dopo la data specificata." >&2
+        return 1
+    else
+        echo "$next_date"
+        return 0
+    fi
+}
