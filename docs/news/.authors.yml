@@ -3,4 +3,7 @@ authors:
     name: Dennis Angemi
     description: Creator
     avatar: https://2.gravatar.com/avatar/50df7f79581e52d016a68ceb62a9e6c0e8fd0404f38c339b9170bd23e0d82146?size=512
-# https://pbs.twimg.com/profile_images/1466469160964272134/lKSTa674_400x400.jpg
+  hildegard:
+    name: Hildegard AI
+    description: Suggeritrice (automatica)
+    avatar: images/hildegard-ai-profile-pic.png
