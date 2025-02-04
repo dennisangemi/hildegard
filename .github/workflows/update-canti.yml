@@ -11,17 +11,34 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
-      uses: actions/checkout@v2
+
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    - name: Enviroment setup (mlr, jq, scikit-learn, pandas)
+    - name: Configure Git Credentials
+      run: |
+        git config user.name "suggeritore-automatico"
+        git config user.email "actions@users.noreply.github.com"
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.x
+  
+    - name: Setup uv
+      run: |
+        curl -LsSf https://astral.sh/uv/0.5.26/install.sh | sh
+        uv venv .venv
+        echo "VIRTUAL_ENV=.venv" >> $GITHUB_ENV
+        echo "$PWD/.venv/bin" >> $GITHUB_PATH
+
+    - name: Install dependencies (mlr, jq, scikit-learn, pandas)
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         chmod +x ~/bin/mlr
-        sudo pip install jq scikit-learn pandas
+        uv pip install jq scikit-learn pandas
 
     - name: Download database librettocanti.it
       shell: bash
@@ -37,8 +54,6 @@ jobs:
 
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
-        git config user.name "suggeritore-automatico"
-        git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date --iso-8601=seconds)
         git commit -m "Aggiornati i testi dei canti ${timestamp}" || exit 0

@@ -39,6 +39,12 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - run: pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging] mkdocs-table-reader-plugin mkdocs-glightbox
-      
+      - name: Setup uv
+        run: |
+          curl -LsSf https://astral.sh/uv/0.5.26/install.sh | sh
+          uv venv .venv
+          echo "VIRTUAL_ENV=.venv" >> $GITHUB_ENV
+          echo "$PWD/.venv/bin" >> $GITHUB_PATH
+
+      - run: uv pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging] mkdocs-table-reader-plugin mkdocs-glightbox
       - run: mkdocs gh-deploy --force
