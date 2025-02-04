@@ -25,6 +25,7 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 69 | Collu, Moro, Maxia |  |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 53 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
 | [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 40 | Gen Rosso | Se siamo uniti |
 | [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 32 | Marco Frisina | Tu sei bellezza |
 
@@ -32,8 +33,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 ### Ingresso
 
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza | % | Autore | Raccolta |
+| --- | --- | --- | --- | --- |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 53 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
 
 ### Offertorio
 
@@ -51,6 +53,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 69 | Collu, Moro, Maxia |  |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 53 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
 
 ## Note
 !!! warning "Attenzione"
