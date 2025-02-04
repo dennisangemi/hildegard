@@ -8,11 +8,12 @@ set -a
 source <(grep = scripts/config.ini)
 
 # importing functions
-source ./scripts/get_anagrafica
-source ./scripts/get_next_sunday
-source ./scripts/get_liturgia
-source ./scripts/convert_iso_to_extended_date
-source ./scripts/convert_iso_to_weekday
+source ./scripts/functions/get_anagrafica
+source ./scripts/functions/get_next_sunday
+source ./scripts/functions/get_next_mass_date
+source ./scripts/functions/get_liturgia
+source ./scripts/functions/convert_iso_to_extended_date
+source ./scripts/functions/convert_iso_to_weekday
 
 # crea cartella data se non esiste
 if [ ! -d "$PATH_DATA" ]; then
