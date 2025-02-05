@@ -1,6 +1,6 @@
 ---
 date:
-  created:
+  created: inserisci data nel formato YYYY-MM-DD
 authors:
   - hildegard
 categories:
@@ -21,5 +21,7 @@ breve descrizione del blog post (2-3 righe)
 # altro titolo
 
 contenuto del blog post
+
+invita a cliccare il seguente bottone per leggere lo schema degli ultimi suggerimenti
 
 [Gli ultimi suggerimenti :material-arrow-right:](../index.md){ .md-button }

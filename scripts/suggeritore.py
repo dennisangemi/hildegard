@@ -362,15 +362,18 @@ id_canti                                          titolo  score_text_similarity 
 
 
 # --------------------------------- export --------------------------------- #
-# export to csv
+
+### export to csv
+# probabilmente sarebbe meglio non salvare con latest ma con la data della liturgia
+# ragionare sul senso di tnere questo output completo in csv.
 output_df_path = 'data/suggerimenti-latest.csv'
-df[['id_canti','titolo', 'score_text_similarity','score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
+df[['id_canti','titolo', 'score_vector_similarity', 'score_text_similarity', 'score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
 
 # mantieni solo score >= THRESHOLD_MIN_SCORE
 df = df[df['score'] >= config.THRESHOLD_MIN_SCORE]
 df = df.reset_index(drop=True)
 
-### md
+### export to md per hildegard.it
 # crea una nuova colonna titolo_md che contenga il link al canto su librettocanti.it
 df['titolo_md'] = df.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
 
@@ -392,7 +395,8 @@ suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('
 # preview of the table md_res
 # print(df.head(20).drop(columns=['titolo_md']).fillna(''))
 
-# export data to json for canticristiani
+### export to json for canticristiani
+# forse michele usa data/suggeriti-top20-latest.json, capire
 json_cols = ['id_canti', 'text_similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
 
 df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
@@ -410,7 +414,8 @@ print("   data/suggeriti-offertorio-latest.json")
 print("   data/suggeriti-comunione-latest.json")
 print("   data/suggeriti-congedo-latest.json")
 
-## formatting data for hildegard website
+### formatting data for hildegard website
+# capires se si può stare in alto. Mi piacerebbe mantenere una sezione per export per hidlegard e un export per canticristiani
 # mapping columns
 md_cols = ['titolo_md', 'adeguatezza', 'score', 'autore', 'raccolta']
 md_cols_renamed = ['Titolo', 'Adeguatezza', '%' , 'Autore', 'Raccolta']

@@ -2,7 +2,7 @@
 
 # esporta le variabili d'ambiente
 set -a
-#set -x
+# set -x
 
 # import variables
 source <(grep = scripts/config.ini)
@@ -56,6 +56,8 @@ echo "✅ Individuata liturgia"
 
 # run suggeritore
 ./scripts/suggeritore.py "$liturgia_data_iso"
+
+# verificar la corretta esecuzione del suggeritore e di qualsiasi altro comando
 
 # build website homepage
 ./scripts/build_page

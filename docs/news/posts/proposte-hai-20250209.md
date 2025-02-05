@@ -8,7 +8,7 @@ categories:
 
 # "D'ora in poi sarai pescatore di uomini": suggerimenti per i canti del 9 febbraio 2025
 
-Ecco i nostri consueti suggerimenti settimanali per l'animazione liturgico-musicale della prossima domenica. In questo articolo troverai spunti e collegamenti tra le letture della liturgia e alcuni canti adatti.
+Ecco i nostri nuovi suggerimenti per animare la liturgia della V Domenica del Tempo Ordinario, che sarà celebrata il 9 febbraio 2025. Vedremo come le letture di questa domenica si intrecciano con alcuni canti che ci aiutano a meditare sul tema della chiamata e della sequela.
 
 <!-- more -->
 
@@ -18,62 +18,71 @@ Ecco i nostri consueti suggerimenti settimanali per l'animazione liturgico-music
 
 <br>
 
-La liturgia di domenica 9 febbraio 2025, V Domenica del Tempo Ordinario, ci offre spunti profondi di riflessione e di preghiera.
+Come ogni settimana, eccoci pronti a condividere alcune riflessioni e suggerimenti per l'animazione liturgico-musicale della prossima domenica.
 
-Il Vangelo di Luca (5, 1-11) narra la chiamata di Gesù a Simone e ai suoi compagni: *"Prendi il largo e gettate le vostre reti per la pesca"* e *"Non temere; d’ora in poi sarai pescatore di uomini"*. Un invito a fidarsi, a osare, a lasciare le proprie sicurezze per seguire una chiamata più grande.
+La liturgia del 9 febbraio 2025 ci presenta brani molto intensi. Nel Vangelo, Gesù chiama Simone e altri pescatori a seguirlo, dicendo: *"Non temere; d'ora in poi sarai pescatore di uomini"*. Questo invito trasforma radicalmente la loro vita, portandoli a lasciare tutto per seguirlo. Nella prima lettura, Isaia risponde alla chiamata del Signore con un generoso *"Eccomi, manda me!"*, dopo essere stato purificato dal peccato. San Paolo, nella seconda lettura, ricorda come anche lui, nonostante il suo passato di persecutore, è stato raggiunto dalla grazia di Dio e chiamato a predicare il Vangelo.
 
-Nella prima lettura, tratta dal libro del profeta Isaia (6, 1-2a.3-8), il profeta, pur sentendosi indegno, risponde con prontezza alla chiamata del Signore: *"Eccomi, manda me!"*. Un esempio di disponibilità e di coraggio.
+## Ascoltare la chiamata, rispondere con gioia
 
-Nella seconda lettura, dalla prima lettera di san Paolo apostolo ai Corinzi (15, 1-11), Paolo ricorda che *"Così predichiamo e così avete creduto"*, sottolineando l'importanza della fede e dell'annuncio del Vangelo.
+Il tema della chiamata è centrale in questa liturgia. Diversi canti possono aiutarci a riflettere su questo aspetto.
 
-## "Getta le tue reti": un invito a fidarsi
+### [Eccomi](https://www.librettocanti.it/canto/eccomi-185)
 
-Il canto [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) potrebbe essere particolarmente adatto per questa domenica. Il testo richiama direttamente il Vangelo:
+Questo canto di Marco Frisina esprime la disponibilità a rispondere alla chiamata del Signore. Mette in musica le parole del profeta Isaia che abbiamo ascoltato nella prima lettura.
 
-> (D) Getta le tue reti,
-> sulla mia parola;
-> non aver paura, io sarò con te.
-> Getta le tue reti, prendi il largo;
-> io ti renderò pescatore di uomini.
+> Eccomi, eccomi, Signore io vengo
+>
+> Eccomi, eccomi, si compia in me la tua volontà
 
-Queste parole riecheggiano l'invito di Gesù a Simone, un invito a fidarsi della sua parola anche quando sembra che non ci siano risultati immediati. Come Simone, anche noi siamo chiamati a *"gettare le nostre reti"* nella vita di tutti i giorni, confidando nella presenza del Signore.
+Queste parole riecheggiano l'offerta totale di sé che Isaia fa a Dio, un'offerta resa possibile dalla purificazione che il profeta ha ricevuto. Questo canto potrebbe accompagnare bene l'ingresso, sottolineando l'importanza di iniziare la celebrazione con un cuore aperto all'ascolto della volontà divina.
 
-## "Eccomi, manda me!": la risposta alla chiamata
+### [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999)
 
-Un altro canto che potrebbe essere preso in considerazione è [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999). Questo canto esprime bene il desiderio di seguire Gesù e di mettersi al suo servizio:
+Questo canto, più dinamico e moderno, richiama direttamente l'episodio evangelico della pesca miracolosa e della chiamata dei primi discepoli.
 
 > Prenderemo il largo dove vuoi tu
+>
 > navigando insieme a te, Gesù.
 
-Queste parole possono richiamare alla mente la risposta di Isaia: *"Eccomi, manda me!"*. Entrambi esprimono una volontà di mettersi in gioco, di rispondere alla chiamata del Signore con generosità e fiducia.
+Il testo ci ricorda che la vita cristiana è un'avventura da vivere insieme a Cristo, lasciandoci guidare da Lui anche quando non vediamo chiaramente la meta. Potrebbe essere un canto adatto per l'inizio della celebrazione, per infondere coraggio e fiducia. Oppure, data la sua natura "dinamica", potrebbe essere utilizzato come canto di congedo.
 
-## "Servo per amore": un'offerta di sé
+## "Sulla tua parola": fidarsi e affidarsi
 
-Il canto [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) potrebbe essere adatto per sottolineare l'importanza del servizio e dell'amore verso gli altri:
+La risposta di Simon Pietro alla richiesta di Gesù di gettare le reti è un atto di fede che apre alla possibilità del miracolo.
 
-> Offri la vita tua
-> come Maria ai piedi della croce,
-> e sarai
-> servo di ogni uomo,
-> servo per amore
+### [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564)
+
+Questo canto sottolinea l'importanza di fidarsi della parola del Signore, anche quando sembra che ogni sforzo sia vano.
+
+> Getta le tue reti, sulla mia parola;
+>
+> non aver paura, io sarò con te.
+
+Come Pietro, anche noi siamo chiamati a fidarci della parola di Gesù e a "gettare le nostre reti" nella vita di ogni giorno, sapendo che Lui è con noi. Questo canto si adatta particolarmente al momento della Comunione, quando riceviamo il Corpo di Cristo e rinnoviamo la nostra adesione a Lui.
+
+## Servire con amore
+
+La liturgia di questa domenica ci invita anche a riflettere sul significato del servizio.
+
+### [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423)
+
+Questo canto del Gen Rosso esprime l'impegno a servire gli altri sull'esempio di Gesù.
+
+> e sarai (tu sarai)
+>
+> servo di ogni uomo, (tu sarai)
+>
+> servo per amore (servo per amore)
+>
 > sacerdote dell’umanità.
 
-Questo canto, pur non essendo direttamente collegato alle letture, può aiutare a riflettere sul significato profondo della sequela di Cristo, che si traduce in un servizio umile e generoso verso i fratelli.
-
-## "Santo, Santo, Santo": innalziamo la nostra lode
-
-Infine, il canto [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) potrebbe essere utilizzato per lodare la santità di Dio, come fanno i serafini nella visione di Isaia:
-
-> Santo, santo, santo il Signore degli eserciti
-> tutta la terra è piena della sua gloria.
-
-Questo canto può creare un clima di adorazione e di lode, ricordandoci la grandezza e la maestà di Dio.
+Il brano può accompagnare il momento dell'offertorio, ricordando che la nostra offerta più grande è la nostra vita, donata per amore.
 
 ---
 
-Questi sono solo alcuni suggerimenti, naturalmente. La scelta dei canti più adatti dipenderà dal contesto specifico della vostra comunità e dalle vostre preferenze. Vi invito sempre a leggere attentamente le letture della liturgia e a confrontarvi con il vostro sacerdote per una scelta più consapevole.
+*Ricorda*: questi sono solo dei suggerimenti, generati automaticamente. È fondamentale leggere attentamente le letture della liturgia e confrontarsi con il sacerdote per scegliere i canti più adatti alla vostra comunità.
 
-Auguro a tutti gli animatori liturgici un buon servizio e un buon canto! Ricordate che la musica è un dono prezioso che può elevare le nostre preghiere e aiutarci a incontrare il Signore.
+Concludo augurando a tutti gli animatori liturgici un buon servizio e un buon canto! Che la musica possa elevare i nostri cuori a Dio e aiutarci a vivere pienamente la bellezza della liturgia.
 
 [Gli ultimi suggerimenti :material-arrow-right:](../index.md){ .md-button }
 
