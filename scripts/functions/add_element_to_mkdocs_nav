@@ -1,0 +1,50 @@
+add_element_to_mkdocs_nav() {
+    if [ $# -lt 3 ]; then
+        echo "Errore: argomenti mancanti"
+        echo "Utilizzo: add_element_to_mkdocs_nav <mkdocs_file> <anno> <elemento>"
+        return 1
+    fi
+
+    local mkdocs_file="$1"
+    local year="$2"
+    local new_entry="$3"
+    local temp_file="${mkdocs_file}.nav_temp"
+    local backup_file="${mkdocs_file}.backup_$(date +%s)"
+
+    # Crea backup
+    cp "$mkdocs_file" "$backup_file" || return 1
+
+    # Estrae e modifica SOLO la sezione nav
+    yq -y --arg year "$year" --arg new_entry "$new_entry" '
+    .nav |= map(
+        if has("Archivio") then
+            .Archivio |= (
+                if any(.[]; has($year)) then
+                    map(if has($year) then .[$year] += [$new_entry] else . end)
+                else
+                    . + [{ ($year): [$new_entry] }]
+                end
+            )
+        else
+            .
+        end
+    )' "$mkdocs_file" | yq -y '.nav' > "$temp_file"
+
+    # Sostituisce SOLO la sezione nav nel file originale
+    awk -v new_nav="$(cat "$temp_file")" '
+    BEGIN { in_nav=0; replaced=0 }
+    /^nav:/ { in_nav=1; print; next }
+    in_nav && /^[^ ]/ { in_nav=0 }
+    in_nav && !replaced { 
+        print new_nav
+        replaced=1
+        next
+    }
+    !in_nav { print }
+    ' "$mkdocs_file" > "${mkdocs_file}.tmp" && mv "${mkdocs_file}.tmp" "$mkdocs_file"
+
+    # Pulizia
+    rm "$temp_file"
+    rm "$backup_file"
+    echo "Modifica completata."
+}
