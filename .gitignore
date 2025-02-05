@@ -12,7 +12,6 @@ embeddings.md
 data/canti.csv
 data/canti.json
 .cache/
-docs/news/posts/ciao-hildegard.md
 docs/news/posts/proposte-bozza.md
 data/vector_similarities_raw_backup.csv
 prompt.md

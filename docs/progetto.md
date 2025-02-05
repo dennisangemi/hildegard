@@ -20,6 +20,8 @@ Hildegard (se preferite, Ildegarda di Bingen[^1]) fu una monaca benedettina che,
 Ogni settimana, l'algoritmo su cui si basa questo strumento confronta (stupidamente) la liturgia con i testi di circa 1500 canti raccolti online in [librettocanti.it](http://librettocanti.it/). Proprio perchè la procedura è automatizzata e non validata, è possibile che produca output irrilevanti e sbagliati. Ecco perchè consigliamo comunque di leggere la liturgia quando si utilizza Hildegard.
 
 ??? example "Scopri i dettagli"
+    Questa documentazione è vecchia: va aggiornata. Porta pazienza ;)
+    
     ## Introduzione
 
     Questa sezione descrive il funzionamento dello script Python [`suggeritore_v3.py`](https://github.com/dennisangemi/hildegard/blob/main/scripts/suggeritore_v3.py) progettato per suggerire canti liturgici basati sulla similarità con i testi della liturgia. Verranno indicati i criteri di selezione dei canti, le formule matematiche utilizzate per il calcolo della similarità e delle deviazioni, e le fonti dati impiegate.
