@@ -1,5 +1,35 @@
 #!/bin/bash
 
+# ----------------------------------------------------------------------------------- #
+# get_liturgia: This function retrieves the liturgy text for a given date.
+#
+# Usage:
+#   get_liturgia <date> <path_calendario_liturgico> <path_liturgie>
+#
+# Arguments:
+#   date: The date in the format YYYY-MM-DD (e.g., 2024-06-02)
+#   path_calendario_liturgico: The path to the calendario liturgico CSV file
+#   path_liturgie: The path to the folder containing the liturgy text files
+#
+# Outputs:
+#   The liturgy text is printed to the terminal stdout.
+#
+# Returns:
+#   0: If the function executes successfully
+#   1: If any error occurs (e.g., missing arguments, invalid date, file not found)
+#
+# Example:
+#   get_liturgia 2024-06-02 /path/to/calendario_liturgico.csv /path/to/liturgie
+#
+# Notes:
+#   - The function checks if all required inputs are provided.
+#   - It validates the date format.
+#   - It verifies the existence of the calendario liturgico file.
+#   - It filters the calendario liturgico CSV file to find the liturgy ID for the given date.
+#   - It constructs the filename for the liturgy text file and checks its existence.
+#   - It displays the liturgy text, removing any consecutive empty lines.
+# ----------------------------------------------------------------------------------- #
+
 get_liturgia() {
     # overview: this function will get the liturgy text for a given date
 

@@ -1,5 +1,28 @@
 #!/bin/bash
 
+# -------------------------------------------------------------------------------------------------- #
+# get_next_mass_date - Retrieves the nth mass date after a specified start date from a CSV file.
+#
+# Usage:
+#   get_next_mass_date <file_csv> <data_iso> <n>
+#
+# Arguments:
+#   file_csv  - Path to the CSV file containing mass dates.
+#   data_iso  - The start date in ISO format (YYYY-MM-DD).
+#   n         - The nth mass date to retrieve after the start date.
+#
+# Returns:
+#   The nth mass date after the specified start date if found, otherwise an error message.
+#
+# Example:
+#   get_next_mass_date masses.csv 2023-01-01 3
+#
+# Notes:
+#   - The CSV file must have a column named 'date' with dates in ISO format.
+#   - The script uses Miller (mlr) for CSV processing.
+#   - Ensure Miller is installed and available in the system PATH.
+# -------------------------------------------------------------------------------------------------- #
+
 get_next_mass_date() {
     local csv_file="$1"
     local start_date="$2"

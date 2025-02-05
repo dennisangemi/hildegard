@@ -1,5 +1,26 @@
 #!/bin/bash
 
+# -------------------------------------------------------------------------------------------------- #
+# Function: convert_iso_to_weekday
+# Description: Converts a date in ISO format (YYYY-MM-DD) to the corresponding weekday in Italian.
+# 
+# Usage:
+#   convert_iso_to_weekday <iso_date>
+#
+# Parameters:
+#   iso_date - The date in ISO format (YYYY-MM-DD).
+#
+# Output:
+#   Prints the corresponding weekday in Italian.
+#
+# Example:
+#   convert_iso_to_weekday "2024-06-28"
+#   # Output: Venerdì
+#
+# Note:
+#   The function uses the `date` command to determine the weekday in English and then maps it to Italian.
+# -------------------------------------------------------------------------------------------------- #
+
 convert_iso_to_weekday() {
    # input: data in formato ISO (YYYY-MM-DD)
    # output: giorno della settimana in italiano

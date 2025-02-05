@@ -1,5 +1,27 @@
 #!/bin/bash
 
+# -------------------------------------------------------------------------------------------------- #
+# Function: convert_iso_to_extended_date
+# Description: Converts a date from ISO format (YYYY-MM-DD) to extended Italian format (DD mese YYYY).
+# 
+# Usage:
+#   convert_iso_to_extended_date <ISO_date>
+# 
+# Arguments:
+#   ISO_date - A date in ISO format (YYYY-MM-DD).
+# 
+# Output:
+#   Prints the date in extended Italian format (DD mese YYYY).
+# 
+# Example:
+#   $ convert_iso_to_extended_date 2023-10-05
+#   5 ottobre 2023
+# 
+# Notes:
+#   - The function accepts a single argument which is the date in ISO format.
+#   - The function will print an error message and exit if the month is not valid.
+# -------------------------------------------------------------------------------------------------- #
+
 convert_iso_to_extended_date() {
   # input: data in formato ISO (YYYY-MM-DD)
   # output: data estesa in italiano (DD mese YYYY)
