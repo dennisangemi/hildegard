@@ -1,3 +1,25 @@
+#!/bin/bash
+
+# ------------------------------------------------------------------------------------------------------------------------ #
+# Function: add_element_to_mkdocs_nav
+# Description: This function adds a new entry to the 'nav' section of a MkDocs YAML configuration file.
+#              It specifically targets the 'Archivio' section within 'nav' and adds the new entry under the specified year.
+#              If the year does not exist, it creates a new entry for that year.
+# Parameters:
+#   - mkdocs_file: The path to the MkDocs YAML configuration file.
+#   - year: The year under which the new entry should be added.
+#   - new_entry: The new entry to be added under the specified year.
+# Usage:
+#   add_element_to_mkdocs_nav <mkdocs_file> <anno> <elemento>
+# Example:
+#   add_element_to_mkdocs_nav mkdocs.yml 2023 "New Entry"
+# Notes:
+#   - The function creates a backup of the original MkDocs file before making any changes.
+#   - It uses the 'yq' tool to parse and modify the YAML content.
+#   - Only the 'nav' section of the MkDocs file is modified.
+#   - Temporary files are created and cleaned up during the process.
+# ------------------------------------------------------------------------------------------------------------------------ #
+
 add_element_to_mkdocs_nav() {
     if [ $# -lt 3 ]; then
         echo "Errore: argomenti mancanti"
