@@ -2,7 +2,7 @@
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 ### Il suggeritore di canti liturgici
 
-Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Fai click qui!](https://dennisangemi.github.io/hildegard/)
+Ti interessano i canti consigliati e più adatti per la liturgia della prossima domenica? [Consulta l'homepage di hildegard.it!](https://dennisangemi.github.io/hildegard/)
 
 ## Set up
 Clone/download this repo
