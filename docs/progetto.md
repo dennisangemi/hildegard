@@ -12,7 +12,7 @@ Hildegard è un suggeritore di canti liturgici. Chiunque si sia occupatə di ani
 [Gli ultimi suggerimenti :material-arrow-right:](index.md){ .md-button }
 
 ## Il nome
-Hildegard von (se preferite, Ildegarda di Bingen[^1]) fu una monaca benedettina che, tra le numerose attività, fu anche compositrice di musica sacra. Diamo a questo strumento il suo nome non solo per celebrare l'incanto della sua opera musicale[^2], ma anche per omaggiare i contributi (spesso dimenticati) delle donne alla musica.
+Hildegard von Bingen (se preferite, Ildegarda di Bingen[^1]) fu una monaca benedettina che, tra le numerose attività, fu anche compositrice di musica sacra. Diamo a questo strumento il suo nome non solo per celebrare l'incanto della sua opera musicale[^2], ma anche per omaggiare i contributi (spesso dimenticati) delle donne alla musica.
 
 [Scopri di più :material-arrow-right:](https://it.wikipedia.org/wiki/Ildegarda_di_Bingen){ .md-button }
 
