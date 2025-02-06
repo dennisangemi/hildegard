@@ -17,31 +17,33 @@ function get_hai_prompt {
     local date=$1
     local liturgical_calendar_csv=$2
     local liturgical_texts_folder=$3
-    local titles_csv=$4
+    local all_csv=$4
     local ingresso_csv=$5
     local offertorio_csv=$6
     local comunione_csv=$7
     local congedo_csv=$8
 
     # check if all the inputs are provided and print usage
-    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$titles_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ]; then
-        echo "Usage: get_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <titles_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv>"
+    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$all_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ]; then
+        echo "Usage: get_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <all_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv>"
         echo "Example: get_hai_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv"
         return 1
     fi
 
-    # Example of how you might process the inputs and build the prompt
-    # This is a placeholder for the actual implementation
+    # import get_raw_liturgia function
+    source ./scripts/functions/get_raw_liturgia || \
+    { echo "Error: Failed to load get_raw_liturgia function"; return 1; }
 
     # Read liturgical information
-    liturgical_info=$(grep "$date" "$liturgical_calendar_csv")
+    liturgical_info=$(grep "$date" "$liturgical_calendar_csv") || \
+    { echo "Error: Failed to extract liturgical information for $date"; return 1; }
 
     # Read liturgy text
-    source ./scripts/functions/get_raw_liturgia
-    liturgy_text=$(get_raw_liturgia "$date" "$liturgical_calendar_csv" "$liturgical_texts_folder")
+    liturgy_text=$(get_raw_liturgia "$date" "$liturgical_calendar_csv" "$liturgical_texts_folder") || \
+    { echo "Error: get_raw_liturgia execution failed to extract liturgy text for $date"; return 1; }
 
     # read all suggested songs
-    titles=$(cat "$titles_csv")
+    titles=$(cat "$all_csv")
 
     # Read ingresso, offertorio, comunione, and congedo
     ingresso=$(cat "$ingresso_csv")
