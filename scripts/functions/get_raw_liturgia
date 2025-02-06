@@ -1,0 +1,82 @@
+#!/bin/bash
+
+# ----------------------------------------------------------------------------------- #
+# get_liturgia: This function retrieves the liturgy text for a given date.
+#
+# Usage:
+#   get_liturgia <date> <path_calendario_liturgico> <path_liturgie>
+#
+# Arguments:
+#   date: The date in the format YYYY-MM-DD (e.g., 2024-06-02)
+#   path_calendario_liturgico: The path to the calendario liturgico CSV file
+#   path_liturgie: The path to the folder containing the liturgy text files
+#
+# Outputs:
+#   The liturgy raw text is printed to the terminal stdout.
+#
+# Returns:
+#   0: If the function executes successfully
+#   1: If any error occurs (e.g., missing arguments, invalid date, file not found)
+#
+# Example:
+#   get_liturgia 2024-06-02 /path/to/calendario_liturgico.csv /path/to/liturgie
+#
+# Notes:
+#   - The function checks if all required inputs are provided.
+#   - It validates the date format.
+#   - It verifies the existence of the calendario liturgico file.
+#   - It filters the calendario liturgico CSV file to find the liturgy ID for the given date.
+#   - It constructs the filename for the liturgy text file and checks its existence.
+#   - It displays the liturgy text, removing any consecutive empty lines.
+# ----------------------------------------------------------------------------------- #
+
+get_raw_liturgia() {
+    # check if all the inputs are provided
+    if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ]; then
+        echo "❌ ${FUNCNAME[0]}: Missing arguments" >&2
+        echo "Please provide the date in the format YYYY-MM-DD (e.g. ${FUNCNAME[0]} 2024-06-02)" >&2
+        echo "Please provide the path to the calendario liturgico csv file" >&2
+        echo "Please provide the path to the liturgie folder" >&2
+        return 1
+    fi
+
+    # check date
+    if ! date -d $1 > /dev/null 2>&1; then
+        echo "❌ ${FUNCNAME[0]}: Please provide a valid date in the format YYYY-MM-DD (e.g., ${FUNCNAME[0]} 2024-06-02)" >&2
+        return 1
+    fi
+
+    liturgia_data_iso=$1
+    path_calendario_liturgico=$2
+    path_liturgie=$3
+
+
+
+    # se $path_calendario_liturgico non esiste, ritorna errore
+    if [ ! -f $path_calendario_liturgico ]; then
+        echo "❌ ${FUNCNAME[0]}: File $path_calendario_liturgico not found" >&2
+        return 1
+    fi
+
+    # filtra con miller usando $liturgia_data_iso come data
+    id_liturgia=$(mlr --csv filter '$date == "'"$liturgia_data_iso"'"' "$path_calendario_liturgico" | mlr --csv cut -f id_liturgia | mlr --c2n cat)
+
+    # se non trova l'id della liturgia, ritorna errore
+    if [ -z "$id_liturgia" ]; then
+        echo "❌ ${FUNCNAME[0]}: Liturgia not found" >&2
+        return 1
+    fi
+
+    # build filename_liturgia usando questa logica $path_liturgie/$id_liturgia.txt
+    filename_liturgia=$path_liturgie/$id_liturgia.txt
+
+    # se $path_liturgie/$id_liturgia.txt non esiste, ritorna errore
+    if [ ! -f "$filename_liturgia" ]; then
+        echo "❌ ${FUNCNAME[0]}: File "$filename_liturgia" not found" >&2
+        return 1
+    fi
+
+    # display text and remove more than one empty line
+    cat $filename_liturgia | sed '/^$/N;/^\n$/D'
+
+}

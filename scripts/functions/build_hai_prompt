@@ -1,0 +1,79 @@
+#!/bin/bash
+
+# Funzione sfruttata per la creazione del prompt per la generazione automatica dei blog post di hildegard_ai
+# Argomenti:
+# - date in the format YYYY-MM-DD (e.g., 2024-06-02) | required by get_liturgia
+# - path del calendario liturgico csv file | required by get_liturgia
+# - path della cartella contenente i file di testo delle liturgie | required by get_liturgia
+# - path al csv con titoli md di tutti i canti
+# - path al csv per ingresso
+# - path al csv per offertorio
+# - path al csv per comunione
+# - path al csv per congedo
+# - path del file md di output contenente il prompt da far leggere a llm
+# Usage (esempio funzionante):
+# build_hai_prompt 2025-02-09 data/calendari_liturgici/calendario_2019-2050.csv risorse/lezionari/liturgie data/suggeriti-top20-latest.csv data/suggeriti-ingresso-latest.csv data/suggeriti-offertorio-latest.csv data/suggeriti-comunione-latest.csv data/suggeriti-congedo-latest.csv test_hai_prompt.md
+
+function build_hai_prompt {
+    local date=$1
+    local liturgical_calendar_csv=$2
+    local liturgical_texts_folder=$3
+    local titles_csv=$4
+    local ingresso_csv=$5
+    local offertorio_csv=$6
+    local comunione_csv=$7
+    local congedo_csv=$8
+    local output_md=$9
+
+    # check if all the inputs are provided and print usage
+    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$titles_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ] || [ -z "$output_md" ]; then
+        echo "Usage: build_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <titles_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv> <output_md>"
+        echo "Example: build_hai_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv data/prompt.md"
+        return 1
+    fi
+
+    # Example of how you might process the inputs and build the prompt
+    # This is a placeholder for the actual implementation
+
+    # Read liturgical information
+    liturgical_info=$(grep "$date" "$liturgical_calendar_csv")
+
+    # Read liturgy text
+    source ./scripts/functions/get_raw_liturgia
+    liturgy_text=$(get_raw_liturgia "$date" "$liturgical_calendar_csv" "$liturgical_texts_folder")
+
+    # read all suggested songs
+    titles=$(cat "$titles_csv")
+
+    # Read ingresso, offertorio, comunione, and congedo
+    ingresso=$(cat "$ingresso_csv")
+    offertorio=$(cat "$offertorio_csv")
+    comunione=$(cat "$comunione_csv")
+    congedo=$(cat "$congedo_csv")
+
+    # Combine all information into the output markdown file
+    {
+        echo "# data $date"
+        echo ""
+        echo "## Informazioni sulla liturgia"
+        echo "$liturgical_info"
+        echo ""
+        echo "## Testo della liturgia"
+        echo "$liturgy_text"
+        echo ""
+        echo "## tutti i canti suggeriti"
+        echo "$titles"
+        echo ""
+        echo "## canti per Ingresso"
+        echo "$ingresso"
+        echo ""
+        echo "## canti per Offertorio"
+        echo "$offertorio"
+        echo ""
+        echo "## canti per Comunione"
+        echo "$comunione"
+        echo ""
+        echo "## canti per Congedo"
+        echo "$congedo"
+    } > "$output_md"
+}
