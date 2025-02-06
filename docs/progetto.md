@@ -137,6 +137,8 @@ Senza il lavoro straordinario di Michele Mammini, che ha sviluppato [librettocan
 
 [Apri librettocanti.it :material-arrow-right:](https://www.librettocanti.it/){ .md-button }
 
+A hildegard.it hanno contribuito pure, in diversi modi, Rosanna Polillo e Maria Rita Messina. A loro va un altro grazie!
+
 ## Contatti e segnalazioni
 Se trovi degli errori o ti vuoi mettere in contatto con chi ha sviluppato questo strumento, scrivi una mail a Dennis Angemi usando questo indirizzo: [dennisangemi@gmail.com](mailto:dennisangemi@gmail.com)
 
