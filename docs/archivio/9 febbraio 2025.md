@@ -6,9 +6,11 @@ Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente da
 | --- | --- | --- | --- | --- |
 | [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 72 | Collu, Moro, Maxia |  |
 | [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 57 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 47 | Pierangelo Sequeri | In cerca d'autore |
 | [Eccomi](https://www.librettocanti.it/canto/eccomi-185) | :material-check: Buona | 45 | Marco Frisina  | Non temere |
 | [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 41 | Marco Frisina | Tu sei bellezza |
 | [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 40 | Gen Rosso | Se siamo uniti |
+| [Come Tu mi vuoi](https://www.librettocanti.it/canto/come-tu-mi-vuoi-137) | :material-check: Buona | 39 | RnS - D.Branca | Io scelgo Te |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -17,6 +19,7 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 57 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 47 | Pierangelo Sequeri | In cerca d'autore |
 | [Eccomi](https://www.librettocanti.it/canto/eccomi-185) | :material-check: Buona | 45 | Marco Frisina  | Non temere |
 
 ### Offertorio
@@ -29,7 +32,9 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 72 | Collu, Moro, Maxia |  |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 47 | Pierangelo Sequeri | In cerca d'autore |
 | [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 41 | Marco Frisina | Tu sei bellezza |
+| [Come Tu mi vuoi](https://www.librettocanti.it/canto/come-tu-mi-vuoi-137) | :material-check: Buona | 39 | RnS - D.Branca | Io scelgo Te |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
