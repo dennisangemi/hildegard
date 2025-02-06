@@ -23,12 +23,11 @@ function build_hai_prompt {
     local offertorio_csv=$6
     local comunione_csv=$7
     local congedo_csv=$8
-    local output_md=$9
 
     # check if all the inputs are provided and print usage
-    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$titles_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ] || [ -z "$output_md" ]; then
-        echo "Usage: build_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <titles_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv> <output_md>"
-        echo "Example: build_hai_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv data/prompt.md"
+    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$titles_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ]; then
+        echo "Usage: build_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <titles_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv>"
+        echo "Example: build_hai_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv"
         return 1
     fi
 
@@ -51,7 +50,7 @@ function build_hai_prompt {
     comunione=$(cat "$comunione_csv")
     congedo=$(cat "$congedo_csv")
 
-    # Combine all information into the output markdown file
+    # Combine all information into the stdout
     {
         echo "# data $date"
         echo ""
@@ -75,5 +74,5 @@ function build_hai_prompt {
         echo ""
         echo "## canti per Congedo"
         echo "$congedo"
-    } > "$output_md"
+    }
 }
