@@ -9,25 +9,22 @@
 # - path alla cartella con i testi dei canti  | required by get_local_text_by_id_canti
 # - path al csv con i canti consigliati da cui estrarre colonna id_canti e ciclare per stampare i testi
 # - soglia minima da considerare per filtrare il csv dei canti consigliati
-# - path al file di output
+# - path al file di output da creare
 # Esempio:
-# build_hai_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-YYYYMMDD.csv test_hai_attachment.md
+# Example: build_hai_suggestions_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-20250209.csv 40 test_hai_attachment.md
+# ---------------------------------------------------------------------------------------------------- #
 
-# test
-# threshold=40
-# suggested_csv_path="data/suggerimenti-20250209.csv"
-
-build_hai_attachment()
+build_hai_suggestions_attachment()
 {
     # check $1, $2, $3, $4, $5 not empty
     if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ] || [ -z "$5" ]; then
         echo "Error: missing input"
-        echo "Usage: build_hai_attachment <path_to_template> <path_to_lyrics_folder> <path_to_suggested_songs_csv> <threshold> <output_file>"
-        echo "Example: build_hai_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-20250209.csv 40 test_hai_attachment.md"
+        echo "Usage: build_hai_suggestions_attachment <path_to_template> <path_to_lyrics_folder> <path_to_suggested_songs_csv> <threshold> <output_file>"
+        echo "Example: build_hai_suggestions_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-20250209.csv 40 test_hai_attachment.md"
         return 1
     else
         template_path=$1
-        lytics_dsfsfolder_path=$2
+        lyrics_folder_path=$2
         suggested_csv_path=$3
         threshold=$4
         output_file=$5
@@ -51,14 +48,15 @@ build_hai_attachment()
     echo "" >> "$output_file"
     echo "<template>" >> "$output_file"
     cat "$template_path" >> "$output_file"
+    echo "" >> "$output_file"
     echo "</template>" >> "$output_file"
     echo "" >> "$output_file"
 
     # obtain the list of suggested ids and titles
     suggested_ids=$(< "$suggested_csv_path" mlr --csv --headerless-csv-output filter '$score >= '"$threshold"'' then cut -f id_canti) || \
-    { echo "Error: Failed to extract suggested ids from $suggested_csv_path"; return 1; }
+    { echo "Error: Failed to extract suggested ids from $suggested_csv_path"; rm "$output_file"; return 1; }
     suggested_titles=$(< "$suggested_csv_path" mlr --csv --headerless-csv-output filter '$score >= '"$threshold"'' then cut -f titolo) || \
-    { echo "Error: Failed to extract suggested titles from $suggested_csv_path"; return 1; }
+    { echo "Error: Failed to extract suggested titles from $suggested_csv_path"; rm "$output_file"; return 1; }
     
     # transform suggestd_ids and suggested_titles into arrays
     IFS=$'\n' read -d '' -r -a suggested_ids_array <<< "$suggested_ids"
@@ -72,7 +70,7 @@ build_hai_attachment()
         # add title and lyrics to the output file
         echo "# Testo di $title" >> "$output_file"
         text=$(get_local_text_by_id_canti "$id" "$lyrics_folder_path") || \
-        { echo "Error: Failed to get text for id $id"; return 1; }
+        { echo "Error: Failed to get text for id $id"; rm "$output_file"; return 1; }
         echo "$text" >> "$output_file"
         echo "" >> "$output_file"
     done
@@ -80,6 +78,3 @@ build_hai_attachment()
     echo "Attachment file created: $output_file"
 }
     
-
-
-

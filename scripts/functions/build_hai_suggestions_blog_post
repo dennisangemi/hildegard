@@ -1,0 +1,74 @@
+#!/bin/bash
+
+# ---------------------------------------------------------------------------------------------------- #
+# funzione bash che prende in input i parametri necessari per generare il blog post tramite ai
+# e lo stampa a schermo.
+#
+# Usage:
+# build_hai_suggestions_blog_post <date> <liturgical_calendar_csv> <liturgical_texts_folder> <all_csv_md> <ingresso_csv_md> <offertorio_csv_md> <comunione_csv_md> <congedo_csv_md> <hai_suggestions_blog_post_template> <lyrics_folder> <suggested_raw_csv> <threshold> <attachment_file> <llm_model> <system_prompt_file>
+#
+# Working example:
+# build_hai_suggestions_blog_post 2025-02-09 data/calendari_liturgici/calendario_2019-2050.csv risorse/lezionari/liturgie data/suggeriti-top20-latest.csv data/suggeriti-ingresso-latest.csv data/suggeriti-offertorio-latest.csv data/suggeriti-comunione-latest.csv data/suggeriti-congedo-latest.csv useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-20250209.csv 40 test_hai_attachment.md gemini-2.0-flash-exp useful-files/hai-suggestions-system-prompt.txt
+# ---------------------------------------------------------------------------------------------------- #
+
+function build_hai_suggestions_blog_post {
+    local date=$1
+    local liturgical_calendar_csv=$2
+    local liturgical_texts_folder=$3
+    local all_csv_md=$4
+    local ingresso_csv_md=$5
+    local offertorio_csv_md=$6
+    local comunione_csv_md=$7
+    local congedo_csv_md=$8
+    local hai_suggestions_blog_post_template=$9
+    local lyrics_folder=${10}
+    local suggested_raw_csv=${11}
+    local threshold=${12}
+    local attachment_file=${13}
+    local llm_model=${14}
+    local system_prompt_file=${15}
+
+    # check if all the inputs are provided and print usage
+    if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$all_csv_md" ] || [ -z "$ingresso_csv_md" ] || [ -z "$offertorio_csv_md" ] || [ -z "$comunione_csv_md" ] || [ -z "$congedo_csv_md" ] || [ -z "$hai_suggestions_blog_post_template" ] || [ -z "$lyrics_folder" ] || [ -z "$suggested_raw_csv" ] || [ -z "$threshold" ] || [ -z "$attachment_file" ] || [ -z "$llm_model" ] || [ -z "$system_prompt_file" ]; then
+        echo "Usage: build_hai_suggestions_blog_post <date> <liturgical_calendar_csv> <liturgical_texts_folder> <all_csv_md> <ingresso_csv_md> <offertorio_csv_md> <comunione_csv_md> <congedo_csv_md> <hai_suggestions_blog_post_template> <lyrics_folder> <suggested_raw_csv> <threshold> <attachment_file> <llm_model> <system_prompt_file>"
+        echo "Example: build_hai_suggestions_blog_post 2025-02-09 data/calendari_liturgici/calendario_2019-2050.csv risorse/lezionari/liturgie data/suggeriti-top20-latest.csv data/suggeriti-ingresso-latest.csv data/suggeriti-offertorio-latest.csv data/suggeriti-comunione-latest.csv data/suggeriti-congedo-latest.csv useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-20250209.csv 40 test_hai_attachment.md gemini-2.0-flash-exp useful-files/hai-suggestions-system-prompt.txt"
+    fi
+
+    # check if system_prompt_file exists
+    if [ ! -f "$system_prompt_file" ]; then
+        echo "Error: File $system_prompt_file not found"
+        return 1
+    fi
+
+    # read the system prompt
+    system_prompt=$(< "$system_prompt_file")
+
+    # import get_hai_suggestions_prompt function
+    source ./scripts/functions/get_hai_suggestions_prompt || \
+    { echo "Error: Failed to load get_hai_suggestions_prompt function"; return 1; }
+
+    # import build_hai_suggestions_attachment function
+    source ./scripts/functions/build_hai_suggestions_attachment || \
+    { echo "Error: Failed to load build_hai_suggestions_attachment function"; return 1; }
+
+    # generate the prompt
+    prompt=$(get_hai_suggestions_prompt $date $liturgical_calendar_csv $liturgical_texts_folder $all_csv_md $ingresso_csv_md $offertorio_csv_md $comunione_csv_md $congedo_csv_md) || \
+    { echo "Error: Failed to generate the prompt"; return 1; }
+
+    # generate the attachment and hide the output
+    build_hai_suggestions_attachment $hai_suggestions_blog_post_template $lyrics_folder $suggested_raw_csv $threshold $attachment_file > /dev/null 2>&1 || \
+    { echo "Error: Failed to generate the attachment"; return 1; }
+
+    # invoke llm with the prompt and attachment
+    response=$(echo "$prompt" | \
+    llm -x \
+    -m $llm_model \
+    -o temperature 0.45 \
+    -s "$system_prompt" \
+    -a $attachment_file) || \
+    { echo "Error: Failed to generate the llm response"; return 1; }
+    echo "$response"
+
+    # rm the attachment file
+    rm $attachment_file
+}

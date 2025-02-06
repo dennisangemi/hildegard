@@ -14,7 +14,7 @@ breve descrizione del blog post (2-3 righe)
 
 !!! asterisk "AI generated content"
 
-    Il contenuto di questo post è generato da un servizio di Intelligenza Artificiale (Gemini): le informazioni di questa pagina potrebbero non essere accurate.
+    Questo post è generato da un'IA. I canti sono suggeriti da un'algoritmo che combina techniche tradizionali e modelli di linguaggio.
 
 <br>
 

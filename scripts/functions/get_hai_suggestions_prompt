@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# ---------------------------------------------------------------------------------------------------- #
 # Funzione sfruttata per la creazione del prompt per la generazione automatica dei blog post di hildegard_ai
 # Argomenti:
 # - date in the format YYYY-MM-DD (e.g., 2024-06-02) | required by get_liturgia
@@ -11,9 +12,10 @@
 # - path al csv per comunione
 # - path al csv per congedo
 # Usage (esempio funzionante):
-# get_hai_prompt 2025-02-09 data/calendari_liturgici/calendario_2019-2050.csv risorse/lezionari/liturgie data/suggeriti-top20-latest.csv data/suggeriti-ingresso-latest.csv data/suggeriti-offertorio-latest.csv data/suggeriti-comunione-latest.csv data/suggeriti-congedo-latest.csv test_hai_prompt.md
+# get_hai_suggestions_prompt 2025-02-09 data/calendari_liturgici/calendario_2019-2050.csv risorse/lezionari/liturgie data/suggeriti-top20-latest.csv data/suggeriti-ingresso-latest.csv data/suggeriti-offertorio-latest.csv data/suggeriti-comunione-latest.csv data/suggeriti-congedo-latest.csv test_hai_prompt.md
+# ---------------------------------------------------------------------------------------------------- #
 
-function get_hai_prompt {
+function get_hai_suggestions_prompt {
     local date=$1
     local liturgical_calendar_csv=$2
     local liturgical_texts_folder=$3
@@ -25,8 +27,8 @@ function get_hai_prompt {
 
     # check if all the inputs are provided and print usage
     if [ -z "$date" ] || [ -z "$liturgical_calendar_csv" ] || [ -z "$liturgical_texts_folder" ] || [ -z "$all_csv" ] || [ -z "$ingresso_csv" ] || [ -z "$offertorio_csv" ] || [ -z "$comunione_csv" ] || [ -z "$congedo_csv" ]; then
-        echo "Usage: get_hai_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <all_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv>"
-        echo "Example: get_hai_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv"
+        echo "Usage: get_hai_suggestions_prompt <date> <liturgical_calendar_csv> <liturgical_texts_folder> <all_csv> <ingresso_csv> <offertorio_csv> <comunione_csv> <congedo_csv>"
+        echo "Example: get_hai_suggestions_prompt 2024-06-02 data/calendario_liturgico.csv data/liturgie data/anagrafica_canti.csv data/ingresso.csv data/offertorio.csv data/comunione.csv data/congedo.csv"
         return 1
     fi
 
