@@ -1,0 +1,54 @@
+#!/bin/bash
+
+### WIP: INCOMPLETE FUNCTION ###
+
+# ---------------------------------------------------------------------------------------------------- #
+# Usa get_local_text_by_id_canti per ottenere il testo del canto con id uguale all'input
+# Argomenti:
+# - path al template del blog post hai
+# - path alla cartella con i testi dei canti  | required by get_local_text_by_id_canti
+# - path al csv con i canti consigliati da cui estrarre colonna id_canti e ciclare per stampare i testi
+# - soglia minima da considerare per filtrare il csv dei canti consigliati
+# - path al file di output
+# Esempio:
+# build_hai_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-YYYYMMDD.csv test_hai_attachment.md
+
+build_hai_attachment()
+{
+    # check $1, $2, $3, $4, $5 not empty
+    if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ] || [ -z "$5" ]; then
+        echo "Error: missing input"
+        echo "Usage: build_hai_attachment <path_to_template> <path_to_lyrics_folder> <path_to_suggested_songs_csv> <threshold> <output_file>"
+        echo "Example: build_hai_attachment useful-files/template-blog-post-hai.md risorse/canti data/suggerimenti-YYYYMMDD.csv 0.5 test_hai_attachment.md"
+        return 1
+    fi
+
+    # read the template
+    template=$(cat "$1")
+
+    # read the threshold
+    threshold=$4
+
+    # read the suggested songs
+    # suggested_songs=$(cat "$3")
+    # obtain the list of suggested songs
+    path_csv=$3
+    # check if the file exists
+    if [ ! -f "$path_csv" ]; then
+        echo "Error: File $path_csv not found"
+        return 1
+    else 
+        # read the file
+        suggested_ids=$(< "$path_csv" mlr --csv --headerless-csv-output filter '$score >= '"$threshold"'' then cut -f id_canti)
+    fi
+
+    # read the output file
+    output_file=$5
+
+    # con mlr prendere pure il titolo del canto e stamparlo negli attachment
+
+    # use get_local_text_by_id_canti to get the text of each song on suggested_ids
+    for id in $suggested_ids; do
+        text=$(get_local_text_by_id_canti "$id" "$2")
+        # append the text to the attachment
+    done
