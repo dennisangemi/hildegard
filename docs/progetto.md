@@ -12,7 +12,7 @@ Hildegard è un suggeritore di canti liturgici. Chiunque si sia occupatə di ani
 [Gli ultimi suggerimenti :material-arrow-right:](index.md){ .md-button }
 
 ## Il nome
-Hildegard (se preferite, Ildegarda di Bingen[^1]) fu una monaca benedettina che, tra le numerose attività, fu anche compositrice di musica sacra. Diamo a questo strumento il suo nome non solo per celebrare l'incanto della sua opera musicale[^2], ma anche per omaggiare i contributi (spesso dimenticati) delle donne alla musica.
+Hildegard von (se preferite, Ildegarda di Bingen[^1]) fu una monaca benedettina che, tra le numerose attività, fu anche compositrice di musica sacra. Diamo a questo strumento il suo nome non solo per celebrare l'incanto della sua opera musicale[^2], ma anche per omaggiare i contributi (spesso dimenticati) delle donne alla musica.
 
 [Scopri di più :material-arrow-right:](https://it.wikipedia.org/wiki/Ildegarda_di_Bingen){ .md-button }
 
@@ -137,10 +137,10 @@ Senza il lavoro straordinario di Michele Mammini, che ha sviluppato [librettocan
 
 [Apri librettocanti.it :material-arrow-right:](https://www.librettocanti.it/){ .md-button }
 
-A hildegard.it hanno contribuito pure, in diversi modi, Rosanna Polillo e Maria Rita Messina. A loro va un altro grazie!
+A [hildegard.it](https://hildegard.it) hanno contribuito pure, in diversi modi, Rosanna Polillo e Maria Rita Messina. A loro va un altro grazie!
 
 ## Contatti e segnalazioni
 Se trovi degli errori o ti vuoi mettere in contatto con chi ha sviluppato questo strumento, scrivi una mail a Dennis Angemi usando questo indirizzo: [dennisangemi@gmail.com](mailto:dennisangemi@gmail.com)
 
-[^1]: [Questa](https://it.wikipedia.org/wiki/Ildegarda_di_Bingen) è la sua pagina Wikipedia 
-[^2]: [Qui](https://www.youtube.com/watch?v=HYzPR0nwcmY) un esempio
+[^1]: [Consulta la pagina wikipedia dedicata Hildegard von Bingen ](https://it.wikipedia.org/wiki/Ildegarda_di_Bingen)
+[^2]: [Ascolta uno dei brani che ha composto (De Spiritu Sancto)](https://www.youtube.com/watch?v=HYzPR0nwcmY)
