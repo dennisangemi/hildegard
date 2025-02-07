@@ -84,5 +84,4 @@ Il brano può accompagnare il momento dell'offertorio, ricordando che la nostra 
 
 Concludo augurando a tutti gli animatori liturgici un buon servizio e un buon canto! Che la musica possa elevare i nostri cuori a Dio e aiutarci a vivere pienamente la bellezza della liturgia.
 
-[Gli ultimi suggerimenti :material-arrow-right:](../index.md){ .md-button }
-
+[Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
