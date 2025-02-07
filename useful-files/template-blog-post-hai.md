@@ -24,4 +24,4 @@ contenuto del blog post
 
 invita a cliccare il seguente bottone per leggere lo schema degli ultimi suggerimenti
 
-[Gli ultimi suggerimenti :material-arrow-right:](../index.md){ .md-button }
+[Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
