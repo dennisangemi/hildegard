@@ -67,7 +67,7 @@ print("📊 Calcolo la media normalizzata per ogni canto...")
 max_text_similarity = df['text_similarity'].max()
 
 # normalize text_similarity
-df['text_similarity'] = df['text_similarity'] / max_text_similarity
+# df['text_similarity'] = df['text_similarity'] / max_text_similarity
 
 # Calcolo della media e del massimo della colonna 'text_similarity' per ogni 'id_canti'
 df = df.groupby('id_canti')['text_similarity'].agg(['mean', 'max']).reset_index()
