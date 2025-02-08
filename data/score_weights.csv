@@ -1,6 +1,6 @@
 metric,description,weight
 text_similarity,similarità calcolata con get_text_similarity,2.5
-vector_similarity,similarità ottenuta dalla distanza vettoriale degli embeddings,1
+vector_similarity,similarità ottenuta dalla distanza vettoriale degli embeddings,2
 deviation,scarto della similarità dalla media,2
-history,numero di volte che un canto è stato suonato according to canticristiani,2.5
-selection,accuratezza manualmente selezionata dal db manually selected,5
+history,numero di volte che un canto è stato suonato according to canticristiani,3.5
+selection,accuratezza manualmente selezionata dal db manually selected,10

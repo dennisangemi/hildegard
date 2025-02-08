@@ -17,6 +17,7 @@ source ./scripts/functions/get_next_mass_date
 source ./scripts/functions/get_liturgia
 source ./scripts/functions/convert_iso_to_extended_date
 source ./scripts/functions/convert_iso_to_weekday
+source ./scripts/functions/add_element_to_mkdocs_nav
 
 # crea cartella data se non esiste
 if [ ! -d "$PATH_DATA" ]; then
@@ -39,7 +40,7 @@ chmod +x ./scripts/*
 # viene eseguito da una GitHub Action una volta al mese
 
 # genero la data di oggi in formato iso
-today=$(date +%Y%m%d)
+today=$(date +%Y-%m-%d)
 
 # scarica liturgia
 liturgia_data_iso=$(get_next_mass_date "$PATH_CALENDARIO_LITURGICO" "$today" 1)
