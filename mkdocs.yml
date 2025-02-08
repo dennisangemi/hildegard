@@ -84,44 +84,42 @@ extra:
 nav:
   - Home: index.md
   - Progetto: progetto.md
-  - Archivio: 
-    # - archivio/index.md
-    - 2024:
-      - archivio/2 giugno 2024.md
-      - archivio/9 giugno 2024.md
-      - archivio/16 giugno 2024.md
-      - archivio/23 giugno 2024.md
-      - archivio/30 giugno 2024.md
-      - archivio/7 luglio 2024.md
-      - archivio/14 luglio 2024.md
-      - archivio/21 luglio 2024.md
-      - archivio/28 luglio 2024.md
-      - archivio/4 agosto 2024.md
-      - archivio/11 agosto 2024.md
-      - archivio/18 agosto 2024.md
-      - archivio/25 agosto 2024.md
-      - archivio/1 settembre 2024.md
-      - archivio/8 settembre 2024.md
-      - archivio/15 settembre 2024.md
-      - archivio/22 settembre 2024.md
-      - archivio/29 settembre 2024.md
-      - archivio/6 ottobre 2024.md
-      - archivio/13 ottobre 2024.md
-      - archivio/20 ottobre 2024.md
-      - archivio/27 ottobre 2024.md
-      - archivio/3 novembre 2024.md
-      - archivio/10 novembre 2024.md
-      - archivio/17 novembre 2024.md
-      - archivio/24 novembre 2024.md
-      - archivio/1 dicembre 2024.md
-      - archivio/15 dicembre 2024.md
-      - archivio/22 dicembre 2024.md
-      - archivio/29 dicembre 2024.md
-    - 2025:
-      - archivio/12 gennaio 2025.md
-      - archivio/19 gennaio 2025.md
-      - archivio/26 gennaio 2025.md
-      - archivio/2 febbraio 2025.md
-      - archivio/9 febbraio 2025.md
+  - Archivio:
+      - '2024':
+          - archivio/2 giugno 2024.md
+          - archivio/9 giugno 2024.md
+          - archivio/16 giugno 2024.md
+          - archivio/23 giugno 2024.md
+          - archivio/30 giugno 2024.md
+          - archivio/7 luglio 2024.md
+          - archivio/14 luglio 2024.md
+          - archivio/21 luglio 2024.md
+          - archivio/28 luglio 2024.md
+          - archivio/4 agosto 2024.md
+          - archivio/11 agosto 2024.md
+          - archivio/18 agosto 2024.md
+          - archivio/25 agosto 2024.md
+          - archivio/1 settembre 2024.md
+          - archivio/8 settembre 2024.md
+          - archivio/15 settembre 2024.md
+          - archivio/22 settembre 2024.md
+          - archivio/29 settembre 2024.md
+          - archivio/6 ottobre 2024.md
+          - archivio/13 ottobre 2024.md
+          - archivio/20 ottobre 2024.md
+          - archivio/27 ottobre 2024.md
+          - archivio/3 novembre 2024.md
+          - archivio/10 novembre 2024.md
+          - archivio/17 novembre 2024.md
+          - archivio/24 novembre 2024.md
+          - archivio/1 dicembre 2024.md
+          - archivio/15 dicembre 2024.md
+          - archivio/22 dicembre 2024.md
+          - archivio/29 dicembre 2024.md
+      - '2025':
+          - archivio/12 gennaio 2025.md
+          - archivio/19 gennaio 2025.md
+          - archivio/26 gennaio 2025.md
+          - archivio/2 febbraio 2025.md
+          - archivio/9 febbraio 2025.md
   - News: news/index.md
-
