@@ -1,19 +1,22 @@
 #!/bin/bash
 
+# TODO
+# verificare la corretta esecuzione del suggeritore e di qualsiasi altro comando: gestire errori
+
 # esporta le variabili d'ambiente
 set -a
-# set -x
+#set -x
 
 # import variables
 source <(grep = scripts/config.ini)
 
 # importing functions
 source ./scripts/functions/get_anagrafica
-source ./scripts/functions/get_next_sunday
 source ./scripts/functions/get_next_mass_date
 source ./scripts/functions/get_liturgia
 source ./scripts/functions/convert_iso_to_extended_date
 source ./scripts/functions/convert_iso_to_weekday
+source ./scripts/functions/add_element_to_mkdocs_nav
 
 # crea cartella data se non esiste
 if [ ! -d "$PATH_DATA" ]; then
@@ -33,9 +36,13 @@ chmod +x ./scripts/*
 # se vuoi scaricare anagrafica canti e testi canti devi usare
 # db_downloader
 # con le opportune istruzioni e autenticazioni
+# viene eseguito da una GitHub Action una volta al mese
+
+# genero la data di oggi in formato iso
+today=$(date +%Y-%m-%d)
 
 # scarica liturgia
-liturgia_data_iso=$(get_next_sunday)
+liturgia_data_iso=$(get_next_mass_date "$PATH_CALENDARIO_LITURGICO" "$today" 1)
 liturgia_data_yyyymmdd=$(date -d $liturgia_data_iso +%Y%m%d)
 liturgia_data_estesa=$(convert_iso_to_extended_date "$liturgia_data_iso")
 liturgia_weekday=$(convert_iso_to_weekday "$liturgia_data_iso")
@@ -54,10 +61,10 @@ echo "✅ Individuata liturgia"
 # aggiorna canti manually selected
 ./scripts/get_manually_selected
 
-# run suggeritore
-./scripts/suggeritore.py "$liturgia_data_iso"
+# per supportare la generazione di più suggerimenti bisognerà modificare il suggeritore.py e build_page
 
-# verificar la corretta esecuzione del suggeritore e di qualsiasi altro comando
+# run suggeritore
+./scripts/suggeritore.py "$liturgia_data_iso" 
 
 # build website homepage
 ./scripts/build_page
@@ -75,18 +82,9 @@ line_end=$(cat "$suggerimenti_on_archive_path" | grep -n ":material-music" | cut
 tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md
 mv tmp.md "$suggerimenti_on_archive_path"
 
-# add liturgia_data_estesa.md to nav and add news
-echo "      - archivio/"$liturgia_data_estesa.md >> useful-files/nav-template.yml
-
-# remove old nav from mkdocs
-sed -i '/nav:/,$d' mkdocs.yml
-
-# add new nav to mkdocs
-cat useful-files/nav-template.yml >> mkdocs.yml
-echo "  - News: news/index.md" >> mkdocs.yml
-echo "" >> mkdocs.yml
-echo "✅ Navigation aggiornata!"
+# new nav management: aggiungi la liturgia all'archivio
+add_element_to_mkdocs_nav "mkdocs.yml" "$(date -d $liturgia_data_iso +%Y)" "archivio/$liturgia_data_estesa.md"
+echo "📂 Archivio aggiornato"
 
 echo "✅ Suggerimenti pronti"
-echo "📂 Archivio aggiornato"
 echo "✅ Homepage pronta"
