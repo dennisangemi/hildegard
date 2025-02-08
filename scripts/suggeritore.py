@@ -172,17 +172,24 @@ print("max mean_text_similarity:", df['mean_text_similarity'].max())
 print("")
 #input("Premi invio per continuare...")
 
-# compute score_text_similarity
+# old (anche se interessante, forse ma sbagliato)
+# compute score_text_similarity (forse con questi passaggi rendo invalido il confronto con deviation)
 df['score_text_similarity_c1'] = (df['text_similarity'] / df['text_similarity'].max()).round(2)
 df['score_text_similarity_c2'] = (df['text_similarity'] / df['max_text_similarity']).round(2)
-df['score_text_similarity'] = (0.65*df['score_text_similarity_c1'] + 0.35*df['mean_text_similarity']).round(2)
+df['score_text_similarity'] = (0.65*df['score_text_similarity_c1'] + 0.35*df['score_text_similarity_c2']).round(2)
+
+# new compute score_text_similarity
+# df['score_text_similarity'] = (df['text_similarity'] / df['max_text_similarity']).round(2)
+# alla fine quello di prima pensavo fosse sbagliato perchè pensavo venisse utilizzato lo score text sim per calcolare dev invece no.
+
 print(df)
 print("✅ Score text_similarity determinato")
 print("")
 
 # debug
-# print(df.head(10))
-# input("Premi invio per continuare...")
+# print id, text_similarity, max_text_similarity, score_text_similarity
+print(df[['id_canti', 'text_similarity', 'max_text_similarity', 'score_text_similarity']].head(20))
+input("Premi invio per continuare...")
 
 
 
@@ -194,11 +201,20 @@ df = df.sort_values(by='deviation', ascending=False)
 print("max deviation:", df['deviation'].max())
 print("min deviation:", df['deviation'].min())
 
-# da calcolare normalizzando con la vera max deviation che è la differenza tra max_text_similarity e text_similarity
-df['max_deviation'] = df['max_text_similarity'] - df['text_similarity']
-
 # calcolo score_deviation normalizzando deviation con max_deviation
-df['score_deviation'] = df['deviation'] / df['max_deviation']
+# df['score_deviation'] = df['deviation'] / df['max_deviation']
+
+# anzi, calcola score_deviation così come fatto per score_text_similarity
+df['score_deviation_c1'] = df['deviation'] / df['deviation'].max()
+df['score_deviation_c2'] = df['deviation'] / df['max_deviation']
+df['score_deviation'] = (0.65*df['score_deviation_c1'] + 0.35*df['score_deviation_c2']).round(2)
+# altrimenti ottengo risultati troppo alti
+
+# print id, max_text_similarity, text_similarity, deviation, max_deviation, score_deviation
+print(df[['id_canti', 'text_similarity', 'mean_text_similarity', 'deviation', 'max_deviation', 'score_deviation']].head(20))
+
+# debug
+input("Premi invio per continuare...")
 
 print("max score_deviation:", df['score_deviation'].max())
 print("min score_deviation:", df['score_deviation'].min())

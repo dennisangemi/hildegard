@@ -61,36 +61,70 @@ df = pd.concat(df_list)
 
 
 # print 
-print("📊 Calcolo la media normalizzata per ogni canto...")
+# print("📊 Calcolo la media normalizzata per ogni canto...")
 
 # add mean and deviation
-max_text_similarity = df['text_similarity'].max()
+# max_text_similarity = df['text_similarity'].max()
 
 # normalize text_similarity
 # df['text_similarity'] = df['text_similarity'] / max_text_similarity
 
 # Calcolo della media e del massimo della colonna 'text_similarity' per ogni 'id_canti'
-df = df.groupby('id_canti')['text_similarity'].agg(['mean', 'max']).reset_index()
+dfg = df.groupby('id_canti')['text_similarity'].agg(['mean', 'max']).reset_index()
 
 # Arrotonda la media e il massimo a 2 cifre decimali
-df['mean'] = df['mean'].round(2)
-df['max'] = df['max'].round(2)
+dfg['mean'] = dfg['mean'] #.round(2)
+dfg['max'] = dfg['max'] #.round(2)
 
 # tieni solo righe con max_text_similarity > 0
-df = df[df['max'] > 0]
+dfg = dfg[dfg['max'] > 0]
 
 # Rinominare le colonne per chiarezza
-df = df.rename(columns={'mean': 'mean_text_similarity', 'max': 'max_text_similarity'})
+dfg = dfg.rename(columns={'mean': 'mean_text_similarity', 'max': 'max_text_similarity'})
 
 # sort by mean_text_similarity
-df = df.sort_values(by='mean_text_similarity', ascending=False)
+dfg = dfg.sort_values(by='mean_text_similarity', ascending=False)
 
-print(df)
+print(dfg)
 
 # turn mean_text_similarity into a percentage with no decimal
 # df['mean_text_similarity'] = (df['mean_text_similarity'] * 100).round(2)
 
+# export to csv (old)
+# dfg.to_csv(config.PATH_MEAN_TEXT_SIMILARITIES, index=False)
+# print(f"📄 Esportato il file {config.PATH_MEAN_TEXT_SIMILARITIES} con successo.")
+# print("✅ Tutte similiarità medie sono state calcolate!")
+
+# provo a calcolare il massimo delle deviazioni per ogni canto
+
+# add the mean column of the dfg to the df merging on id_canti
+df = pd.merge(df, dfg, on='id_canti')
+
+# adesso il df contiene le colonne: id_canti, id_liturgia text_similarity, max_text_similarity, mean_text_similarity
+
+# calcolo tutte le deviazioni dalla media possibili
+df['deviation'] = df['text_similarity'] - df['mean_text_similarity']
+
+# calcolo la deviazione massima per ogni canto, gruppo by id_canti
+dfg_deviation = df.groupby('id_canti')['deviation'].agg('max').reset_index()
+
+# rinomino la colonna in max_deviation
+dfg_deviation = dfg_deviation.rename(columns={'deviation': 'max_deviation'})
+
+# seleziono solo colonne id_canti e max_deviation
+dfg_deviation = dfg_deviation[['id_canti', 'max_deviation']]
+
+# merge dfg_deviation con dfg
+dfg = pd.merge(dfg, dfg_deviation, on='id_canti')
+
+# seleziona solo colonne id_canti, mean_text_similarity, max_text_similarity, max_deviation
+dfg = dfg[['id_canti', 'mean_text_similarity', 'max_text_similarity', 'max_deviation']]
+
 # export to csv
-df.to_csv(config.PATH_MEAN_TEXT_SIMILARITIES, index=False)
+dfg.to_csv(config.PATH_MEAN_TEXT_SIMILARITIES, index=False)
 print(f"📄 Esportato il file {config.PATH_MEAN_TEXT_SIMILARITIES} con successo.")
-print("✅ Tutte similiarità medie sono state calcolate!")
+print("✅ Tutte similiarità medie sono state calcolate (insieme ai relativi massimi e deviazioni massime)!")
+
+# domanda stupida: ma per calcolare la deviazione massima non era sufficiente sottrarre max_text_similarity a mean_text_similarity?
+# non lo so, c'è da ragionarci
+# mi sa di si. quindi era più semplice il calcolo.
