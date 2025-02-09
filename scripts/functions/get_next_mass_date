@@ -49,7 +49,7 @@ get_next_mass_date() {
     # Estrae la data nth utilizzando Miller
     local next_date
     next_date=$(mlr --csv --headerless-csv-output \
-        filter "\$date > \"$start_date\"" \
+        filter "\$date >= \"$start_date\"" \
         then sort -f date \
         then head -n "$n" \
         then tail -n 1 \
