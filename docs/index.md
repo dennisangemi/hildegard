@@ -1,6 +1,6 @@
 ---
 title: Suggerimenti di animazione liturgica
-description: I canti suggeriti per la liturgia di Domenica 16 febbraio 2025 
+description: I canti suggeriti per la liturgia di Domenica 9 febbraio 2025 
 hide:
   - navigation
   # - toc
@@ -16,21 +16,22 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
 
     ---
 
-    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20250216){ .md-button }
+    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20250209){ .md-button }
 
-## :material-music-note-plus: Canti suggeriti per Domenica 16 febbraio 2025
+## :material-music-note-plus: Canti suggeriti per Domenica 9 febbraio 2025
 
 Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-1745) | :material-dots-horizontal: Mh | 75 | Francesco Buttazzo | Mi ami tu? |
-| [Non cercate tra i morti](https://www.librettocanti.it/canto/non-cercate-tra-i-morti-2329) | :material-dots-horizontal: Mh | 61 | Francesco Buttazzo |  |
-| [Cosa avremo in cambio](https://www.librettocanti.it/canto/cosa-avremo-in-cambio-2995) | :material-dots-horizontal: Mh | 55 | Gen Rosso | Dove tu Sei |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-2048) | :material-dots-horizontal: Mh | 52 | Giosy Cento |  |
-| [Alleluia, è risorto il Signor](https://www.librettocanti.it/canto/alleluia-risorto-il-signor-1882) | :material-dots-horizontal: Mh | 51 | Fabio Baggio | Alleluia, è risorto |
-| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/canto/beatitudine-la-preghiera-di-ges-la-nostra-76) | :material-dots-horizontal: Mh | 51 | Gaetano Castiglia |  |
-| [E' Risorto](https://www.librettocanti.it/canto/e-risorto-2281) | :material-dots-horizontal: Mh | 50 | Gen Verde  | Il Mistero Pasquale |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 88 | Collu, Moro, Maxia |  |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 80 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
+| [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 62 | Marco Frisina | Tu sei bellezza |
+| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 61 | Gen Rosso | Se siamo uniti |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 60 | Pierangelo Sequeri | In cerca d'autore |
+| [Eccomi](https://www.librettocanti.it/canto/eccomi-185) | :material-check: Buona | 56 | Marco Frisina  | Non temere |
+| [Come Tu mi vuoi](https://www.librettocanti.it/canto/come-tu-mi-vuoi-137) | :material-check: Buona | 54 | RnS - D.Branca | Io scelgo Te |
+| [Amare questa vita](https://www.librettocanti.it/canto/amare-questa-vita-47) | :material-dots-horizontal: Mh | 53 | G. Meregalli | Quello che Tu vuoi |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -38,30 +39,30 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-1745) | :material-dots-horizontal: Mh | 75 | Francesco Buttazzo | Mi ami tu? |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-2048) | :material-dots-horizontal: Mh | 52 | Giosy Cento |  |
-| [Alleluia, è risorto il Signor](https://www.librettocanti.it/canto/alleluia-risorto-il-signor-1882) | :material-dots-horizontal: Mh | 51 | Fabio Baggio | Alleluia, è risorto |
-| [E' Risorto](https://www.librettocanti.it/canto/e-risorto-2281) | :material-dots-horizontal: Mh | 50 | Gen Verde  | Il Mistero Pasquale |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 80 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 60 | Pierangelo Sequeri | In cerca d'autore |
+| [Eccomi](https://www.librettocanti.it/canto/eccomi-185) | :material-check: Buona | 56 | Marco Frisina  | Non temere |
+| [Amare questa vita](https://www.librettocanti.it/canto/amare-questa-vita-47) | :material-dots-horizontal: Mh | 53 | G. Meregalli | Quello che Tu vuoi |
 
 ### Offertorio
 
-!!! info "Nessun risultato"
-    Purtroppo il suggeritore automatico non è stato in grado di ottenere nessun buon risultato per questa sezione ;(
+| Titolo | Adeguatezza | % | Autore | Raccolta |
+| --- | --- | --- | --- | --- |
+| [Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423) | :material-dots-horizontal: Mh | 61 | Gen Rosso | Se siamo uniti |
 
 ### Comunione
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-1745) | :material-dots-horizontal: Mh | 75 | Francesco Buttazzo | Mi ami tu? |
-| [Cosa avremo in cambio](https://www.librettocanti.it/canto/cosa-avremo-in-cambio-2995) | :material-dots-horizontal: Mh | 55 | Gen Rosso | Dove tu Sei |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-2048) | :material-dots-horizontal: Mh | 52 | Giosy Cento |  |
-| [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/canto/beatitudine-la-preghiera-di-ges-la-nostra-76) | :material-dots-horizontal: Mh | 51 | Gaetano Castiglia |  |
-| [E' Risorto](https://www.librettocanti.it/canto/e-risorto-2281) | :material-dots-horizontal: Mh | 50 | Gen Verde  | Il Mistero Pasquale |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 88 | Collu, Moro, Maxia |  |
+| [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 62 | Marco Frisina | Tu sei bellezza |
+| [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-check: Buona | 60 | Pierangelo Sequeri | In cerca d'autore |
+| [Come Tu mi vuoi](https://www.librettocanti.it/canto/come-tu-mi-vuoi-137) | :material-check: Buona | 54 | RnS - D.Branca | Io scelgo Te |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
-| [Beati voi](https://www.librettocanti.it/canto/beati-voi-1745) | :material-dots-horizontal: Mh | 75 | Francesco Buttazzo | Mi ami tu? |
-| [Alleluia, è risorto il Signor](https://www.librettocanti.it/canto/alleluia-risorto-il-signor-1882) | :material-dots-horizontal: Mh | 51 | Fabio Baggio | Alleluia, è risorto |
+| [Getta le tue reti](https://www.librettocanti.it/canto/getta-le-tue-reti-2564) | :material-check-all: Alta | 88 | Collu, Moro, Maxia |  |
+| [Prenderemo il largo](https://www.librettocanti.it/canto/prenderemo-il-largo-2999) | :material-check-all: Alta | 80 | Daniele Scarpa - Francesco Buttazzo | Vieni soffio di Dio |
 
 ## Note
 !!! warning "Attenzione"
