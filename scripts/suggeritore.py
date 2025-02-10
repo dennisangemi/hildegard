@@ -384,6 +384,7 @@ output_df_path = 'data/suggerimenti-latest.csv'
 df[['id_canti','titolo', 'score_vector_similarity', 'score_text_similarity', 'score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
 
 # mantieni solo score >= THRESHOLD_MIN_SCORE
+dfc = df # creo copia di df
 df = df[df['score'] >= config.THRESHOLD_MIN_SCORE]
 df = df.reset_index(drop=True)
 
@@ -450,3 +451,29 @@ print("   data/suggeriti-ingresso-latest.csv")
 print("   data/suggeriti-offertorio-latest.csv")
 print("   data/suggeriti-comunione-latest.csv")
 print("   data/suggeriti-congedo-latest.csv")
+
+# save extra file for hildegard with 20 not selected songs
+dfc = dfc[dfc['score'] < config.THRESHOLD_MIN_SCORE]
+dfc = dfc.reset_index(drop=True)
+
+# sort by score 
+dfc = dfc.sort_values(by='score', ascending=False)
+
+# select only first 20
+dfc = dfc.head(20)
+
+# creo colonna titolo_md
+dfc['titolo_md'] = dfc.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
+
+# score to int
+df['score'] = df['score'].astype(int)
+
+
+# transform data_liturgia from YYYY-MM-DD to YYYYMMDD
+data_liturgia = data_liturgia.replace('-', '')
+
+# save csv named notselected-${data_liturgia}.csv
+dfc[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).to_csv(f'data/not-selected-{data_liturgia}.csv', index=False)
+
+print ("")
+print("✅ I canti non selezionati sono stati esportati")

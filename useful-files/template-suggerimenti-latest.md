@@ -20,5 +20,5 @@ Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa del
 
 ## :material-music-note-plus: Canti suggeriti per {{{DATA_LITURGIA}}}
 
-Ecco i 20 canti i cui testi sono più simili alla liturgia (indipendentemente dal momento liturgico)
+Ecco alcuni canti i cui testi sono più simili alla liturgia, indipendentemente dal momento liturgico
 

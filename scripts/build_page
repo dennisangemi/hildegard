@@ -58,6 +58,14 @@ echo "### Congedo" >> $PATH_HOMEPAGE
 check_and_print $PATH_DATA_CONGEDO
 echo "" >> $PATH_HOMEPAGE
 
+# aggiungo ulteriori canti non selezionati
+echo "### Altro" >> $PATH_HOMEPAGE
+echo "Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima." >> $PATH_HOMEPAGE
+
+echo '??? question "Apri la lista"' >> $PATH_HOMEPAGE
+mlr --c2m cat data/not-selected-$liturgia_data_yyyymmdd.csv | sed 's/^/    /' >> $PATH_HOMEPAGE
+rm data/not-selected-$liturgia_data_yyyymmdd.csv
+
 # add note
 echo "## Note" >> $PATH_HOMEPAGE
 echo '!!! warning "Attenzione"' >> $PATH_HOMEPAGE

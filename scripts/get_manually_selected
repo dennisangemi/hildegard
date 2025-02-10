@@ -5,7 +5,7 @@
 # import the environment variables
 source <(grep -e PATH_MANUALLY_SELECTED -e URL_MANUALLY_SELECTED scripts/config.ini)
 
-echo "⚙️ Downloading manually selected songs from the google sheet..."
+echo "⚙️  Downloading manually selected songs from the google sheet..."
 
 # check if variables are set
 if [ -z "$PATH_MANUALLY_SELECTED" ] || [ -z "$URL_MANUALLY_SELECTED" ]; then
