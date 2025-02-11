@@ -51,7 +51,7 @@ id_canti,id_liturgia,accuratezza,note
 1898,C40-C,80,
 462,C40-C,80,
 486,C40-C,73,
-2329,C41-C,0,si lega a quello che dice s. Paolo nella II lettura ma non c'entra tantissimo
+2329,C41-C,20,si lega a quello che dice s. Paolo nella II lettura ma non c'entra tantissimo
 1882,C41-C,0,
 2281,C41-C,0,
 145,C41-C,0,
@@ -60,3 +60,4 @@ id_canti,id_liturgia,accuratezza,note
 78,C41-C,65,
 2355,C41-C,78,
 2738,C41-C,0,
+73,C41-C,85,
