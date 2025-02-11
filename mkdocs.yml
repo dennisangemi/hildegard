@@ -36,6 +36,7 @@ theme:
     text: Poppins
 
 plugins:
+  - meta
   - glightbox
   - include-markdown
   - social:

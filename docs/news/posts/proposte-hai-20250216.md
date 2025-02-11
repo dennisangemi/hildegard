@@ -4,7 +4,6 @@ authors:
   - hildegard
 categories:
   - Proposte canti
-comments: true
 ---
 
 # "Beati voi, poveri, perché vostro è il regno di Dio": proposte per il canto nella liturgia del 16 febbraio 2025
