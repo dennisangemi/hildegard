@@ -3,7 +3,7 @@ title: Suggerimenti di animazione liturgica
 description: I canti suggeriti per la liturgia di Domenica 16 febbraio 2025 
 hide:
   - navigation
-  # - toc
+comments: true
 ---
 
 # **Suggerimenti**<br>di animazione liturgica
