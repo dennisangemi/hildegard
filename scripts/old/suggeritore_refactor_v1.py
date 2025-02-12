@@ -2,6 +2,7 @@
 
 """
 Script per suggerire canti liturgici basati su similarità testuale, deviazione, selezione manuale e storico.
+Funziona ma dà risultati leggermenti diversi del suggeritore_v8
 """
 
 import sys
@@ -179,13 +180,10 @@ def apply_adequacy_label(row: pd.Series) -> str:
     return ':material-dots-horizontal: Mh'
 
 
-def export_results(main_df: pd.DataFrame, full_df: pd.DataFrame, data_str: str, date_suffix: str):
+def export_results(main_df: pd.DataFrame, data_str: str, date_suffix: str):
     """Gestisce l'esportazione dei risultati"""
-    # Esportazione CSV principale con TUTTI i dati (non filtrati)
-    cols_export = ['id_canti','titolo', 'score_vector_similarity', 'score_text_similarity', 
-                   'score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']
-    full_df = full_df.sort_values('score', ascending=False)  # Ordina come in v8
-    full_df[cols_export].to_csv('data/suggerimenti-latest.csv', index=False)
+    # Esportazione CSV principale
+    main_df.to_csv('data/suggerimenti-latest.csv', index=False)
     
     # Preparazione dati per esportazioni
     main_df['data'] = data_str
@@ -199,20 +197,20 @@ def export_results(main_df: pd.DataFrame, full_df: pd.DataFrame, data_str: str, 
     md_cols_renamed = ['Titolo', 'Adeguatezza', '%', 'Autore', 'Raccolta']
     col_mapping = dict(zip(md_cols, md_cols_renamed))
     
-    # Export top 20 (ordinati per score decrescente)
-    main_df = main_df.sort_values('score', ascending=False)
+    # Main export
     main_df[md_cols].head(20).fillna('').rename(columns=col_mapping)\
         .to_csv('data/suggeriti-top20-latest.csv', index=False)
     
-    # JSON export con stesso ordine di v8
-    json_df = main_df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})
+    # Esportazione JSON
     json_cols = ['id_canti', 'text_similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
-    json_df = json_df.sort_values('text_similarity', ascending=False)
-    json_df[json_cols].fillna('').head(20)\
-        .to_json('data/suggeriti-top20-latest.json', orient='records')
+    main_df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols]\
+        .fillna('').sort_values(by='text_similarity', ascending=False)\
+        .head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
     
-    # Filter e ordina momenti come in v8
+    # Filter for valid momenti
     valid_df = main_df.dropna(subset=['momento'])
+    
+    # Esportazione per momenti liturgici
     momenti = {
         'ingresso': '21',
         'offertorio': '26',
@@ -221,11 +219,10 @@ def export_results(main_df: pd.DataFrame, full_df: pd.DataFrame, data_str: str, 
     }
     
     for nome, codice in momenti.items():
-        filtered = valid_df[valid_df['momento'].str.contains(codice)]\
-            .sort_values('score', ascending=False)\
-            .head(10)
+        filtered = valid_df[valid_df['momento'].str.contains(codice)].head(10)
         filtered[md_cols].fillna('').rename(columns=col_mapping)\
             .to_csv(f'data/suggeriti-{nome}-latest.csv', index=False)
+
 
 def main():
     """Funzione principale"""
@@ -240,22 +237,10 @@ def main():
     
     print(f"📖 Liturgia del {data_liturgia}: {liturgy_id}\n")
     
-    # Print debug info come in v8
-    print("🔍 Canti consigliati secondo vicinanza embeddings:")
+    # Elaborazione punteggi
     vector_scores = process_vector_scores(datasets['vector_sim'], liturgy_id)
-    print(datasets['vector_sim'][datasets['vector_sim']['id_liturgia'] == liturgy_id])
-    
-    print("\n🔍 Canti consigliati manualmente:")
     manual_scores = process_manual_scores(datasets['manuali'], liturgy_id)
-    print(datasets['manuali'][datasets['manuali']['id_liturgia'] == liturgy_id])
-    print("\n✅ Score (manual) selection determinato")
-    
-    print("\n🔍 Storico dei canti suonati per la liturgia:")
     history_scores = process_history_scores(datasets['storico'], datasets['media_suonati'], liturgy_id)
-    storico_display = datasets['storico'][datasets['storico']['id_liturgia'] == liturgy_id]
-    print(storico_display)
-    print("\n✅ Score history determinato\n")
-    
     text_scores = process_text_scores(
         liturgy_id, config.PATH_LITURGIE, config.PATH_CANTI, datasets['mean_text']
     )
@@ -274,29 +259,21 @@ def main():
     final_df = calculate_final_score(merged, datasets['weights'])
     final_df['adeguatezza'] = final_df.apply(apply_adequacy_label, axis=1)
     
-    # Debug print come in v8
-    print("\nMostro solo canti > soglia")
-    print(final_df[['id_canti','titolo', 'score', 'adeguatezza']][final_df['score'] >= config.THRESHOLD_MIN_SCORE])
-    
-    # Mantieni una copia completa prima del filtraggio
-    full_df = final_df.copy()
-    
-    # Suddivisione risultati con ordinamento esplicito
+    # Suddivisione risultati
     threshold = config.THRESHOLD_MIN_SCORE
     suggested = final_df[final_df['score'] >= threshold].sort_values('score', ascending=False)
     excluded = final_df[final_df['score'] < threshold].sort_values('score', ascending=False).head(20)
     
-    # Prepare excluded data
+    # Prepare excluded data with correct columns
     excluded['titolo_md'] = excluded.apply(
         lambda r: f"[{r['titolo']}](https://www.librettocanti.it{r['url']})" if not pd.isnull(r['id_canti']) else r['titolo'], 
         axis=1
     )
-    
-    # Esportazione mantenendo l'ordine
-    export_results(suggested, full_df, data_liturgia, data_yyyymmdd)
     md_cols = ['titolo_md', 'adeguatezza', 'score', 'autore', 'raccolta']
     md_cols_renamed = ['Titolo', 'Adeguatezza', '%', 'Autore', 'Raccolta']
-    excluded = excluded.sort_values('score', ascending=False)  # Ordina esplicitamente
+    
+    # Esportazione
+    export_results(suggested, data_liturgia, data_yyyymmdd)
     excluded[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed)))\
         .to_csv(f'data/not-selected-{data_yyyymmdd}.csv', index=False)
     

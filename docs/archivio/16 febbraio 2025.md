@@ -10,8 +10,8 @@ Ecco alcuni canti i cui testi sono più simili alla liturgia, indipendentemente 
 | [Cosa avremo in cambio](https://www.librettocanti.it/canto/cosa-avremo-in-cambio-2995) | :material-dots-horizontal: Mh | 63 | Gen Rosso | Dove tu Sei |
 | [Beati quelli che ascoltano](https://www.librettocanti.it/canto/beati-quelli-che-ascoltano-73) | :material-check: Buona | 63 | Michele Bonfitto | Sei grande nell'amore |
 | [Beati voi](https://www.librettocanti.it/canto/beati-voi-2048) | :material-dots-horizontal: Mh | 59 | Giosy Cento |  |
-| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 54 | Antonio Porrino |  |
 | [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/canto/beatitudine-la-preghiera-di-ges-la-nostra-76) | :material-dots-horizontal: Mh | 53 | Gaetano Castiglia |  |
+| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 53 | Antonio Porrino |  |
 
 Di seguito i canti suggeriti per i vari momenti della liturgia
 
@@ -37,14 +37,14 @@ Di seguito i canti suggeriti per i vari momenti della liturgia
 | [Cosa avremo in cambio](https://www.librettocanti.it/canto/cosa-avremo-in-cambio-2995) | :material-dots-horizontal: Mh | 63 | Gen Rosso | Dove tu Sei |
 | [Beati quelli che ascoltano](https://www.librettocanti.it/canto/beati-quelli-che-ascoltano-73) | :material-check: Buona | 63 | Michele Bonfitto | Sei grande nell'amore |
 | [Beati voi](https://www.librettocanti.it/canto/beati-voi-2048) | :material-dots-horizontal: Mh | 59 | Giosy Cento |  |
-| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 54 | Antonio Porrino |  |
 | [Beatitudine (La preghiera di Gesù è la nostra)](https://www.librettocanti.it/canto/beatitudine-la-preghiera-di-ges-la-nostra-76) | :material-dots-horizontal: Mh | 53 | Gaetano Castiglia |  |
+| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 53 | Antonio Porrino |  |
 
 ### Congedo
 | Titolo | Adeguatezza | % | Autore | Raccolta |
 | --- | --- | --- | --- | --- |
 | [Beati voi](https://www.librettocanti.it/canto/beati-voi-1745) | :material-check-all: Alta | 80 | Francesco Buttazzo | Mi ami tu? |
-| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 54 | Antonio Porrino |  |
+| [Beato l’uomo](https://www.librettocanti.it/canto/beato-l-uomo-78) | :material-dots-horizontal: Mh | 53 | Antonio Porrino |  |
 
 ### Altro
 Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima.
@@ -52,25 +52,25 @@ Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono s
     | Titolo | Adeguatezza | % | Autore | Raccolta |
     | --- | --- | --- | --- | --- |
     | [Messaggio ai giovani](https://www.librettocanti.it/canto/messaggio-ai-giovani-305) | :material-dots-horizontal: Mh | 48 | Pierangelo Sequeri  | In cerca d'autore |
-    | [Lodate il Signore dai Cieli](https://www.librettocanti.it/canto/lodate-il-signore-dai-cieli-2322) | :material-dots-horizontal: Mh | 47 | Marco Frisina | Benedici il Signore |
+    | [Non cercate tra i morti](https://www.librettocanti.it/canto/non-cercate-tra-i-morti-326) | :material-dots-horizontal: Mh | 47 | Angelo Lagorio |  |
     | [L'ultima cena](https://www.librettocanti.it/canto/l-ultima-cena-2429) | :material-dots-horizontal: Mh | 47 | Comunità Gesù Risorto |  |
-    | [Perchè la vostra gioia sia piena](https://www.librettocanti.it/canto/perch-la-vostra-gioia-sia-piena-1787) | :material-dots-horizontal: Mh | 46 | I. Valoppi |  |
-    | [Non cercate tra i morti](https://www.librettocanti.it/canto/non-cercate-tra-i-morti-326) | :material-dots-horizontal: Mh | 46 | Angelo Lagorio |  |
-    | [Lode](https://www.librettocanti.it/canto/lode-2742) | :material-dots-horizontal: Mh | 44 | Movimento Eucaristico Giovanile | Sulla strada per Emmaus |
+    | [Lodate il Signore dai Cieli](https://www.librettocanti.it/canto/lodate-il-signore-dai-cieli-2322) | :material-dots-horizontal: Mh | 47 | Marco Frisina | Benedici il Signore |
+    | [Perchè la vostra gioia sia piena](https://www.librettocanti.it/canto/perch-la-vostra-gioia-sia-piena-1787) | :material-dots-horizontal: Mh | 45 | I. Valoppi |  |
     | [Andate per le strade](https://www.librettocanti.it/canto/andate-per-le-strade-52) | :material-dots-horizontal: Mh | 44 | Angelo Roncari - Lorenzo Capello - Giovanni M. Rossi |  |
-    | [Avrai cura di noi](https://www.librettocanti.it/canto/avrai-cura-di-noi-2117) | :material-dots-horizontal: Mh | 43 | Benedetti Anna |  |
+    | [Lode](https://www.librettocanti.it/canto/lode-2742) | :material-dots-horizontal: Mh | 44 | Movimento Eucaristico Giovanile | Sulla strada per Emmaus |
+    | [Io con voi](https://www.librettocanti.it/canto/io-con-voi-1766) | :material-dots-horizontal: Mh | 44 | Claudio Chieffo |  |
     | [Amatevi fratelli](https://www.librettocanti.it/canto/amatevi-fratelli-48) | :material-dots-horizontal: Mh | 43 | Domenico Machetta | Grazie, Signore! |
-    | [Io con voi](https://www.librettocanti.it/canto/io-con-voi-1766) | :material-dots-horizontal: Mh | 43 | Claudio Chieffo |  |
-    | [L'addolorata](https://www.librettocanti.it/canto/l-addolorata-1773) | :material-dots-horizontal: Mh | 43 | --- |  |
+    | [Avrai cura di noi](https://www.librettocanti.it/canto/avrai-cura-di-noi-2117) | :material-dots-horizontal: Mh | 43 | Benedetti Anna |  |
     | [Questo è il mio comandamento](https://www.librettocanti.it/canto/questo-il-mio-comandamento-376) | :material-dots-horizontal: Mh | 42 | Marco Frisina |  |
     | [Vi darò un cuore nuovo](https://www.librettocanti.it/canto/vi-dar-un-cuore-nuovo-1719) | :material-dots-horizontal: Mh | 42 | L. De Mattia - Guglielmo Amadei |  |
-    | [Chiesa del Risorto](https://www.librettocanti.it/canto/chiesa-del-risorto-2286) | :material-dots-horizontal: Mh | 41 | Marco Frisina | O luce radiosa |
-    | [Voglio cantare al Signor](https://www.librettocanti.it/canto/voglio-cantare-al-signor-494) | :material-dots-horizontal: Mh | 41 | RnS |  |
-    | [Alla vittima pasquale](https://www.librettocanti.it/canto/alla-vittima-pasquale-1936) | :material-dots-horizontal: Mh | 41 | P. Dargenio | Esulta il cielo |
+    | [L'addolorata](https://www.librettocanti.it/canto/l-addolorata-1773) | :material-dots-horizontal: Mh | 42 | --- |  |
     | [Ora lasciateci cantare](https://www.librettocanti.it/canto/ora-lasciateci-cantare-1838) | :material-dots-horizontal: Mh | 41 | Pierangelo Sequeri |  |
-    | [Signore come è bello (La tenda)](https://www.librettocanti.it/canto/signore-come-bello-la-tenda-428) | :material-dots-horizontal: Mh | 41 | Claudio Chieffo |  |
+    | [Alla vittima pasquale](https://www.librettocanti.it/canto/alla-vittima-pasquale-1936) | :material-dots-horizontal: Mh | 41 | P. Dargenio | Esulta il cielo |
     | [Alleluja - Cristo è risorto dai morti](https://www.librettocanti.it/canto/alleluja-cristo-risorto-dai-morti-2446) | :material-dots-horizontal: Mh | 41 | dalla liturgia Pasquale orientale |  |
-    | [Le Beatitudini](https://www.librettocanti.it/canto/le-beatitudini-2172) | :material-dots-horizontal: Mh | 40 | RnS | Venti dello Spirito |
+    | [Signore come è bello (La tenda)](https://www.librettocanti.it/canto/signore-come-bello-la-tenda-428) | :material-dots-horizontal: Mh | 41 | Claudio Chieffo |  |
+    | [Voglio cantare al Signor](https://www.librettocanti.it/canto/voglio-cantare-al-signor-494) | :material-dots-horizontal: Mh | 41 | RnS |  |
+    | [Chiesa del Risorto](https://www.librettocanti.it/canto/chiesa-del-risorto-2286) | :material-dots-horizontal: Mh | 41 | Marco Frisina | O luce radiosa |
+    | [Disse un giorno il Padre](https://www.librettocanti.it/canto/disse-un-giorno-il-padre-2728) | :material-dots-horizontal: Mh | 40 | G.Stefani - M.Giombini  |  |
 ## Note
 !!! warning "Attenzione"
     I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/).
