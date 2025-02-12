@@ -44,7 +44,6 @@ N_PEAKS = 10
 # get variable from command line
 if len(sys.argv) > 1:
     data_liturgia = sys.argv[1]
-    data_liturgia_yyyymmdd = data_liturgia.replace('-', '')
 else:
     print("Nessun valore passato come argomento. Inserisci la data della liturgia nel formato 'YYYY-MM-DD'")
     sys.exit()
@@ -318,9 +317,6 @@ df['score'] = ((
     (df['score_history'].notna() * weight_history)
 )).round(2)*100
 
-# rendi score un int
-df['score'] = df['score'].astype(int)
-
 # sort by score
 df = df.sort_values(by='score', ascending=False)
 
@@ -333,7 +329,7 @@ print(df[['id_canti','titolo', 'score_text_similarity', 'score_vector_similarity
 print("")
 print("📊 Sto calcolando l'adeguatezza dei canti...")
 
-# Funzione per generare la stringa dell'adeguatezza
+# Funzione per calcolare l'adeguatezza
 def calcola_adeguatezza(row):
     if (row['score_selection'] >= 0.92 ) or ((row['score_history'] >= 0.9) and row['score'] >= 80) or (row['score'] >= 95):
         return ':material-check-all: Alta'
@@ -347,52 +343,60 @@ df['adeguatezza'] = df.apply(calcola_adeguatezza, axis=1)
 
 print("")
 print("Mostro solo canti > soglia")
-print(df[['id_canti','titolo', 'score', 'adeguatezza']][df['score'] >= config.THRESHOLD_MIN_SCORE])
+# print(df[['id_canti','titolo', 'score_text_similarity','score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']].head(20))
+print(df[['id_canti','titolo', 'score_text_similarity', 'score_vector_similarity', 'score_deviation', 'score_selection', 'score_history', 'score', 'adeguatezza']][df['score'] >= config.THRESHOLD_MIN_SCORE])
 
+
+
+# vorrei questo. Magari classificazione con PCA? non so
+""""
+id_canti                                          titolo  score_text_similarity  score_deviation  score_selection  score_history  score   adeguatezza
+  217                                        Grandi cose              0.88            -0.06              1.0            1.0   78.0   ✅ Alta
+ 1649                 Accogli Signore i nostri doni (v2)              0.60             0.43              NaN            NaN   52.0   🧐 Mh
+    6                      Accogli Signore i nostri doni              0.60             0.43              NaN            NaN   52.0   🧐 Mh
+ 1651                                         Talità Kum              0.23            -0.06              0.7            NaN   38.0   👌 Buona
+  133                                      Come è grande              0.92            -0.29              NaN            NaN   38.0   👌 Buona
+ 1999                                     Cose stupende               0.87            -0.29              NaN            NaN   35.0   🧐 Mh
+  195                                    Fissa gli occhi              0.94            -0.40              NaN            NaN   34.0   ✅ Alta
+ 1678                                Io credo in te Gesù              0.65            -0.09              NaN            NaN   32.0   🧐 Mh
+ 1975                            Tu sei qui (Medjugorje)              0.40             0.23              NaN            NaN   32.0   🧐 Mh
+ 1818                         Ciò che Dio ha fatto in me              0.67            -0.11              NaN            NaN   32.0   🧐 Mh
+  423                                    Servo per amore              0.66            -0.12              NaN            NaN   31.0   🧐 Mh
+ 2111                                      Alleluia Gesù              0.71            -0.21              NaN            NaN   30.0   🧐 Mh
+ 2360                           Il Signore ci ha salvato              0.73            -0.27              NaN            NaN   29.0   🧐 Mh
+  290                                 Lode e gloria a Te              0.55            -0.06              NaN            NaN   28.0   🧐 Mh
+ 1583                                 E' tempo di grazia              0.78            -0.35              NaN            NaN   28.0   🧐 Mh
+ 2523                                  Gesù (mi perdonò)              0.53            -0.04              NaN            NaN   28.0   🧐 Mh
+ 2393                           Io credo in te Gesù (v2)              0.61            -0.14              NaN            NaN   28.0   🧐 Mh
+ 2436                          Anche tu sei mio fratello              0.61            -0.13              NaN            NaN   28.0   🧐 Mh
+ 2522                            Gesù io desidero amarti              0.22             0.35              NaN            NaN   28.0   🧐 Mh
+ 1888  Inno della Divina Misericordia (Gesù, confido ...              0.70            -0.26              NaN            NaN   27.0   🧐 Mh
+
+"""
 
 
 # --------------------------------- export --------------------------------- #
 
 ### export to csv
-
 # probabilmente sarebbe meglio non salvare con latest ma con la data della liturgia
 # ragionare sul senso di tnere questo output completo in csv.
-# to do:
-# - gestire qui il salvataggio con la data nel filename e non dal build per non fare casini
-
 output_df_path = 'data/suggerimenti-latest.csv'
 df[['id_canti','titolo', 'score_vector_similarity', 'score_text_similarity', 'score_deviation', 'score_selection', 'score_history', 'score','adeguatezza']].to_csv(output_df_path, index=False)
 
-# creo copia di df chiamata dfc che contiene canti esclusi
-dfc = df 
-dfc = dfc[dfc['score'] < config.THRESHOLD_MIN_SCORE].sort_values(by='score', ascending=False).reset_index(drop=True).head(20)
-# dfc = dfc.sort_values(by='score', ascending=False)
-# dfc = dfc.reset_index(drop=True)
-# dfc = dfc.head(20)
-
-# dal df principale seleziono i conti con score > soglia
+# mantieni solo score >= THRESHOLD_MIN_SCORE
+dfc = df # creo copia di df
 df = df[df['score'] >= config.THRESHOLD_MIN_SCORE]
 df = df.reset_index(drop=True)
 
-# aggiungi data_liturgia iso al df
-df['data'] = data_liturgia
-
-
-### formatting and exporting for librettocanti.it
-json_cols = ['id_canti', 'text_similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
-df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
-print("")
-print("✅ I suggerimenti formattati per librettocanti sono stati scritti nei file json")
-print("📄 File prodotti:")
-print("   data/suggeriti-top20-latest.json")
-
-
-### formatting and exporting for hildegard.it
-
+### export to md per hildegard.it
 # crea una nuova colonna titolo_md che contenga il link al canto su librettocanti.it
 df['titolo_md'] = df.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
 
-dfc['titolo_md'] = dfc.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
+# prima di esportare aggiungi data_liturgia a tutti quelli che saranno json (top20 e i 4 momenti)
+df['data'] = data_liturgia
+
+# score to int
+df['score'] = df['score'].astype(int)
 
 # exclude if momento columns is NaN
 nonan=df.dropna(subset=['momento'])
@@ -403,19 +407,40 @@ suggested_offertorio = nonan[nonan['momento'].str.contains('26')].head(10).filln
 suggested_comunione = nonan[nonan['momento'].str.contains('31')].head(10).fillna('')
 suggested_congedo = nonan[nonan['momento'].str.contains('32')].head(10).fillna('')
 
+# preview of the table md_res
+# print(df.head(20).drop(columns=['titolo_md']).fillna(''))
+
+### export to json for canticristiani
+# forse michele usa data/suggeriti-top20-latest.json, capire
+json_cols = ['id_canti', 'text_similarity', 'label', 'titolo', 'autore', 'raccolta', 'momento', 'link_youtube', 'data']
+
+df.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).head(20).to_json('data/suggeriti-top20-latest.json', orient='records')
+suggested_ingresso.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-ingresso-latest.json', orient='records')
+suggested_offertorio.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-offertorio-latest.json', orient='records')
+suggested_comunione.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-comunione-latest.json', orient='records')
+suggested_congedo.rename(columns={'score': 'text_similarity', 'adeguatezza': 'label'})[json_cols].fillna('').sort_values(by='text_similarity', ascending=False).to_json('data/suggeriti-congedo-latest.json', orient='records')
+
+print("")
+print("✅ I suggerimenti formattati per librettocanti sono stati scritti nei file json")
+print("📄 File prodotti:")
+print("   data/suggeriti-top20-latest.json")
+print("   data/suggeriti-ingresso-latest.json")
+print("   data/suggeriti-offertorio-latest.json")
+print("   data/suggeriti-comunione-latest.json")
+print("   data/suggeriti-congedo-latest.json")
+
+### formatting data for hildegard website
+# capires se si può stare in alto. Mi piacerebbe mantenere una sezione per export per hidlegard e un export per canticristiani
 # mapping columns
 md_cols = ['titolo_md', 'adeguatezza', 'score', 'autore', 'raccolta']
 md_cols_renamed = ['Titolo', 'Adeguatezza', '%' , 'Autore', 'Raccolta']
 
-# export 
+# export
 df[md_cols].head(20).fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).to_csv('data/suggeriti-top20-latest.csv', index=False)
 suggested_ingresso[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).head(10).to_csv('data/suggeriti-ingresso-latest.csv', index=False)
 suggested_offertorio[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).head(10).to_csv('data/suggeriti-offertorio-latest.csv', index=False)
 suggested_comunione[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).head(10).to_csv('data/suggeriti-comunione-latest.csv', index=False)
 suggested_congedo[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).head(10).to_csv('data/suggeriti-congedo-latest.csv', index=False)
-
-# save not selected csv
-dfc[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).to_csv(f'data/not-selected-{data_liturgia_yyyymmdd}.csv', index=False)
 
 # end
 print("")
@@ -426,4 +451,29 @@ print("   data/suggeriti-ingresso-latest.csv")
 print("   data/suggeriti-offertorio-latest.csv")
 print("   data/suggeriti-comunione-latest.csv")
 print("   data/suggeriti-congedo-latest.csv")
-print(f"   data/not-selected-{data_liturgia_yyyymmdd}.csv")
+
+# save extra file for hildegard with 20 not selected songs
+dfc = dfc[dfc['score'] < config.THRESHOLD_MIN_SCORE]
+dfc = dfc.reset_index(drop=True)
+
+# sort by score 
+dfc = dfc.sort_values(by='score', ascending=False)
+
+# select only first 20
+dfc = dfc.head(20)
+
+# creo colonna titolo_md
+dfc['titolo_md'] = dfc.apply(lambda row: row['titolo'] if pd.isnull(row['id_canti']) else '[' + row['titolo'] + '](https://www.librettocanti.it' + str(row['url']) + ')', axis=1)
+
+# score to int
+df['score'] = df['score'].astype(int)
+
+
+# transform data_liturgia from YYYY-MM-DD to YYYYMMDD
+data_liturgia = data_liturgia.replace('-', '')
+
+# save csv named notselected-${data_liturgia}.csv
+dfc[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed))).to_csv(f'data/not-selected-{data_liturgia}.csv', index=False)
+
+print ("")
+print("✅ I canti non selezionati sono stati esportati")
