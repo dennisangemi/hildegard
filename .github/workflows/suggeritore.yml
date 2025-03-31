@@ -45,9 +45,9 @@ jobs:
 
     - name: Setup llm
       env:
-          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
-        run: |
-          echo "$GEMINI_KEY" | llm keys set gemini
+        GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+      run: |
+        echo "$GEMINI_KEY" | llm keys set gemini
 
     - name: Suggerisci i canti della prossima domenica
       run: |-
