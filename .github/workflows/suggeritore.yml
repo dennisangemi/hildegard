@@ -42,9 +42,9 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         uv pip install yq scikit-learn pandas tabulate llm llm-gemini
-        
+
     - name: Setup llm
-        env:
+      env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
         run: |
           echo "$GEMINI_KEY" | llm keys set gemini
