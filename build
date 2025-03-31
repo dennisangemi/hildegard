@@ -93,8 +93,7 @@ path_file_blog_post="$PATH_DIR_BLOG_POST/$BASENAME_FILE_BLOG_POST-$liturgia_data
 
 # generate blog post
 if [ ! -f "$path_file_blog_post" ]; then
-  echo "📝 Generazione del blog post..."
-  echo $LLM_MODEL_DEFAULT
+  echo "📝 Generazione del blog post (modello: $LLM_MODEL_DEFAULT) ..."
 
   build_hai_suggestions_blog_post $liturgia_data_iso \
   $PATH_CALENDARIO_LITURGICO \

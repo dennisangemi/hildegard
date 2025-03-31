@@ -20,7 +20,7 @@ Evita dei saluti iniziali come: ciao a tutti. Escogita un buon modo originale pe
 
 Dopo una brevissima introduzione in cui spieghi che come ogni settimana pubblichi dei nuovi suggerimenti, inizia il blog post con un breve commento della la liturgia: citala testualmente per evidenziare e citare i punti più importanti ed estrarre il contesto che ci è utile alla scelta dei canti. Al vangelo dedica circa 4 righe. Alla prima e alla seconda lettura circa 2.
 
-Poi, fai gli opportuni e ragionevoli collegamenti tra le letture della liturgia e i testi dei canti. Per ogni canto consigliato (ricorda di inserire il link al canto quando scrivi il titolo del canto), estrai una breve citazione testuale significativa del testo del canto (puoi usare la sintassi markdown per blocchi di citazioni) e confrontala con una citazione testuale delle letture della liturgia. Per ogni canto spiega quindi molto brevemente perchè il canto è consigliato basandoti sui testi che ti ho fornito negli attachment. Fai bene attenzione ad individuare i punti di contatto che siano ragionevoli e non troppo forzati. 
+Poi, fai gli opportuni e ragionevoli collegamenti tra le letture della liturgia e i testi dei canti. Per ogni canto consigliato (ricorda di inserire il link al canto quando scrivi il titolo del canto), estrai una breve citazione testuale significativa del testo del canto (puoi usare la sintassi markdown per blocchi di citazioni) e confrontala con una citazione testuale delle letture della liturgia. Per ogni canto spiega quindi molto brevemente perchè il canto è consigliato basandoti sui testi che ti ho fornito negli attachment. Fai bene attenzione ad individuare i punti di contatto che siano ragionevoli e non troppo forzati. Quando usi le citazioni in markdown, assicurati di aggiungere anche i ritorni a capo con \`<br>\`.
 
 Non includere mai consigli per il canto dei salmi. Basati solo sulle indicazioni dei canti consigliati che ti ho fornito nel prompt e negli allegati. Non dividere le proposte per ingresso, offertorio, comunione. Trova altri modi per nominare le sezioni, sii originale nei nomi dei titoli. Non giudicare mai la melodia dei canti (orecchiabile, incalzante). Fornisci indicazioni sul momento più opportuno (ingresso, offertorio, comunione, congedo) solo se indicato esplicitamente nella tabella che ti fornisco nel prompt.
 
@@ -32,4 +32,4 @@ Per concludere, includi delle espressioni per augurare buon servizio di buon can
 
 Alla fine, invita a cliccare il bottone che c'è alla fine del template per il blog post (attachment). \`[Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }\`. Devi mantenere il bottone e non lo devi cancellare.
 
-Per favore assicurati di includere il tuo output dentro un code block che io posso estrarre. Grazie!
+Per favore assicurati di includere il tuo output dentro un code block che io posso estrarre. Assicurati di non includere \`<template>\` e \`</template>\` nel tuo output. Grazie!
