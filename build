@@ -89,7 +89,7 @@ add_element_to_mkdocs_nav "mkdocs.yml" "$(date -d $liturgia_data_iso +%Y)" "arch
 echo "📂 Archivio aggiornato"
 
 # build blog post filename
-path_file_blog_post="$PATH_DIR_BLOG_POST/$BASENAME_FILE_BLOG_POST-$liturgia_data_yyyymmdd-test.md" # TO UPDATE
+path_file_blog_post="$PATH_DIR_BLOG_POST/$BASENAME_FILE_BLOG_POST-$liturgia_data_yyyymmdd.md"
 
 # generate blog post
 if [ ! -f "$path_file_blog_post" ]; then
