@@ -41,7 +41,13 @@ jobs:
         cd ~/bin
         chmod +x mlr
         chmod +x scrape
-        uv pip install yq scikit-learn pandas tabulate
+        uv pip install yq scikit-learn pandas tabulate llm llm-gemini
+        
+    - name: Setup llm
+        env:
+          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+        run: |
+          echo "$GEMINI_KEY" | llm keys set gemini
 
     - name: Suggerisci i canti della prossima domenica
       run: |-
