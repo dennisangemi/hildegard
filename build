@@ -17,6 +17,7 @@ source ./scripts/functions/get_liturgia
 source ./scripts/functions/convert_iso_to_extended_date
 source ./scripts/functions/convert_iso_to_weekday
 source ./scripts/functions/add_element_to_mkdocs_nav
+source ./scripts/functions/build_hai_suggestions_blog_post
 
 # crea cartella data se non esiste
 if [ ! -d "$PATH_DATA" ]; then
@@ -68,6 +69,7 @@ echo "✅ Individuata liturgia"
 
 # build website homepage
 ./scripts/build_page
+echo "✅ Homepage pronta"
 
 # organize files 
 cp $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-latest.csv $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-$liturgia_data_yyyymmdd.csv
@@ -86,5 +88,39 @@ mv tmp.md "$suggerimenti_on_archive_path"
 add_element_to_mkdocs_nav "mkdocs.yml" "$(date -d $liturgia_data_iso +%Y)" "archivio/$liturgia_data_estesa.md"
 echo "📂 Archivio aggiornato"
 
-echo "✅ Suggerimenti pronti"
-echo "✅ Homepage pronta"
+# generate blog post
+
+# to do
+# substitute hardoded files with variables (per ora va bene così)
+
+# build blog post filename
+path_file_blog_post="$PATH_DIR_BLOG_POST/$BASENAME_FILE_BLOG_POST-$liturgia_data_yyyymmdd-testingv2.md"
+
+# genera il blog post solo se il file non esite
+if [ ! -f "$path_file_blog_post" ]; then
+  echo "📝 Generazione del blog post..."
+  echo $LLM_MODEL_DEFAULT
+
+  build_hai_suggestions_blog_post $liturgia_data_iso \
+  $PATH_CALENDARIO_LITURGICO \
+  $PATH_LITURGIE \
+  $PATH_DATA_TOP20 $PATH_DATA_INGRESSO $PATH_DATA_OFFERTORIO $PATH_DATA_COMUNIONE $PATH_DATA_CONGEDO \
+  $PATH_TEMPLATE_BLOG_POST \
+  $PATH_CANTI \
+  $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-$liturgia_data_yyyymmdd.csv \
+  40 \
+  temp_hai_attachment_$liturgia_data_yyyymmdd.md \
+  $LLM_MODEL_DEFAULT $LLM_TEMPERATURE_DEFAULT \
+  $PATH_FILE_SYSTEM_PROMPT_HAI_SUGGESTIONS > $path_file_blog_post || \
+  {
+    echo "❌ Errore durante la generazione del blog post" >&2
+    exit 1
+  }
+
+  echo "✅ Blog post dei suggerimenti pronto"
+else
+  echo "❌ Il file $path_file_blog_post esiste già. Non verrà sovrascritto."
+  exit 1
+fi
+
+echo "✅ Script completato con successo"
