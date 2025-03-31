@@ -31,4 +31,4 @@ chmod +x ./build
 ```
 
 ## Note e ringraziamenti
-I testi dei canti provengono da http://librettocanti.it/ sviluppato da Michele Mammini. A lui il nostro più sincero ringraziamento.
+I testi dei canti provengono da [librettocanti.it](https://www.librettocanti.it/) sviluppato da Michele Mammini. A lui il nostro più sincero ringraziamento.
