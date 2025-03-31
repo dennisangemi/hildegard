@@ -1,23 +1,3 @@
----
-title: Suggerimenti di animazione liturgica
-description: I canti suggeriti per la liturgia di Domenica 6 aprile 2025 
-hide:
-  - navigation
-comments: true
----
-
-# **Suggerimenti**<br>di animazione liturgica
-
-Non sai quali canti liturgici selezionare per le celebrazioni della S. Messa della prossima domenica? Sei nel posto giusto. Qui troverai una lista di canti che potrebbero rivelarsi adeguati alla liturgia.
-    
-??? quote "Leggi la liturgia"
-
-    {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
-
-    ---
-
-    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20250406){ .md-button }
-
 ## :material-music-note-plus: Canti suggeriti per Domenica 6 aprile 2025
 
 Ecco alcuni canti i cui testi sono più simili alla liturgia, indipendentemente dal momento liturgico
