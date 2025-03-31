@@ -115,7 +115,6 @@ if [ ! -f "$path_file_blog_post" ]; then
   echo "✅ Blog post dei suggerimenti pronto"
 else
   echo "❌ Il file $path_file_blog_post esiste già. Non verrà sovrascritto."
-  exit 1
 fi
 
 echo "✅ Script completato con successo"
