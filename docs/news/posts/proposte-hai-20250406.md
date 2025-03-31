@@ -39,41 +39,41 @@ Le letture di questa domenica offrono molti spunti per la scelta dei canti, capa
 
 Il canto **[Grandi cose](https://www.librettocanti.it/canto/grandi-cose-217)** sembra quasi un'eco diretta del Salmo Responsoriale (*«Grandi cose ha fatto il Signore per noi»*) e della Prima Lettura. Le parole:
 
-> Grandi cose ha fatto il Signore per noi,
-> Ha fatto germogliare i fiori tra le rocce.
+> Grandi cose ha fatto il Signore per noi, <br>
+> Ha fatto germogliare i fiori tra le rocce. <br>
 
 riecheggiano la promessa di Isaia di far germogliare novità anche nel deserto. Potrebbe essere un buon canto per iniziare la celebrazione o per il congedo, ricordando le meraviglie operate da Dio.
 
 Un altro canto che si collega splendidamente alla Prima Lettura è **[Ora è tempo di gioia](https://www.librettocanti.it/canto/ora-tempo-di-gioia-339)**. Il testo stesso cita quasi letteralmente il profeta:
 
-> Ora è tempo di gioia
-> non ve ne accorgete?
-> Ecco faccio una cosa nuova,
-> nel deserto una strada aprirò
+> Ora è tempo di gioia <br>
+> non ve ne accorgete? <br>
+> Ecco faccio una cosa nuova, <br>
+> nel deserto una strada aprirò <br>
 
 Questo canto potrebbe sottolineare il tema della novità e della speranza durante la Comunione.
 
 **[Come è grande](https://www.librettocanti.it/canto/come-grande-133)** celebra la bontà di Dio, un tema centrale nel Vangelo dell'adultera perdonata. Il riferimento all'acqua può richiamare anche l'immagine usata da Isaia:
 
-> Come è chiara l’acqua alla tua fonte
-> Per chi ha sete ed è stanco di cercare...
+> Come è chiara l’acqua alla tua fonte <br>
+> Per chi ha sete ed è stanco di cercare... <br>
 
 Potrebbe essere adatto alla Comunione, momento in cui si sperimenta la bontà e la misericordia del Signore che si dona.
 
 Il canto **[Tu sei il Cristo](https://www.librettocanti.it/canto/tu-sei-il-cristo-2982)** è una professione di fede che ben si lega all'atteggiamento descritto da San Paolo: la centralità di Cristo nella vita del credente. Le parole:
 
-> Signore, fa' che la mia fede
-> sia forte non tema nessuna avversità...
-> Ti seguiremo per le vie del mondo...
-> porteremo il tuo amore.
+> Signore, fa' che la mia fede <br>
+> sia forte non tema nessuna avversità... <br>
+> Ti seguiremo per le vie del mondo... <br>
+> porteremo il tuo amore. <br>
 
 possono risuonare dopo aver meditato sulla forza della fede in Filippesi e sull'invito del Vangelo a portare amore e perdono, non condanna. Una possibile scelta per la Comunione.
 
 Infine, **[Il canto dell’amore](https://www.librettocanti.it/canto/il-canto-dell-amore-224)** riprende temi presenti in Isaia, come la presenza di Dio nel deserto e il valore unico del suo popolo:
 
-> Se dovrai attraversare il deserto,
-> non temere io sarò con te...
-> Perché tu sei prezioso ai miei occhi...
+> Se dovrai attraversare il deserto, <br>
+> non temere io sarò con te... <br>
+> Perché tu sei prezioso ai miei occhi... <br>
 
 Questa affermazione del valore della persona agli occhi di Dio si collega profondamente al gesto di Gesù nel Vangelo, che salva la donna dalla lapidazione riconoscendone la dignità. Adatto anch'esso alla Comunione.
 
