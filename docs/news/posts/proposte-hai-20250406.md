@@ -15,7 +15,7 @@ Riflessioni sulla liturgia della V Domenica di Quaresima e suggerimenti per i ca
 
 !!! asterisk "AI generated content"
 
-    Questo post è generato da un'IA. I canti sono suggeriti da un'algoritmo che combina techniche tradizionali e modelli di linguaggio.
+    Questo post è generato da un'IA. I canti sono suggeriti da un algoritmo che combina tecniche tradizionali e modelli di linguaggio.
 
 <br>
 
