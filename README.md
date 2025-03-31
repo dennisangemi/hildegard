@@ -18,9 +18,9 @@ Clone/download this repo
     sudo cp ./bin/mlr /usr/bin
     sudo chmod +x /usr/bin/mlr
     ```
-- python packages: yq, scikit-learn, pandas, tabulate
+- python packages: yq, scikit-learn, pandas, tabulate, llm
   ```sh
-  pip install yq scikit-learn pandas tabulate
+  pip install yq scikit-learn pandas tabulate llm llm-gemini
   ```
 
 ### How to build
