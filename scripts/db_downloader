@@ -9,8 +9,8 @@ source <(grep = scripts/config.ini)
 IDS_FILE="data/id_canti.txt"
 
 # importa funzioni
-source ./scripts/get_text_by_id
-source ./scripts/get_anagrafica
+source ./scripts/functions/get_text_by_id
+source ./scripts/functions/get_anagrafica
 
 # get access token
 echo "🔑 Ottengo l'access token..."
