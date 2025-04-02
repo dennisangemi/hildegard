@@ -9,6 +9,8 @@ theme:
   language: it
   features:
     - navigation.tabs
+    - navigation.tabs.sticky    # Abilitiamo le tabs sticky per evitare che vengano tagliate
+    - header.autohide          # Opzionale: nasconde l'header durante lo scroll verso il basso
   palette:
   - media: "(prefers-color-scheme)"
     toggle:
@@ -43,6 +45,7 @@ plugins:
       cards_layout_options:
         font_family: Poppins
   - search
+  - macros
   - table-reader
   - blog:
       blog_dir: news
@@ -52,8 +55,13 @@ markdown_extensions:
   - footnotes
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji 
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

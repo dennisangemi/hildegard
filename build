@@ -68,7 +68,7 @@ echo "✅ Individuata liturgia"
 ./scripts/suggeritore.py "$liturgia_data_iso" 
 
 # build website homepage
-./scripts/build_page
+./scripts/build_page_v2
 echo "✅ Homepage pronta"
 
 # organize files 

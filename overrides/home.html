@@ -1,0 +1,36 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}  <!-- Mantenere questo blocco per assicurarci che le tabs siano visualizzate correttamente -->
+{% endblock %}
+
+{% block content %}
+<div class="md-content" style="margin-top: -75px; padding-top: 0;">
+  <div class="md-content__inner md-typeset" style="padding-top: 0; margin-top: 0; max-width: none;">
+    <!-- Hero section a larghezza piena che tocca esattamente la navigation tab -->
+    <div class="bg-gradient-to-r from-primary-500 to-accent-500 shadow-lg w-full" style="width: 100vw; margin-left: calc(-50vw + 50%); position: relative; z-index: 0; margin-top: -1px; border-top: none;">
+      <div class="container mx-auto px-4 md:px-8 lg:px-9 py-12" style="max-width: 63rem;">
+        <div class="md:max-w-3xl ml-0 md:ml-6 lg:ml-10"> <!-- Modificato per spostare leggermente a sinistra -->
+          <h1 class="text-4xl font-extrabold mb-4 text-white" style="color: white !important; font-weight: 800 !important;">Suggerimenti di animazione liturgica</h1>
+          <p class="text-xl mb-6 text-white" style="color: white !important;">Trova i canti più adatti per la liturgia domenicale</p>
+          <div class="flex flex-wrap gap-4">
+            <a href="#canti-suggeriti" class="bg-white text-primary-700 hover:bg-primary-50 font-medium py-2 px-4 rounded-md transition-colors">
+              Scopri i suggerimenti
+            </a>
+            <a href="{{ config.site_url }}/progetto/" class="bg-transparent border border-white text-white hover:bg-white hover:text-primary-700 font-medium py-2 px-4 rounded-md transition-colors" style="color: white !important;" onmouseover="this.style.color='var(--md-primary-fg-color--dark)'" onmouseout="this.style.color='white'">
+              Scopri di più
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Regular content from the page inside a container -->
+    <div class="container mx-auto px-4 md:px-6 lg:px-8 py-8" style="max-width: 61rem;">
+      <div class="md-typeset">
+        {{ page.content | safe }}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
