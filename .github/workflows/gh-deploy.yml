@@ -46,5 +46,5 @@ jobs:
           echo "VIRTUAL_ENV=.venv" >> $GITHUB_ENV
           echo "$PWD/.venv/bin" >> $GITHUB_PATH
 
-      - run: uv pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging] mkdocs-table-reader-plugin mkdocs-glightbox
+      - run: uv pip install mkdocs-material mkdocs-include-markdown-plugin mkdocs-material[imaging] mkdocs-table-reader-plugin mkdocs-glightbox mkdocs-macros-plugin
       - run: mkdocs gh-deploy --force
