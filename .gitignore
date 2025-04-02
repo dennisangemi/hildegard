@@ -21,3 +21,4 @@ useful-files/old-posts/
 improve_copy_home
 scripts/generate_image.sh
 scripts/functions/apply_gradient
+__pycache__/
