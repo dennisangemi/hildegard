@@ -546,3 +546,43 @@
 .hero-primary-button {
   transition: all 0.2s ease;
 }
+
+/* Ottimizzazione spaziatura per mobile */
+@media (max-width: 600px) {
+  /* Riduzione dei margini per le card dei canti su mobile */
+  .grid.md\:grid-cols-2.lg\:grid-cols-3.gap-6.mb-8 {
+    gap: 0.4rem !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Riduzione del padding interno delle card su mobile */
+  .rounded-lg.shadow-md.overflow-hidden .p-5 {
+    padding: 1rem !important;
+  }
+  
+  /* Ottimizzazione del padding per i container generici */
+  .container.mx-auto {
+    padding-left: 0.1rem !important;
+    padding-right: 0.1rem !important;
+  }
+  
+  /* Rimuovi margini eccessivi sul testo nei box */
+  .bg-white.rounded-lg p, 
+  .bg-gray-50.rounded-lg p {
+    margin-bottom: 0.1rem !important;
+  }
+  
+  /* Riduce i margini extra nel contenitore principale */
+  .md-content__inner.md-typeset {
+    padding-left: 0.1rem !important;
+    padding-right: 0.1rem !important;
+  }
+  
+  /* Riduce i margini delle griglie */
+  .grid.md\:grid-cols-2.gap-8.mb-12 {
+    padding-left: 0.2rem !important;
+    padding-right: 0.2rem !important;
+    margin-bottom: 2rem !important;
+  }
+}

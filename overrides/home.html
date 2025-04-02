@@ -10,9 +10,9 @@
     <!-- Hero section a larghezza piena che tocca esattamente la navigation tab -->
     <div class="bg-gradient-to-r from-primary-500 to-accent-500 shadow-lg w-full" style="width: 100vw; margin-left: calc(-50vw + 50%); position: relative; z-index: 0; margin-top: -1px; border-top: none;">
       <div class="container mx-auto px-4 md:px-8 lg:px-9 py-12" style="max-width: 63rem;">
-        <div class="md:max-w-3xl ml-0 md:ml-6 lg:ml-10"> <!-- Modificato per spostare leggermente a sinistra -->
+        <div class="pl-5 md:pl-5 md:max-w-3xl ml-0 md:ml-6 lg:ml-10"> <!-- Aggiunto pl-3 per mobile -->
           <h1 class="text-4xl font-extrabold mb-4 text-white" style="color: white !important; font-weight: 800 !important;">Suggerimenti di animazione liturgica</h1>
-          <p class="text-xl mb-6 text-white" style="color: white !important;">Trova i canti più adatti per la liturgia domenicale</p>
+          <p class="pr-5 text-xl mb-6 text-white" style="color: white !important;">Trova i canti più adatti per la liturgia domenicale</p>
           <div class="flex flex-wrap gap-4">
             <a href="#canti-suggeriti" class="hero-primary-button bg-white text-primary-700 hover:bg-primary-50 font-medium py-2 px-4 rounded-md transition-colors">
               Scopri i suggerimenti
@@ -26,7 +26,7 @@
     </div>
     
     <!-- Regular content from the page inside a container -->
-    <div class="container mx-auto px-4 md:px-6 lg:px-8 py-8" style="max-width: 61rem;">
+    <div class="container mx-auto px-1 sm:px-3 md:px-6 lg:px-8 py-8" style="max-width: 61rem;">
       <div class="md-typeset">
         {{ page.content | safe }}
       </div>
