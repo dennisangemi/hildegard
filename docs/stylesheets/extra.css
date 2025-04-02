@@ -380,3 +380,169 @@
 .md-typeset details.quote > summary {
   font-weight: normal !important;
 }
+
+/* Adattamenti per la modalità dark di Material */
+[data-md-color-scheme="slate"] .bg-white {
+  background-color: var(--md-default-bg-color) !important;
+  border-color: var(--md-default-fg-color--lightest) !important;
+}
+
+[data-md-color-scheme="slate"] .bg-gray-50 {
+  background-color: var(--md-code-bg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .border-gray-100 {
+  border-color: var(--md-default-fg-color--lightest) !important;
+}
+
+[data-md-color-scheme="slate"] .text-gray-600,
+[data-md-color-scheme="slate"] .text-gray-700,
+[data-md-color-scheme="slate"] .text-gray-800 {
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .text-primary-700,
+[data-md-color-scheme="slate"] .text-primary-800 {
+  color: var(--md-primary-fg-color) !important;
+}
+
+/* Adattamento specifico per le icone Material */
+[data-md-color-scheme="slate"] .material-icons {
+  color: inherit;
+}
+
+/* Adattamento per le card dei canti */
+[data-md-color-scheme="slate"] .border-accent-400,
+[data-md-color-scheme="slate"] .border-accent-500 {
+  border-color: var(--md-accent-fg-color) !important;
+}
+
+/* Adattamento per i badge e pulsanti */
+[data-md-color-scheme="slate"] .bg-accent-100 {
+  background-color: var(--md-accent-fg-color--transparent) !important;
+}
+
+[data-md-color-scheme="slate"] .text-accent-800 {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Assicura che i link nelle card mantengano il colore appropriato */
+[data-md-color-scheme="slate"] .text-accent-600 {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Garantisce che il testo dei bottoni sia leggibile */
+[data-md-color-scheme="slate"] a.bg-transparent:hover {
+  color: var(--md-primary-fg-color--dark) !important;
+}
+
+/* Miglioramenti per il callout quote (Leggi la liturgia) in modalità dark */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote,
+[data-md-color-scheme="slate"] .md-typeset details.quote {
+  border-color: var(--md-accent-fg-color--transparent) !important;
+  background-color: var(--md-default-bg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .quote > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .quote > summary {
+  background-color: var(--md-default-bg-color--light) !important;
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote .admonition-content,
+[data-md-color-scheme="slate"] .md-typeset details.quote .admonition-content {
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .quote > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .quote > summary::before {
+  background-color: var(--md-accent-fg-color) !important;
+}
+
+/* Assicura che i link nel callout mantengano il giusto colore in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote a,
+[data-md-color-scheme="slate"] .md-typeset details.quote a {
+  color: var(--md-typeset-a-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote a:hover,
+[data-md-color-scheme="slate"] .md-typeset details.quote a:hover {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Migliora il contrasto per i button nel callout in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote .md-button,
+[data-md-color-scheme="slate"] .md-typeset details.quote .md-button {
+  background-color: var(--md-primary-fg-color) !important;
+  color: var(--md-primary-bg-color) !important;
+  border-color: var(--md-primary-fg-color) !important;
+}
+
+/* Miglioramenti per la leggibilità dei titoli in modalità dark - escludendo l'hero */
+[data-md-color-scheme="slate"] .text-2xl.font-extrabold.text-primary-800,
+[data-md-color-scheme="slate"] .text-xl.font-bold.text-primary-700,
+[data-md-color-scheme="slate"] .text-lg.font-bold.text-primary-700 {
+  color: var(--md-primary-fg-color--light) !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+/* Migliora la leggibilità dei titoli nelle card in modalità dark */
+[data-md-color-scheme="slate"] .bg-white h4.text-lg.font-bold.text-gray-800 {
+  color: white !important; /* Cambiato da var(--md-accent-fg-color--transparent) a bianco per massimo contrasto */
+  text-shadow: 0 1px 3px rgba(0,0,0,0.4); /* Ombra più pronunciata */
+}
+
+/* Miglioramento specifico per il testo nelle card dei canti in modalità dark */
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden .text-gray-600,
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden .text-gray-700 {
+  color: rgba(255, 255, 255, 0.85) !important; /* Testo secondario leggermente più chiaro */
+}
+
+/* Assicura che i titoli dei canti siano sempre ben visibili */
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden {
+  background-color: var(--md-code-bg-color) !important; /* Sfondo leggermente più scuro per le card */
+}
+
+/* Migliora il contrasto per la badge percentuale */
+[data-md-color-scheme="slate"] .bg-accent-100.text-accent-800 {
+  background-color: var(--md-accent-fg-color) !important;
+  color: white !important;
+}
+
+/* Migliora la leggibilità dei titoli generici solo per la modalità dark */
+[data-md-color-scheme="slate"] h1, 
+[data-md-color-scheme="slate"] h2, 
+[data-md-color-scheme="slate"] h3, 
+[data-md-color-scheme="slate"] h4, 
+[data-md-color-scheme="slate"] h5, 
+[data-md-color-scheme="slate"] h6 {
+  color: var(--md-default-fg-color--light) !important;
+}
+
+/* Miglioramenti per il pulsante dell'hero in modalità dark */
+[data-md-color-scheme="slate"] .hero-primary-button {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  color: white !important;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+[data-md-color-scheme="slate"] .hero-primary-button:hover {
+  background-color: rgba(255, 255, 255, 0.25) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+[data-md-color-scheme="slate"] .hero-primary-button:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Assicuriamo transizioni fluide */
+.hero-primary-button {
+  transition: all 0.2s ease;
+}

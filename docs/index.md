@@ -25,7 +25,7 @@ template: home.html
 {% set canti = load_json('data/suggeriti-top20-latest.json') %}
 
 
-## <span class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 6 aprile 2025</span>
+## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 6 aprile 2025</span>
 
 ??? quote "Leggi la liturgia"
 
