@@ -91,7 +91,7 @@ line_end=$(cat "$suggerimenti_on_archive_path" | grep -n "load_json" | cut -d: -
 sed -i "s/suggeriti-top20-latest.json/suggeriti-top20-$liturgia_data_yyyymmdd.json/g" "$suggerimenti_on_archive_path"
 
 # Modify the archive page to reference the dated liturgy file instead of latest
-sed -i "s|https://raw.githubusercontent.com/dennisangemi/hildegard/refs/heads/main/risorse/lezionari/liturgia-latest.txt|../../risorse/lezionari/liturgie/formatted/$id_liturgia.md|g" "$suggerimenti_on_archive_path"
+sed -i "s|../risorse/lezionari/liturgia-latest.txt|../../risorse/lezionari/liturgie/formatted/$id_liturgia.md|g" "$suggerimenti_on_archive_path"
 
 
 # delete from line 1 to line line_end

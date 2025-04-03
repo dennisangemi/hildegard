@@ -28,7 +28,7 @@ template: home.html
 
 ??? quote "Leggi la liturgia"
 
-    {% include-markdown "https://raw.githubusercontent.com/dennisangemi/hildegard/refs/heads/main/risorse/lezionari/liturgia-latest.txt" %}
+    {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
 
     ---
 
