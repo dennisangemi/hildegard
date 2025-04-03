@@ -1,4 +1,4 @@
-{% set canti = load_json('data/suggeriti-top20-latest.json') %}
+{% set canti = load_json('data/suggeriti-top20-20250406.json') %}
 
 ## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 6 aprile 2025</span>
 

@@ -73,12 +73,17 @@ echo "✅ Homepage pronta"
 
 # organize files 
 cp $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-latest.csv $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-$liturgia_data_yyyymmdd.csv
+# Copy the JSON file with a date-specific filename
+cp $PATH_DATA/suggeriti-top20-latest.json $PATH_DATA/suggeriti-top20-$liturgia_data_yyyymmdd.json
 
 suggerimenti_on_archive_path="docs/archivio/$liturgia_data_estesa.md"
 cp $PATH_HOMEPAGE "$suggerimenti_on_archive_path"
 
 # clean suggerimenti on archive
 line_end=$(cat "$suggerimenti_on_archive_path" | grep -n "load_json" | cut -d: -f1)
+
+# Modify the archive page to reference the dated JSON file instead of latest
+sed -i "s/suggeriti-top20-latest.json/suggeriti-top20-$liturgia_data_yyyymmdd.json/g" "$suggerimenti_on_archive_path"
 
 # delete from line 1 to line line_end
 tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md
