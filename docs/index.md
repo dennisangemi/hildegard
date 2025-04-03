@@ -24,7 +24,6 @@ template: home.html
 {% import 'macros.html' as macros %}
 {% set canti = load_json('data/suggeriti-top20-latest.json') %}
 
-
 ## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 6 aprile 2025</span>
 
 ??? quote "Leggi la liturgia"
@@ -71,25 +70,25 @@ Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono s
     | Titolo | Adeguatezza | % | Autore | Raccolta |
     | --- | --- | --- | --- | --- |
     | [Gesù che sta passando](https://www.librettocanti.it/canto/ges-che-sta-passando-2337) | :material-dots-horizontal: Mh | 48 | Figli del Divino Amore |  |
-    | [Io credo in te Gesù](https://www.librettocanti.it/canto/io-credo-in-te-ges-1678) | :material-dots-horizontal: Mh | 47 | RnS - Reuben Morgan | Io credo |
     | [Il Signore della danza](https://www.librettocanti.it/canto/il-signore-della-danza-1555) | :material-dots-horizontal: Mh | 47 |  |  |
-    | [E la strada si apre](https://www.librettocanti.it/canto/e-la-strada-si-apre-1880) | :material-dots-horizontal: Mh | 46 | Gen Arcobaleno |  |
+    | [Io credo in te Gesù](https://www.librettocanti.it/canto/io-credo-in-te-ges-1678) | :material-dots-horizontal: Mh | 47 | RnS - Reuben Morgan | Io credo |
+    | [Canzone della speranza](https://www.librettocanti.it/canto/canzone-della-speranza-1616) | :material-dots-horizontal: Mh | 46 | Paolo Iotti |  |
     | [Nostra gloria è la Croce](https://www.librettocanti.it/canto/nostra-gloria-la-croce-2798) | :material-dots-horizontal: Mh | 46 | Dargenio |  |
     | [Cristo è risorto veramente](https://www.librettocanti.it/canto/cristo-risorto-veramente-145) | :material-dots-horizontal: Mh | 46 | RnS | Venti dello Spirito |
     | [Canto di contrizione](https://www.librettocanti.it/canto/canto-di-contrizione-2115) | :material-dots-horizontal: Mh | 46 | Valmaggi |  |
     | [Io credo in te Gesù (v2)](https://www.librettocanti.it/canto/io-credo-in-te-ges-v2-2393) | :material-dots-horizontal: Mh | 46 | RnS - Reuben Morgan | Io credo |
-    | [Canzone della speranza](https://www.librettocanti.it/canto/canzone-della-speranza-1616) | :material-dots-horizontal: Mh | 46 | Paolo Iotti |  |
+    | [E la strada si apre](https://www.librettocanti.it/canto/e-la-strada-si-apre-1880) | :material-dots-horizontal: Mh | 46 | Gen Arcobaleno |  |
+    | [Dio della storia](https://www.librettocanti.it/canto/dio-della-storia-2921) | :material-dots-horizontal: Mh | 45 | RnS | Mi ami tu? |
     | [Ora che sei qui (Now That You're Near)](https://www.librettocanti.it/canto/ora-che-sei-qui-now-that-you-re-near-2553) | :material-dots-horizontal: Mh | 45 | Hillsong  |  |
     | [Laudato sii, o mi Signore](https://www.librettocanti.it/canto/laudato-sii-o-mi-signore-278) | :material-dots-horizontal: Mh | 45 | --- |  |
-    | [Dio della storia](https://www.librettocanti.it/canto/dio-della-storia-2921) | :material-dots-horizontal: Mh | 45 | RnS | Mi ami tu? |
-    | [E pace intima](https://www.librettocanti.it/canto/e-pace-intima-177) | :material-dots-horizontal: Mh | 45 | Gen Rosso | Se siamo uniti |
     | [Alla mensa del Signore](https://www.librettocanti.it/canto/alla-mensa-del-signore-13) | :material-dots-horizontal: Mh | 45 | Francesco Buttazzo |  |
-    | [Luce per noi](https://www.librettocanti.it/canto/luce-per-noi-2104) | :material-dots-horizontal: Mh | 43 | Oratorio Salesiano di Arese |  |
-    | [Dio aprirà una via](https://www.librettocanti.it/canto/dio-aprir-una-via-1686) | :material-dots-horizontal: Mh | 43 | Don Moen |  |
-    | [Chi ha sete](https://www.librettocanti.it/canto/chi-ha-sete-1757) | :material-dots-horizontal: Mh | 43 | Charles Christmas |  |
-    | [E lo credemmo abbandonato da DIo](https://www.librettocanti.it/canto/e-lo-credemmo-abbandonato-da-dio-2301) | :material-dots-horizontal: Mh | 43 | Pierangelo Sequeri |  |
-    | [I Tuoi passi](https://www.librettocanti.it/canto/i-tuoi-passi-222) | :material-dots-horizontal: Mh | 43 | padre daniele  |  |
+    | [E pace intima](https://www.librettocanti.it/canto/e-pace-intima-177) | :material-dots-horizontal: Mh | 45 | Gen Rosso | Se siamo uniti |
     | [Il Figliol Prodigo (Abbracciami Gesù)](https://www.librettocanti.it/canto/il-figliol-prodigo-abbracciami-ges-1596) | :material-dots-horizontal: Mh | 43 | Figli del Divino Amore |  |
+    | [Chi ha sete](https://www.librettocanti.it/canto/chi-ha-sete-1757) | :material-dots-horizontal: Mh | 43 | Charles Christmas |  |
+    | [I Tuoi passi](https://www.librettocanti.it/canto/i-tuoi-passi-222) | :material-dots-horizontal: Mh | 43 | padre daniele  |  |
+    | [Luce per noi](https://www.librettocanti.it/canto/luce-per-noi-2104) | :material-dots-horizontal: Mh | 43 | Oratorio Salesiano di Arese |  |
+    | [E lo credemmo abbandonato da DIo](https://www.librettocanti.it/canto/e-lo-credemmo-abbandonato-da-dio-2301) | :material-dots-horizontal: Mh | 43 | Pierangelo Sequeri |  |
+    | [Dio aprirà una via](https://www.librettocanti.it/canto/dio-aprir-una-via-1686) | :material-dots-horizontal: Mh | 43 | Don Moen |  |
 ## Note
 !!! warning "Attenzione"
     I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/).

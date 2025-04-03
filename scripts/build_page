@@ -33,30 +33,7 @@ sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOM
 # replace url liturgia cei placeholder with url liturgia cei
 sed -i "s#$PLACEHOLDER_URL_CEI#$URL_LITURGIA_CEI$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
 
-# compile rest of the page (tables with suggested songs)
-mlr --c2m cat $PATH_DATA_TOP20 >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
 
-echo "Di seguito i canti suggeriti per i vari momenti della liturgia" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-
-echo "### Ingresso" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-check_and_print $PATH_DATA_INGRESSO
-echo "" >> $PATH_HOMEPAGE
-
-echo "### Offertorio" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-check_and_print $PATH_DATA_OFFERTORIO
-echo "" >> $PATH_HOMEPAGE
-
-echo "### Comunione" >> $PATH_HOMEPAGE
-check_and_print $PATH_DATA_COMUNIONE
-echo "" >> $PATH_HOMEPAGE
-
-echo "### Congedo" >> $PATH_HOMEPAGE
-check_and_print $PATH_DATA_CONGEDO
-echo "" >> $PATH_HOMEPAGE
 
 # aggiungo ulteriori canti non selezionati
 echo "### Altro" >> $PATH_HOMEPAGE

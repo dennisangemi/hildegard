@@ -68,7 +68,7 @@ echo "✅ Individuata liturgia"
 ./scripts/suggeritore.py "$liturgia_data_iso" 
 
 # build website homepage
-./scripts/build_page_v2
+./scripts/build_page
 echo "✅ Homepage pronta"
 
 # organize files 
@@ -78,7 +78,7 @@ suggerimenti_on_archive_path="docs/archivio/$liturgia_data_estesa.md"
 cp $PATH_HOMEPAGE "$suggerimenti_on_archive_path"
 
 # clean suggerimenti on archive
-line_end=$(cat "$suggerimenti_on_archive_path" | grep -n ":material-music" | cut -d: -f1)
+line_end=$(cat "$suggerimenti_on_archive_path" | grep -n "load_json" | cut -d: -f1)
 
 # delete from line 1 to line line_end
 tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md
