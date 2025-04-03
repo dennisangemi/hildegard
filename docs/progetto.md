@@ -139,7 +139,7 @@ Ogni settimana, l'algoritmo su cui si basa questo strumento confronta la liturgi
 
     ### Pesi delle Metriche
 
-    {{ read_csv('data/score_weights.csv') }}
+    {{ safe_read_csv('data/score_weights.csv') }}
 
     ### Componenti della Formula
 

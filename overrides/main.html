@@ -47,7 +47,8 @@
         'admonition', 
         'admonition-title', 
         'md-typeset',
-        'quote'
+        'quote',
+        'csv-table-wrapper'
       ]
     }
   </script>
@@ -68,6 +69,30 @@
     /* Ensure Tailwind container doesn't break Material layout */
     .tw-container {
       width: 100%;
+    }
+    
+    /* Protect CSV tables from Tailwind styles */
+    .csv-table-wrapper table {
+      display: table;
+      width: 100%;
+      margin: 1em 0;
+      border-collapse: collapse;
+    }
+    
+    .csv-table-wrapper th,
+    .csv-table-wrapper td {
+      padding: 0.5em 1em;
+      border: 1px solid var(--md-default-fg-color--lightest);
+      text-align: left;
+    }
+    
+    .csv-table-wrapper th {
+      background-color: var(--md-default-fg-color--lighter);
+      font-weight: bold;
+    }
+    
+    .csv-table-wrapper tr:nth-child(even) {
+      background-color: var(--md-code-bg-color);
     }
   </style>
 {% endblock %}

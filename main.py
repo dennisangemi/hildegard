@@ -1,5 +1,6 @@
 import json
 import os
+import csv
 
 def define_env(env):
     """
@@ -43,3 +44,40 @@ def define_env(env):
                 result.append(canto)
                 
         return result
+    
+    @env.macro
+    def safe_read_csv(filepath):
+        """
+        Safely read CSV file and convert to Markdown table format
+        that's compatible with Tailwind CSS
+        """
+        base_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "")
+        full_path = os.path.join(base_path, filepath)
+        
+        try:
+            with open(full_path, 'r', encoding='utf-8') as f:
+                reader = csv.reader(f)
+                headers = next(reader)
+                rows = list(reader)
+                
+                # Generate Markdown table with class to protect from Tailwind
+                table_html = '<div class="csv-table-wrapper md-typeset__table"><table>'
+                
+                # Add headers
+                table_html += '<thead><tr>'
+                for header in headers:
+                    table_html += f'<th>{header}</th>'
+                table_html += '</tr></thead>'
+                
+                # Add rows
+                table_html += '<tbody>'
+                for row in rows:
+                    table_html += '<tr>'
+                    for cell in row:
+                        table_html += f'<td>{cell}</td>'
+                    table_html += '</tr>'
+                table_html += '</tbody></table></div>'
+                
+                return table_html
+        except Exception as e:
+            return f'<div class="csv-error">Error loading CSV: {str(e)}</div>'
