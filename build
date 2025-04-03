@@ -48,6 +48,11 @@ liturgia_data_yyyymmdd=$(date -d $liturgia_data_iso +%Y%m%d)
 liturgia_data_estesa=$(convert_iso_to_extended_date "$liturgia_data_iso")
 liturgia_weekday=$(convert_iso_to_weekday "$liturgia_data_iso")
 
+# id liturgia
+id_liturgia=$(mlr --csv filter '$date == "'"$liturgia_data_iso"'"' "$PATH_CALENDARIO_LITURGICO" | mlr --csv cut -f id_liturgia | mlr --c2n cat)
+echo "id liturgia: $id_liturgia"
+
+
 get_liturgia "$liturgia_data_iso" "$PATH_CALENDARIO_LITURGICO" "$PATH_LITURGIE_FORMATTED" > $PATH_LITURGIA
 
 # se get liturgia ritorna errore, esci
@@ -84,6 +89,10 @@ line_end=$(cat "$suggerimenti_on_archive_path" | grep -n "load_json" | cut -d: -
 
 # Modify the archive page to reference the dated JSON file instead of latest
 sed -i "s/suggeriti-top20-latest.json/suggeriti-top20-$liturgia_data_yyyymmdd.json/g" "$suggerimenti_on_archive_path"
+
+# Modify the archive page to reference the dated liturgy file instead of latest
+sed -i "s|https://raw.githubusercontent.com/dennisangemi/hildegard/refs/heads/main/risorse/lezionari/liturgia-latest.txt|../../risorse/lezionari/liturgie/formatted/$id_liturgia.md|g" "$suggerimenti_on_archive_path"
+
 
 # delete from line 1 to line line_end
 tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md

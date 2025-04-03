@@ -4,7 +4,7 @@
 
 ??? quote "Leggi la liturgia"
 
-    {% include-markdown "https://raw.githubusercontent.com/dennisangemi/hildegard/refs/heads/main/risorse/lezionari/liturgia-latest.txt" %}
+    {% include-markdown "../../risorse/lezionari/liturgie/formatted/C18-C.md" %}
 
     ---
 
