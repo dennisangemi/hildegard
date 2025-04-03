@@ -48,7 +48,16 @@
         'admonition-title', 
         'md-typeset',
         'quote',
-        'csv-table-wrapper'
+        'csv-table-wrapper',
+        'md-header',
+        'md-tabs',
+        'md-sidebar',
+        'md-sidebar--primary',
+        'md-sidebar--secondary',
+        'md-nav',
+        'md-nav__title',
+        'md-nav__item',
+        'md-nav__link'
       ]
     }
   </script>
@@ -93,6 +102,47 @@
     
     .csv-table-wrapper tr:nth-child(even) {
       background-color: var(--md-code-bg-color);
+    }
+    
+    /* Fix mobile navigation issues */
+    @media screen and (max-width: 76.1875em) {
+      /* Ensure proper layering for navigation elements */
+      .md-header {
+        position: sticky !important;
+        z-index: 10 !important;
+      }
+      
+      .md-tabs {
+        position: sticky !important;
+        top: 0;
+        z-index: 2 !important;
+      }
+      
+      /* Fix sidebar positioning relative to tabs */
+      .md-sidebar--primary {
+        position: fixed !important;
+        top: 0 !important;
+        z-index: 11 !important;
+        height: 100vh !important;
+        padding-top: 2.4rem !important;
+        transform: translateX(0);
+      }
+      
+      /* When sidebar is not active, ensure it's hidden properly */
+      [data-md-toggle="drawer"]:not(:checked) ~ .md-container .md-sidebar--primary {
+        transform: translateX(-100%);
+      }
+      
+      /* Adjust nav menu height to not be cut off */
+      .md-sidebar--primary .md-sidebar__scrollwrap {
+        height: calc(100vh - 2.4rem) !important;
+        overflow-y: auto !important;
+      }
+      
+      /* Ensure navigation tabs don't overlap with sidebar */
+      .md-sidebar--primary.md-sidebar--open ~ .md-content {
+        margin-top: 0 !important;
+      }
     }
   </style>
 {% endblock %}
