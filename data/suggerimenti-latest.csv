@@ -1,7 +1,7 @@
 id_canti,titolo,score_vector_similarity,score_text_similarity,score_deviation,score_selection,score_history,score,adeguatezza
 217,Grandi cose,,0.53,0.33,,1.0,69,:material-dots-horizontal: Mh
-1686,Dio aprirà una via,,0.49,0.35,0.7,,62,:material-check: Buona
 339,Ora è tempo di gioia,,0.59,0.48,,0.64,57,:material-dots-horizontal: Mh
+1686,Dio aprirà una via,,0.49,0.35,0.65,,57,:material-dots-horizontal: Mh
 133,Come è grande,0.6441570230274072,0.59,0.37,,,54,:material-dots-horizontal: Mh
 2982,Tu sei il Cristo,,0.59,0.4,,,51,:material-dots-horizontal: Mh
 224,Il canto dell’amore,,0.57,0.41,,,50,:material-dots-horizontal: Mh
