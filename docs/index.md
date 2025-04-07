@@ -70,21 +70,21 @@ Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono s
     | Titolo | Adeguatezza | % | Autore | Raccolta |
     | --- | --- | --- | --- | --- |
     | [Nostalgia d’una sorgente](https://www.librettocanti.it/canto/nostalgia-d-una-sorgente-327) | :material-dots-horizontal: Mh | 49 | Giosy Cento |  |
-    | [Cosa renderti](https://www.librettocanti.it/canto/cosa-renderti-2233) | :material-dots-horizontal: Mh | 49 |  |  |
     | [Sai fischiare?](https://www.librettocanti.it/canto/sai-fischiare-2099) | :material-dots-horizontal: Mh | 49 | Verdi Note dell'Antoniano | Estate Ragazzi con Le Verdi Note dell'Antoniano |
+    | [Cosa renderti](https://www.librettocanti.it/canto/cosa-renderti-2233) | :material-dots-horizontal: Mh | 49 |  |  |
     | [Madre io vorrei](https://www.librettocanti.it/canto/madre-io-vorrei-295) | :material-dots-horizontal: Mh | 49 | Pierangelo Sequeri | E mi sorprende |
     | [Cantico delle creature](https://www.librettocanti.it/canto/cantico-delle-creature-2203) | :material-dots-horizontal: Mh | 48 | Marco Frisina | Tu sei bellezza |
-    | [Il Signore della danza](https://www.librettocanti.it/canto/il-signore-della-danza-1555) | :material-dots-horizontal: Mh | 48 |  |  |
     | [E correremo insieme](https://www.librettocanti.it/canto/e-correremo-insieme-169) | :material-dots-horizontal: Mh | 48 | Giosy Cento |  |
+    | [Il Signore della danza](https://www.librettocanti.it/canto/il-signore-della-danza-1555) | :material-dots-horizontal: Mh | 48 |  |  |
     | [Io non sono degno](https://www.librettocanti.it/canto/io-non-sono-degno-253) | :material-dots-horizontal: Mh | 48 | Claudio Chieffo | È bella la strada |
-    | [Non mi abbandonare](https://www.librettocanti.it/canto/non-mi-abbandonare-1775) | :material-dots-horizontal: Mh | 47 | L. Scaglianti |  |
-    | [Gesù gridò Mashalem](https://www.librettocanti.it/canto/ges-grid-mashalem-1597) | :material-dots-horizontal: Mh | 47 | Cantàmmo a Gesù |  |
-    | [Giullare dei campi](https://www.librettocanti.it/canto/giullare-dei-campi-2077) | :material-dots-horizontal: Mh | 47 | P. Pignatelli |  |
-    | [Non più due (Buttazzo)](https://www.librettocanti.it/canto/non-pi-due-buttazzo-1467) | :material-dots-horizontal: Mh | 47 | Buttazzo |  |
     | [Disse un giorno il Padre](https://www.librettocanti.it/canto/disse-un-giorno-il-padre-2728) | :material-dots-horizontal: Mh | 47 | G.Stefani - M.Giombini  |  |
+    | [Non più due (Buttazzo)](https://www.librettocanti.it/canto/non-pi-due-buttazzo-1467) | :material-dots-horizontal: Mh | 47 | Buttazzo |  |
+    | [Non mi abbandonare](https://www.librettocanti.it/canto/non-mi-abbandonare-1775) | :material-dots-horizontal: Mh | 47 | L. Scaglianti |  |
     | [Tu sei qui (Way maker)](https://www.librettocanti.it/canto/tu-sei-qui-way-maker-2575) | :material-dots-horizontal: Mh | 47 | Leeland |  |
-    | [Nascerà](https://www.librettocanti.it/canto/nascer-2550) | :material-dots-horizontal: Mh | 46 | Gen Rosso |  |
+    | [Giullare dei campi](https://www.librettocanti.it/canto/giullare-dei-campi-2077) | :material-dots-horizontal: Mh | 47 | P. Pignatelli |  |
+    | [Gesù gridò Mashalem](https://www.librettocanti.it/canto/ges-grid-mashalem-1597) | :material-dots-horizontal: Mh | 47 | Cantàmmo a Gesù |  |
     | [Il figliol prodigo](https://www.librettocanti.it/canto/il-figliol-prodigo-227) | :material-dots-horizontal: Mh | 46 | Vittorio Nadalin |  |
+    | [Nascerà](https://www.librettocanti.it/canto/nascer-2550) | :material-dots-horizontal: Mh | 46 | Gen Rosso |  |
     | [La trasfigurazione](https://www.librettocanti.it/canto/la-trasfigurazione-2269) | :material-dots-horizontal: Mh | 46 | Marco Frisina | Non di solo pane |
     | [Il Figliol Prodigo (Abbracciami Gesù)](https://www.librettocanti.it/canto/il-figliol-prodigo-abbracciami-ges-1596) | :material-dots-horizontal: Mh | 46 | Figli del Divino Amore |  |
     | [Grazie Gesù](https://www.librettocanti.it/canto/grazie-ges-2453) | :material-dots-horizontal: Mh | 45 | Giulia e Tommaso Fasano | Festa di prima Comunione |
