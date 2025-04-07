@@ -28,7 +28,7 @@ Il **Vangelo della processione** (Luca 19) ci mostra Gesù che entra acclamato c
 
 La **prima lettura** (Isaia 50), tratta dal terzo canto del Servo del Signore, ci presenta una figura obbediente e disposta ad affrontare la sofferenza e l'umiliazione: *«Non ho sottratto la faccia agli insulti e agli sputi»*, sostenuto però dalla certezza dell'aiuto divino.
 
-San Paolo, nella **seconda lettura** ai Filippesi (2), ci offre un inno meraviglioso sull'abbassamento volontario di Cristo: *«svuotò se stesso assumendo una condizione di servo... facendosi obbediente fino alla morte e a una morte di croce»*. Questo gesto di suprema umiliazione è la via per la sua esaltazione da parte del Padre.
+San Paolo, nella **seconda lettura**, ci offre un inno meraviglioso sull'abbassamento volontario di Cristo: *«svuotò se stesso assumendo una condizione di servo... facendosi obbediente fino alla morte e a una morte di croce»*. Questo gesto di suprema umiliazione è la via per la sua esaltazione da parte del Padre.
 
 Infine, il lungo e toccante **racconto della Passione secondo Luca** ci immerge nel cuore del mistero pasquale: dall'Ultima Cena all'agonia nel Getsemani, dal tradimento di Giuda al rinnegamento di Pietro, dal processo ingiusto davanti a Pilato ed Erode fino alla crocifissione. Qui risuonano parole potenti come *«Padre, perdona loro perché non sanno quello che fanno»* e l'ultimo affidamento *«Padre, nelle tue mani consegno il mio spirito»*.
 
@@ -53,7 +53,7 @@ La seconda lettura ci offre una chiave teologica fondamentale per comprendere la
 > obbediente fino alla morte per noi,<br>
 > fino alla morte di croce.
 
-Questo brano, che riecheggia Filippesi 2, *«umiliò se stesso facendosi obbediente fino alla morte e a una morte di croce»*, potrebbe essere un ottimo spunto di meditazione, magari in un momento di riflessione silenziosa dopo la lettura della Passione, per contemplare il mistero della *kenosis* di Cristo per la nostra salvezza.
+Questo brano, che riecheggia Filippesi 2, *«umiliò se stesso facendosi obbediente fino alla morte e a una morte di croce»*, potrebbe essere un ottimo spunto di meditazione per contemplare il mistero.
 
 ## Contemplare il Volto sofferente
 
@@ -84,6 +84,6 @@ Ricordate sempre che queste proposte sono generate con l'aiuto dell'intelligenza
 
 Vi invito, come sempre, a leggere attentamente i testi liturgici della Domenica delle Palme e a confrontarvi con il vostro sacerdote e con gli altri membri del coro o del gruppo liturgico. La scelta migliore sarà quella che aiuterà la vostra comunità a pregare e a vivere più intensamente questa celebrazione così importante, porta d'ingresso alla Settimana Santa.
 
-Auguro a tutti voi un buon lavoro e un servizio fecondo per l'animazione delle liturgie!
+Auguro a tutti voi un buon lavoro e un servizio fecondo per l'animazione delle liturgie! Se vuoi consultare altri canti potenzialmente adeguati, ti ricordo di fare click sul bottone seguente
 
 [Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
