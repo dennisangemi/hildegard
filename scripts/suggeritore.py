@@ -300,8 +300,13 @@ def main():
     excluded[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed)))\
         .to_csv(f'data/not-selected-{data_yyyymmdd}.csv', index=False)
     
+    # export exluded for michele (poco solido aggiungere la data adesso visto che era già aggiunta in precedenza. rivedere sta cosa)
+    excluded['data'] = data_liturgia
+    excluded[['data','id_canti','titolo', 'score']].fillna('').to_json(
+        f'data/not-selected-latest.json', orient='records'
+    )
+    
     print("\n✅ Esportazione completata")
-
 
 if __name__ == '__main__':
     main()
