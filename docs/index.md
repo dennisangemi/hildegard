@@ -81,14 +81,14 @@ Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono s
     | [La trasfigurazione](https://www.librettocanti.it/canto/la-trasfigurazione-2269) | :material-dots-horizontal: Mh | 44 | Marco Frisina | Non di solo pane |
     | [Resurrezione](https://www.librettocanti.it/canto/resurrezione-383) | :material-dots-horizontal: Mh | 43 | Gen Rosso |  |
     | [Giorno di Pentecoste](https://www.librettocanti.it/canto/giorno-di-pentecoste-1627) | :material-dots-horizontal: Mh | 43 | Giosy Cento | Attendi in linea... ti passo Dio |
-    | [Gesù è vivo](https://www.librettocanti.it/canto/ges-vivo-1860) | :material-dots-horizontal: Mh | 42 | RnS | Cantiamo con gioia |
-    | [Tutto il mondo deve sapere](https://www.librettocanti.it/canto/tutto-il-mondo-deve-sapere-2222) | :material-dots-horizontal: Mh | 42 | Gen Verde | Il Mistero Pasquale |
-    | [Alleluia, Signore sei venuto](https://www.librettocanti.it/canto/alleluia-signore-sei-venuto-39) | :material-dots-horizontal: Mh | 42 | L. Scaglianti | Andiamo a Betlemme... |
     | [Signore delle Cime](https://www.librettocanti.it/canto/signore-delle-cime-2769) | :material-dots-horizontal: Mh | 42 | Bepi de Marzi |  |
+    | [Gesù è vivo](https://www.librettocanti.it/canto/ges-vivo-1860) | :material-dots-horizontal: Mh | 42 | RnS | Cantiamo con gioia |
     | [Cantico dell'agnello](https://www.librettocanti.it/canto/cantico-dell-agnello-2190) | :material-dots-horizontal: Mh | 42 | Marco Frisina |  |
-    | [Trisaghion](https://www.librettocanti.it/canto/trisaghion-2344) | :material-dots-horizontal: Mh | 41 | Marco Frisina | Tu sei bellezza |
-    | [Alleluia con il cuore](https://www.librettocanti.it/canto/alleluia-con-il-cuore-2462) | :material-dots-horizontal: Mh | 41 | Francesco Buttazzo | Alla tua festa |
+    | [Alleluia, Signore sei venuto](https://www.librettocanti.it/canto/alleluia-signore-sei-venuto-39) | :material-dots-horizontal: Mh | 42 | L. Scaglianti | Andiamo a Betlemme... |
+    | [Tutto il mondo deve sapere](https://www.librettocanti.it/canto/tutto-il-mondo-deve-sapere-2222) | :material-dots-horizontal: Mh | 42 | Gen Verde | Il Mistero Pasquale |
     | [Ecco il nostro si](https://www.librettocanti.it/canto/ecco-il-nostro-si-181) | :material-dots-horizontal: Mh | 41 | Emanuele Fossi |  |
+    | [Alleluia con il cuore](https://www.librettocanti.it/canto/alleluia-con-il-cuore-2462) | :material-dots-horizontal: Mh | 41 | Francesco Buttazzo | Alla tua festa |
+    | [Benedite e acclamate](https://www.librettocanti.it/canto/benedite-e-acclamate-2072) | :material-dots-horizontal: Mh | 41 | A. Casale |  |
 ## Note
 !!! warning "Attenzione"
     I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/).
