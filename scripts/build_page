@@ -34,6 +34,10 @@ sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOM
 sed -i "s#$PLACEHOLDER_URL_CEI#$URL_LITURGIA_CEI$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
 
 
+echo "" >> $PATH_HOMEPAGE
+echo "Conosci un canto adeguato che non è presente in questa pagina? Vuoi aumentare o diminuire la percentuale di adeguatezza di un canto selezionato automaticamente? Puoi farlo direttamente dal bottone qui sotto!" >> $PATH_HOMEPAGE
+echo "" >> $PATH_HOMEPAGE
+echo "[:material-plus-circle: Aggiungi un canto](https://hildegard-form.streamlit.app){ .md-button }" >> $PATH_HOMEPAGE
 
 # aggiungo ulteriori canti non selezionati
 echo "### Altro" >> $PATH_HOMEPAGE
