@@ -64,6 +64,10 @@ template: home.html
 </div>
 
 
+
+Conosci un canto adeguato che non è presente in questa pagina? Vuoi aumentare o diminuire la percentuale di adeguatezza di un canto selezionato automaticamente? Puoi farlo direttamente dal bottone qui sotto!
+
+[:material-plus-circle: Aggiungi un canto](https://hildegard-form.streamlit.app){ .md-button }
 ### Altro
 Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima.
 ??? question "Apri la lista"
@@ -71,24 +75,24 @@ Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono s
     | --- | --- | --- | --- | --- |
     | [Trasformi in Gesù](https://www.librettocanti.it/canto/trasformi-in-ges-1715) | :material-dots-horizontal: Mh | 48 | Giosy Cento  |  |
     | [Nella Chiesa del Signore](https://www.librettocanti.it/canto/nella-chiesa-del-signore-1924) | :material-dots-horizontal: Mh | 46 | Michele Bonfitto | Sei grande nell'amore |
+    | [La trasfigurazione](https://www.librettocanti.it/canto/la-trasfigurazione-2269) | :material-dots-horizontal: Mh | 43 | Marco Frisina | Non di solo pane |
     | [Corpo di Gesù](https://www.librettocanti.it/canto/corpo-di-ges-1685) | :material-dots-horizontal: Mh | 43 | M. Penhard |  |
     | [Benedetto sei o Padre](https://www.librettocanti.it/canto/benedetto-sei-o-padre-2166) | :material-dots-horizontal: Mh | 43 | Francesco Buttazzo |  |
-    | [La trasfigurazione](https://www.librettocanti.it/canto/la-trasfigurazione-2269) | :material-dots-horizontal: Mh | 43 | Marco Frisina | Non di solo pane |
-    | [Alleluia Gesù](https://www.librettocanti.it/canto/alleluia-ges-2111) | :material-dots-horizontal: Mh | 42 | Daniele Ricci | Amati da Te |
     | [Gesù dolce musica](https://www.librettocanti.it/canto/ges-dolce-musica-1687) | :material-dots-horizontal: Mh | 42 | RnS | Davanti al Re |
-    | [Io sono il pane della vita](https://www.librettocanti.it/canto/io-sono-il-pane-della-vita-2354) | :material-dots-horizontal: Mh | 41 | Lucio Maria Zappatore | Il Signore è vita |
+    | [Alleluia Gesù](https://www.librettocanti.it/canto/alleluia-ges-2111) | :material-dots-horizontal: Mh | 42 | Daniele Ricci | Amati da Te |
     | [Insieme a Te](https://www.librettocanti.it/canto/insieme-a-te-245) | :material-dots-horizontal: Mh | 41 | Francesco Buttazzo | Alla tua festa |
     | [Inno a San Giovanni ](https://www.librettocanti.it/canto/inno-a-san-giovanni-2127) | :material-dots-horizontal: Mh | 41 |  |  |
+    | [Io sono il pane della vita](https://www.librettocanti.it/canto/io-sono-il-pane-della-vita-2354) | :material-dots-horizontal: Mh | 41 | Lucio Maria Zappatore | Il Signore è vita |
     | [Amar come Gesù amò (per avere la felicità)](https://www.librettocanti.it/canto/amar-come-ges-am-per-avere-la-felicit-46) | :material-dots-horizontal: Mh | 40 | --- |  |
     | [Come fuoco vivo](https://www.librettocanti.it/canto/come-fuoco-vivo-134) | :material-dots-horizontal: Mh | 40 | Gen Rosso / Gen Verde | Come fuoco vivo |
     | [Sia lode all'Agnello](https://www.librettocanti.it/canto/sia-lode-all-agnello-2387) | :material-dots-horizontal: Mh | 39 | RnS  | Risplendi Gerusalemme |
-    | [Giorno di Pentecoste](https://www.librettocanti.it/canto/giorno-di-pentecoste-1627) | :material-dots-horizontal: Mh | 38 | Giosy Cento | Attendi in linea... ti passo Dio |
     | [Lasciate che i bambini vengano a me](https://www.librettocanti.it/canto/lasciate-che-i-bambini-vengano-a-me-2600) | :material-dots-horizontal: Mh | 38 | Daniele Esposito |  |
+    | [Giorno di Pentecoste](https://www.librettocanti.it/canto/giorno-di-pentecoste-1627) | :material-dots-horizontal: Mh | 38 | Giosy Cento | Attendi in linea... ti passo Dio |
     | [Vocazione (v2)](https://www.librettocanti.it/canto/vocazione-v2-493) | :material-dots-horizontal: Mh | 37 | Pierangelo Sequeri | In cerca d'autore |
     | [Vocazione](https://www.librettocanti.it/canto/vocazione-1780) | :material-dots-horizontal: Mh | 37 | Pierangelo Sequeri | In cerca d'autore |
-    | [Fermarono i cieli](https://www.librettocanti.it/canto/fermarono-i-cieli-194) | :material-dots-horizontal: Mh | 36 | S. Alfonso |  |
     | [Spirito Santo, dolce presenza](https://www.librettocanti.it/canto/spirito-santo-dolce-presenza-2098) | :material-dots-horizontal: Mh | 36 | RnS |  |
     | [Fonti di Nazareth](https://www.librettocanti.it/canto/fonti-di-nazareth-196) | :material-dots-horizontal: Mh | 36 | Chiara Bizzetti |  |
+    | [Gesù gridò Mashalem](https://www.librettocanti.it/canto/ges-grid-mashalem-1597) | :material-dots-horizontal: Mh | 36 | Cantàmmo a Gesù |  |
 ## Note
 !!! warning "Attenzione"
     I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/).
