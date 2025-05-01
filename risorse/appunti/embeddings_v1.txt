@@ -1,0 +1,31 @@
+docs
+
+uso llm e llm-gemini
+
+
+set di llm
+- creo api key gratuita di gemini
+- scarico llm e llm-gemini tramite pip
+- run: `llm keys set gemini` per impostare l'api key
+- setto il modello di default `llm models default gemini-1.5-pro-latest`
+- setto il modello di default per gli embeddings `llm embed-models default text-embedding-004`
+
+set worinkg space
+- mi posiziono dentro la cartella ai con dentro canti e liturgie
+
+magia
+- creo gli embeddings dei canti e li salvo in una (collection) chiamata canti nel databaset chiamato embeddings-canti.db 
+  `llm embed-multi canti --files canti '*.txt' -d embeddings-canti.db`
+- cerco una stringa tra il database vettoriale semantico chiamato `canti`
+  `llm similar canti -c 'amore' -d embeddings-canti.db`
+- cerco la similirità tra un documento della liturgia e il databaset dei canti vettoriali
+  `llm similar canti -i liturgie/C69-B.txt -d embeddings-canti.db`
+
+adesso in grande, faccio embeddings di tutti i canti
+- mi posiziono in risorse
+- llm embed-multi canti --files canti '*.txt' -d embeddings-canti.db
+- cerco liturgia 
+- llm similar canti -i lezionari/liturgie/C69-B.txt -d embeddings-canti.db
+
+esito 
+- non funziona bene, secondo me perchè non ha senso trasformare un intero documento in embedding. Bisognerebbe creare chunks!

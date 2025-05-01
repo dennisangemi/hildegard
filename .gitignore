@@ -14,8 +14,7 @@ data/canti.json
 .cache/
 docs/news/posts/proposte-bozza.md
 data/vector_similarities_raw_backup.csv
-prompt.md
-todos.txt
+risorse/prompt/embedding-script-builder.md
 .venv/
 useful-files/old-posts/
 improve_copy_home

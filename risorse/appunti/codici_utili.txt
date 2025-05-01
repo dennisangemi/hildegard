@@ -1,0 +1,35 @@
+https://www.librettocanti.it/api/get_canti
+
+https://www.librettocanti.it/api/get_canti/2237
+
+jq "[.data[] | {id_canti, titolo, autore, raccolta, momento, link_youtube}]" canticristiani.json > titoli.json
+
+jq ".data[]" canticristiani.json | head -n 20
+
+jq . titoli.json | mlr --j2c cat 
+
+jq ".momento.data" canticristiani.json | mlr --j2c cat > anagrafica_momenti.csv
+
+curl -kL "https://www.librettocanti.it/api/get_canti/2237" > test_testo_2237.json
+
+jq ".data[0].testo" test_testo_2237.json 
+
+
+echo -e "$(sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g' <<< "$testo")" > output.txt
+
+
+jq -r ".data[0].testo" test_testo_2237.json | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g' 
+
+sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g' testo_con_ritorni.txt 
+
+
+per ottenere il testo di un id
+
+1584
+
+curl -kL "https://www.librettocanti.it/api/get_canti/1584" | jq -r ".data[0].testo" | sed 's/{sov}//g;s/{eov}//g;s/{soc}//g;s/{eoc}//g;s/{end_chorus}//g;s/{start_chorus}//g;s/{start_verse}//g;s/{end_verse}//g' | sed '1d;$d;:a;N;$!ba;s/\n\n/\n/g'
+
+Funziona!
+
+
+
