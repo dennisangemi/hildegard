@@ -1,6 +1,6 @@
 {% macro load_canti(filepath) %}
   {% set canti_data = load_json(filepath) %}
-  {{ canti_data }}
+  {{ return(canti_data) }}
 {% endmacro %}
 
 {% macro filter_by_momento(canti, tipo_momento) %}
@@ -9,14 +9,14 @@
     {% set momenti = canto.momento.split(',') %}
     
     {% if tipo_momento == 'ingresso' and ('14' in momenti or '21' in momenti or '24' in momenti or '32' in momenti) %}
-      {% set _ = result.append(canto) %}
+      {{ result.append(canto) }}
     {% elif tipo_momento == 'offertorio' and ('4' in momenti or '11' in momenti) %}
-      {% set _ = result.append(canto) %}
+      {{ result.append(canto) }}
     {% elif tipo_momento == 'comunione' and ('5' in momenti or '16' in momenti or '31' in momenti) %}
-      {% set _ = result.append(canto) %}
+      {{ result.append(canto) }}
     {% elif tipo_momento == 'congedo' and ('14' in momenti or '21' in momenti) %}
-      {% set _ = result.append(canto) %}
+      {{ result.append(canto) }}
     {% endif %}
   {% endfor %}
-  {{ result }}
+  {{ return(result) }}
 {% endmacro %}

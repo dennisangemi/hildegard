@@ -63,4 +63,41 @@ template: home.html
   {% endfor %}
 </div>
 
+---
+
+Conosci un canto adeguato che non è presente in questa pagina? Aggiungilo dal bottone qui sotto!
+
+[:material-plus-circle: Aggiungi un canto](https://hildegard-form.streamlit.app){ .md-button }
+
+
+### Altro
+Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima.
+
+{% set canti_esclusi = load_json('data/not-selected-latest.json') %}
+
+??? question "Apri lista"
+
+    <div class="w-full max-w-4xl mx-auto">
+    {% for canto in canti_esclusi %}
+    <div class="bg-gray-50 rounded border border-gray-200 p-3 mb-3 flex flex-col md:flex-row justify-between items-center text-center md:text-left shadow-sm hover:shadow-md transition-shadow">
+      <div class="flex-grow mb-2 md:mb-0">
+        <h5 class="text-base font-normal text-gray-700" style="text-transform: none !important; font-variant: normal !important;">{{ canto.titolo }}</h5>
+      </div>
+      <div class="flex items-center gap-4">
+        <span class="text-xs bg-gray-200 text-gray-600 rounded px-2 py-1">{{ canto.score }}%</span>
+        <a href="https://www.librettocanti.it/canto/{{ canto.titolo | lower | replace(' ', '-') }}-{{ canto.id_canti }}" class="text-primary-600 hover:text-primary-800 text-xs" target="_blank">
+          <span class="flex items-center"><i class="material-icons" style="font-size: 0.8rem; margin-right: 0.25rem;">description</i> Testo</span>
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+
+
+## Note
+!!! warning "Attenzione"
+    I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/).
+
+!!! info "Testi"
+    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/). Si ringrazia Michele Mammini per la disponibilità <3
 

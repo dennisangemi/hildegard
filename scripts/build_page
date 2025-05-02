@@ -34,27 +34,4 @@ sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOM
 sed -i "s#$PLACEHOLDER_URL_CEI#$URL_LITURGIA_CEI$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
 
 
-echo "" >> $PATH_HOMEPAGE
-echo "Conosci un canto adeguato che non è presente in questa pagina? Vuoi aumentare o diminuire la percentuale di adeguatezza di un canto selezionato automaticamente? Puoi farlo direttamente dal bottone qui sotto!" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-echo "[:material-plus-circle: Aggiungi un canto](https://hildegard-form.streamlit.app){ .md-button }" >> $PATH_HOMEPAGE
-
-# aggiungo ulteriori canti non selezionati
-echo "### Altro" >> $PATH_HOMEPAGE
-echo "Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima." >> $PATH_HOMEPAGE
-
-echo '??? question "Apri la lista"' >> $PATH_HOMEPAGE
-mlr --c2m cat data/not-selected-$liturgia_data_yyyymmdd.csv | sed 's/^/    /' >> $PATH_HOMEPAGE
-rm data/not-selected-$liturgia_data_yyyymmdd.csv
-
-# add note
-echo "## Note" >> $PATH_HOMEPAGE
-echo '!!! warning "Attenzione"' >> $PATH_HOMEPAGE
-echo "    I canti sono selezionati automaticamente da un algoritmo che confronta i testi. La selezione potrebbe non essere accurata; pertanto ti consigliamo comunque di leggere la liturgia per verificare personalmente l'adeguatezza dei suggerimenti!<br>Per maggiori informazioni sull'algoritmo di selezione puoi leggere la [pagina del progetto](https://hildegard.it/progetto/)." >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-
-echo '!!! info "Testi"' >> $PATH_HOMEPAGE
-echo "    I testi dei canti sono stati tratti da [librettocanti.it](https://www.librettocanti.it/). Si ringrazia Michele Mammini per la disponibilità <3" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
-echo "" >> $PATH_HOMEPAGE
 
