@@ -287,24 +287,30 @@ def main():
     excluded = final_df[final_df['score'] < threshold].sort_values('score', ascending=False).head(20)
     
     # Prepare excluded data
-    excluded['titolo_md'] = excluded.apply(
-        lambda r: f"[{r['titolo']}](https://www.librettocanti.it{r['url']})" if not pd.isnull(r['id_canti']) else r['titolo'], 
-        axis=1
-    )
+    # excluded['titolo_md'] = excluded.apply(
+    #     lambda r: f"[{r['titolo']}](https://www.librettocanti.it{r['url']})" if not pd.isnull(r['id_canti']) else r['titolo'], 
+    #     axis=1
+    # )
     
     # Esportazione mantenendo l'ordine
     export_results(suggested, full_df, data_liturgia, data_yyyymmdd)
-    md_cols = ['titolo_md', 'adeguatezza', 'score', 'autore', 'raccolta']
-    md_cols_renamed = ['Titolo', 'Adeguatezza', '%', 'Autore', 'Raccolta']
-    excluded = excluded.sort_values('score', ascending=False)  # Ordina esplicitamente
-    excluded[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed)))\
-        .to_csv(f'data/not-selected-{data_yyyymmdd}.csv', index=False)
+
+    # questo lo usavo quando includevo il csv nell'index ma ora non serve più (valudare di eliminare codice in futuro)
+    # md_cols = ['titolo_md', 'adeguatezza', 'score', 'autore', 'raccolta']
+    # md_cols_renamed = ['Titolo', 'Adeguatezza', '%', 'Autore', 'Raccolta']
+    # excluded = excluded.sort_values('score', ascending=False)  # Ordina esplicitamente
+    # excluded[md_cols].fillna('').rename(columns=dict(zip(md_cols, md_cols_renamed)))\
+    #     .to_csv(f'data/not-selected-{data_yyyymmdd}.csv', index=False)
     
     # export exluded for michele (poco solido aggiungere la data adesso visto che era già aggiunta in precedenza. rivedere sta cosa)
     excluded['data'] = data_liturgia
-    excluded[['data','id_canti','titolo', 'score']].fillna('').to_json(
-        f'data/not-selected-latest.json', orient='records'
-    )
+    excluded = excluded[['data','id_canti','titolo','autore','score']].fillna('')
+    excluded.to_json(f'data/not-selected-latest.json', orient='records')
+    excluded.to_json(f'data/not-selected-{data_yyyymmdd}.json', orient='records')
+
+
+
+
     
     print("\n✅ Esportazione completata")
 

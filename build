@@ -5,7 +5,7 @@
 
 # esporta le variabili d'ambiente
 set -a
-#set -x
+# set -x
 
 # import variables
 source <(grep = scripts/config.ini)
@@ -73,7 +73,9 @@ echo "✅ Individuata liturgia"
 ./scripts/suggeritore.py "$liturgia_data_iso" 
 
 # build website homepage
-./scripts/build_page
+cp $PATH_TEMPLATE $PATH_HOMEPAGE
+sed -i "s#$PLACEHOLDER_DATE#$liturgia_weekday $liturgia_data_estesa#g" $PATH_HOMEPAGE
+sed -i "s#$PLACEHOLDER_URL_CEI#$URL_LITURGIA_CEI$liturgia_data_yyyymmdd#g" $PATH_HOMEPAGE
 echo "✅ Homepage pronta"
 
 # organize files 
@@ -81,27 +83,35 @@ cp $PATH_DATA/$FILE_BASENAME_SUGGERIMENTI-latest.csv $PATH_DATA/$FILE_BASENAME_S
 # Copy the JSON file with a date-specific filename
 cp $PATH_DATA/suggeriti-top20-latest.json $PATH_DATA/suggeriti-top20-$liturgia_data_yyyymmdd.json
 
-suggerimenti_on_archive_path="docs/archivio/$liturgia_data_estesa.md"
-cp $PATH_HOMEPAGE "$suggerimenti_on_archive_path"
 
-# clean suggerimenti on archive
-line_end=$(cat "$suggerimenti_on_archive_path" | grep -n "load_json" | cut -d: -f1)
+
+# ---------------------- Archive page generation and editing ---------------------- #
+path_suggerimenti_on_archive="docs/archivio/$liturgia_data_estesa.md"
+cp $PATH_HOMEPAGE "$path_suggerimenti_on_archive"
 
 # Modify the archive page to reference the dated JSON file instead of latest
-sed -i "s/suggeriti-top20-latest.json/suggeriti-top20-$liturgia_data_yyyymmdd.json/g" "$suggerimenti_on_archive_path"
+sed -i "s/suggeriti-top20-latest.json/suggeriti-top20-$liturgia_data_yyyymmdd.json/g" "$path_suggerimenti_on_archive"
 
 # Modify the archive page to reference the dated liturgy file instead of latest
-sed -i "s|../risorse/lezionari/liturgia-latest.txt|../../risorse/lezionari/liturgie/formatted/$id_liturgia.md|g" "$suggerimenti_on_archive_path"
+sed -i "s|../risorse/lezionari/liturgia-latest.txt|../../risorse/lezionari/liturgie/formatted/$id_liturgia.md|g" "$path_suggerimenti_on_archive"
 
+# Modify the archive page to reference the dated not-selected file instead of latest
+sed -i "s|data/not-selected-latest.json|data/not-selected-$liturgia_data_yyyymmdd.json|g" "$path_suggerimenti_on_archive"
+
+# clean suggerimenti on archive (remove header from archive)
+line_end=$(cat "$path_suggerimenti_on_archive" | grep -n "archivePageStartHere" | cut -d: -f1)
 
 # delete from line 1 to line line_end
-tail -n +$line_end "$suggerimenti_on_archive_path" > tmp.md
-mv tmp.md "$suggerimenti_on_archive_path"
+tail -n +$line_end "$path_suggerimenti_on_archive" > tmp.md
+mv tmp.md "$path_suggerimenti_on_archive"
 
 # new nav management: aggiungi la liturgia all'archivio
 add_element_to_mkdocs_nav "mkdocs.yml" "$(date -d $liturgia_data_iso +%Y)" "archivio/$liturgia_data_estesa.md"
 echo "📂 Archivio aggiornato"
 
+
+
+# ---------------------- Blog post generation  ---------------------- #
 # build blog post filename
 path_file_blog_post="$PATH_DIR_BLOG_POST/$BASENAME_FILE_BLOG_POST-$liturgia_data_yyyymmdd.md"
 
