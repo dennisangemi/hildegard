@@ -28,8 +28,6 @@ Domenica prossima, **11 maggio 2025**, celebriamo la **IV Domenica di Pasqua**, 
 Nella *Prima Lettura*, tratta dagli Atti degli Apostoli (13, 14.43-52), vediamo Paolo e Bàrnaba ad Antiochia. Di fronte al rifiuto di alcuni Giudei, dichiarano con franchezza:
 > ...poiché la respingete [la parola di Dio] e non vi giudicate degni della vita eterna, ecco: noi ci rivolgiamo ai pagani.<br>... Io ti ho posto per essere luce delle genti, perché tu porti la salvezza sino all’estremità della terra”.
 
-Questo passaggio sottolinea l'universalità della chiamata e la gioia dei pagani nell'accogliere la Parola.
-
 La *Seconda Lettura*, dall'Apocalisse (7, 9.14b-17), ci presenta una visione gloriosa: una moltitudine immensa davanti all'Agnello. Ci viene detto che:
 > ...l’Agnello, che sta in mezzo al trono, sarà il loro pastore e li guiderà alle fonti delle acque della vita.<br>E Dio asciugherà ogni lacrima dai loro occhi.
 
