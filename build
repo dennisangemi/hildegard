@@ -132,6 +132,10 @@ if [ ! -f "$path_file_blog_post" ]; then
   $PATH_FILE_SYSTEM_PROMPT_HAI_SUGGESTIONS > $path_file_blog_post || \
   {
     echo "❌ Errore durante la generazione del blog post" >&2
+    if [ -f "$path_file_blog_post" ]; then
+      echo "Il file $path_file_blog_post è stato comunque creato. Contenuto:"
+      cat "$path_file_blog_post"
+    fi
     exit 1
   }
 
