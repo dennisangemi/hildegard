@@ -1,134 +1,136 @@
 id_canti,titolo,score_vector_similarity,score_text_similarity,score_deviation,score_selection,score_history,score,adeguatezza
+234,Il Signore è il mio pastore,,0.3,-0.1,0.9,1.0,73,:material-check: Buona
+2232,"Tu, nostro Pastore",,0.33,0.05,0.9,,68,:material-check: Buona
+2860,Sei tu Signore il mio Pastore,0.710792551877688,0.28,-0.01,0.9,,67,:material-check: Buona
+1681,Gesù mio buon pastore,,0.37,0.06,0.9,0.39,63,:material-check: Buona
 4,Acclamate al Signore,,0.56,0.33,,0.76,59,:material-dots-horizontal: Mh
-1820,Alleluia - La tua parola,,0.58,0.46,,,53,:material-dots-horizontal: Mh
-234,Il Signore è il mio pastore,,0.3,-0.1,,1.0,51,:material-dots-horizontal: Mh
-2466,Alleluia,,0.56,0.43,,,50,:material-dots-horizontal: Mh
+2381,Il Signore è mio pastore  (Salmo 22),,0.26,0.03,0.7,,53,:material-check: Buona
+1820,Alleluia - La tua parola,,0.58,0.46,0.5,,51,:material-dots-horizontal: Mh
+2466,Alleluia,,0.56,0.43,0.5,,50,:material-dots-horizontal: Mh
 1545,Acclamate al Signore,,0.54,0.4,,0.5,49,:material-dots-horizontal: Mh
 1757,Chi ha sete,0.6356173276196723,0.5,0.3,,,48,:material-dots-horizontal: Mh
 361,Popoli tutti acclamate,,0.39,-0.04,,0.84,48,:material-dots-horizontal: Mh
 3095,Alleluia (Sei parola),,0.52,0.4,,,47,:material-dots-horizontal: Mh
 18,Alleluia (ed oggi ancora),,0.52,0.4,,,47,:material-dots-horizontal: Mh
-2760,"Alleluia, Acclamiamo a te",,0.54,0.35,,,46,:material-dots-horizontal: Mh
 20,Alleluia (Passeranno i cieli),,0.5,0.41,,,46,:material-dots-horizontal: Mh
 2348,"Alleluia, il tuo Vangelo",,0.5,0.41,,,46,:material-dots-horizontal: Mh
+2760,"Alleluia, Acclamiamo a te",,0.54,0.35,,,46,:material-dots-horizontal: Mh
 136,Come Maria,,0.31,-0.04,,0.84,45,:material-dots-horizontal: Mh
-28,"Alleluia, chi ascolta",0.5993932630393156,0.46,0.29,,,45,:material-dots-horizontal: Mh
 2917,"Alleluia, la tua parola",,0.5,0.38,,,45,:material-dots-horizontal: Mh
-2212,Alleluia (Canta con gioia),,0.51,0.36,,,44,:material-dots-horizontal: Mh
+28,"Alleluia, chi ascolta",0.5993932630393156,0.46,0.29,,,45,:material-dots-horizontal: Mh
 2376,"Apocalisse 19,6",,0.5,0.36,,,44,:material-dots-horizontal: Mh
-2991,Alleluia - Oggi la Chiesa,,0.48,0.37,,,43,:material-dots-horizontal: Mh
+2212,Alleluia (Canta con gioia),,0.51,0.36,,,44,:material-dots-horizontal: Mh
 2075,Alleluia - Questa Tua Parola,,0.48,0.37,,,43,:material-dots-horizontal: Mh
+2991,Alleluia - Oggi la Chiesa,,0.48,0.37,,,43,:material-dots-horizontal: Mh
 2123,Alleluia 7,0.4906671174357045,0.45,0.36,,,43,:material-dots-horizontal: Mh
+2194,Alleluia Quando siam riuniti,,0.46,0.37,,,42,:material-dots-horizontal: Mh
 2476,Alleluia Tu sei la parola,,0.48,0.35,,,42,:material-dots-horizontal: Mh
 1546,Alleluia (Celtico),,0.5,0.33,,,42,:material-dots-horizontal: Mh
-2194,Alleluia Quando siam riuniti,,0.46,0.37,,,42,:material-dots-horizontal: Mh
 364,Preghiera dei poveri di Yahvè,,0.42,0.39,,,41,:material-dots-horizontal: Mh
-2425,Ecco l'acqua,0.660261576826752,0.39,0.2,,,41,:material-dots-horizontal: Mh
-2154,Alleluia (Messa della Concordia),,0.45,0.36,,,41,:material-dots-horizontal: Mh
-1899,Alleluia parla o Signore ,,0.46,0.35,,,41,:material-dots-horizontal: Mh
-1817,Venite applaudiamo al Signore  (Salmo 94),,0.52,0.28,,,41,:material-dots-horizontal: Mh
-2913,Canto al Vangelo,,0.45,0.36,,,41,:material-dots-horizontal: Mh
-2462,Alleluia con il cuore,,0.49,0.32,,,41,:material-dots-horizontal: Mh
-2191,Alleluia di Lourdes,,0.5,0.3,,,41,:material-dots-horizontal: Mh
 1747,"Alleluia, da chi andremo",,0.46,0.34,,,41,:material-dots-horizontal: Mh
+2191,Alleluia di Lourdes,,0.5,0.3,,,41,:material-dots-horizontal: Mh
+1899,Alleluia parla o Signore ,,0.46,0.35,,,41,:material-dots-horizontal: Mh
+2913,Canto al Vangelo,,0.45,0.36,,,41,:material-dots-horizontal: Mh
+2425,Ecco l'acqua,0.660261576826752,0.39,0.2,,,41,:material-dots-horizontal: Mh
+2462,Alleluia con il cuore,,0.49,0.32,,,41,:material-dots-horizontal: Mh
+2154,Alleluia (Messa della Concordia),,0.45,0.36,,,41,:material-dots-horizontal: Mh
+1817,Venite applaudiamo al Signore  (Salmo 94),,0.52,0.28,,,41,:material-dots-horizontal: Mh
+2190,Cantico dell'agnello,,0.49,0.29,,,40,:material-dots-horizontal: Mh
 2027,Mano potente,,0.5,0.27,,,40,:material-dots-horizontal: Mh
 2477,"Alleluia, Cristo nostra Pasqua",,0.44,0.34,,,40,:material-dots-horizontal: Mh
 2387,Sia lode all'Agnello,,0.43,0.36,,,40,:material-dots-horizontal: Mh
 16,Alleluia,,0.44,0.36,,,40,:material-dots-horizontal: Mh
-2190,Cantico dell'agnello,,0.49,0.29,,,40,:material-dots-horizontal: Mh
-2475,"Alleluia, ecco lo sposo",,0.47,0.3,,,39,:material-dots-horizontal: Mh
-201,Frutto della nostra terra,,0.3,-0.11,,0.75,39,:material-dots-horizontal: Mh
 1978,In Eterno Canterò,0.6946748693745118,0.38,0.1,,,39,:material-dots-horizontal: Mh
-2195,Alleluia un giorno Santo,,0.46,0.31,,,39,:material-dots-horizontal: Mh
+201,Frutto della nostra terra,,0.3,-0.11,,0.75,39,:material-dots-horizontal: Mh
+2475,"Alleluia, ecco lo sposo",,0.47,0.3,,,39,:material-dots-horizontal: Mh
 2222,Tutto il mondo deve sapere,,0.5,0.26,,,39,:material-dots-horizontal: Mh
-2494,"Amen, Alleluia",,0.4,0.35,,,38,:material-dots-horizontal: Mh
-1643,Alleluia Gen Verde,0.4024458251113448,0.43,0.28,,,38,:material-dots-horizontal: Mh
-2340,Questo è il giorno,,0.52,0.21,,,38,:material-dots-horizontal: Mh
-2692,Ascolterò la tua parola,,0.5,0.24,,,38,:material-dots-horizontal: Mh
+2195,Alleluia un giorno Santo,,0.46,0.31,,,39,:material-dots-horizontal: Mh
 2885,Salmo 150,0.4314174505121038,0.4,0.31,,,38,:material-dots-horizontal: Mh
-1547,Alleluia - Lode Cosmica (semplificata),,0.45,0.3,,,38,:material-dots-horizontal: Mh
+2340,Questo è il giorno,,0.52,0.21,,,38,:material-dots-horizontal: Mh
+1643,Alleluia Gen Verde,0.4024458251113448,0.43,0.28,,,38,:material-dots-horizontal: Mh
+2692,Ascolterò la tua parola,,0.5,0.24,,,38,:material-dots-horizontal: Mh
+2494,"Amen, Alleluia",,0.4,0.35,,,38,:material-dots-horizontal: Mh
 1399,Alleluia - Lode Cosmica,,0.45,0.3,,,38,:material-dots-horizontal: Mh
+1547,Alleluia - Lode Cosmica (semplificata),,0.45,0.3,,,38,:material-dots-horizontal: Mh
 1900,Davanti a Te,,0.48,0.25,,,38,:material-dots-horizontal: Mh
-19,Alleluia (la nostra festa),,0.44,0.29,,,37,:material-dots-horizontal: Mh
-17,Alleluia è risorto,,0.45,0.27,,,37,:material-dots-horizontal: Mh
-1672,"Il tuo Corpo, il tuo Sangue",0.7105273471292904,0.39,-0.01,,,37,:material-dots-horizontal: Mh
-73,Beati quelli che ascoltano,,0.52,0.18,,,37,:material-dots-horizontal: Mh
-1671,Alleluia Canto per Cristo (v2),,0.4,0.33,,,37,:material-dots-horizontal: Mh
-2736,Alleluia Vi annunzio,,0.43,0.29,,,37,:material-dots-horizontal: Mh
-1815,Cantate inni a Dio,,0.09,-0.04,,0.81,37,:material-dots-horizontal: Mh
-2280,Ecco l'acqua che sgorga,0.6728223958119309,0.32,0.14,,,37,:material-dots-horizontal: Mh
 27,"Alleluia, cantate al Signore",,0.48,0.23,,,37,:material-dots-horizontal: Mh
-315,Nei cieli un grido risuonò,,0.45,0.24,,,36,:material-dots-horizontal: Mh
-23,Alleluia Canto per Cristo,,0.46,0.23,,,36,:material-dots-horizontal: Mh
-2761,Alleuia malgascio,,0.39,0.33,,,36,:material-dots-horizontal: Mh
+2736,Alleluia Vi annunzio,,0.43,0.29,,,37,:material-dots-horizontal: Mh
+19,Alleluia (la nostra festa),,0.44,0.29,,,37,:material-dots-horizontal: Mh
+73,Beati quelli che ascoltano,,0.52,0.18,,,37,:material-dots-horizontal: Mh
+1815,Cantate inni a Dio,,0.09,-0.04,,0.81,37,:material-dots-horizontal: Mh
+1671,Alleluia Canto per Cristo (v2),,0.4,0.33,,,37,:material-dots-horizontal: Mh
+17,Alleluia è risorto,,0.45,0.27,,,37,:material-dots-horizontal: Mh
+2280,Ecco l'acqua che sgorga,0.6728223958119309,0.32,0.14,,,37,:material-dots-horizontal: Mh
+1672,"Il tuo Corpo, il tuo Sangue",0.7105273471292904,0.39,-0.01,,,37,:material-dots-horizontal: Mh
+2766,Alleluia dello Spirito,,0.44,0.26,,,36,:material-dots-horizontal: Mh
 2228,Magnifica il Signore anima mia,,0.49,0.19,,,36,:material-dots-horizontal: Mh
 2086,"La Tua Parola, Signore",,0.45,0.25,,,36,:material-dots-horizontal: Mh
-2766,Alleluia dello Spirito,,0.44,0.26,,,36,:material-dots-horizontal: Mh
+23,Alleluia Canto per Cristo,,0.46,0.23,,,36,:material-dots-horizontal: Mh
+315,Nei cieli un grido risuonò,,0.45,0.24,,,36,:material-dots-horizontal: Mh
+2761,Alleuia malgascio,,0.39,0.33,,,36,:material-dots-horizontal: Mh
 2344,Trisaghion,,0.48,0.21,,,36,:material-dots-horizontal: Mh
-264,L’acqua viva,0.7077648495725009,0.32,0.04,,,35,:material-dots-horizontal: Mh
 3094,A te canto ,,0.42,0.27,,,35,:material-dots-horizontal: Mh
 1882,"Alleluia, è risorto il Signor",,0.44,0.23,,,35,:material-dots-horizontal: Mh
-98,"Canoni - Jubilate Deo, omnis terra",,0.39,0.3,,,35,:material-dots-horizontal: Mh
+264,L’acqua viva,0.7077648495725009,0.32,0.04,,,35,:material-dots-horizontal: Mh
 1958,Resto con te,,0.33,-0.15,,0.66,35,:material-dots-horizontal: Mh
 2653,O cieli piovete dall'alto,,0.39,0.3,,,35,:material-dots-horizontal: Mh
+98,"Canoni - Jubilate Deo, omnis terra",,0.39,0.3,,,35,:material-dots-horizontal: Mh
 57,"Antica, eterna danza",0.5432411842422062,0.39,0.03,,0.37,34,:material-dots-horizontal: Mh
-58,Apostoli di gioia,,0.48,0.16,,,34,:material-dots-horizontal: Mh
-2140,Santo - Jesus Christ Superstar (semplificato),0.3931040368532287,0.37,0.24,,,34,:material-dots-horizontal: Mh
-2662,Alleluia (Shalom),,0.4,0.27,,,34,:material-dots-horizontal: Mh
 368,Prendi la mia vita,0.6782081134591182,0.35,-0.0,,,34,:material-dots-horizontal: Mh
-3031,Viene in mezzo a noi il Dio della Gioia,,0.48,0.16,,,34,:material-dots-horizontal: Mh
+2140,Santo - Jesus Christ Superstar (semplificato),0.3931040368532287,0.37,0.24,,,34,:material-dots-horizontal: Mh
 25,Alleluia e poi,,0.42,0.23,,,34,:material-dots-horizontal: Mh
+3031,Viene in mezzo a noi il Dio della Gioia,,0.48,0.16,,,34,:material-dots-horizontal: Mh
+58,Apostoli di gioia,,0.48,0.16,,,34,:material-dots-horizontal: Mh
+2662,Alleluia (Shalom),,0.4,0.27,,,34,:material-dots-horizontal: Mh
 2600,Lasciate che i bambini vengano a me,,0.48,0.17,,,34,:material-dots-horizontal: Mh
-114,Canta Alleluia,,0.37,0.27,,,33,:material-dots-horizontal: Mh
 1662,Creati per te,,0.27,-0.13,,0.64,33,:material-dots-horizontal: Mh
-2953,Cristo nostra Pasqua,,0.41,0.24,,,33,:material-dots-horizontal: Mh
 1824,Alleluia (venite a me),,0.41,0.22,,,33,:material-dots-horizontal: Mh
-2017,Dal profondo,,0.43,0.2,,,33,:material-dots-horizontal: Mh
-29,"Alleluia, chi ascolta le mie parole",,0.4,0.24,,,33,:material-dots-horizontal: Mh
-2015,Chiesa di Dio,,0.53,0.19,,0.27,33,:material-dots-horizontal: Mh
-2072,Benedite e acclamate,,0.47,0.16,,,33,:material-dots-horizontal: Mh
 2557,Per sempre canterò il tuo nome,,0.42,0.21,,,33,:material-dots-horizontal: Mh
-2405,Le mie mani son piene (di benedizioni),,0.4,0.22,,,32,:material-dots-horizontal: Mh
+2015,Chiesa di Dio,,0.53,0.19,,0.27,33,:material-dots-horizontal: Mh
+29,"Alleluia, chi ascolta le mie parole",,0.4,0.24,,,33,:material-dots-horizontal: Mh
+2017,Dal profondo,,0.43,0.2,,,33,:material-dots-horizontal: Mh
+2072,Benedite e acclamate,,0.47,0.16,,,33,:material-dots-horizontal: Mh
+2953,Cristo nostra Pasqua,,0.41,0.24,,,33,:material-dots-horizontal: Mh
+114,Canta Alleluia,,0.37,0.27,,,33,:material-dots-horizontal: Mh
 2630,Lode e Gloria al tuo nome,,0.4,0.23,,,32,:material-dots-horizontal: Mh
 1601,Anima di Cristo,,0.39,0.24,,,32,:material-dots-horizontal: Mh
-2286,Chiesa del Risorto,0.6226502027623146,0.37,-0.03,,,32,:material-dots-horizontal: Mh
 2113,Con gioia veniamo a Te,,0.44,0.18,,,32,:material-dots-horizontal: Mh
 64,Astro del ciel,,0.36,0.27,,,32,:material-dots-horizontal: Mh
 2229,Chiamati per nome v2,0.5252009273237337,0.36,0.05,,,32,:material-dots-horizontal: Mh
 445,Svegliati o Sion,,0.45,0.16,,,32,:material-dots-horizontal: Mh
-1477,Sono il Pane di Vita,0.6901937828732155,0.32,-0.05,,,32,:material-dots-horizontal: Mh
-2860,Sei tu Signore il mio Pastore,0.710792551877688,0.28,-0.01,,,32,:material-dots-horizontal: Mh
-259,Isaia 11,0.6011644972957324,0.31,0.05,,,32,:material-dots-horizontal: Mh
 2399,Nelle tue mani,0.6965420476387466,0.34,-0.09,,,32,:material-dots-horizontal: Mh
+2405,Le mie mani son piene (di benedizioni),,0.4,0.22,,,32,:material-dots-horizontal: Mh
+2286,Chiesa del Risorto,0.6226502027623146,0.37,-0.03,,,32,:material-dots-horizontal: Mh
 2813,L'amore più grande,,0.47,0.14,,,32,:material-dots-horizontal: Mh
-2095,"Canoni - Confitemini, Domino (Ringrazia il Signore perché è buono)",,0.33,0.29,,,31,:material-dots-horizontal: Mh
-278,"Laudato sii, o mi Signore",0.6076621844064726,0.35,-0.04,,,31,:material-dots-horizontal: Mh
-1700,Regina caeli,,0.35,0.27,,,31,:material-dots-horizontal: Mh
-2079,Regina dei cieli,,0.4,0.19,,,31,:material-dots-horizontal: Mh
-1767,Io scelgo Te,0.6950588441084588,0.29,-0.06,,,31,:material-dots-horizontal: Mh
-3012,Tu solo Signore sei degno,,0.42,0.17,,,31,:material-dots-horizontal: Mh
-2382,Alleluia a Colui che risuscitò ,,0.43,0.16,,,31,:material-dots-horizontal: Mh
+1477,Sono il Pane di Vita,0.6901937828732155,0.32,-0.05,,,32,:material-dots-horizontal: Mh
+259,Isaia 11,0.6011644972957324,0.31,0.05,,,32,:material-dots-horizontal: Mh
 1746,"Alleluia, oggi è nato",,0.41,0.19,,,31,:material-dots-horizontal: Mh
+278,"Laudato sii, o mi Signore",0.6076621844064726,0.35,-0.04,,,31,:material-dots-horizontal: Mh
+2095,"Canoni - Confitemini, Domino (Ringrazia il Signore perché è buono)",,0.33,0.29,,,31,:material-dots-horizontal: Mh
+2382,Alleluia a Colui che risuscitò ,,0.43,0.16,,,31,:material-dots-horizontal: Mh
+3012,Tu solo Signore sei degno,,0.42,0.17,,,31,:material-dots-horizontal: Mh
+1767,Io scelgo Te,0.6950588441084588,0.29,-0.06,,,31,:material-dots-horizontal: Mh
+2079,Regina dei cieli,,0.4,0.19,,,31,:material-dots-horizontal: Mh
 1898,Chiamati per nome,0.5173118474320997,0.35,0.04,,,31,:material-dots-horizontal: Mh
+1700,Regina caeli,,0.35,0.27,,,31,:material-dots-horizontal: Mh
 1726,Prepariamo la via al Signore,0.5899039579261177,0.33,-0.02,,,30,:material-dots-horizontal: Mh
-2100,Salve dolce Vergine,,0.4,0.17,,,30,:material-dots-horizontal: Mh
-1943,Vieni o Spirito Creatore,,0.43,0.13,,,30,:material-dots-horizontal: Mh
-2007,Viene il Signore,,0.42,0.16,,,30,:material-dots-horizontal: Mh
-1681,Gesù mio buon pastore,,0.37,0.06,,0.39,30,:material-dots-horizontal: Mh
 2921,Dio della storia,,0.49,0.07,,,30,:material-dots-horizontal: Mh
+2007,Viene il Signore,,0.42,0.16,,,30,:material-dots-horizontal: Mh
+1943,Vieni o Spirito Creatore,,0.43,0.13,,,30,:material-dots-horizontal: Mh
+2100,Salve dolce Vergine,,0.4,0.17,,,30,:material-dots-horizontal: Mh
 2354,Io sono il pane della vita,,0.44,0.08,,,28,:material-dots-horizontal: Mh
-1760,Eleviamo lodi al Signor,,0.4,0.12,,,28,:material-dots-horizontal: Mh
-2816,Alleluia (Dio ha visitato il suo popolo),,0.41,0.14,,,28,:material-dots-horizontal: Mh
 2038,Salve o Dolce Vergine,,0.39,0.16,,,28,:material-dots-horizontal: Mh
-2158,Alleluia è tempo della gioia,,0.4,0.15,,,28,:material-dots-horizontal: Mh
+2816,Alleluia (Dio ha visitato il suo popolo),,0.41,0.14,,,28,:material-dots-horizontal: Mh
+1760,Eleviamo lodi al Signor,,0.4,0.12,,,28,:material-dots-horizontal: Mh
+2617,Ascolta la nostra lode ,,0.38,0.17,,,28,:material-dots-horizontal: Mh
 2796,Luce dei miei passi,,0.37,0.16,,,28,:material-dots-horizontal: Mh
+2281,E' Risorto,,0.39,0.16,,,28,:material-dots-horizontal: Mh
 2269,La trasfigurazione,,0.45,0.06,,,28,:material-dots-horizontal: Mh
 130,Col Tuo amor,0.6799707761553513,0.23,-0.03,,,28,:material-dots-horizontal: Mh
-2596,L'annuncio a Maria,0.4858123035378867,0.31,0.06,,,28,:material-dots-horizontal: Mh
-2617,Ascolta la nostra lode ,,0.38,0.17,,,28,:material-dots-horizontal: Mh
+2251,"Alleluia, Cristo e' risorto",0.6864830280629893,0.3,-0.11,,,28,:material-dots-horizontal: Mh
 452,Testimoni dell’amore,,0.47,0.06,,,28,:material-dots-horizontal: Mh
 2887,Alla cena dell’Agnello,0.5072719052516156,0.33,0.03,,,28,:material-dots-horizontal: Mh
-425,Shalom,,0.39,0.16,,,28,:material-dots-horizontal: Mh
+1620,La scelta di Maria,0.5873849675501934,0.32,-0.06,,,28,:material-dots-horizontal: Mh
 1597,Gesù gridò Mashalem,0.6094776043872201,0.29,-0.02,,,28,:material-dots-horizontal: Mh
 1979,Alla tua mensa,,0.4,0.16,,,28,:material-dots-horizontal: Mh
 1588,Lode e Gloria,,0.44,0.07,,,28,:material-dots-horizontal: Mh
@@ -138,11 +140,11 @@ id_canti,titolo,score_vector_similarity,score_text_similarity,score_deviation,sc
 2087,Preconio Pasquale,,0.49,0.01,,,28,:material-dots-horizontal: Mh
 280,Le Tue mani,,0.38,0.17,,,28,:material-dots-horizontal: Mh
 2465,Sei con noi uno di noi,,0.44,0.1,,,28,:material-dots-horizontal: Mh
+425,Shalom,,0.39,0.16,,,28,:material-dots-horizontal: Mh
 258,Io vedo la Tua luce,,0.46,0.06,,,28,:material-dots-horizontal: Mh
 170,E' giunta l’ora,,0.42,0.11,,,28,:material-dots-horizontal: Mh
-1620,La scelta di Maria,0.5873849675501934,0.32,-0.06,,,28,:material-dots-horizontal: Mh
-2251,"Alleluia, Cristo e' risorto",0.6864830280629893,0.3,-0.11,,,28,:material-dots-horizontal: Mh
-2281,E' Risorto,,0.39,0.16,,,28,:material-dots-horizontal: Mh
+2158,Alleluia è tempo della gioia,,0.4,0.15,,,28,:material-dots-horizontal: Mh
+2596,L'annuncio a Maria,0.4858123035378867,0.31,0.06,,,28,:material-dots-horizontal: Mh
 12,Agnello di Dio,,0.41,0.15,,,28,:material-dots-horizontal: Mh
 2111,Alleluia Gesù,,0.41,0.12,,,28,:material-dots-horizontal: Mh
 2458,Destinati all'eternità,,0.43,0.08,,,27,:material-dots-horizontal: Mh
@@ -162,713 +164,711 @@ id_canti,titolo,score_vector_similarity,score_text_similarity,score_deviation,sc
 331,O Maestro (San Francesco),,0.43,0.08,,,27,:material-dots-horizontal: Mh
 2204,Sollevate porte i vostri frontali,0.5943925394925997,0.29,-0.07,,,27,:material-dots-horizontal: Mh
 8,Acqua siamo noi,,0.42,0.09,,,27,:material-dots-horizontal: Mh
-126,Chi ci separerà,,0.36,0.14,,,26,:material-dots-horizontal: Mh
-2480,Eloì,,0.39,0.1,,,26,:material-dots-horizontal: Mh
-2296,Custode del Signore (v2),,0.45,0.02,,,26,:material-dots-horizontal: Mh
-2295,Custode del Signore,,0.45,0.02,,,26,:material-dots-horizontal: Mh
-2650,Pietre vive,,0.38,0.12,,,26,:material-dots-horizontal: Mh
-236,Il Signore è la mia salvezza,,0.43,0.04,,,26,:material-dots-horizontal: Mh
-1583,E' tempo di grazia,,0.43,0.04,,,26,:material-dots-horizontal: Mh
-1626,O Amore Ineffabile,,0.32,0.18,,,26,:material-dots-horizontal: Mh
-1703,Solo per grazia,,0.37,0.12,,,26,:material-dots-horizontal: Mh
-2338,Oggi ci hai chiamati,,0.38,0.1,,,26,:material-dots-horizontal: Mh
-464,Tu sarai profeta,,0.42,0.06,,,26,:material-dots-horizontal: Mh
 1751,E' un tetto la mano di Dio,,0.4,0.08,,,26,:material-dots-horizontal: Mh
+464,Tu sarai profeta,,0.42,0.06,,,26,:material-dots-horizontal: Mh
+2296,Custode del Signore (v2),,0.45,0.02,,,26,:material-dots-horizontal: Mh
+1583,E' tempo di grazia,,0.43,0.04,,,26,:material-dots-horizontal: Mh
+1703,Solo per grazia,,0.37,0.12,,,26,:material-dots-horizontal: Mh
+236,Il Signore è la mia salvezza,,0.43,0.04,,,26,:material-dots-horizontal: Mh
+2650,Pietre vive,,0.38,0.12,,,26,:material-dots-horizontal: Mh
 2237,A Betlemme di Giudea,0.6372372224699706,0.23,-0.08,,,26,:material-dots-horizontal: Mh
-2920,Fiamma viva d’amore,,0.35,0.15,,,26,:material-dots-horizontal: Mh
+2338,Oggi ci hai chiamati,,0.38,0.1,,,26,:material-dots-horizontal: Mh
 2248,Ascolta oggi ,,0.46,0.02,,,26,:material-dots-horizontal: Mh
-1934,Altissimo,,0.37,0.1,,,25,:material-dots-horizontal: Mh
-2164,Trasformaci in te,0.5098012481738949,0.28,-0.05,,,25,:material-dots-horizontal: Mh
-1777,E' il Signore e dà la vita,,0.44,0.02,,,25,:material-dots-horizontal: Mh
-428,Andate in mezzo a loro,,0.45,0.0,,,25,:material-dots-horizontal: Mh
-2827,Canta o lingua il glorioso mistero,0.5561013742672231,0.29,-0.1,,,25,:material-dots-horizontal: Mh
-1652,"Ti Loderò, Ti Adorerò, Ti Canterò",0.6931910378466036,0.2,-0.13,,,25,:material-dots-horizontal: Mh
-443,Su ali d’aquila,,0.38,0.04,,0.28,25,:material-dots-horizontal: Mh
-1771,La vita che nasce,,0.42,0.03,,,25,:material-dots-horizontal: Mh
+2295,Custode del Signore,,0.45,0.02,,,26,:material-dots-horizontal: Mh
+126,Chi ci separerà,,0.36,0.14,,,26,:material-dots-horizontal: Mh
+1626,O Amore Ineffabile,,0.32,0.18,,,26,:material-dots-horizontal: Mh
+2480,Eloì,,0.39,0.1,,,26,:material-dots-horizontal: Mh
+2920,Fiamma viva d’amore,,0.35,0.15,,,26,:material-dots-horizontal: Mh
 24,Alleluia di Natale,,0.38,0.08,,,25,:material-dots-horizontal: Mh
-2533,Il custode d'Israele (salmo 120/121),0.5909023297861767,0.27,-0.12,,,25,:material-dots-horizontal: Mh
-1797,"Signore, fa di me uno strumento",,0.37,0.09,,,25,:material-dots-horizontal: Mh
-500,Pane di vita nuova,,0.41,0.05,,,25,:material-dots-horizontal: Mh
-3021,Stillate cieli dall'alto,0.5870430751553722,0.27,-0.11,,,25,:material-dots-horizontal: Mh
-1688,Gesù t’adoriamo,,0.33,0.14,,,25,:material-dots-horizontal: Mh
-3084,Vita che risorge,,0.44,0.02,,,25,:material-dots-horizontal: Mh
-1932,Ci nutri alla Tua mensa,,0.42,0.04,,,25,:material-dots-horizontal: Mh
 2270,Non sono più io che vivo,,0.44,0.01,,,25,:material-dots-horizontal: Mh
-2897,Come la cerva,0.3820107268148777,0.35,-0.02,,,25,:material-dots-horizontal: Mh
 1924,Nella Chiesa del Signore,,0.41,0.06,,,25,:material-dots-horizontal: Mh
+2897,Come la cerva,0.3820107268148777,0.35,-0.02,,,25,:material-dots-horizontal: Mh
+1777,E' il Signore e dà la vita,,0.44,0.02,,,25,:material-dots-horizontal: Mh
+1932,Ci nutri alla Tua mensa,,0.42,0.04,,,25,:material-dots-horizontal: Mh
+2827,Canta o lingua il glorioso mistero,0.5561013742672231,0.29,-0.1,,,25,:material-dots-horizontal: Mh
+3021,Stillate cieli dall'alto,0.5870430751553722,0.27,-0.11,,,25,:material-dots-horizontal: Mh
+428,Andate in mezzo a loro,,0.45,0.0,,,25,:material-dots-horizontal: Mh
+2533,Il custode d'Israele (salmo 120/121),0.5909023297861767,0.27,-0.12,,,25,:material-dots-horizontal: Mh
+1688,Gesù t’adoriamo,,0.33,0.14,,,25,:material-dots-horizontal: Mh
+1934,Altissimo,,0.37,0.1,,,25,:material-dots-horizontal: Mh
+1797,"Signore, fa di me uno strumento",,0.37,0.09,,,25,:material-dots-horizontal: Mh
+443,Su ali d’aquila,,0.38,0.04,,0.28,25,:material-dots-horizontal: Mh
+500,Pane di vita nuova,,0.41,0.05,,,25,:material-dots-horizontal: Mh
+2164,Trasformaci in te,0.5098012481738949,0.28,-0.05,,,25,:material-dots-horizontal: Mh
+1771,La vita che nasce,,0.42,0.03,,,25,:material-dots-horizontal: Mh
+3084,Vita che risorge,,0.44,0.02,,,25,:material-dots-horizontal: Mh
 1825,Il Consolatore,,0.36,0.12,,,25,:material-dots-horizontal: Mh
-2939,Ci doniamo a Te,,0.37,0.07,,,24,:material-dots-horizontal: Mh
-2926,Alleluia,,0.33,0.12,,,24,:material-dots-horizontal: Mh
-137,Come Tu mi vuoi,,0.24,-0.14,,0.45,24,:material-dots-horizontal: Mh
-229,Il Mattino di Pasqua,,0.4,0.03,,,24,:material-dots-horizontal: Mh
-2846,Come chicco di grano,,0.43,0.01,,,24,:material-dots-horizontal: Mh
-2997,O Luce radiosa,,0.4,0.05,,,24,:material-dots-horizontal: Mh
-239,Il Tuo amore,,0.43,0.01,,,24,:material-dots-horizontal: Mh
-2647,La sua casa,,0.44,-0.02,,,24,:material-dots-horizontal: Mh
+1652,"Ti Loderò, Ti Adorerò, Ti Canterò",0.6931910378466036,0.2,-0.13,,,25,:material-dots-horizontal: Mh
 1674,Non sono più io che vivo,,0.44,0.0,,,24,:material-dots-horizontal: Mh
-1542,Ecco quel che abbiamo (v2),,0.41,0.02,,,24,:material-dots-horizontal: Mh
-2124,Oggi è giorno di festa,,0.39,0.06,,,24,:material-dots-horizontal: Mh
-2420,Rimani con noi ,,0.37,0.07,,,24,:material-dots-horizontal: Mh
+2997,O Luce radiosa,,0.4,0.05,,,24,:material-dots-horizontal: Mh
 2857,La forza del tuo amore,,0.38,0.07,,,24,:material-dots-horizontal: Mh
-2239,Amore abbandonato,,0.4,0.03,,,24,:material-dots-horizontal: Mh
-1955,Tu sarai profeta (2),,0.4,0.03,,,24,:material-dots-horizontal: Mh
+2939,Ci doniamo a Te,,0.37,0.07,,,24,:material-dots-horizontal: Mh
+2846,Come chicco di grano,,0.43,0.01,,,24,:material-dots-horizontal: Mh
+137,Come Tu mi vuoi,,0.24,-0.14,,0.45,24,:material-dots-horizontal: Mh
 1416,Ecco quel che abbiamo,,0.41,0.02,,,24,:material-dots-horizontal: Mh
+229,Il Mattino di Pasqua,,0.4,0.03,,,24,:material-dots-horizontal: Mh
+1542,Ecco quel che abbiamo (v2),,0.41,0.02,,,24,:material-dots-horizontal: Mh
+2926,Alleluia,,0.33,0.12,,,24,:material-dots-horizontal: Mh
+2647,La sua casa,,0.44,-0.02,,,24,:material-dots-horizontal: Mh
 1558,Le tue meraviglie,,0.39,0.06,,,24,:material-dots-horizontal: Mh
-1736,Come un fiume d'acqua viva,0.6142940228334943,0.16,-0.06,,,23,:material-dots-horizontal: Mh
-2404,Fuoco che consuma,,0.34,0.1,,,23,:material-dots-horizontal: Mh
-1695,Ho respirato il tuo sì,,0.38,0.04,,,23,:material-dots-horizontal: Mh
-1892,Signora della pace,,0.38,0.04,,,23,:material-dots-horizontal: Mh
-221,I cieli narrano,,0.43,-0.02,,,23,:material-dots-horizontal: Mh
-2174,Quelli che amano te,,0.38,0.04,,,23,:material-dots-horizontal: Mh
-47,Amare questa vita,,0.39,0.03,,,23,:material-dots-horizontal: Mh
-2003,Giovanni,,0.39,0.04,,,23,:material-dots-horizontal: Mh
-2193,Beatitudini,0.5303341758534283,0.22,-0.05,,,23,:material-dots-horizontal: Mh
-225,Il canto della creazione,,0.43,-0.02,,,23,:material-dots-horizontal: Mh
-2377,Incontro con Gesù,,0.38,0.04,,,23,:material-dots-horizontal: Mh
-145,Cristo è risorto veramente,,0.32,-0.12,,0.36,23,:material-dots-horizontal: Mh
-205,Gioisci Figlia di Sion,,0.43,-0.03,,,23,:material-dots-horizontal: Mh
-1713,"Ti ringrazio, o mio Signore",,0.45,-0.05,,,23,:material-dots-horizontal: Mh
-1919,Festa con Te,,0.37,0.06,,,23,:material-dots-horizontal: Mh
-2994,Entrerò nella tua casa,,0.42,-0.01,,,23,:material-dots-horizontal: Mh
-325,Noi veniamo a Te,,0.35,0.08,,,23,:material-dots-horizontal: Mh
-2384,Dai la mano a tuo fratello,,0.31,0.14,,,23,:material-dots-horizontal: Mh
-2240,Con l'offerta di Gesù,,0.4,0.01,,,23,:material-dots-horizontal: Mh
-2990,Santa chiesa di Dio,0.584510291187925,0.28,-0.2,,,23,:material-dots-horizontal: Mh
+2124,Oggi è giorno di festa,,0.39,0.06,,,24,:material-dots-horizontal: Mh
+1955,Tu sarai profeta (2),,0.4,0.03,,,24,:material-dots-horizontal: Mh
+2239,Amore abbandonato,,0.4,0.03,,,24,:material-dots-horizontal: Mh
+2420,Rimani con noi ,,0.37,0.07,,,24,:material-dots-horizontal: Mh
+239,Il Tuo amore,,0.43,0.01,,,24,:material-dots-horizontal: Mh
 2396,A te Signor leviamo i cuori,,0.31,0.14,,,23,:material-dots-horizontal: Mh
-2298,Celebriamo insieme,0.5299050910821027,0.17,-0.01,,,23,:material-dots-horizontal: Mh
+2384,Dai la mano a tuo fratello,,0.31,0.14,,,23,:material-dots-horizontal: Mh
+2994,Entrerò nella tua casa,,0.42,-0.01,,,23,:material-dots-horizontal: Mh
+1713,"Ti ringrazio, o mio Signore",,0.45,-0.05,,,23,:material-dots-horizontal: Mh
+225,Il canto della creazione,,0.43,-0.02,,,23,:material-dots-horizontal: Mh
 2782,Nelle mani tue,,0.32,0.12,,,23,:material-dots-horizontal: Mh
-1427,Camminiamo sulla strada,,0.37,0.03,,,22,:material-dots-horizontal: Mh
-116,Canterò per Te,,0.39,-0.0,,,22,:material-dots-horizontal: Mh
-1709,Signore da chi andremo,,0.43,-0.05,,,22,:material-dots-horizontal: Mh
-1792,Resta con noi,,0.34,0.08,,,22,:material-dots-horizontal: Mh
-2486,Quanno nascette Ninno,,0.31,0.1,,,22,:material-dots-horizontal: Mh
-2858,E' l’incontro della vita,,0.36,0.05,,,22,:material-dots-horizontal: Mh
-447,Symbolum ‘80 (Ma la tua Parola),,0.45,-0.06,,,22,:material-dots-horizontal: Mh
-419,Segni del tuo amore,,0.27,-0.1,,0.37,22,:material-dots-horizontal: Mh
+2298,Celebriamo insieme,0.5299050910821027,0.17,-0.01,,,23,:material-dots-horizontal: Mh
+2377,Incontro con Gesù,,0.38,0.04,,,23,:material-dots-horizontal: Mh
+2404,Fuoco che consuma,,0.34,0.1,,,23,:material-dots-horizontal: Mh
+1919,Festa con Te,,0.37,0.06,,,23,:material-dots-horizontal: Mh
+1892,Signora della pace,,0.38,0.04,,,23,:material-dots-horizontal: Mh
+2003,Giovanni,,0.39,0.04,,,23,:material-dots-horizontal: Mh
+205,Gioisci Figlia di Sion,,0.43,-0.03,,,23,:material-dots-horizontal: Mh
+2193,Beatitudini,0.5303341758534283,0.22,-0.05,,,23,:material-dots-horizontal: Mh
+2240,Con l'offerta di Gesù,,0.4,0.01,,,23,:material-dots-horizontal: Mh
+221,I cieli narrano,,0.43,-0.02,,,23,:material-dots-horizontal: Mh
+325,Noi veniamo a Te,,0.35,0.08,,,23,:material-dots-horizontal: Mh
+47,Amare questa vita,,0.39,0.03,,,23,:material-dots-horizontal: Mh
+145,Cristo è risorto veramente,,0.32,-0.12,,0.36,23,:material-dots-horizontal: Mh
+1736,Come un fiume d'acqua viva,0.6142940228334943,0.16,-0.06,,,23,:material-dots-horizontal: Mh
+2174,Quelli che amano te,,0.38,0.04,,,23,:material-dots-horizontal: Mh
+1695,Ho respirato il tuo sì,,0.38,0.04,,,23,:material-dots-horizontal: Mh
+2990,Santa chiesa di Dio,0.584510291187925,0.28,-0.2,,,23,:material-dots-horizontal: Mh
+2778,Lascia i tuoi pesi,,0.33,0.08,,,22,:material-dots-horizontal: Mh
 2992,"Agnello di Dio, miserere nobis",,0.3,0.11,,,22,:material-dots-horizontal: Mh
-1936,Alla vittima pasquale,,0.37,0.03,,,22,:material-dots-horizontal: Mh
-2187,Acclamiamo a Dio,,0.34,0.06,,,22,:material-dots-horizontal: Mh
-2644,La Tua dimora,,0.4,-0.0,,,22,:material-dots-horizontal: Mh
+2818,"Dio mio, Dio mio perchè mi hai abbandonato ",,0.39,0.0,,,22,:material-dots-horizontal: Mh
+2044,Davanti a te Gesu',,0.34,0.08,,,22,:material-dots-horizontal: Mh
 2540,La terra buona,,0.41,-0.02,,,22,:material-dots-horizontal: Mh
 353,Padre perdona,,0.35,0.06,,,22,:material-dots-horizontal: Mh
-2818,"Dio mio, Dio mio perchè mi hai abbandonato ",,0.39,0.0,,,22,:material-dots-horizontal: Mh
-2220,Benedetto (Davanti a Te o Dio),,0.31,0.1,,,22,:material-dots-horizontal: Mh
-2304,Il canto della Resurrezione,,0.3,0.13,,,22,:material-dots-horizontal: Mh
-2778,Lascia i tuoi pesi,,0.33,0.08,,,22,:material-dots-horizontal: Mh
-2238,"Alleluia, rendete grazie",,0.37,0.04,,,22,:material-dots-horizontal: Mh
-1565,Musica di festa,,0.4,-0.0,,,22,:material-dots-horizontal: Mh
-2487,Pane e vino ti offriamo,,0.37,0.04,,,22,:material-dots-horizontal: Mh
-2391,Lode ed esortazione,,0.34,0.07,,,22,:material-dots-horizontal: Mh
-279,Le mani alzate,,0.32,0.09,,,22,:material-dots-horizontal: Mh
-2528,Hai dato un cibo ,,0.41,-0.01,,,22,:material-dots-horizontal: Mh
-1627,Giorno di Pentecoste,,0.42,-0.03,,,22,:material-dots-horizontal: Mh
-479,Verremo a Te,,0.39,0.01,,,22,:material-dots-horizontal: Mh
-1634,A te grido mio Signore,,0.38,0.01,,,22,:material-dots-horizontal: Mh
-2253,Venite applaudiamo al Signore,,0.4,-0.01,,,22,:material-dots-horizontal: Mh
-2876,Pellegrini di speranza,,0.38,0.02,,,22,:material-dots-horizontal: Mh
-2044,Davanti a te Gesu',,0.34,0.08,,,22,:material-dots-horizontal: Mh
-2880,Canto a Sant'Antonio,,0.33,0.08,,,22,:material-dots-horizontal: Mh
-2243,Alleluia Gv 13,,0.31,0.1,,,22,:material-dots-horizontal: Mh
-2542,Lascia i tuoi pesi,,0.33,0.08,,,22,:material-dots-horizontal: Mh
-1680,Tutta la terra attende,,0.35,0.05,,,22,:material-dots-horizontal: Mh
-1625,"Canterò ""I will Sing""",,0.38,0.03,,,22,:material-dots-horizontal: Mh
+2486,Quanno nascette Ninno,,0.31,0.1,,,22,:material-dots-horizontal: Mh
+116,Canterò per Te,,0.39,-0.0,,,22,:material-dots-horizontal: Mh
+2493,Amen Jhavè,0.3915185957761495,0.27,-0.03,,,22,:material-dots-horizontal: Mh
+447,Symbolum ‘80 (Ma la tua Parola),,0.45,-0.06,,,22,:material-dots-horizontal: Mh
+1709,Signore da chi andremo,,0.43,-0.05,,,22,:material-dots-horizontal: Mh
 2712,Ecco il pane,,0.3,0.12,,,22,:material-dots-horizontal: Mh
 1828,Tu mi conosci,,0.35,0.05,,,22,:material-dots-horizontal: Mh
+419,Segni del tuo amore,,0.27,-0.1,,0.37,22,:material-dots-horizontal: Mh
+2187,Acclamiamo a Dio,,0.34,0.06,,,22,:material-dots-horizontal: Mh
+2528,Hai dato un cibo ,,0.41,-0.01,,,22,:material-dots-horizontal: Mh
 1640,"Sei Tu, Signore",,0.38,0.01,,,22,:material-dots-horizontal: Mh
-2493,Amen Jhavè,0.3915185957761495,0.27,-0.03,,,22,:material-dots-horizontal: Mh
+1427,Camminiamo sulla strada,,0.37,0.03,,,22,:material-dots-horizontal: Mh
+1634,A te grido mio Signore,,0.38,0.01,,,22,:material-dots-horizontal: Mh
+1680,Tutta la terra attende,,0.35,0.05,,,22,:material-dots-horizontal: Mh
+2304,Il canto della Resurrezione,,0.3,0.13,,,22,:material-dots-horizontal: Mh
+1625,"Canterò ""I will Sing""",,0.38,0.03,,,22,:material-dots-horizontal: Mh
+279,Le mani alzate,,0.32,0.09,,,22,:material-dots-horizontal: Mh
+2487,Pane e vino ti offriamo,,0.37,0.04,,,22,:material-dots-horizontal: Mh
+2858,E' l’incontro della vita,,0.36,0.05,,,22,:material-dots-horizontal: Mh
+2542,Lascia i tuoi pesi,,0.33,0.08,,,22,:material-dots-horizontal: Mh
+2880,Canto a Sant'Antonio,,0.33,0.08,,,22,:material-dots-horizontal: Mh
+1565,Musica di festa,,0.4,-0.0,,,22,:material-dots-horizontal: Mh
+1627,Giorno di Pentecoste,,0.42,-0.03,,,22,:material-dots-horizontal: Mh
+1792,Resta con noi,,0.34,0.08,,,22,:material-dots-horizontal: Mh
+2253,Venite applaudiamo al Signore,,0.4,-0.01,,,22,:material-dots-horizontal: Mh
+2644,La Tua dimora,,0.4,-0.0,,,22,:material-dots-horizontal: Mh
+479,Verremo a Te,,0.39,0.01,,,22,:material-dots-horizontal: Mh
+2220,Benedetto (Davanti a Te o Dio),,0.31,0.1,,,22,:material-dots-horizontal: Mh
+2238,"Alleluia, rendete grazie",,0.37,0.04,,,22,:material-dots-horizontal: Mh
+2391,Lode ed esortazione,,0.34,0.07,,,22,:material-dots-horizontal: Mh
 1676,Ti rendiamo grazie,,0.37,0.04,,,22,:material-dots-horizontal: Mh
-7,Accoglimi,,0.4,-0.03,,,21,:material-dots-horizontal: Mh
-2825,Li amò fino alla fine,,0.37,0.02,,,21,:material-dots-horizontal: Mh
-2569,Scatenate la gioia,,0.33,0.05,,,21,:material-dots-horizontal: Mh
-2279,Come la cerva,0.611510071309238,0.11,-0.06,,,21,:material-dots-horizontal: Mh
-3,Acclamate a Dio,,0.38,-0.01,,,21,:material-dots-horizontal: Mh
-2308,In unità,,0.38,-0.01,,,21,:material-dots-horizontal: Mh
-1759,Io ti cerco,,0.43,-0.07,,,21,:material-dots-horizontal: Mh
-2303,Annuncio Pasquale,,0.43,-0.07,,,21,:material-dots-horizontal: Mh
-2772,Cammineremo nella libertà,,0.35,0.03,,,21,:material-dots-horizontal: Mh
-2173,Luce di Dio,,0.39,-0.01,,,21,:material-dots-horizontal: Mh
-1946,Aprite le porte a Cristo,,0.4,-0.03,,,21,:material-dots-horizontal: Mh
-2934,Se siamo uniti,,0.33,0.07,,,21,:material-dots-horizontal: Mh
-61,Ascolta la Preghiera,,0.41,-0.03,,,21,:material-dots-horizontal: Mh
-2232,"Tu, nostro Pastore",,0.33,0.05,,,21,:material-dots-horizontal: Mh
+1936,Alla vittima pasquale,,0.37,0.03,,,22,:material-dots-horizontal: Mh
+2243,Alleluia Gv 13,,0.31,0.1,,,22,:material-dots-horizontal: Mh
+2876,Pellegrini di speranza,,0.38,0.02,,,22,:material-dots-horizontal: Mh
 1554,Emmanuel tu sei,,0.33,0.06,,,21,:material-dots-horizontal: Mh
-2626,Giovani e Vecchi ,,0.34,0.04,,,21,:material-dots-horizontal: Mh
+1759,Io ti cerco,,0.43,-0.07,,,21,:material-dots-horizontal: Mh
+1946,Aprite le porte a Cristo,,0.4,-0.03,,,21,:material-dots-horizontal: Mh
 2074,Misericordes sicut Pater! (Inno dell'Anno Santo della Misericordia),0.3938761042527891,0.25,-0.04,,,21,:material-dots-horizontal: Mh
-2257,Yes Lord,,0.28,0.12,,,21,:material-dots-horizontal: Mh
-2590,Inno di liberazione,,0.41,-0.04,,,21,:material-dots-horizontal: Mh
+2825,Li amò fino alla fine,,0.37,0.02,,,21,:material-dots-horizontal: Mh
+2279,Come la cerva,0.611510071309238,0.11,-0.06,,,21,:material-dots-horizontal: Mh
+2569,Scatenate la gioia,,0.33,0.05,,,21,:material-dots-horizontal: Mh
+2934,Se siamo uniti,,0.33,0.07,,,21,:material-dots-horizontal: Mh
+7,Accoglimi,,0.4,-0.03,,,21,:material-dots-horizontal: Mh
+3,Acclamate a Dio,,0.38,-0.01,,,21,:material-dots-horizontal: Mh
 1816,Figlia di Sion,,0.35,0.03,,,21,:material-dots-horizontal: Mh
+2772,Cammineremo nella libertà,,0.35,0.03,,,21,:material-dots-horizontal: Mh
+2626,Giovani e Vecchi ,,0.34,0.04,,,21,:material-dots-horizontal: Mh
+61,Ascolta la Preghiera,,0.41,-0.03,,,21,:material-dots-horizontal: Mh
+2590,Inno di liberazione,,0.41,-0.04,,,21,:material-dots-horizontal: Mh
 2977,Ascolta Creatore pietoso,,0.37,0.02,,,21,:material-dots-horizontal: Mh
+2173,Luce di Dio,,0.39,-0.01,,,21,:material-dots-horizontal: Mh
 2550,Nascerà,,0.41,-0.05,,,21,:material-dots-horizontal: Mh
+2308,In unità,,0.38,-0.01,,,21,:material-dots-horizontal: Mh
+2303,Annuncio Pasquale,,0.43,-0.07,,,21,:material-dots-horizontal: Mh
+2257,Yes Lord,,0.28,0.12,,,21,:material-dots-horizontal: Mh
+1953,So che sei qui,,0.41,-0.06,,,20,:material-dots-horizontal: Mh
 163,Dov’è carità e amore,,0.4,-0.05,,,20,:material-dots-horizontal: Mh
 2551,Non c'è nessuno che,,0.32,0.06,,,20,:material-dots-horizontal: Mh
-1616,Canzone della speranza,,0.41,-0.07,,,20,:material-dots-horizontal: Mh
-2099,Sai fischiare?,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
-335,Oggi ti chiamo,,0.38,-0.02,,,20,:material-dots-horizontal: Mh
-1600,Fratello Sole e Sorella Luna (semplificata),,0.39,-0.04,,,20,:material-dots-horizontal: Mh
-1696,Spirito di santità,,0.34,0.02,,,20,:material-dots-horizontal: Mh
-2324,Roccia di fedeltà,,0.34,0.03,,,20,:material-dots-horizontal: Mh
-1677,Mi affido a te,,0.36,-0.01,,,20,:material-dots-horizontal: Mh
-1446,Ai piedi di Gesù,,0.33,0.03,,,20,:material-dots-horizontal: Mh
-1889,Ai piedi di Gesù (semplificata),,0.33,0.03,,,20,:material-dots-horizontal: Mh
-200,Fratello Sole e Sorella Luna,,0.39,-0.04,,,20,:material-dots-horizontal: Mh
-2530,La vera gioia,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
-1668,Fiumi di misericordia,,0.39,-0.04,,,20,:material-dots-horizontal: Mh
-2245,E' la gioia che fa cantare,,0.35,0.02,,,20,:material-dots-horizontal: Mh
-2144,E' il segno del tuo amore,,0.36,0.0,,,20,:material-dots-horizontal: Mh
-1555,Il Signore della danza,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
-2717,In quei giorni,,0.35,0.02,,,20,:material-dots-horizontal: Mh
-252,Io loderò il Signore,,0.34,0.02,,,20,:material-dots-horizontal: Mh
-1768,Io ti offro,,0.34,0.03,,,20,:material-dots-horizontal: Mh
-1564,Nostra gloria è la croce,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
-1780,Vocazione,,0.26,-0.24,,0.42,20,:material-dots-horizontal: Mh
-2757,Vieni popolo mio,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
-446,Symbolum ‘77 (v2),,0.4,-0.06,,,20,:material-dots-horizontal: Mh
-2750,Riuniti nel suo nome,,0.32,0.04,,,20,:material-dots-horizontal: Mh
 44,Alzati e risplendi,,0.31,0.07,,,20,:material-dots-horizontal: Mh
-1938,Venite saliamo al monte del Signore,,0.31,0.07,,,20,:material-dots-horizontal: Mh
-321,Noi canteremo gloria a Te,,0.4,-0.05,,,20,:material-dots-horizontal: Mh
-2623,Eterno Signor,,0.34,0.03,,,20,:material-dots-horizontal: Mh
-2209,Il mio canto sale a Te,,0.33,0.04,,,20,:material-dots-horizontal: Mh
-1966,Nozze a Cana,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
-2726,Io amo te,,0.36,-0.01,,,20,:material-dots-horizontal: Mh
-2127,Inno a San Giovanni ,,0.3,0.07,,,20,:material-dots-horizontal: Mh
+1616,Canzone della speranza,,0.41,-0.07,,,20,:material-dots-horizontal: Mh
 474,Venite fedeli,0.5919203372503925,0.15,-0.12,,,20,:material-dots-horizontal: Mh
-1953,So che sei qui,,0.41,-0.06,,,20,:material-dots-horizontal: Mh
-2119,Benedetto nei secoli,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
+1889,Ai piedi di Gesù (semplificata),,0.33,0.03,,,20,:material-dots-horizontal: Mh
 1675,Symbolum ‘77,,0.4,-0.06,,,20,:material-dots-horizontal: Mh
-362,Preghiera,,0.35,0.01,,,20,:material-dots-horizontal: Mh
-322,Noi con Te,,0.35,0.02,,,20,:material-dots-horizontal: Mh
+2726,Io amo te,,0.36,-0.01,,,20,:material-dots-horizontal: Mh
+2324,Roccia di fedeltà,,0.34,0.03,,,20,:material-dots-horizontal: Mh
+1600,Fratello Sole e Sorella Luna (semplificata),,0.39,-0.04,,,20,:material-dots-horizontal: Mh
+2209,Il mio canto sale a Te,,0.33,0.04,,,20,:material-dots-horizontal: Mh
+2623,Eterno Signor,,0.34,0.03,,,20,:material-dots-horizontal: Mh
+252,Io loderò il Signore,,0.34,0.02,,,20,:material-dots-horizontal: Mh
 102,Canoni - Misericordias Domini,0.4548780879328116,0.14,0.01,,,20,:material-dots-horizontal: Mh
+321,Noi canteremo gloria a Te,,0.4,-0.05,,,20,:material-dots-horizontal: Mh
+1938,Venite saliamo al monte del Signore,,0.31,0.07,,,20,:material-dots-horizontal: Mh
+2144,E' il segno del tuo amore,,0.36,0.0,,,20,:material-dots-horizontal: Mh
+1446,Ai piedi di Gesù,,0.33,0.03,,,20,:material-dots-horizontal: Mh
+2245,E' la gioia che fa cantare,,0.35,0.02,,,20,:material-dots-horizontal: Mh
+1677,Mi affido a te,,0.36,-0.01,,,20,:material-dots-horizontal: Mh
+1780,Vocazione,,0.26,-0.24,,0.42,20,:material-dots-horizontal: Mh
 2030,In cammino,,0.35,0.01,,,20,:material-dots-horizontal: Mh
+2119,Benedetto nei secoli,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
+2757,Vieni popolo mio,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
+1564,Nostra gloria è la croce,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
+2127,Inno a San Giovanni ,,0.3,0.07,,,20,:material-dots-horizontal: Mh
+1966,Nozze a Cana,,0.37,-0.02,,,20,:material-dots-horizontal: Mh
+322,Noi con Te,,0.35,0.02,,,20,:material-dots-horizontal: Mh
+446,Symbolum ‘77 (v2),,0.4,-0.06,,,20,:material-dots-horizontal: Mh
+335,Oggi ti chiamo,,0.38,-0.02,,,20,:material-dots-horizontal: Mh
+2099,Sai fischiare?,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
+362,Preghiera,,0.35,0.01,,,20,:material-dots-horizontal: Mh
+2717,In quei giorni,,0.35,0.02,,,20,:material-dots-horizontal: Mh
+1696,Spirito di santità,,0.34,0.02,,,20,:material-dots-horizontal: Mh
+1768,Io ti offro,,0.34,0.03,,,20,:material-dots-horizontal: Mh
+1555,Il Signore della danza,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
+1668,Fiumi di misericordia,,0.39,-0.04,,,20,:material-dots-horizontal: Mh
+2530,La vera gioia,,0.38,-0.03,,,20,:material-dots-horizontal: Mh
+200,Fratello Sole e Sorella Luna,,0.39,-0.04,,,20,:material-dots-horizontal: Mh
+2750,Riuniti nel suo nome,,0.32,0.04,,,20,:material-dots-horizontal: Mh
+1894,"Rendo grazie al tuo nome, Signore",,0.38,-0.05,,,19,:material-dots-horizontal: Mh
+2674,La Madre,,0.33,0.01,,,19,:material-dots-horizontal: Mh
+167,E' bello,,0.36,-0.02,,,19,:material-dots-horizontal: Mh
+1836,Ecco la serva del Signore,,0.35,-0.01,,,19,:material-dots-horizontal: Mh
+2400,Tu sei il mio Dio ,,0.34,0.0,,,19,:material-dots-horizontal: Mh
+2795,Come il Pellicano,,0.38,-0.04,,,19,:material-dots-horizontal: Mh
 1614,Come incenso,,0.33,0.02,,,19,:material-dots-horizontal: Mh
-1635,Accogli nella tua bontà,,0.34,0.01,,,19,:material-dots-horizontal: Mh
-1355,Io dico il mio sì - Marco Guadin,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
-2595,Ora che sei in mezzo a noi,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
-2660,Canoni Vari,,0.35,-0.02,,,19,:material-dots-horizontal: Mh
+1941,Santo,,0.28,0.07,,,19,:material-dots-horizontal: Mh
+1822,Il seme del tuo campo,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
+1711,Spirito del Dio vivente,,0.29,0.06,,,19,:material-dots-horizontal: Mh
 257,Io vedo il Re,,0.33,0.01,,,19,:material-dots-horizontal: Mh
-459,Ti ringraziamo,,0.34,-0.0,,,19,:material-dots-horizontal: Mh
-2226,"Alleluia, Cristo è risorto",,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+1939,La mia Pasqua è il Signore,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
+2786,Muovi le montagne,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+1355,Io dico il mio sì - Marco Guadin,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+2673,Sei per noi cibo di eternità,,0.34,0.01,,,19,:material-dots-horizontal: Mh
+2455,Pane della vita,,0.32,0.03,,,19,:material-dots-horizontal: Mh
+2597,Glorifica il Signore Gerusalemme,,0.36,-0.02,,,19,:material-dots-horizontal: Mh
+2645,La Parabola del Seminatore,,0.38,-0.04,,,19,:material-dots-horizontal: Mh
+194,Fermarono i cieli,,0.29,0.06,,,19,:material-dots-horizontal: Mh
+2595,Ora che sei in mezzo a noi,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
+411,Scusa Signore,,0.35,-0.0,,,19,:material-dots-horizontal: Mh
+1552,Canta con noi,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+2393,Io credo in te Gesù (v2),,0.32,0.03,,,19,:material-dots-horizontal: Mh
+2660,Canoni Vari,,0.35,-0.02,,,19,:material-dots-horizontal: Mh
 152,Davanti a questo amore,,0.37,-0.04,,,19,:material-dots-horizontal: Mh
 1549,Canta con noi (v2),,0.36,-0.02,,,19,:material-dots-horizontal: Mh
-411,Scusa Signore,,0.35,-0.0,,,19,:material-dots-horizontal: Mh
-1822,Il seme del tuo campo,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
-2786,Muovi le montagne,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
-1939,La mia Pasqua è il Signore,,0.36,-0.03,,,19,:material-dots-horizontal: Mh
-1552,Canta con noi,,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+1635,Accogli nella tua bontà,,0.34,0.01,,,19,:material-dots-horizontal: Mh
 2056,Ecco Signore,,0.31,0.04,,,19,:material-dots-horizontal: Mh
-382,Resta qui con noi,,0.38,-0.05,,,19,:material-dots-horizontal: Mh
-1836,Ecco la serva del Signore,,0.35,-0.01,,,19,:material-dots-horizontal: Mh
-1711,Spirito del Dio vivente,,0.29,0.06,,,19,:material-dots-horizontal: Mh
-2400,Tu sei il mio Dio ,,0.34,0.0,,,19,:material-dots-horizontal: Mh
-2393,Io credo in te Gesù (v2),,0.32,0.03,,,19,:material-dots-horizontal: Mh
-1894,"Rendo grazie al tuo nome, Signore",,0.38,-0.05,,,19,:material-dots-horizontal: Mh
-2673,Sei per noi cibo di eternità,,0.34,0.01,,,19,:material-dots-horizontal: Mh
+459,Ti ringraziamo,,0.34,-0.0,,,19,:material-dots-horizontal: Mh
 2442,Come il fiume,,0.3,0.05,,,19,:material-dots-horizontal: Mh
-2645,La Parabola del Seminatore,,0.38,-0.04,,,19,:material-dots-horizontal: Mh
-2597,Glorifica il Signore Gerusalemme,,0.36,-0.02,,,19,:material-dots-horizontal: Mh
-2795,Come il Pellicano,,0.38,-0.04,,,19,:material-dots-horizontal: Mh
-2674,La Madre,,0.33,0.01,,,19,:material-dots-horizontal: Mh
-194,Fermarono i cieli,,0.29,0.06,,,19,:material-dots-horizontal: Mh
-167,E' bello,,0.36,-0.02,,,19,:material-dots-horizontal: Mh
-2455,Pane della vita,,0.32,0.03,,,19,:material-dots-horizontal: Mh
-1941,Santo,,0.28,0.07,,,19,:material-dots-horizontal: Mh
-2029,Sommo e glorioso Dio,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
-423,Servo per amore,,0.33,-0.01,,,18,:material-dots-horizontal: Mh
-2284,Ecco il mio servo,,0.3,0.04,,,18,:material-dots-horizontal: Mh
-2740,Lodate Dio,,0.31,0.02,,,18,:material-dots-horizontal: Mh
-179,E sono solo un uomo,,0.42,-0.11,,,18,:material-dots-horizontal: Mh
-506,Voi siete di Dio (v2),,0.31,0.01,,,18,:material-dots-horizontal: Mh
-1879,Preconio Pasquale,,0.42,-0.11,,,18,:material-dots-horizontal: Mh
+2226,"Alleluia, Cristo è risorto",,0.37,-0.03,,,19,:material-dots-horizontal: Mh
+382,Resta qui con noi,,0.38,-0.05,,,19,:material-dots-horizontal: Mh
 2613,Luce in Noi ,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
-2812,Ave Maria gratia plena,,0.27,0.06,,,18,:material-dots-horizontal: Mh
+1887,Esulta il cielo,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
+2738,La vera vite,,0.34,-0.03,,,18,:material-dots-horizontal: Mh
+129,Cieli e terra nuova,,0.37,-0.06,,,18,:material-dots-horizontal: Mh
+420,Sei grande Dio,,0.36,-0.05,,,18,:material-dots-horizontal: Mh
+506,Voi siete di Dio (v2),,0.31,0.01,,,18,:material-dots-horizontal: Mh
+120,Canto a Te Maria,,0.36,-0.05,,,18,:material-dots-horizontal: Mh
+497,Voi siete di Dio,,0.31,0.01,,,18,:material-dots-horizontal: Mh
+2367,Volto dell'Uomo,,0.34,-0.03,,,18,:material-dots-horizontal: Mh
+1788,Purificami o Signore (Salmo 50),,0.34,-0.01,,,18,:material-dots-horizontal: Mh
+2122,Tu sei la forza,,0.38,-0.08,,,18,:material-dots-horizontal: Mh
+1800,Ti ringrazio mio Signore,,0.37,-0.05,,,18,:material-dots-horizontal: Mh
+2170,Tu vieni signore,,0.32,0.0,,,18,:material-dots-horizontal: Mh
+2261,Pane per noi spezzato,,0.3,0.02,,,18,:material-dots-horizontal: Mh
+2564,Getta le tue reti,,0.35,-0.03,,,18,:material-dots-horizontal: Mh
+2258,Dal cielo scende la benedizione,,0.32,-0.0,,,18,:material-dots-horizontal: Mh
+1847,Ave Maria stella del mattino,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
+2402,Dio ti adorerò ,,0.26,0.08,,,18,:material-dots-horizontal: Mh
+1663,Ti dono il mio cuore Gesù,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
+48,Amatevi fratelli,,0.3,0.02,,,18,:material-dots-horizontal: Mh
+1678,Io credo in te Gesù,,0.32,0.01,,,18,:material-dots-horizontal: Mh
+2681,Rendiamo grazie a te,,0.38,-0.06,,,18,:material-dots-horizontal: Mh
+2777,Tu sei il mio Dio (Meraviglioso),,0.35,-0.04,,,18,:material-dots-horizontal: Mh
 1553,Danza Danza,,0.33,0.0,,,18,:material-dots-horizontal: Mh
 1618,L'acqua della salvezza,,0.33,-0.01,,,18,:material-dots-horizontal: Mh
 2130,Degno di Lode,,0.31,0.02,,,18,:material-dots-horizontal: Mh
-1788,Purificami o Signore (Salmo 50),,0.34,-0.01,,,18,:material-dots-horizontal: Mh
-2564,Getta le tue reti,,0.35,-0.03,,,18,:material-dots-horizontal: Mh
-2777,Tu sei il mio Dio (Meraviglioso),,0.35,-0.04,,,18,:material-dots-horizontal: Mh
-1678,Io credo in te Gesù,,0.32,0.01,,,18,:material-dots-horizontal: Mh
-2615,Dai confini del mondo,,0.31,0.02,,,18,:material-dots-horizontal: Mh
-2973,Grande tu sei,,0.33,0.0,,,18,:material-dots-horizontal: Mh
-324,Noi veglieremo,,0.29,0.05,,,18,:material-dots-horizontal: Mh
-2258,Dal cielo scende la benedizione,,0.32,-0.0,,,18,:material-dots-horizontal: Mh
-1847,Ave Maria stella del mattino,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
-414,Se m’accogli,,0.38,-0.06,,,18,:material-dots-horizontal: Mh
-1887,Esulta il cielo,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
-195,Fissa gli occhi,,0.4,-0.1,,,18,:material-dots-horizontal: Mh
-1663,Ti dono il mio cuore Gesù,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
-117,Cantiamo Te,,0.39,-0.08,,,18,:material-dots-horizontal: Mh
-120,Canto a Te Maria,,0.36,-0.05,,,18,:material-dots-horizontal: Mh
-1657,Parla al mio cuore,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
-135,Come l’aurora verrai,,0.35,-0.03,,,18,:material-dots-horizontal: Mh
-2402,Dio ti adorerò ,,0.26,0.08,,,18,:material-dots-horizontal: Mh
-2122,Tu sei la forza,,0.38,-0.08,,,18,:material-dots-horizontal: Mh
-2681,Rendiamo grazie a te,,0.38,-0.06,,,18,:material-dots-horizontal: Mh
-420,Sei grande Dio,,0.36,-0.05,,,18,:material-dots-horizontal: Mh
-2738,La vera vite,,0.34,-0.03,,,18,:material-dots-horizontal: Mh
-48,Amatevi fratelli,,0.3,0.02,,,18,:material-dots-horizontal: Mh
 292,Luce di verità,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
-129,Cieli e terra nuova,,0.37,-0.06,,,18,:material-dots-horizontal: Mh
+423,Servo per amore,,0.33,-0.01,,,18,:material-dots-horizontal: Mh
 1918,Io sarò con voi,,0.35,-0.03,,,18,:material-dots-horizontal: Mh
-497,Voi siete di Dio,,0.31,0.01,,,18,:material-dots-horizontal: Mh
-1800,Ti ringrazio mio Signore,,0.37,-0.05,,,18,:material-dots-horizontal: Mh
-2367,Volto dell'Uomo,,0.34,-0.03,,,18,:material-dots-horizontal: Mh
-2170,Tu vieni signore,,0.32,0.0,,,18,:material-dots-horizontal: Mh
-1999,Cose stupende ,,0.33,-0.01,,,18,:material-dots-horizontal: Mh
+2615,Dai confini del mondo,,0.31,0.02,,,18,:material-dots-horizontal: Mh
 2788,Chi mi seguirà,,0.33,0.0,,,18,:material-dots-horizontal: Mh
+1999,Cose stupende ,,0.33,-0.01,,,18,:material-dots-horizontal: Mh
+324,Noi veglieremo,,0.29,0.05,,,18,:material-dots-horizontal: Mh
+2973,Grande tu sei,,0.33,0.0,,,18,:material-dots-horizontal: Mh
+195,Fissa gli occhi,,0.4,-0.1,,,18,:material-dots-horizontal: Mh
+117,Cantiamo Te,,0.39,-0.08,,,18,:material-dots-horizontal: Mh
+1657,Parla al mio cuore,,0.36,-0.04,,,18,:material-dots-horizontal: Mh
+2812,Ave Maria gratia plena,,0.27,0.06,,,18,:material-dots-horizontal: Mh
 2646,È meraviglioso,,0.36,-0.05,,,18,:material-dots-horizontal: Mh
-2261,Pane per noi spezzato,,0.3,0.02,,,18,:material-dots-horizontal: Mh
-150,Dall’aurora al tramonto,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
-2737,Inno alla Parola,,0.41,-0.14,,,17,:material-dots-horizontal: Mh
-2106,Vivi in noi don Bosco,,0.29,0.02,,,17,:material-dots-horizontal: Mh
-254,Io sarò con Te,,0.34,-0.05,,,17,:material-dots-horizontal: Mh
-2188,Io quante volte,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
-2260,Fammi conoscere,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
-2275,Tu mi hai sedotto,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
-2979,Il Signore è mia luce e salvezza,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
-1869,"Maria, tua dolcezza",,0.36,-0.06,,,17,:material-dots-horizontal: Mh
-2219,Spalancate le porte a Cristo,,0.33,-0.03,,,17,:material-dots-horizontal: Mh
-444,Sulla Tua parola (Pietro vai),,0.37,-0.09,,,17,:material-dots-horizontal: Mh
-1569,Stai con me,,0.31,-0.01,,,17,:material-dots-horizontal: Mh
-377,Rallegriamoci,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-1692,Grande è il Signore,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
-2679,Prodigio d'amore,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
-2063,Popolo mio,0.3854944988851144,0.22,-0.1,,,17,:material-dots-horizontal: Mh
-303,"Maria, vogliamo amarti",,0.3,0.01,,,17,:material-dots-horizontal: Mh
+179,E sono solo un uomo,,0.42,-0.11,,,18,:material-dots-horizontal: Mh
+414,Se m’accogli,,0.38,-0.06,,,18,:material-dots-horizontal: Mh
+2740,Lodate Dio,,0.31,0.02,,,18,:material-dots-horizontal: Mh
+2284,Ecco il mio servo,,0.3,0.04,,,18,:material-dots-horizontal: Mh
+2029,Sommo e glorioso Dio,,0.34,-0.02,,,18,:material-dots-horizontal: Mh
+1879,Preconio Pasquale,,0.42,-0.11,,,18,:material-dots-horizontal: Mh
+135,Come l’aurora verrai,,0.35,-0.03,,,18,:material-dots-horizontal: Mh
 2451,Ballata per Maria ,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
-2742,Lode,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-125,Cerco la Tua voce,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
-1698,Vergin Santa,,0.38,-0.1,,,17,:material-dots-horizontal: Mh
+176,E' Natale,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
+150,Dall’aurora al tramonto,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
+2223,Un raggio splenderà,,0.38,-0.09,,,17,:material-dots-horizontal: Mh
+254,Io sarò con Te,,0.34,-0.05,,,17,:material-dots-horizontal: Mh
+2737,Inno alla Parola,,0.41,-0.14,,,17,:material-dots-horizontal: Mh
+2155,Isaia 62,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
+2106,Vivi in noi don Bosco,,0.29,0.02,,,17,:material-dots-horizontal: Mh
+1801,Tu vero pane della vita,,0.32,-0.01,,,17,:material-dots-horizontal: Mh
+2659,Tutta la vita è un dono,,0.3,0.01,,,17,:material-dots-horizontal: Mh
+1563,"Gloria a te, parola vivente",,0.35,-0.05,,,17,:material-dots-horizontal: Mh
+370,Quale gioia,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
 307,Mia forza e mio canto,,0.36,-0.07,,,17,:material-dots-horizontal: Mh
-365,Preghiera semplice,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
+318,Nella Tua tenda,,0.3,0.0,,,17,:material-dots-horizontal: Mh
+2448,Ai piedi della Croce,,0.39,-0.1,,,17,:material-dots-horizontal: Mh
+2618,Alleluia Padre Mio ,,0.3,0.01,,,17,:material-dots-horizontal: Mh
+1844,Ave Maria splendore del mattino,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
+3027,"Contigo Maria (Con te, Maria)",,0.33,-0.04,,,17,:material-dots-horizontal: Mh
+2864,Chi è costei che sorge come aurora,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
 3100,Tutta la terra canti a Dio,,0.36,-0.07,,,17,:material-dots-horizontal: Mh
+2219,Spalancate le porte a Cristo,,0.33,-0.03,,,17,:material-dots-horizontal: Mh
+2188,Io quante volte,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
+444,Sulla Tua parola (Pietro vai),,0.37,-0.09,,,17,:material-dots-horizontal: Mh
+2594,Dio che tutto puoi,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
+1569,Stai con me,,0.31,-0.01,,,17,:material-dots-horizontal: Mh
+125,Cerco la Tua voce,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
+2275,Tu mi hai sedotto,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
+2764,Giovani Orizzonti,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
+377,Rallegriamoci,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
+2875,Christ is my hope,,0.29,0.01,,,17,:material-dots-horizontal: Mh
+2742,Lode,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
+2299,Narrano i cieli,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
+2679,Prodigio d'amore,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
+83,Benedici o Signore,0.5234264211505899,0.23,-0.26,,,17,:material-dots-horizontal: Mh
+2192,Alleluia Padre Mio,,0.29,0.02,,,17,:material-dots-horizontal: Mh
+303,"Maria, vogliamo amarti",,0.3,0.01,,,17,:material-dots-horizontal: Mh
+2063,Popolo mio,0.3854944988851144,0.22,-0.1,,,17,:material-dots-horizontal: Mh
+2424,Mio rifugio sei tu,,0.29,0.01,,,17,:material-dots-horizontal: Mh
+1692,Grande è il Signore,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
+1869,"Maria, tua dolcezza",,0.36,-0.06,,,17,:material-dots-horizontal: Mh
+2224,Partirò,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
+2979,Il Signore è mia luce e salvezza,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
+2316,Padre m'abbandono a te,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
+2260,Fammi conoscere,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
+2469,Il Tuo amore è grande,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
+2375,Ave Maria splendore e bellezza,,0.33,-0.03,,,17,:material-dots-horizontal: Mh
+1698,Vergin Santa,,0.38,-0.1,,,17,:material-dots-horizontal: Mh
+1883,Il canto del mare,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
+365,Preghiera semplice,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
+1872,Rimani con noi,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
+2974,Noi abbiamo creduto al tuo amore,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
 3059,Io con te,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
 1453,Nella Tua presenza,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-2155,Isaia 62,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
-176,E' Natale,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
-1872,Rimani con noi,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-2424,Mio rifugio sei tu,,0.29,0.01,,,17,:material-dots-horizontal: Mh
-2864,Chi è costei che sorge come aurora,,0.36,-0.06,,,17,:material-dots-horizontal: Mh
-1844,Ave Maria splendore del mattino,,0.34,-0.04,,,17,:material-dots-horizontal: Mh
-2974,Noi abbiamo creduto al tuo amore,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
-2316,Padre m'abbandono a te,,0.33,-0.02,,,17,:material-dots-horizontal: Mh
-1801,Tu vero pane della vita,,0.32,-0.01,,,17,:material-dots-horizontal: Mh
-2875,Christ is my hope,,0.29,0.01,,,17,:material-dots-horizontal: Mh
-2448,Ai piedi della Croce,,0.39,-0.1,,,17,:material-dots-horizontal: Mh
-2764,Giovani Orizzonti,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
-3027,"Contigo Maria (Con te, Maria)",,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-2618,Alleluia Padre Mio ,,0.3,0.01,,,17,:material-dots-horizontal: Mh
-370,Quale gioia,,0.32,-0.02,,,17,:material-dots-horizontal: Mh
-1883,Il canto del mare,,0.35,-0.05,,,17,:material-dots-horizontal: Mh
-2299,Narrano i cieli,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
-2469,Il Tuo amore è grande,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
-318,Nella Tua tenda,,0.3,0.0,,,17,:material-dots-horizontal: Mh
-2659,Tutta la vita è un dono,,0.3,0.01,,,17,:material-dots-horizontal: Mh
-83,Benedici o Signore,0.5234264211505899,0.23,-0.26,,,17,:material-dots-horizontal: Mh
-2224,Partirò,,0.33,-0.04,,,17,:material-dots-horizontal: Mh
-2223,Un raggio splenderà,,0.38,-0.09,,,17,:material-dots-horizontal: Mh
-1563,"Gloria a te, parola vivente",,0.35,-0.05,,,17,:material-dots-horizontal: Mh
-2192,Alleluia Padre Mio,,0.29,0.02,,,17,:material-dots-horizontal: Mh
-2594,Dio che tutto puoi,,0.35,-0.06,,,17,:material-dots-horizontal: Mh
-2375,Ave Maria splendore e bellezza,,0.33,-0.03,,,17,:material-dots-horizontal: Mh
+405,Santo (GUC),,0.32,-0.03,,,16,:material-dots-horizontal: Mh
 2351,Ci accogli alla tua mensa,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-1644,Santo Rock (Santo sei Signore),,0.27,0.02,,,16,:material-dots-horizontal: Mh
-2012,Ti offriamo Signore,,0.31,-0.02,,,16,:material-dots-horizontal: Mh
+2166,Benedetto sei o Padre,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
 3149,Ave Maria (stendi il tuo manto),,0.34,-0.06,,,16,:material-dots-horizontal: Mh
 3022,Redentore delle genti,,0.34,-0.06,,,16,:material-dots-horizontal: Mh
-1562,Come il cervo va all'acqua viva,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
 2252,"Alza le braccia, apri il tuo cuore",,0.35,-0.07,,,16,:material-dots-horizontal: Mh
-1667,Cosa Offrirti,,0.33,-0.02,,0.13,16,:material-dots-horizontal: Mh
 326,Non cercate tra i morti,,0.34,-0.06,,,16,:material-dots-horizontal: Mh
-1708,Betlemme di Efrata,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
-2166,Benedetto sei o Padre,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
-2599,Inno allo Spirito,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
-2619,A te elevo la voce,,0.28,0.01,,,16,:material-dots-horizontal: Mh
-2598,Simeone,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
-2132,Ora che il giorno finisce,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-1590,Il dono più grande,,0.33,-0.05,,,16,:material-dots-horizontal: Mh
-1866,E' finita l'attesa dell'uomo,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
 2165,Prepariamo la via,,0.32,-0.03,,,16,:material-dots-horizontal: Mh
+1667,Cosa Offrirti,,0.33,-0.02,,0.13,16,:material-dots-horizontal: Mh
+1866,E' finita l'attesa dell'uomo,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
 2342,Osanna,,0.26,0.03,,,16,:material-dots-horizontal: Mh
-1715,Trasformi in Gesù,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-1480,Il canto del mare,,0.34,-0.06,,,16,:material-dots-horizontal: Mh
-2592,La casa sulla Roccia,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
+2619,A te elevo la voce,,0.28,0.01,,,16,:material-dots-horizontal: Mh
+1654,Come unico Pane,,0.35,-0.07,,,16,:material-dots-horizontal: Mh
+492,Vivere la vita,,0.35,-0.07,,,16,:material-dots-horizontal: Mh
+2207,Buono è il Signor,,0.29,-0.0,,,16,:material-dots-horizontal: Mh
+434,Sono qui a lodarti (luce del mondo),,0.32,-0.05,,,16,:material-dots-horizontal: Mh
+1888,"Inno della Divina Misericordia (Gesù, confido in Te)",,0.3,-0.02,,,16,:material-dots-horizontal: Mh
+1752,Mi basta la tua grazia,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
+2132,Ora che il giorno finisce,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
+2305,Il tuo amore per noi,,0.38,-0.11,,,16,:material-dots-horizontal: Mh
+1944,Luce che sorgi nella notte,,0.37,-0.11,,,16,:material-dots-horizontal: Mh
+301,Rimani con me,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
+2320,Magnificat,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
+300,"Maranathà, Vieni Signor",,0.31,-0.02,,,16,:material-dots-horizontal: Mh
 1557,L’acqua la terra il cielo (in principio),,0.32,-0.05,,,16,:material-dots-horizontal: Mh
 142,Con Te faremo cose grandi,,0.37,-0.11,,,16,:material-dots-horizontal: Mh
+2592,La casa sulla Roccia,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
+1480,Il canto del mare,,0.34,-0.06,,,16,:material-dots-horizontal: Mh
+2599,Inno allo Spirito,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
+1708,Betlemme di Efrata,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
+1590,Il dono più grande,,0.33,-0.05,,,16,:material-dots-horizontal: Mh
+1661,"Cantiamo al Signore, grande nell’amore",,0.36,-0.08,,,16,:material-dots-horizontal: Mh
+224,Il canto dell’amore,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
+2365,"Spirito di Dio, scendi su di noi",,0.29,-0.01,,,16,:material-dots-horizontal: Mh
+2218,I frutti che ci dai,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
+2057,Gesù ricordati di me,,0.33,-0.05,,,16,:material-dots-horizontal: Mh
+2287,O Dio tu sei il mio Dio,,0.29,-0.01,,,16,:material-dots-horizontal: Mh
+2022,Apri le tue braccia (v2),,0.29,-0.01,,,16,:material-dots-horizontal: Mh
+1575,Dio è amore,,0.31,-0.03,,,16,:material-dots-horizontal: Mh
+1644,Santo Rock (Santo sei Signore),,0.27,0.02,,,16,:material-dots-horizontal: Mh
+2598,Simeone,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
+2120,Quello che Dio dice di me (versione italiana),,0.31,-0.02,,,16,:material-dots-horizontal: Mh
+1961,Facciamo festa,,0.24,0.05,,,16,:material-dots-horizontal: Mh
+2012,Ti offriamo Signore,,0.31,-0.02,,,16,:material-dots-horizontal: Mh
+2811,Fame e sete di Cristo,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
+487,Vieni Nasci ancora,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
+3069,I nostri semplici doni,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
+2317,L'uomo dei dolori,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
+1763,Ho abbandonato,,0.36,-0.09,,,16,:material-dots-horizontal: Mh
+2980,Non di solo pane,,0.37,-0.11,,,16,:material-dots-horizontal: Mh
+1559,Come il cervo va all'acqua viva (semplificata),,0.36,-0.08,,,16,:material-dots-horizontal: Mh
+134,Come fuoco vivo,,0.36,-0.03,,0.12,16,:material-dots-horizontal: Mh
+1585,Il 14 di Nisan,,0.32,-0.03,,,16,:material-dots-horizontal: Mh
+82,Benedici il Signore,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
+2547,Maria piccola Maria,,0.39,-0.13,,,16,:material-dots-horizontal: Mh
+2416,Arderanno sempre i nostri cuori,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
+1704,Il Signore è vicino,,0.3,-0.01,,,16,:material-dots-horizontal: Mh
+78,Beato l’uomo,,0.39,-0.13,,,16,:material-dots-horizontal: Mh
+359,Perchè Tu sei con me,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
+1562,Come il cervo va all'acqua viva,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
 2109,Apri le braccia al futuro,,0.34,-0.06,,,16,:material-dots-horizontal: Mh
 66,Ave donna Maria,,0.32,-0.04,,,16,:material-dots-horizontal: Mh
 1581,La voce di Maria,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
-2287,O Dio tu sei il mio Dio,,0.29,-0.01,,,16,:material-dots-horizontal: Mh
-1559,Come il cervo va all'acqua viva (semplificata),,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-1763,Ho abbandonato,,0.36,-0.09,,,16,:material-dots-horizontal: Mh
-1575,Dio è amore,,0.31,-0.03,,,16,:material-dots-horizontal: Mh
-2218,I frutti che ci dai,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
-1661,"Cantiamo al Signore, grande nell’amore",,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-1961,Facciamo festa,,0.24,0.05,,,16,:material-dots-horizontal: Mh
-2120,Quello che Dio dice di me (versione italiana),,0.31,-0.02,,,16,:material-dots-horizontal: Mh
-1888,"Inno della Divina Misericordia (Gesù, confido in Te)",,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-487,Vieni Nasci ancora,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-2022,Apri le tue braccia (v2),,0.29,-0.01,,,16,:material-dots-horizontal: Mh
-492,Vivere la vita,,0.35,-0.07,,,16,:material-dots-horizontal: Mh
-2207,Buono è il Signor,,0.29,-0.0,,,16,:material-dots-horizontal: Mh
-3069,I nostri semplici doni,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-2811,Fame e sete di Cristo,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-2365,"Spirito di Dio, scendi su di noi",,0.29,-0.01,,,16,:material-dots-horizontal: Mh
-2980,Non di solo pane,,0.37,-0.11,,,16,:material-dots-horizontal: Mh
-434,Sono qui a lodarti (luce del mondo),,0.32,-0.05,,,16,:material-dots-horizontal: Mh
-2057,Gesù ricordati di me,,0.33,-0.05,,,16,:material-dots-horizontal: Mh
-224,Il canto dell’amore,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-82,Benedici il Signore,,0.33,-0.06,,,16,:material-dots-horizontal: Mh
-1585,Il 14 di Nisan,,0.32,-0.03,,,16,:material-dots-horizontal: Mh
-300,"Maranathà, Vieni Signor",,0.31,-0.02,,,16,:material-dots-horizontal: Mh
-2381,Il Signore è mio pastore  (Salmo 22),,0.26,0.03,,,16,:material-dots-horizontal: Mh
-405,Santo (GUC),,0.32,-0.03,,,16,:material-dots-horizontal: Mh
-301,Rimani con me,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
-1944,Luce che sorgi nella notte,,0.37,-0.11,,,16,:material-dots-horizontal: Mh
-2317,L'uomo dei dolori,,0.3,-0.02,,,16,:material-dots-horizontal: Mh
-134,Come fuoco vivo,,0.36,-0.03,,0.12,16,:material-dots-horizontal: Mh
-2547,Maria piccola Maria,,0.39,-0.13,,,16,:material-dots-horizontal: Mh
-1752,Mi basta la tua grazia,,0.34,-0.07,,,16,:material-dots-horizontal: Mh
-1654,Come unico Pane,,0.35,-0.07,,,16,:material-dots-horizontal: Mh
-2305,Il tuo amore per noi,,0.38,-0.11,,,16,:material-dots-horizontal: Mh
-2320,Magnificat,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
-2416,Arderanno sempre i nostri cuori,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
-78,Beato l’uomo,,0.39,-0.13,,,16,:material-dots-horizontal: Mh
-359,Perchè Tu sei con me,,0.32,-0.05,,,16,:material-dots-horizontal: Mh
-1704,Il Signore è vicino,,0.3,-0.01,,,16,:material-dots-horizontal: Mh
-1921,O Salvezza del mondo (Inno Madonna della Catena di Cassano Jonio),,0.28,-0.02,,,15,:material-dots-horizontal: Mh
-1782,Padre mio,,0.32,-0.06,,,15,:material-dots-horizontal: Mh
-2246,E sia sì,,0.33,-0.07,,,15,:material-dots-horizontal: Mh
-285,Lodate Dio,,0.36,-0.11,,,15,:material-dots-horizontal: Mh
-3007,Sete di verità,,0.33,-0.08,,,15,:material-dots-horizontal: Mh
-2081,Cristo è risorto è vivo!  È con noi!,,0.35,-0.11,,,15,:material-dots-horizontal: Mh
+1715,Trasformi in Gesù,,0.36,-0.08,,,16,:material-dots-horizontal: Mh
 2026,Tu un giorno,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
-2447,Tempo di ricominciare,,0.37,-0.13,,,15,:material-dots-horizontal: Mh
-2227,Il dono del saio,,0.38,-0.13,,,15,:material-dots-horizontal: Mh
+2081,Cristo è risorto è vivo!  È con noi!,,0.35,-0.11,,,15,:material-dots-horizontal: Mh
+2558,Inno a Sant'Isidoro Agricoltore,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
+188,Emmanuel,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
+2553,Ora che sei qui (Now That You're Near),,0.32,-0.07,,,15,:material-dots-horizontal: Mh
+2431,Cantico della creazione,,0.26,0.01,,,15,:material-dots-horizontal: Mh
+1987,Canto dei tre giovani,,0.32,-0.07,,,15,:material-dots-horizontal: Mh
+3007,Sete di verità,,0.33,-0.08,,,15,:material-dots-horizontal: Mh
+2585,Canto di nozze,,0.34,-0.08,,,15,:material-dots-horizontal: Mh
+1382,Dio grande Dio,,0.34,-0.08,,,15,:material-dots-horizontal: Mh
+1838,Ora lasciateci cantare,,0.27,-0.0,,,15,:material-dots-horizontal: Mh
 2114,"Arrivederci a te, amico Gesù",,0.3,-0.03,,,15,:material-dots-horizontal: Mh
+2227,Il dono del saio,,0.38,-0.13,,,15,:material-dots-horizontal: Mh
+2633,Salmo 50 ,,0.28,-0.02,,,15,:material-dots-horizontal: Mh
+2933,Veniamo a Te,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
 59,Apri le tue braccia,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
+2693,Benvenuto Dio bambino,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
+285,Lodate Dio,,0.36,-0.11,,,15,:material-dots-horizontal: Mh
+1396,Rimanete in me,,0.27,0.01,,,15,:material-dots-horizontal: Mh
+441,Spirito di Dio (Consacrami),,0.27,0.01,,,15,:material-dots-horizontal: Mh
+2246,E sia sì,,0.33,-0.07,,,15,:material-dots-horizontal: Mh
+1782,Padre mio,,0.32,-0.06,,,15,:material-dots-horizontal: Mh
+2401,Benedictus ,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
+2110,Giù dai Colli,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
+2241,Io vi do un grande esempio,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
+306,Mi arrendo al Tuo amore,,0.35,-0.09,,,15,:material-dots-horizontal: Mh
+2444,Resta con noi Gesù ,,0.29,-0.02,,,15,:material-dots-horizontal: Mh
+2259,Benedici il Signore anima mia,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
+2610,T'amo Gesù,,0.26,0.02,,,15,:material-dots-horizontal: Mh
+2301,E lo credemmo abbandonato da DIo,,0.4,-0.17,,,15,:material-dots-horizontal: Mh
+1813,Vivi della sua pace,,0.33,-0.07,,,15,:material-dots-horizontal: Mh
+1921,O Salvezza del mondo (Inno Madonna della Catena di Cassano Jonio),,0.28,-0.02,,,15,:material-dots-horizontal: Mh
+463,Tu chi sei,,0.35,-0.1,,,15,:material-dots-horizontal: Mh
+2415,Quando lo spirito ,,0.24,0.03,,,15,:material-dots-horizontal: Mh
+1860,Gesù è vivo,,0.31,-0.04,,,15,:material-dots-horizontal: Mh
+466,Tu sei,,0.26,0.02,,,15,:material-dots-horizontal: Mh
+1669,Io vengo a Te,,0.35,-0.11,,,15,:material-dots-horizontal: Mh
+2483,Io mi arrendo,,0.28,-0.02,,,15,:material-dots-horizontal: Mh
+187,Emmanuel,,0.35,-0.09,,,15,:material-dots-horizontal: Mh
+55,Annunceremo che Tu,,0.39,-0.15,,,15,:material-dots-horizontal: Mh
+2447,Tempo di ricominciare,,0.37,-0.13,,,15,:material-dots-horizontal: Mh
+2568,Il Signore in eterno ,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
+184,Ecco la serva del Signore (v2),,0.34,-0.08,,,15,:material-dots-horizontal: Mh
+2728,Disse un giorno il Padre,,0.38,-0.13,,,15,:material-dots-horizontal: Mh
+432,Silenzioso Dio,,0.35,-0.1,,,15,:material-dots-horizontal: Mh
+1628,Madre dolcissima,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
+206,Giovane donna,,0.32,-0.07,,,15,:material-dots-horizontal: Mh
+1972,Io Mi Arrendo (HillSong - I Surrender),,0.26,0.01,,,15,:material-dots-horizontal: Mh
+294,Madre della speranza,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
 1865,Osanna al Figlio di David,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
 2103,Un sogno che vola,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
 2078,Madre fiducia nostra,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
-2633,Salmo 50 ,,0.28,-0.02,,,15,:material-dots-horizontal: Mh
 339,Ora è tempo di gioia,,0.29,-0.02,,,15,:material-dots-horizontal: Mh
-188,Emmanuel,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
-2558,Inno a Sant'Isidoro Agricoltore,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
-441,Spirito di Dio (Consacrami),,0.27,0.01,,,15,:material-dots-horizontal: Mh
-463,Tu chi sei,,0.35,-0.1,,,15,:material-dots-horizontal: Mh
-432,Silenzioso Dio,,0.35,-0.1,,,15,:material-dots-horizontal: Mh
-55,Annunceremo che Tu,,0.39,-0.15,,,15,:material-dots-horizontal: Mh
-2431,Cantico della creazione,,0.26,0.01,,,15,:material-dots-horizontal: Mh
-2654,Gesù ti adoro,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
-2610,T'amo Gesù,,0.26,0.02,,,15,:material-dots-horizontal: Mh
-306,Mi arrendo al Tuo amore,,0.35,-0.09,,,15,:material-dots-horizontal: Mh
-1860,Gesù è vivo,,0.31,-0.04,,,15,:material-dots-horizontal: Mh
-1813,Vivi della sua pace,,0.33,-0.07,,,15,:material-dots-horizontal: Mh
-2415,Quando lo spirito ,,0.24,0.03,,,15,:material-dots-horizontal: Mh
-2585,Canto di nozze,,0.34,-0.08,,,15,:material-dots-horizontal: Mh
-2553,Ora che sei qui (Now That You're Near),,0.32,-0.07,,,15,:material-dots-horizontal: Mh
-187,Emmanuel,,0.35,-0.09,,,15,:material-dots-horizontal: Mh
-1396,Rimanete in me,,0.27,0.01,,,15,:material-dots-horizontal: Mh
-2301,E lo credemmo abbandonato da DIo,,0.4,-0.17,,,15,:material-dots-horizontal: Mh
-2693,Benvenuto Dio bambino,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
-1838,Ora lasciateci cantare,,0.27,-0.0,,,15,:material-dots-horizontal: Mh
-2110,Giù dai Colli,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
-1382,Dio grande Dio,,0.34,-0.08,,,15,:material-dots-horizontal: Mh
-1972,Io Mi Arrendo (HillSong - I Surrender),,0.26,0.01,,,15,:material-dots-horizontal: Mh
-2933,Veniamo a Te,,0.31,-0.05,,,15,:material-dots-horizontal: Mh
-1628,Madre dolcissima,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
-1987,Canto dei tre giovani,,0.32,-0.07,,,15,:material-dots-horizontal: Mh
-1779,Cuore puro,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
-2728,Disse un giorno il Padre,,0.38,-0.13,,,15,:material-dots-horizontal: Mh
-184,Ecco la serva del Signore (v2),,0.34,-0.08,,,15,:material-dots-horizontal: Mh
-1669,Io vengo a Te,,0.35,-0.11,,,15,:material-dots-horizontal: Mh
-2568,Il Signore in eterno ,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
-2483,Io mi arrendo,,0.28,-0.02,,,15,:material-dots-horizontal: Mh
-294,Madre della speranza,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
-1781,Gesù e la samaritana,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
-206,Giovane donna,,0.32,-0.07,,,15,:material-dots-horizontal: Mh
-466,Tu sei,,0.26,0.02,,,15,:material-dots-horizontal: Mh
-2259,Benedici il Signore anima mia,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
-2241,Io vi do un grande esempio,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
-2444,Resta con noi Gesù ,,0.29,-0.02,,,15,:material-dots-horizontal: Mh
 237,Il Signore è vicino,,0.32,-0.07,,,15,:material-dots-horizontal: Mh
-2401,Benedictus ,,0.3,-0.04,,,15,:material-dots-horizontal: Mh
-2300,Con Te Camminerò,,0.29,-0.04,,,14,:material-dots-horizontal: Mh
-2697,Parole di vita,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
-2518,E' il Signor,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
-1794,Sei Dio,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-2199,Con Francesco profeti tra la gente,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
-2004,Canzone di San Giuseppe,,0.35,-0.12,,,14,:material-dots-horizontal: Mh
-1352,Abbracciami,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-2028,Ave Maria,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-1810,Venne un angelo,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
-2919,Ecco quant'è bello,,0.26,0.0,,,14,:material-dots-horizontal: Mh
+2654,Gesù ti adoro,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
+1781,Gesù e la samaritana,,0.29,-0.03,,,15,:material-dots-horizontal: Mh
+1779,Cuore puro,,0.31,-0.06,,,15,:material-dots-horizontal: Mh
 2271,Luce Gentile,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
-2727,La legge del Signore,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
-245,Insieme a Te,,0.35,-0.12,,,14,:material-dots-horizontal: Mh
-1619,Come ti ama Dio,,0.31,-0.07,,,14,:material-dots-horizontal: Mh
-1701,Sono il Signor che ti guarisce,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
-22,Alleluia al Redentore,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
-2546,Manda il tuo spirito ,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
-1551,Cantiamo con gioia,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
-2101,"Padre, Maestro ed Amico",,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-2323,Risplendi Gerusalemme,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
-160,Dio s’è fatto come noi,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
-1731,Emmanuele vieni tra noi,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
-2770,Dal profondo o Signore,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
-2378,Saremo sempre amici,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
 2221,Cantico delle creature,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
-2722,Dio ha tanto amato il mondo,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
-2217,Benedirò il Signore,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
-1948,La Tua presenza in me,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
-1790,Quando cammino per il mondo,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
-2321,Resta con noi,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
 1615,Stella del mare,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
-2502,Canzone di San Damiano,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
-2327,Chi ha fame,,0.3,-0.07,,,14,:material-dots-horizontal: Mh
-355,Pane del cielo,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
-2649,Prenditi a cuore,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
-393,San Damiano,,0.31,-0.07,,,14,:material-dots-horizontal: Mh
-189,Esci dalla Tua terra,,0.37,-0.14,,,14,:material-dots-horizontal: Mh
-266,L’anima mia magnifica il Signore,,0.3,-0.05,,,14,:material-dots-horizontal: Mh
+2919,Ecco quant'è bello,,0.26,0.0,,,14,:material-dots-horizontal: Mh
+1731,Emmanuele vieni tra noi,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
 2570,Se avessi mai commesso,,0.36,-0.14,,,14,:material-dots-horizontal: Mh
-1670,Cerco il tuo volto Signore,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-1629,Ci inviti alla tua festa,,0.26,0.0,,,14,:material-dots-horizontal: Mh
-2107,Giovani orizzonti,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
-1832,Vieni Signore non tardare,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
-13,Alla mensa del Signore,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
-2621,Cristo vive in me,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
-3053,Il tuo miracolo,,0.33,-0.1,,,14,:material-dots-horizontal: Mh
-409,Santo il Signore,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
-2574,Ti parlerò di me,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
-273,La mia anima canta,,0.3,-0.07,,,14,:material-dots-horizontal: Mh
-3011,Lo Spirito di Cristo,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
-1877,E' Santo,,0.28,-0.04,,,14,:material-dots-horizontal: Mh
-1737,Potente sei mio Signor,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
-2602,E' il Signor,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+266,L’anima mia magnifica il Signore,,0.3,-0.05,,,14,:material-dots-horizontal: Mh
 415,Se qualcuno ha dei beni,,0.33,-0.1,,,14,:material-dots-horizontal: Mh
-2461,Benedici il Signore anima mia,,0.3,-0.05,,,14,:material-dots-horizontal: Mh
-1786,Pentecoste,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
-1685,Corpo di Gesù,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
-1991,O madre del signore,,0.29,-0.04,,,14,:material-dots-horizontal: Mh
-3097,La creazione giubili,,0.28,-0.04,,,14,:material-dots-horizontal: Mh
+1737,Potente sei mio Signor,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
+1948,La Tua presenza in me,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
+2546,Manda il tuo spirito ,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
+2722,Dio ha tanto amato il mondo,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
 220,Guarda questa offerta,,0.24,0.01,,,14,:material-dots-horizontal: Mh
 2699,Ci perdonerai,,0.25,0.0,,,14,:material-dots-horizontal: Mh
-1383,Nel nome del Padre,,0.22,0.02,,,13,:material-dots-horizontal: Mh
-2916,Seme dell'eternità,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
-2981,O Donna gloriosa,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
-2332,Osanna al Figlio di David (v2),,0.29,-0.08,,,13,:material-dots-horizontal: Mh
-1573,Sei libertà,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
-67,Ave Maria,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
-2011,Nostra Signora della speranza,,0.3,-0.08,,,13,:material-dots-horizontal: Mh
-2555,Ora si può,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
-1926,Il Vangelo della terra,,0.37,-0.18,,,13,:material-dots-horizontal: Mh
-1864,Ecco l'uomo (Uomo della Croce - forma breve),,0.28,-0.06,,,13,:material-dots-horizontal: Mh
-1893,Canterò le meraviglie del Signor,,0.28,-0.05,,,13,:material-dots-horizontal: Mh
-2406,"Lodate, lodate",,0.23,0.0,,,13,:material-dots-horizontal: Mh
-2622,Dalla tristezza alla danza,,0.3,-0.09,,,13,:material-dots-horizontal: Mh
-2449,Al Signore canterò,,0.31,-0.1,,,13,:material-dots-horizontal: Mh
+2697,Parole di vita,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
+2300,Con Te Camminerò,,0.29,-0.04,,,14,:material-dots-horizontal: Mh
+160,Dio s’è fatto come noi,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
+273,La mia anima canta,,0.3,-0.07,,,14,:material-dots-horizontal: Mh
+3097,La creazione giubili,,0.28,-0.04,,,14,:material-dots-horizontal: Mh
+22,Alleluia al Redentore,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
+2518,E' il Signor,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+2770,Dal profondo o Signore,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
+2028,Ave Maria,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+1619,Come ti ama Dio,,0.31,-0.07,,,14,:material-dots-horizontal: Mh
+1832,Vieni Signore non tardare,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
+1701,Sono il Signor che ti guarisce,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
+2727,La legge del Signore,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
+1551,Cantiamo con gioia,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
+2217,Benedirò il Signore,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
+3053,Il tuo miracolo,,0.33,-0.1,,,14,:material-dots-horizontal: Mh
+2321,Resta con noi,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
+13,Alla mensa del Signore,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
+1352,Abbracciami,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+1685,Corpo di Gesù,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+355,Pane del cielo,,0.32,-0.08,,,14,:material-dots-horizontal: Mh
+1629,Ci inviti alla tua festa,,0.26,0.0,,,14,:material-dots-horizontal: Mh
+1790,Quando cammino per il mondo,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
+2621,Cristo vive in me,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+2602,E' il Signor,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+189,Esci dalla Tua terra,,0.37,-0.14,,,14,:material-dots-horizontal: Mh
+2378,Saremo sempre amici,,0.26,-0.02,,,14,:material-dots-horizontal: Mh
+2649,Prenditi a cuore,,0.32,-0.09,,,14,:material-dots-horizontal: Mh
+245,Insieme a Te,,0.35,-0.12,,,14,:material-dots-horizontal: Mh
+3011,Lo Spirito di Cristo,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+2574,Ti parlerò di me,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
+1786,Pentecoste,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
+2199,Con Francesco profeti tra la gente,,0.33,-0.09,,,14,:material-dots-horizontal: Mh
+409,Santo il Signore,,0.27,-0.02,,,14,:material-dots-horizontal: Mh
+1794,Sei Dio,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+2004,Canzone di San Giuseppe,,0.35,-0.12,,,14,:material-dots-horizontal: Mh
+393,San Damiano,,0.31,-0.07,,,14,:material-dots-horizontal: Mh
+1810,Venne un angelo,,0.3,-0.06,,,14,:material-dots-horizontal: Mh
+2327,Chi ha fame,,0.3,-0.07,,,14,:material-dots-horizontal: Mh
+1670,Cerco il tuo volto Signore,,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+1991,O madre del signore,,0.29,-0.04,,,14,:material-dots-horizontal: Mh
+1877,E' Santo,,0.28,-0.04,,,14,:material-dots-horizontal: Mh
+2502,Canzone di San Damiano,,0.31,-0.08,,,14,:material-dots-horizontal: Mh
+2461,Benedici il Signore anima mia,,0.3,-0.05,,,14,:material-dots-horizontal: Mh
+2323,Risplendi Gerusalemme,,0.27,-0.03,,,14,:material-dots-horizontal: Mh
+2101,"Padre, Maestro ed Amico",,0.29,-0.05,,,14,:material-dots-horizontal: Mh
+2107,Giovani orizzonti,,0.34,-0.11,,,14,:material-dots-horizontal: Mh
+144,Credo in Te,,0.32,-0.11,,,13,:material-dots-horizontal: Mh
+1859,Albero di vita,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
 2098,"Spirito Santo, dolce presenza",,0.27,-0.05,,,13,:material-dots-horizontal: Mh
+2534,Il padre che è nei cieli,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+3076,"Con questo pane, con questo vino",,0.29,-0.06,,,13,:material-dots-horizontal: Mh
+1864,Ecco l'uomo (Uomo della Croce - forma breve),,0.28,-0.06,,,13,:material-dots-horizontal: Mh
 2357,"Ti ringrazio, o Signor",,0.28,-0.05,,,13,:material-dots-horizontal: Mh
-1612,Vieni Spirito di Dio,,0.25,-0.01,,,13,:material-dots-horizontal: Mh
-2266,Passa ancora in mezzo a noi,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
-242,In principio,,0.31,-0.09,,,13,:material-dots-horizontal: Mh
-2456,Salga da questo altare,,0.25,-0.03,,,13,:material-dots-horizontal: Mh
-231,Il Pane del Cammino,,0.36,-0.16,,,13,:material-dots-horizontal: Mh
-2743,L'uomo alla sua mensa,,0.31,-0.09,,,13,:material-dots-horizontal: Mh
+1596,Il Figliol Prodigo (Abbracciami Gesù),,0.33,-0.12,,,13,:material-dots-horizontal: Mh
+240,In comunione,,0.31,-0.1,,,13,:material-dots-horizontal: Mh
+422,Semina la Pace,,0.3,-0.09,,,13,:material-dots-horizontal: Mh
+2586,Incontro a Te,,0.27,-0.04,,,13,:material-dots-horizontal: Mh
+1992,Spirito Santo (Espiritus Santo),,0.25,-0.02,,,13,:material-dots-horizontal: Mh
 2620,Com'è bello (dar lode al Signor),,0.28,-0.05,,,13,:material-dots-horizontal: Mh
-2183,In una notte come tante,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
-1050,Amo,,0.36,-0.15,,,13,:material-dots-horizontal: Mh
-2117,Avrai cura di noi,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
-1908,Luce,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
-2339,Come Davide,,0.23,0.0,,,13,:material-dots-horizontal: Mh
-1691,Gloria al suo nom,,0.25,-0.01,,,13,:material-dots-horizontal: Mh
-1876,Santo,,0.24,-0.01,,,13,:material-dots-horizontal: Mh
-2023,Oggi è nato per noi,,0.25,-0.02,,,13,:material-dots-horizontal: Mh
-2810,"Lode a Te, o Cristo",,0.27,-0.04,,,13,:material-dots-horizontal: Mh
-282,Lo Spirito del Signore,,0.34,-0.14,,,13,:material-dots-horizontal: Mh
-2755,L'angelo del Signore,,0.21,0.03,,,13,:material-dots-horizontal: Mh
-2450,Bellezza sei Tu,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
-1837,Dio è la mia salvezza,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
-2666,Cristo nostra pace,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
-52,Andate per le strade,,0.3,-0.08,,,13,:material-dots-horizontal: Mh
+2515,E Nasce il sole,,0.32,-0.11,,,13,:material-dots-horizontal: Mh
+2828,Luce del mondo,,0.28,-0.06,,,13,:material-dots-horizontal: Mh
+1478,Servire è regnare,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
+2745,Sei venuto dal cielo,,0.27,-0.05,,,13,:material-dots-horizontal: Mh
 1714,"Ti saluto, o Croce santa",,0.27,-0.04,,,13,:material-dots-horizontal: Mh
-2538,Io Ti adoro (Versione italiana),,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+2755,L'angelo del Signore,,0.21,0.03,,,13,:material-dots-horizontal: Mh
 2412,"Ave, piena di grazia",,0.28,-0.06,,,13,:material-dots-horizontal: Mh
-1929,A te vorrei dire,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
-483,Vieni al Signor,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
-2478,Cristo Re,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+1383,Nel nome del Padre,,0.22,0.02,,,13,:material-dots-horizontal: Mh
+1908,Luce,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
+2916,Seme dell'eternità,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
+2988,La tua Vita in me,,0.27,-0.05,,,13,:material-dots-horizontal: Mh
+2622,Dalla tristezza alla danza,,0.3,-0.09,,,13,:material-dots-horizontal: Mh
+2266,Passa ancora in mezzo a noi,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
+1857,Santo,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
+1876,Santo,,0.24,-0.01,,,13,:material-dots-horizontal: Mh
+1835,Benchè sia notte,,0.24,-0.0,,,13,:material-dots-horizontal: Mh
+2249,Ave Maria,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
+2183,In una notte come tante,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
+1735,Santo (Do Re Mi),,0.27,-0.05,,,13,:material-dots-horizontal: Mh
+231,Il Pane del Cammino,,0.36,-0.16,,,13,:material-dots-horizontal: Mh
+2538,Io Ti adoro (Versione italiana),,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+2011,Nostra Signora della speranza,,0.3,-0.08,,,13,:material-dots-horizontal: Mh
+3008,Mistero della Cena,,0.24,0.0,,,13,:material-dots-horizontal: Mh
+2023,Oggi è nato per noi,,0.25,-0.02,,,13,:material-dots-horizontal: Mh
+68,Ave Maria,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+2810,"Lode a Te, o Cristo",,0.27,-0.04,,,13,:material-dots-horizontal: Mh
+52,Andate per le strade,,0.3,-0.08,,,13,:material-dots-horizontal: Mh
+2666,Cristo nostra pace,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
 319,Nelle mani della Creazione,,0.25,-0.02,,,13,:material-dots-horizontal: Mh
 159,Dio Regna,,0.27,-0.05,,,13,:material-dots-horizontal: Mh
+1612,Vieni Spirito di Dio,,0.25,-0.01,,,13,:material-dots-horizontal: Mh
+2478,Cristo Re,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+67,Ave Maria,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
+483,Vieni al Signor,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
+1929,A te vorrei dire,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
+1837,Dio è la mia salvezza,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
+2555,Ora si può,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
+282,Lo Spirito del Signore,,0.34,-0.14,,,13,:material-dots-horizontal: Mh
 249,"Io credo, risorgerò",,0.33,-0.12,,,13,:material-dots-horizontal: Mh
-3076,"Con questo pane, con questo vino",,0.29,-0.06,,,13,:material-dots-horizontal: Mh
-1859,Albero di vita,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
-144,Credo in Te,,0.32,-0.11,,,13,:material-dots-horizontal: Mh
-2988,La tua Vita in me,,0.27,-0.05,,,13,:material-dots-horizontal: Mh
+2332,Osanna al Figlio di David (v2),,0.29,-0.08,,,13,:material-dots-horizontal: Mh
+1573,Sei libertà,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
+2981,O Donna gloriosa,,0.34,-0.13,,,13,:material-dots-horizontal: Mh
+2449,Al Signore canterò,,0.31,-0.1,,,13,:material-dots-horizontal: Mh
+2406,"Lodate, lodate",,0.23,0.0,,,13,:material-dots-horizontal: Mh
+1893,Canterò le meraviglie del Signor,,0.28,-0.05,,,13,:material-dots-horizontal: Mh
+1926,Il Vangelo della terra,,0.37,-0.18,,,13,:material-dots-horizontal: Mh
 2794,O Signore nostro Dio,,0.3,-0.08,,,13,:material-dots-horizontal: Mh
-2828,Luce del mondo,,0.28,-0.06,,,13,:material-dots-horizontal: Mh
-2534,Il padre che è nei cieli,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+2743,L'uomo alla sua mensa,,0.31,-0.09,,,13,:material-dots-horizontal: Mh
+2456,Salga da questo altare,,0.25,-0.03,,,13,:material-dots-horizontal: Mh
+2117,Avrai cura di noi,,0.29,-0.06,,,13,:material-dots-horizontal: Mh
 337,Ogni mia parola,,0.24,-0.01,,,13,:material-dots-horizontal: Mh
-1857,Santo,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
 316,Nel Tuo silenzio,,0.32,-0.1,,,13,:material-dots-horizontal: Mh
-1478,Servire è regnare,,0.26,-0.04,,,13,:material-dots-horizontal: Mh
-2586,Incontro a Te,,0.27,-0.04,,,13,:material-dots-horizontal: Mh
-422,Semina la Pace,,0.3,-0.09,,,13,:material-dots-horizontal: Mh
-1835,Benchè sia notte,,0.24,-0.0,,,13,:material-dots-horizontal: Mh
-1992,Spirito Santo (Espiritus Santo),,0.25,-0.02,,,13,:material-dots-horizontal: Mh
-1735,Santo (Do Re Mi),,0.27,-0.05,,,13,:material-dots-horizontal: Mh
-1596,Il Figliol Prodigo (Abbracciami Gesù),,0.33,-0.12,,,13,:material-dots-horizontal: Mh
-2515,E Nasce il sole,,0.32,-0.11,,,13,:material-dots-horizontal: Mh
-2745,Sei venuto dal cielo,,0.27,-0.05,,,13,:material-dots-horizontal: Mh
-3008,Mistero della Cena,,0.24,0.0,,,13,:material-dots-horizontal: Mh
-2249,Ave Maria,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
-240,In comunione,,0.31,-0.1,,,13,:material-dots-horizontal: Mh
-2663,Dove s'alza un'onda,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
+2339,Come Davide,,0.23,0.0,,,13,:material-dots-horizontal: Mh
+2450,Bellezza sei Tu,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
+1050,Amo,,0.36,-0.15,,,13,:material-dots-horizontal: Mh
 2429,L'ultima cena,,0.33,-0.13,,,13,:material-dots-horizontal: Mh
+242,In principio,,0.31,-0.09,,,13,:material-dots-horizontal: Mh
+1691,Gloria al suo nom,,0.25,-0.01,,,13,:material-dots-horizontal: Mh
+2663,Dove s'alza un'onda,,0.33,-0.11,,,13,:material-dots-horizontal: Mh
 2341,Questo pane spezzato,,0.29,-0.08,,,13,:material-dots-horizontal: Mh
-68,Ave Maria,,0.29,-0.07,,,13,:material-dots-horizontal: Mh
-1682,Benedetto sei Tu,,0.26,-0.05,,,12,:material-dots-horizontal: Mh
 2052,Il mio posto,,0.32,-0.12,,,12,:material-dots-horizontal: Mh
-2200,Canto di Madonna povertà,,0.25,-0.05,,,12,:material-dots-horizontal: Mh
-169,E correremo insieme,,0.36,-0.19,,,12,:material-dots-horizontal: Mh
-2601,Un canto il cuor,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-451,"Te, al centro del mio cuore",,0.3,-0.18,,0.17,12,:material-dots-horizontal: Mh
-2541,Lascia che il tuo fiume,,0.25,-0.05,,,12,:material-dots-horizontal: Mh
-2080,Esultiamo in Te Gesù,,0.32,-0.13,,,12,:material-dots-horizontal: Mh
-2636,So che tu sei il mio Signor,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
-2353,Oggi è Festa per noi,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
-2255,Lode a te o Cristo,,0.23,-0.01,,,12,:material-dots-horizontal: Mh
-2277,Olio di Letizia,,0.23,-0.02,,,12,:material-dots-horizontal: Mh
-2452,Al Santo Glorioso (Inno in onore di San Francesco di Paola),,0.3,-0.11,,,12,:material-dots-horizontal: Mh
-2371,Inno GMG 2016,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
-1917,"Vieni, santo spirito di Dio",,0.28,-0.09,,,12,:material-dots-horizontal: Mh
-203,Gesù per le strade,,0.26,-0.06,,,12,:material-dots-horizontal: Mh
-2177,O Gesù mio amabilissimo,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-2205,Vidi la nuova Gerusalemme,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
-2115,Canto di contrizione,,0.28,-0.07,,,12,:material-dots-horizontal: Mh
-2312,Santo Santo,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-1725,Innalziamo lo sguardo,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
-168,E' bello lodarti,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
-2978,Simbolo Apostolico,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
-2145,Fuoco d'amore,,0.22,-0.01,,,12,:material-dots-horizontal: Mh
-1785,Pane di vita,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
-2929,Ora Partiamo,,0.26,-0.06,,,12,:material-dots-horizontal: Mh
-2097,Canoni - Questa notte,,0.19,0.04,,,12,:material-dots-horizontal: Mh
-2363,Ave Maria ,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-1467,Non più due (Buttazzo),,0.31,-0.12,,,12,:material-dots-horizontal: Mh
-376,Questo è il mio comandamento,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
-2125,"Del tuo Spirito, Signore",,0.29,-0.1,,,12,:material-dots-horizontal: Mh
-2247,Te Deum,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
-1848,Grazie Signore,,0.3,-0.1,,,12,:material-dots-horizontal: Mh
 327,Nostalgia d’una sorgente,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
-1603,Regina della Pace,,0.2,0.03,,,12,:material-dots-horizontal: Mh
-246,Insieme è più bello,,0.28,-0.09,,,12,:material-dots-horizontal: Mh
-2878,Santo,,0.24,-0.04,,,12,:material-dots-horizontal: Mh
-181,Ecco il nostro si,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
-3005,Mille Ragioni,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
-1818,Ciò che Dio ha fatto in me,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
-1986,Cristo speranza delle genti,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-2150,Santo nelle Altezze ,,0.2,0.03,,,12,:material-dots-horizontal: Mh
-2554,Ora e per sempre (Over and over),,0.28,-0.07,,,12,:material-dots-horizontal: Mh
-1,Abbà Misericordia,,0.23,-0.02,,,12,:material-dots-horizontal: Mh
-288,"Lode a Te, o Cristo",,0.23,-0.01,,,12,:material-dots-horizontal: Mh
-1570,Salve madre dell’amore,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-2242,In questo giorno di luce,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-2423,Dell'aurora Tu sorgi più bella (v2),,0.27,-0.07,,,12,:material-dots-horizontal: Mh
-199,Francesco vai,,0.32,-0.12,,,12,:material-dots-horizontal: Mh
+451,"Te, al centro del mio cuore",,0.3,-0.18,,0.17,12,:material-dots-horizontal: Mh
+1725,Innalziamo lo sguardo,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
+2125,"Del tuo Spirito, Signore",,0.29,-0.1,,,12,:material-dots-horizontal: Mh
+2080,Esultiamo in Te Gesù,,0.32,-0.13,,,12,:material-dots-horizontal: Mh
+2312,Santo Santo,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+203,Gesù per le strade,,0.26,-0.06,,,12,:material-dots-horizontal: Mh
+1848,Grazie Signore,,0.3,-0.1,,,12,:material-dots-horizontal: Mh
+2104,Luce per noi,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
+1917,"Vieni, santo spirito di Dio",,0.28,-0.09,,,12,:material-dots-horizontal: Mh
 2445,Proteggimi o Dio (Salmo 15(16)),,0.24,-0.04,,,12,:material-dots-horizontal: Mh
 2189,Com'è bello (dar lode al Signor),,0.3,-0.11,,,12,:material-dots-horizontal: Mh
-2104,Luce per noi,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
+2363,Ave Maria ,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
 2768,La mano nella tua,,0.3,-0.1,,,12,:material-dots-horizontal: Mh
 2407,Solo tu il mio Dio ,,0.31,-0.11,,,12,:material-dots-horizontal: Mh
+2177,O Gesù mio amabilissimo,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+2371,Inno GMG 2016,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
+489,Vieni Spirito di Cristo (Vieni vieni spirito d’amore),,0.25,-0.05,,,12,:material-dots-horizontal: Mh
+2541,Lascia che il tuo fiume,,0.25,-0.05,,,12,:material-dots-horizontal: Mh
 2657,Annunciamo la Tua morte,,0.21,0.01,,,12,:material-dots-horizontal: Mh
 2016,Riempici di Te,,0.28,-0.07,,,12,:material-dots-horizontal: Mh
-489,Vieni Spirito di Cristo (Vieni vieni spirito d’amore),,0.25,-0.05,,,12,:material-dots-horizontal: Mh
-2751,Tu qui,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
+2255,Lode a te o Cristo,,0.23,-0.01,,,12,:material-dots-horizontal: Mh
+169,E correremo insieme,,0.36,-0.19,,,12,:material-dots-horizontal: Mh
+2878,Santo,,0.24,-0.04,,,12,:material-dots-horizontal: Mh
+181,Ecco il nostro si,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
+2353,Oggi è Festa per noi,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
+2452,Al Santo Glorioso (Inno in onore di San Francesco di Paola),,0.3,-0.11,,,12,:material-dots-horizontal: Mh
+1570,Salve madre dell’amore,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+1818,Ciò che Dio ha fatto in me,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
+1603,Regina della Pace,,0.2,0.03,,,12,:material-dots-horizontal: Mh
+246,Insieme è più bello,,0.28,-0.09,,,12,:material-dots-horizontal: Mh
+199,Francesco vai,,0.32,-0.12,,,12,:material-dots-horizontal: Mh
+2247,Te Deum,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
+2200,Canto di Madonna povertà,,0.25,-0.05,,,12,:material-dots-horizontal: Mh
+3005,Mille Ragioni,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
+288,"Lode a Te, o Cristo",,0.23,-0.01,,,12,:material-dots-horizontal: Mh
+2242,In questo giorno di luce,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+2097,Canoni - Questa notte,,0.19,0.04,,,12,:material-dots-horizontal: Mh
+2978,Simbolo Apostolico,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
+2929,Ora Partiamo,,0.26,-0.06,,,12,:material-dots-horizontal: Mh
+2636,So che tu sei il mio Signor,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
+2145,Fuoco d'amore,,0.22,-0.01,,,12,:material-dots-horizontal: Mh
+2554,Ora e per sempre (Over and over),,0.28,-0.07,,,12,:material-dots-horizontal: Mh
+2150,Santo nelle Altezze ,,0.2,0.03,,,12,:material-dots-horizontal: Mh
+1682,Benedetto sei Tu,,0.26,-0.05,,,12,:material-dots-horizontal: Mh
+168,E' bello lodarti,,0.28,-0.08,,,12,:material-dots-horizontal: Mh
+2277,Olio di Letizia,,0.23,-0.02,,,12,:material-dots-horizontal: Mh
+2423,Dell'aurora Tu sorgi più bella (v2),,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+2601,Un canto il cuor,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+376,Questo è il mio comandamento,,0.27,-0.06,,,12,:material-dots-horizontal: Mh
+1785,Pane di vita,,0.29,-0.09,,,12,:material-dots-horizontal: Mh
+1986,Cristo speranza delle genti,,0.27,-0.07,,,12,:material-dots-horizontal: Mh
+2115,Canto di contrizione,,0.28,-0.07,,,12,:material-dots-horizontal: Mh
+2205,Vidi la nuova Gerusalemme,,0.33,-0.14,,,12,:material-dots-horizontal: Mh
+1467,Non più due (Buttazzo),,0.31,-0.12,,,12,:material-dots-horizontal: Mh
+1,Abbà Misericordia,,0.23,-0.02,,,12,:material-dots-horizontal: Mh
+1821,"Santo, Santo, Santo",,0.2,-0.01,,,11,:material-dots-horizontal: Mh
 1896,Lode gloriosa,,0.26,-0.07,,,11,:material-dots-horizontal: Mh
+2751,Tu qui,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
 2042,Innamorato di Gesu',,0.22,-0.03,,,11,:material-dots-horizontal: Mh
-2037,Cuore a cuore,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
-399,Santo,,0.23,-0.03,,,11,:material-dots-horizontal: Mh
-1712,"Ti salutiamo, o Vergine",,0.24,-0.06,,,11,:material-dots-horizontal: Mh
 1673,Quando guardo alla tua Santità,,0.26,-0.08,,,11,:material-dots-horizontal: Mh
-1664,Vero cibo è il tuo corpo,,0.21,-0.01,,,11,:material-dots-horizontal: Mh
-2884,Hallelujah Cohen,,0.25,-0.07,,,11,:material-dots-horizontal: Mh
-2059,Questo è il tempo,,0.26,-0.07,,,11,:material-dots-horizontal: Mh
-2162,Be thou my vision,,0.15,0.06,,,11,:material-dots-horizontal: Mh
-2789,Voglio restar con Te,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
-1769,La pace del Signore,,0.31,-0.15,,,11,:material-dots-horizontal: Mh
-3058,Santo,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
-2588,Come acqua,,0.27,-0.08,,,11,:material-dots-horizontal: Mh
-1717,"Un sol corpo, un sol spirito",,0.27,-0.08,,,11,:material-dots-horizontal: Mh
-2370,Il Magnificat,,0.26,-0.08,,,11,:material-dots-horizontal: Mh
-1576,Tu sei la perla preziosa,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
-2638,Dall'eternità,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
-2040,Con tutto il cuor,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
-9,Acqua sole e verità,,0.26,-0.08,,,11,:material-dots-horizontal: Mh
-2890,Andate in tutto il mondo,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
-2143,E' un giorno di festa,,0.31,-0.13,,,11,:material-dots-horizontal: Mh
-1762,La ballata dell'amore vero,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
-2798,Nostra gloria è la Croce,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
-2014,"Maria, Maria (Piccola fanciulla)",,0.3,-0.12,,,11,:material-dots-horizontal: Mh
-1758,Samuel,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
-1574,"Signore, tu sei nostro amico",,0.28,-0.1,,,11,:material-dots-horizontal: Mh
-1727,Ti sei fatto pane,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
-505,Prima Corinzi 13,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
-101,Canoni - Magnificat,0.3958333059717425,0.0,-0.03,,,11,:material-dots-horizontal: Mh
-496,Voglio ringraziare,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
-2388,Lode alla Trinità,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
 2091,Santo ,,0.22,-0.03,,,11,:material-dots-horizontal: Mh
-207,Gli angeli delle campagne,,0.25,-0.07,,,11,:material-dots-horizontal: Mh
-1753,Santo,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
-462,Ti seguirò,,0.17,0.03,,,11,:material-dots-horizontal: Mh
-1613,Come un prodigio,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
-2658,È nato Dio per noi,,0.22,-0.03,,,11,:material-dots-horizontal: Mh
-1843,Il nostro cuore non si è perduto,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
-1666,Sposa amata,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
-2496,Aprite o porte i frontali,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
-1993,Maria (Quando l'amor),,0.28,-0.11,,,11,:material-dots-horizontal: Mh
-2583,Il tuo grande amore,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
-1567,Apri i miei occhi Signore,,0.18,0.02,,,11,:material-dots-horizontal: Mh
-1980,Dell'aurora tu sorgi più bella,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
-2652,Santo (Nato per noi),,0.21,-0.01,,,11,:material-dots-horizontal: Mh
-2278,Manda il Tuo Spirito Signore,,0.27,-0.08,,,11,:material-dots-horizontal: Mh
-1976,Come brezza ,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
-2315,Il cieco di Siloe,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
-2133,Cantico di Anna,,0.34,-0.17,,,11,:material-dots-horizontal: Mh
-401,Santo,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
-1830,Gloria a te,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
-1389,Non per forza,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
-2244,Che cosa mi manca?,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
-2326,Tu sei qui,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
-1885,Sfolgora il sole di Pasqua,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
-2254,Grande è la Tua bontà ,,0.3,-0.13,,,11,:material-dots-horizontal: Mh
-2201,Meraviglioso,,0.32,-0.15,,,11,:material-dots-horizontal: Mh
-2923,Chiara ad Agnese,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
-10,Adesso è la pienezza,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
-1732,Vi annuncio la gioia,,0.31,-0.15,,,11,:material-dots-horizontal: Mh
-260,Jesus Christ you are my life,,0.22,-0.03,,,11,:material-dots-horizontal: Mh
-2389,A fede 'e Maria,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
 2009,Camminiamo incontro al Signore,,0.27,-0.08,,,11,:material-dots-horizontal: Mh
-470,Un cuore nuovo,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
-2000,O Croce Fedele ,,0.26,-0.07,,,11,:material-dots-horizontal: Mh
-2311,La vera vite,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
-2094,"Canoni - Adoramus Te, Domine",0.3958349325210142,0.0,-0.04,,,11,:material-dots-horizontal: Mh
-2872,Con il Tuo sangue,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
-1950,Venite a me,,0.21,-0.01,,,11,:material-dots-horizontal: Mh
-323,Noi crediamo in Te,,0.19,0.02,,,11,:material-dots-horizontal: Mh
-1659,Dammi i Tuoi Occhi,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
-2643,Gloria al Signore che salva ,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
-1778,Apri i cieli,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
-2408,Absorbeat,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
-3002,I.N.R.I. (Io Non Ritorno Indietro),,0.26,-0.07,,,11,:material-dots-horizontal: Mh
-1855,"Cantate al Signore, cantatelo nei secoli",,0.25,-0.07,,,11,:material-dots-horizontal: Mh
-2010,Mistero della Fede,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
-1947,Aprite le porte,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
-267,L’unico maestro,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
-2780,Grazie Signore,,0.33,-0.16,,,11,:material-dots-horizontal: Mh
 302,"Maria, tu che hai atteso",,0.26,-0.07,,,11,:material-dots-horizontal: Mh
 2526,Grazie Gesù,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
-1821,"Santo, Santo, Santo",,0.2,-0.01,,,11,:material-dots-horizontal: Mh
+1666,Sposa amata,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
+2037,Cuore a cuore,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
+401,Santo,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
+470,Un cuore nuovo,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
+1567,Apri i miei occhi Signore,,0.18,0.02,,,11,:material-dots-horizontal: Mh
+2583,Il tuo grande amore,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
+1993,Maria (Quando l'amor),,0.28,-0.11,,,11,:material-dots-horizontal: Mh
+2496,Aprite o porte i frontali,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
+1758,Samuel,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
+1830,Gloria a te,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
+1574,"Signore, tu sei nostro amico",,0.28,-0.1,,,11,:material-dots-horizontal: Mh
+2638,Dall'eternità,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
+2923,Chiara ad Agnese,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
+1976,Come brezza ,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
+2014,"Maria, Maria (Piccola fanciulla)",,0.3,-0.12,,,11,:material-dots-horizontal: Mh
+2872,Con il Tuo sangue,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
+2798,Nostra gloria è la Croce,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
+1769,La pace del Signore,,0.31,-0.15,,,11,:material-dots-horizontal: Mh
+1389,Non per forza,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
+2244,Che cosa mi manca?,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
+1950,Venite a me,,0.21,-0.01,,,11,:material-dots-horizontal: Mh
+505,Prima Corinzi 13,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
+2658,È nato Dio per noi,,0.22,-0.03,,,11,:material-dots-horizontal: Mh
+1843,Il nostro cuore non si è perduto,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
+1613,Come un prodigio,,0.27,-0.09,,,11,:material-dots-horizontal: Mh
+496,Voglio ringraziare,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
+101,Canoni - Magnificat,0.3958333059717425,0.0,-0.03,,,11,:material-dots-horizontal: Mh
+2094,"Canoni - Adoramus Te, Domine",0.3958349325210142,0.0,-0.04,,,11,:material-dots-horizontal: Mh
+1727,Ti sei fatto pane,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
+2389,A fede 'e Maria,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
+260,Jesus Christ you are my life,,0.22,-0.03,,,11,:material-dots-horizontal: Mh
+1732,Vi annuncio la gioia,,0.31,-0.15,,,11,:material-dots-horizontal: Mh
+1980,Dell'aurora tu sorgi più bella,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
+2040,Con tutto il cuor,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
+2000,O Croce Fedele ,,0.26,-0.07,,,11,:material-dots-horizontal: Mh
+2326,Tu sei qui,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
+9,Acqua sole e verità,,0.26,-0.08,,,11,:material-dots-horizontal: Mh
+2254,Grande è la Tua bontà ,,0.3,-0.13,,,11,:material-dots-horizontal: Mh
+1885,Sfolgora il sole di Pasqua,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
+2201,Meraviglioso,,0.32,-0.15,,,11,:material-dots-horizontal: Mh
+1762,La ballata dell'amore vero,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
+2315,Il cieco di Siloe,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
+3058,Santo,,0.23,-0.05,,,11,:material-dots-horizontal: Mh
+2588,Come acqua,,0.27,-0.08,,,11,:material-dots-horizontal: Mh
+1778,Apri i cieli,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
+2643,Gloria al Signore che salva ,,0.29,-0.11,,,11,:material-dots-horizontal: Mh
+3002,I.N.R.I. (Io Non Ritorno Indietro),,0.26,-0.07,,,11,:material-dots-horizontal: Mh
+1659,Dammi i Tuoi Occhi,,0.25,-0.06,,,11,:material-dots-horizontal: Mh
+2789,Voglio restar con Te,,0.24,-0.06,,,11,:material-dots-horizontal: Mh
+2408,Absorbeat,,0.29,-0.12,,,11,:material-dots-horizontal: Mh
+2162,Be thou my vision,,0.15,0.06,,,11,:material-dots-horizontal: Mh
+2133,Cantico di Anna,,0.34,-0.17,,,11,:material-dots-horizontal: Mh
+323,Noi crediamo in Te,,0.19,0.02,,,11,:material-dots-horizontal: Mh
+2311,La vera vite,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
+2143,E' un giorno di festa,,0.31,-0.13,,,11,:material-dots-horizontal: Mh
+2890,Andate in tutto il mondo,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
+1717,"Un sol corpo, un sol spirito",,0.27,-0.08,,,11,:material-dots-horizontal: Mh
+2370,Il Magnificat,,0.26,-0.08,,,11,:material-dots-horizontal: Mh
+2884,Hallelujah Cohen,,0.25,-0.07,,,11,:material-dots-horizontal: Mh
+1664,Vero cibo è il tuo corpo,,0.21,-0.01,,,11,:material-dots-horizontal: Mh
+2652,Santo (Nato per noi),,0.21,-0.01,,,11,:material-dots-horizontal: Mh
+462,Ti seguirò,,0.17,0.03,,,11,:material-dots-horizontal: Mh
+1753,Santo,,0.23,-0.04,,,11,:material-dots-horizontal: Mh
+207,Gli angeli delle campagne,,0.25,-0.07,,,11,:material-dots-horizontal: Mh
+2388,Lode alla Trinità,,0.28,-0.1,,,11,:material-dots-horizontal: Mh
+1576,Tu sei la perla preziosa,,0.28,-0.11,,,11,:material-dots-horizontal: Mh
+1712,"Ti salutiamo, o Vergine",,0.24,-0.06,,,11,:material-dots-horizontal: Mh
+2059,Questo è il tempo,,0.26,-0.07,,,11,:material-dots-horizontal: Mh
+1855,"Cantate al Signore, cantatelo nei secoli",,0.25,-0.07,,,11,:material-dots-horizontal: Mh
+2278,Manda il Tuo Spirito Signore,,0.27,-0.08,,,11,:material-dots-horizontal: Mh
+2010,Mistero della Fede,,0.21,-0.02,,,11,:material-dots-horizontal: Mh
+1947,Aprite le porte,,0.31,-0.14,,,11,:material-dots-horizontal: Mh
+399,Santo,,0.23,-0.03,,,11,:material-dots-horizontal: Mh
+10,Adesso è la pienezza,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
+267,L’unico maestro,,0.3,-0.12,,,11,:material-dots-horizontal: Mh
+2780,Grazie Signore,,0.33,-0.16,,,11,:material-dots-horizontal: Mh
 2409,Benedizione di San Francesco,,0.21,-0.04,,,10,:material-dots-horizontal: Mh
 2790,Il seme,,0.29,-0.14,,,10,:material-dots-horizontal: Mh
 295,Madre io vorrei,,0.31,-0.17,,,10,:material-dots-horizontal: Mh
