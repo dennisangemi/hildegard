@@ -5,13 +5,13 @@ id_canti,titolo,score_vector_similarity,score_text_similarity,score_deviation,sc
 1681,Gesù mio buon pastore,,0.37,0.06,0.9,0.39,63,:material-check: Buona
 4,Acclamate al Signore,,0.56,0.33,,0.76,59,:material-dots-horizontal: Mh
 2381,Il Signore è mio pastore  (Salmo 22),,0.26,0.03,0.7,,53,:material-check: Buona
-1820,Alleluia - La tua parola,,0.58,0.46,0.5,,51,:material-dots-horizontal: Mh
-2466,Alleluia,,0.56,0.43,0.5,,50,:material-dots-horizontal: Mh
 1545,Acclamate al Signore,,0.54,0.4,,0.5,49,:material-dots-horizontal: Mh
 1757,Chi ha sete,0.6356173276196723,0.5,0.3,,,48,:material-dots-horizontal: Mh
 361,Popoli tutti acclamate,,0.39,-0.04,,0.84,48,:material-dots-horizontal: Mh
-3095,Alleluia (Sei parola),,0.52,0.4,,,47,:material-dots-horizontal: Mh
+2466,Alleluia,,0.56,0.43,0.45,,47,:material-dots-horizontal: Mh
 18,Alleluia (ed oggi ancora),,0.52,0.4,,,47,:material-dots-horizontal: Mh
+3095,Alleluia (Sei parola),,0.52,0.4,,,47,:material-dots-horizontal: Mh
+1820,Alleluia - La tua parola,,0.58,0.46,0.45,,47,:material-dots-horizontal: Mh
 20,Alleluia (Passeranno i cieli),,0.5,0.41,,,46,:material-dots-horizontal: Mh
 2348,"Alleluia, il tuo Vangelo",,0.5,0.41,,,46,:material-dots-horizontal: Mh
 2760,"Alleluia, Acclamiamo a te",,0.54,0.35,,,46,:material-dots-horizontal: Mh
