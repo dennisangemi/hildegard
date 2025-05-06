@@ -9,7 +9,8 @@ categories:
 
 # "Io sono il buon pastore": proposte di canti per la IV Domenica di Pasqua
 
-Bentrovati nel nostro spazio settimanale dedicato all'animazione liturgico-musicale. Ecco alcune idee e suggerimenti per i canti della IV Domenica di Pasqua, che celebreremo l'11 maggio 2025. Speriamo possano esservi utili per preparare un servizio attento e partecipe nella vostra comunità.
+Per la Quarta Domenica di Pasqua, l'11 maggio 2025, esploriamo insieme alcune proposte di canti liturgici. I suggerimenti si concentrano sulla figura di Gesù Buon Pastore e sulla chiamata universale alla salvezza, temi centrali delle letture di questa domenica, per arricchire la nostra animazione musicale.
+
 <!-- more -->
 
 !!! asterisk "AI generated content"
@@ -18,59 +19,80 @@ Bentrovati nel nostro spazio settimanale dedicato all'animazione liturgico-music
 
 <br>
 
-# La voce del Pastore che guida il suo gregge
+Bentrovati nel nostro consueto appuntamento settimanale, un piccolo faro per navigare insieme nella scelta dei canti più adatti a sottolineare la ricchezza della Parola che celebreremo. Domenica 11 maggio 2025 celebriamo la **Quarta Domenica di Pasqua**, tradizionalmente conosciuta come la Domenica del Buon Pastore. È una giornata che ci invita a riflettere profondamente sulla figura di Cristo come guida sicura e amorevole del suo gregge.
 
-Anche questa settimana, la liturgia ci offre spunti preziosi per scegliere i canti più adatti ad accompagnare la celebrazione. La **IV Domenica di Pasqua** è tradizionalmente conosciuta come la Domenica del Buon Pastore, e il Vangelo di Giovanni (Gv 10, 27-30) ce ne spiega il motivo. Gesù afferma con chiarezza: *«Le mie pecore ascoltano la mia voce e io le conosco ed esse mi seguono. Io do loro la vita eterna e non andranno perdute in eterno e nessuno le strapperà dalla mia mano»*. È un messaggio potente di appartenenza, guida sicura e promessa di vita eterna, radicato nella relazione intima tra il Pastore e il suo gregge.
+# La Voce del Pastore nelle Scritture
 
-La Prima Lettura, dagli Atti degli Apostoli (At 13, 14.43-52), ci mostra Paolo e Barnaba che, di fronte al rifiuto della Parola da parte di alcuni, si rivolgono ai pagani, diventando *«luce delle genti, perché [portino] la salvezza sino all’estremità della terra»*. Questo sottolinea l'universalità della chiamata all'ascolto e alla sequela del Signore.
+Il **Vangelo** di Giovanni (10, 27-30) è il cuore pulsante di questa liturgia. Gesù afferma con chiarezza: *«Le mie pecore ascoltano la mia voce e io le conosco ed esse mi seguono. Io do loro la vita eterna e non andranno perdute in eterno e nessuno le strapperà dalla mia mano»*. Queste parole sono un balsamo di speranza e sicurezza, sottolineando il legame intimo e indissolubile tra il Pastore e il suo gregge.
 
-Infine, la Seconda Lettura, dall'Apocalisse (Ap 7, 9.14b-17), presenta una visione grandiosa: una *«moltitudine immensa»* di salvati davanti all'Agnello. Qui, l'Agnello stesso è identificato come pastore: *«l’Agnello, che sta in mezzo al trono, sarà il loro pastore e li guiderà alle fonti delle acque della vita»*. Un'immagine di speranza e compimento.
+La **Prima Lettura**, tratta dagli Atti degli Apostoli (13, 14.43-52), ci mostra Paolo e Bàrnaba che, di fronte al rifiuto di alcuni Giudei, si rivolgono ai pagani, adempiendo il mandato del Signore: *«Io ti ho posto per essere luce delle genti, perché tu porti la salvezza sino all’estremità della terra»*. Emerge qui l'universalità della chiamata alla salvezza.
 
-# Suggerimenti per l'animazione musicale
+Infine, la **Seconda Lettura** dall'Apocalisse (7, 9.14b-17) ci offre una visione gloriosa: una moltitudine immensa che ha superato la grande tribolazione. Qui, *«l’Agnello, che sta in mezzo al trono, sarà il loro pastore e li guiderà alle fonti delle acque della vita»*. L'immagine dell'Agnello-Pastore unisce la tenerezza alla vittoria.
 
-Alla luce di queste letture, ecco alcune proposte di canti che potrebbero risuonare bene con i temi della liturgia di domenica prossima.
+# Intrecci tra Parola e Melodia: I nostri suggerimenti
 
-Un canto che sembra particolarmente adatto per l'**ingresso** è [**Acclamate al Signore**](https://www.librettocanti.it/canto/acclamate-al-signore-4) di Marco Frisina. Il suo testo riprende fedelmente le parole del Salmo 99 (100), proposto come salmo responsoriale per questa domenica. Le parole invitano all'esultanza e alla lode gioiosa, riconoscendo la nostra appartenenza a Dio:
+Considerando questi temi così ricchi, vediamo quali canti potrebbero risuonare particolarmente bene nelle nostre assemblee.
 
-> Acclamate al Signo-re,<br>
+## L'Eco del Vangelo: Il Buon Pastore
+
+Il canto [**Alleluia, io sono il buon Pastore**](https://www.librettocanti.it/canto/alleluia-io-sono-il-buon-pastore-2888) di Marco Frisina si presenta come una scelta quasi immediata e particolarmente centrata. Il suo testo riprende testualmente il versetto dell'Alleluia al Vangelo (Gv 10, 14):
+
+> Io sono il Buon Pastore, dice il Signore.<br>
+> Conosco le mie pecore, e le mie pecore conoscono me.
+
+Questa perfetta aderenza lo rende ideale come canto al Vangelo, introducendo direttamente le parole di Gesù che ascolteremo.
+
+Un altro canto che si lega splendidamente alla figura del Pastore è [**Sei tu Signore il mio Pastore**](https://www.librettocanti.it/canto/sei-tu-signore-il-mio-pastore-2860). Le sue parole esprimono fiducia e abbandono:
+
+> Sei tu Signore il mio pastore <br>
+> e più nulla mi mancherà <br>
+> e con te per sempre abiterò <br>
+> nella tua casa vivrò.
+
+Questa espressione di totale affidamento riecheggia la promessa di Gesù nel Vangelo: *«Io do loro la vita eterna e non andranno perdute in eterno»*.
+
+## Accoglienza e Cammino: Verso le Fonti della Vita
+
+Per il momento dell'ingresso, potrebbe essere significativo il canto [**Gesù mio buon pastore**](https://www.librettocanti.it/canto/ges-mio-buon-pastore-1681). La sua invocazione iniziale:
+
+> Gesù mio buon pastore guida la mia vita,<br>
+> metti sul mio cuore il sigillo tuo
+
+ben introduce il tema della guida sicura offerta da Cristo, che il Vangelo proclamerà.
+
+Per accompagnare il momento della Comunione, un canto come [**Il Signore è il mio pastore**](https://www.librettocanti.it/canto/il-signore-il-mio-pastore-234) (Turoldo, Passoni, De Marzi) può creare un'atmosfera di profonda intimità e ristoro. Le parole:
+
+> È il ristoro dell’anima mia, <br>
+> in sentieri diritti mi guida<br>
+> Per amore del santo suo Nome, <br>
+> dietro a Lui mi sento sicuro.
+
+si collegano profondamente sia all'immagine evangelica delle pecore che seguono la voce del Pastore, sia alla visione dell'Apocalisse dove *«l’Agnello [...] sarà il loro pastore e li guiderà alle fonti delle acque della vita»*.
+
+Anche [**Tu, nostro Pastore**](https://www.librettocanti.it/canto/tu-nostro-pastore-2232), proposto per la Comunione, esprime una serena fiducia:
+
+> Tu, nostro pastore, <br>
+> nostro Signore, <br>
+> sempre ti seguiremo, <br>
+> resteremo con te.
+
+Queste parole riflettono l'adesione delle pecore che *«ascoltano la mia voce [...] ed esse mi seguono»*, come ci dice il Vangelo.
+
+Infine, per un momento di lode gioiosa, magari all'ingresso, [**Acclamate al Signore**](https://www.librettocanti.it/canto/acclamate-al-signore-4) di Frisina può essere una scelta vivace. Il suo testo:
+
+> Acclamate al Signo-re, <br>
 > voi tutti della terra<br>
-> e servitelo con gioia,<br>
-> andate a Lui con esultanza.<br>
-> [...]<br>
-> Riconoscete che il Signo-re,<br>
-> che il Signore è Dio<br>
-> Egli ci ha fatti, siamo suoi<br>
-> suo popolo e gregge del suo pascolo.
+> e servitelo con gioia, <br>
+> andate a Lui con esultanza.
 
-Questo canto riecheggia sia l'invito alla gioia presente negli Atti degli Apostoli (*«I discepoli erano pieni di gioia e di Spirito Santo»*) sia il tema centrale del Vangelo, dove Gesù parla delle *«sue pecore»*, del suo *«gregge»*.
-
-Per il momento della **Comunione**, un canto classico e sempre toccante è [**Il Signore è il mio pastore**](https://www.librettocanti.it/canto/il-signore-il-mio-pastore-234) (Turoldo/Passoni/De Marzi). Basato sul Salmo 23, esprime la fiducia totale nel Signore che guida e protegge il suo fedele, un tema che si sposa perfettamente con le parole di Gesù nel Vangelo di Giovanni:
-
-> Il Signore è il mio pastore,<br>
-> nulla manca ad ogni attesa,<br>
-> In verdissimi prati mi pasce,<br>
-> mi disseta a placide acque.<br>
-> [...]<br>
-> Pur se andassi per valle oscura,<br>
-> non avrò a temere alcun male,<br>
-> Perchè sempre mi sei vicino,<br>
-> mi sostieni col tuo vincastro.
-
-Questi versi sembrano fare eco alle parole del Vangelo: *«Io do loro la vita eterna e non andranno perdute in eterno e nessuno le strapperà dalla mia mano»*, e anche alla visione dell'Apocalisse dove l'Agnello-Pastore guida *«alle fonti delle acque della vita»*.
-
-Infine, tra le proposte troviamo anche due canti per l'**Alleluia** di Domenico Machetta: [**Alleluia - La tua parola**](https://www.librettocanti.it/canto/alleluia-la-tua-parola-1820) e [**Alleluia**](https://www.librettocanti.it/canto/alleluia-2466). Entrambi mettono al centro l'importanza della Parola del Signore come fonte di vita:
-
-> La tua parola, Signore,<br>
-> è parola di vita eterna.
-
-Questo si collega direttamente all'invito di Gesù nel Vangelo (*«Le mie pecore ascoltano la mia voce»*) e all'esperienza narrata negli Atti degli Apostoli, dove la folla si raduna per *«ascoltare la parola del Signore»*. Questi canti possono aiutare l'assemblea a prepararsi all'ascolto del Vangelo con un cuore aperto.
+si sposa bene con l'invito del Salmo Responsoriale (*«Acclamate il Signore, voi tutti della terra, servite il Signore nella gioia»*) e con l'apertura universale della Prima Lettura, che parla della Parola del Signore destinata a tutte le genti.
 
 ---
 
-Come sempre, ricordate che queste sono solo proposte generate automaticamente. Potrebbero esserci canti più adatti al vostro repertorio parrocchiale o alle specifiche esigenze della vostra assemblea. Vi invitiamo a leggere attentamente la liturgia della Parola di questa domenica e a confrontarvi con il vostro sacerdote o responsabile liturgico per scegliere i canti che meglio aiuteranno la comunità a pregare e celebrare.
+È importante ricordare che questi suggerimenti sono generati con l'ausilio di intelligenza artificiale e, sebbene curati, potrebbero non essere perfetti per ogni specifica assemblea o sensibilità. Vi invito sempre a leggere attentamente i testi della liturgia domenicale e, se possibile, a confrontarvi con il vostro sacerdote o con il gruppo liturgico parrocchiale per una scelta pienamente consapevole.
 
-Auguriamo a tutti voi animatori liturgici un buon servizio e un canto che sgorghi dal cuore per lodare il Signore, nostro Buon Pastore.
+Auguro a tutti voi animatori liturgico-musicali un fecondo servizio e una gioiosa celebrazione, guidati dalla voce del Buon Pastore. Che il vostro canto possa aiutare l'assemblea a sentirsi parte del gregge amato e custodito dal Signore.
 
-Per uno sguardo d'insieme agli ultimi suggerimenti, potete cliccare qui:
+Per uno sguardo d'insieme e per accedere rapidamente agli ultimi schemi, potete cliccare qui sotto:
 
 [Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
