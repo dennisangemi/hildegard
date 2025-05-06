@@ -8,7 +8,7 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
   workflow_run:
-    workflows: ["Suggerisco canti liturgici domenicali"]
+    workflows: ["Suggerisco nuovi canti liturgici"]
     types:
       - completed
 
