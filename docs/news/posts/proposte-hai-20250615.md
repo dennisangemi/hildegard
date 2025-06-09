@@ -26,14 +26,17 @@ Le letture di oggi ci aprono uno squarcio su questa realtà sublime, offrendoci 
 
 La *Prima Lettura*, tratta dal libro dei Proverbi (8, 22-31), ci presenta la Sapienza di Dio, coeterna e partecipe dell'opera creatrice:
 > «Il Signore mi ha creato come inizio della sua attività, prima di ogni sua opera, all’origine. Dall’eternità sono stata formata, fin dal principio, dagli inizi della terra... io ero con lui come artefice ed ero la sua delizia ogni giorno: giocavo davanti a lui in ogni istante, giocavo sul globo terrestre, ponendo le mie delizie tra i figli dell’uomo».
+
 Questo passaggio ci parla della presenza amorevole e gioiosa di Dio fin dall'eternità, nel suo rapportarsi con la creazione e con l'umanità.
 
 Nella *Seconda Lettura*, dalla lettera di san Paolo apostolo ai Romani (5, 1-5), veniamo immersi nella dinamica della salvezza e dell'amore trinitario:
 > «giustificati per fede, noi siamo in pace con Dio per mezzo del Signore nostro Gesù Cristo. Per mezzo di lui abbiamo anche, mediante la fede, l’accesso a questa grazia nella quale ci troviamo e ci vantiamo, saldi nella speranza della gloria di Dio... perché l’amore di Dio è stato riversato nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato».
+
 Qui si evidenzia come la nostra pace con Dio sia mediata da Cristo e come l'amore divino sia diffuso nei nostri cuori dallo Spirito Santo, riaffermando la relazione con le tre persone della Trinità.
 
 Il *Vangelo di Giovanni* (16, 12-15) ci introduce più profondamente al ruolo dello Spirito Santo, il Consolatore e Spirito di Verità, che rivelerà la pienezza della Trinità:
 > «Molte cose ho ancora da dirvi, ma per il momento non siete capaci di portarne il peso. Quando verrà lui, lo Spirito della verità, vi guiderà a tutta la verità, perché non parlerà da se stesso, ma dirà tutto ciò che avrà udito e vi annuncerà le cose future. Egli mi glorificherà, perché prenderà da quel che è mio e ve lo annuncerà. Tutto quello che il Padre possiede è mio; per questo ho detto che prenderà da quel che è mio e ve lo annuncerà».
+
 Gesù ci svela il legame indissolubile tra Padre, Figlio e Spirito, sottolineando l'opera dello Spirito nel condurci alla verità e nel glorificare il Figlio, prendendo da ciò che è del Padre.
 
 # Proposte Melodiche per Celebrare la Trinità
