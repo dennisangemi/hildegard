@@ -77,7 +77,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1979,Alla tua mensa,Martinez,,"4,5,13,20,31",/canto/alla-tua-mensa-1979,Lq3wLoL8O18
 14,Alla Tua presenza,Fabio Tiddia,Venti dello spirito,"21,31",/canto/alla-tua-presenza-14,piAK9gyfQQI
 1936,Alla vittima pasquale,P. Dargenio,Esulta il cielo,5,/canto/alla-vittima-pasquale-1936,nXCbbGTvXgo
-16,Alleluia,Mite Balduzzi,,25,/canto/alleluia-16,77Ft25VCnI4
+16,Alleluia,Mite Balduzzi,Verbum Panis,25,/canto/alleluia-16,77Ft25VCnI4
 2466,Alleluia,Domenico Machetta,"Sei con noi, uno di noi",25,/canto/alleluia-2466,e1k8EqfBzns
 2926,Alleluia,Betto GUIDOTTI,"Signore, mia roccia",25,/canto/alleluia-2926,rVQ1k6eG8WE
 2212,Alleluia (Canta con gioia),Daniele Esposito,,25,/canto/alleluia-canta-con-gioia-2212,aA8R_XOHmAM
@@ -1177,6 +1177,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1758,Samuel,Giosy Cento,,"20,21",/canto/samuel-1758,_x3tf9Kx8og
 393,San Damiano,Riz Ortolani - Benjamin,,"9,31",/canto/san-damiano-393,-S4SJ7ebpt8
 2089,Sanctus,Figli del divino amore,,27,/canto/sanctus-2089,
+3198,Sanctus (Verbum Panis),M. Balduzzi / Chiara Casucci,Verbum Panis,"10,27",/canto/sanctus-verbum-panis-3198,CwZCvXp7bwE
 2648,Sanctus! Holy!,Marcello Giombini,Io canterò pace,27,/canto/sanctus-holy-2648,h-PMtVCPzjo
 2990,Santa chiesa di Dio,"E. Elgar, - D. De Stefani",Sorgente di unità,"7,10,14,19,21,32",/canto/santa-chiesa-di-dio-2990,YWUFHCRTuV4
 1928,Santa degli impossibili (Santa Rita),canto popolare,,"10,21,32",/canto/santa-degli-impossibili-santa-rita-1928,
@@ -1320,6 +1321,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2470,Spirito Santo cuore dell'umanità,RnS - F. Marranzino,Spirito Santo vieni!,"6,9",/canto/spirito-santo-cuore-dell-umanit-2470,QSpvuYRxGeU
 1605,Spirito Santo soffio di vita,Roland Patzleiner - Figli del Divino Amore,,6,/canto/spirito-santo-soffio-di-vita-1605,CV2DEoKvTzY
 2098,"Spirito Santo, dolce presenza",RnS,,"6,9,16,19,31",/canto/spirito-santo-dolce-presenza-2098,Bb2WHAiP5SM
+3213,Spirito Vieni,"Daniela Premoli, RnS",Mi ami tu? (2023),6,/canto/spirito-vieni-3213,jU_mtF96TQc
 1666,Sposa amata,Corale di Palmi,,7,/canto/sposa-amata-1666,EPTUzg9R4Z4
 2061,Stabat Mater,Marco Frisina,,"4,5,7,22,31",/canto/stabat-mater-2061,NSN3U6_-Ipw
 1569,Stai con me,RnS,,9,/canto/stai-con-me-1569,o9ytftb0p4w
@@ -1427,7 +1429,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2024,Venite fedeli (v2),Stefani - Wade,,"3,21",/canto/venite-fedeli-v2-2024,RHw_pm_ITWk
 1938,Venite saliamo al monte del Signore,Marco Frisina,Salvatore del mondo,"4,24",/canto/venite-saliamo-al-monte-del-signore-1938,LKmCdvlywgE
 1810,Venne un angelo,Gen Rosso,Maria,"7,10,17,21",/canto/venne-un-angelo-1810,mE29HXaunIk
-478,Verbum Panis,Mite Balduzzi,,"3,31",/canto/verbum-panis-478,3cXJ9p4Zjo0
+478,Verbum Panis,Mite Balduzzi,Verbum Panis,"3,31",/canto/verbum-panis-478,3cXJ9p4Zjo0
 1698,Vergin Santa,RnS,,"2,3,7,21,31",/canto/vergin-santa-1698,mTnD1HXRnfk
 2197,Vergine Madre,Marco Frisina,Vergine Madre,7,/canto/vergine-madre-2197,
 1664,Vero cibo è il tuo corpo,RnS,Mi arrendo al tuo amore,31,/canto/vero-cibo-il-tuo-corpo-1664,QSh21KZb9a0
