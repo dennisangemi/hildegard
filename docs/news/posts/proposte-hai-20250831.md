@@ -1,4 +1,3 @@
-<template>
 ---
 date:
   created: 2025-08-27
@@ -58,5 +57,3 @@ Cari animatori liturgici, che il vostro servizio di buon canto sia sempre fonte 
 Vi invito a cliccare il seguente bottone per leggere lo schema degli ultimi suggerimenti:
 
 [Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
-
-</template>
