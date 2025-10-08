@@ -1,4 +1,3 @@
-<template>
 ---
 date:
   created: 2025-09-17
@@ -58,5 +57,3 @@ Carissimi animatori, è importante ricordare che queste proposte sono generate a
 Che la musica sia sempre un ponte verso il divino e un abbraccio per la comunità. Vi auguro di cuore un sereno e fruttuoso servizio, accompagnato dalla gioia del canto!
 
 [Gli ultimi suggerimenti :material-arrow-right:](https://hildegard.it){ .md-button }
-
-</template>
