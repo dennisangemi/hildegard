@@ -41,6 +41,7 @@ Una proposta eccellente per il momento dell'ingresso, ma adatta anche alla Comun
 > tutta la terra canti al Signore.<br>
 > Per tutta la terra si è accesa una luce,<br>
 > uomini nuovi cantano in cor.
+
 Questo è un inno alla gioia per le meraviglie compiute da Dio, proprio come la guarigione di Naamàn e dei dieci lebbrosi, e la gioiosa lode del Samaritano. La luce che si accende e gli "uomini nuovi" si sposano bene con la purificazione che trasforma i corpi e i cuori.
 
 Per il momento della Comunione, "[Abbracciami](https://www.librettocanti.it/canto/abbracciami-1352)" può offrire un'espressione di profonda intimità e gratitudine verso il Signore che guarisce. La richiesta di essere abbracciati riflette il desiderio di vicinanza al Dio che "cura ogni ferita", proprio come Gesù ha curato i lebbrosi.
@@ -48,6 +49,7 @@ Per il momento della Comunione, "[Abbracciami](https://www.librettocanti.it/cant
 > sorgente che disseta, e cura ogni ferita.<br>
 > Ferma, su di me i tuoi occhi,<br>
 > la tua mano stendi, e donami la vita.
+
 Questa supplica e il riconoscimento di Gesù come "sorgente che disseta, e cura ogni ferita" risuonano con la purificazione ricevuta dai lebbrosi e la successiva glorificazione di Dio da parte del Samaritano, che si prostra ai piedi di Gesù. È il momento in cui, guariti nel corpo e nello spirito, ci sentiamo parte della grazia di Dio.
 
 Per l'Offertorio, il canto "[Servo per amore](https://www.librettocanti.it/canto/servo-per-amore-423)" invita a un'offerta di sé che si allinea con l'atteggiamento di gratitudine e servizio. Naamàn, dopo la sua guarigione, offrì un dono e si impegnò a servire solo il Signore. Il canto ci ricorda:
@@ -57,6 +59,7 @@ Per l'Offertorio, il canto "[Servo per amore](https://www.librettocanti.it/canto
 > servo di ogni uomo, (tu sarai)<br>
 > servo per amore (servo per amore)<br>
 > sacerdote dell’umanità.
+
 Questo testo esprime un'offerta di vita in spirito di servizio e gratitudine, un eco della risposta del Samaritano che torna per rendere gloria a Dio e, in un certo senso, "offre" la sua lode e la sua fede. La disponibilità a "gettare le reti" in un altro mare, come dice il canto, rimanda alla chiamata a una nuova vita di sequela dopo l'incontro con il Signore.
 
 Infine, per la Comunione o il Congedo, "[I.N.R.I. (Io Non Ritorno Indietro)](https://www.librettocanti.it/canto/i-n-r-i-io-non-ritorno-indietro-3002)" di Debora Vezzani è un canto di grande forza. La sua essenza, "Io Non Ritorno Indietro da un Amore gigante così", si connette al Vangelo non tanto con il gesto del *tornare indietro* fisicamente, ma con la fermezza di chi, una volta incontrata la salvezza e l'amore di Cristo, non rinnega la propria fede e non si allontana più.
@@ -64,6 +67,7 @@ Infine, per la Comunione o il Congedo, "[I.N.R.I. (Io Non Ritorno Indietro)](htt
 > Io Non Ritorno Indietro<br>
 > Da un Amore gigante così<br>
 > Io non posso tornare indietro
+
 Questo messaggio risuona con le parole di San Paolo a Timoteo: "se perseveriamo, con lui anche regneremo". La fede che non "torna indietro" è una fede che persevera, una risposta di lealtà all'Amore di Dio. Il Samaritano è tornato per mostrare gratitudine e, potremmo dire, *non si è più allontanato in spirito* dall'Amore che lo ha salvato, a differenza dei nove.
 
 ---
