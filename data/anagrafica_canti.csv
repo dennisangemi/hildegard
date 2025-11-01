@@ -9,7 +9,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1929,A te vorrei dire,Gen Rosso,La vita di ogni cosa,32,/canto/a-te-vorrei-dire-1929,HuIBhc1Dv-o
 2459,A volto scoperto,Eman,Pietra Angolare,9,/canto/a-volto-scoperto-2459,nqIKPj-Dr6I
 1,Abbà Misericordia,"RnS - De Luca, Aguila",Io scelgo Te,"4,11,21",/canto/abb-misericordia-1,1VwhXqlcfZw
-2,"Abbà, Padre (ascoltami)",RnS,Venti dello Spirito,"4,9,11,31",/canto/abb-padre-ascoltami-2,WDYpSRVLhr4
+2,"Abbà, Padre (ascoltami)",RnS,Venti dello Spirito,"4,9,11,31",/canto/abb-padre-ascoltami-2,MoQJ4opg3bM
 1741,Abbiamo trovato il Messia,Domenico Machetta,Una voce che ti cerca,"3,4,12,16,21,32",/canto/abbiamo-trovato-il-messia-1741,qyYnqsZEJvk
 1352,Abbracciami,RnS,Il canto del tuo popolo,31,/canto/abbracciami-1352,fwSAsHU4kHM
 2408,Absorbeat,S. Francesco d'Assisi,,"31,54",/canto/absorbeat-2408,
@@ -17,11 +17,11 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 3,Acclamate a Dio,RnS,Ad una voce,"14,21,24",/canto/acclamate-a-dio-3,FNomwQWxZeI
 4,Acclamate al Signore,Marco Frisina,Tu sarai profeta,"14,21,24",/canto/acclamate-al-signore-4,XR3RXQHnwS4
 1545,Acclamate al Signore,RnS (Pasquale Rinaldi),Gerico,"21,31",/canto/acclamate-al-signore-1545,KYFjP2jCGK4
-2187,Acclamiamo a Dio,Tommaso Bailo,A te veniamo con gioia,21,/canto/acclamiamo-a-dio-2187,FvGHMfzZ2Co
+2187,Acclamiamo a Dio,Tommaso Bailo,A te veniamo con gioia,21,/canto/acclamiamo-a-dio-2187,E810NgUUQjE
 5,Accogli i nostri doni,Francesco Buttazzo,Vita nuova con Te,26,/canto/accogli-i-nostri-doni-5,yQ3z1qH68V4
-2886,Accogli nel tuo grembo,Marco Frisina,Stillate cieli dall'alto,"2,7,21",/canto/accogli-nel-tuo-grembo-2886,kCbTO8teE9Q
-1635,Accogli nella tua bontà,RnS,Osanna,"14,26",/canto/accogli-nella-tua-bont-1635,7cI5qRTJxdQ
-6,Accogli Signore i nostri doni,Gen Verde,E' bello lodarti,26,/canto/accogli-signore-i-nostri-doni-6,5RyJ4pnsK5Q
+2886,Accogli nel tuo grembo,Marco Frisina,Stillate cieli dall'alto,"2,7,21",/canto/accogli-nel-tuo-grembo-2886,elRqtvkAcVI
+1635,Accogli nella tua bontà,RnS,Osanna,"14,26",/canto/accogli-nella-tua-bont-1635,QyvOK9Mx2cY
+6,Accogli Signore i nostri doni,Gen Verde,E' bello lodarti,26,/canto/accogli-signore-i-nostri-doni-6,tVFR6sYi1-I
 1649,Accogli Signore i nostri doni (v2),Gen Verde,E' bello lodarti,26,/canto/accogli-signore-i-nostri-doni-v2-1649,t6NSTY-x1D4
 7,Accoglimi,Pierangelo Sequeri ,In cerca d'autore,"4,11,18",/canto/accoglimi-7,M5FBVpkUsWc
 2234,Accorrete popoli del Re,Daniele Esposito,,21,/canto/accorrete-popoli-del-re-2234,V3grjsC_9vU
@@ -36,9 +36,9 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1572,Agnello di Dio,Gen Rosso / Gen Verde,Come fuoco vivo,"18,71",/canto/agnello-di-dio-1572,pRdqkgFPsII
 1631,Agnello di Dio,Francesco Buttazzo ,Vita nuova con Te,71,/canto/agnello-di-dio-1631,HsswpBzH1p4
 1632,Agnello di Dio,Tradizionale,,71,/canto/agnello-di-dio-1632,
-1645,Agnello di Dio,Tommaso Bailo,A Te veniamo con gioia,71,/canto/agnello-di-dio-1645,40APxYacGXQ
+1645,Agnello di Dio,Tommaso Bailo,A Te veniamo con gioia,71,/canto/agnello-di-dio-1645,filZpn9UkGc
 1646,Agnello di Dio,Avolio-Capacchione-La Rocca,Festa con Gesù,71,/canto/agnello-di-dio-1646,G12BNPCDSj4
-1648,Agnello di Dio,RnS,Ad una voce,71,/canto/agnello-di-dio-1648,NWf9fg9rF8s
+1648,Agnello di Dio,RnS,Ad una voce,71,/canto/agnello-di-dio-1648,fkBMNg6l21g
 1742,Agnello di Dio,Buttazzo - Dargenio,Esulta il cielo,71,/canto/agnello-di-dio-1742,6HHAJt_G-hs
 1743,Agnello di Dio,Piera Cori,Noi Tuo Popolo,71,/canto/agnello-di-dio-1743,4OSvVUH6AJ4
 1744,Agnello di Dio,M. Palmitessa,Riuniti nel tuo nome,71,/canto/agnello-di-dio-1744,iquWNs_fMww
@@ -374,6 +374,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1654,Come unico Pane,Rossi,,26,/canto/come-unico-pane-1654,v8AtqY1KH7E
 2035,Compromettersi per Cristo,Giosy Cento,,"11,12,16,17,20,31",/canto/compromettersi-per-cristo-2035,l67BAV0gJBo
 2199,Con Francesco profeti tra la gente,Fra Giuseppe DI FATTA,,"10,16,20,21,32,54",/canto/con-francesco-profeti-tra-la-gente-2199,DbXHi0wAs-E
+3240,Con Francesco viviamo il Vangelo,Fr. Gennaro Becchimanzi,,"10,21,32,54",/canto/con-francesco-viviamo-il-vangelo-3240,u25bA5sfnxY
 2113,Con gioia veniamo a Te,"RnS - P.Ferrante, F.G.Pesare",Io scelgo Te,"8,10,12,15,20,21,31,52",/canto/con-gioia-veniamo-a-te-2113,u_kqLm53IKk
 141,Con il mio canto,Pierangelo Sequeri ,E mi sorprende,32,/canto/con-il-mio-canto-141,2Y8Di7zVS8w
 2872,Con il Tuo sangue,RnS,Anamnesis,26,/canto/con-il-tuo-sangue-2872,GtRoB3A3e0A
@@ -537,6 +538,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1961,Facciamo festa,Giuseppe Tranchida,,"14,21",/canto/facciamo-festa-1961,98dpIdS6-so
 2811,Fame e sete di Cristo,Fabrizio Palma · Alfredo Di Stefano,Nella luce del Risorto,"4,5,17,26,28,31",/canto/fame-e-sete-di-cristo-2811,yi_rMk8cM4o
 2260,Fammi conoscere,P. Ruaro,,"21,31",/canto/fammi-conoscere-2260,WGWJOqVAh9E
+3217,Farò del mio cuore una lode,Giordano - Becchimanzi,,"21,54",/canto/far-del-mio-cuore-una-lode-3217,FARa1bY6Was
 193,Fede è,Don Franco De Marchi,,31,/canto/fede-193,INfDNDju1LE
 194,Fermarono i cieli,S. Alfonso,,3,/canto/fermarono-i-cieli-194,rGZOl9qUiEE
 1919,Festa con Te,Avolio-Capacchione-La Rocca,Festa con Gesù,21,/canto/festa-con-te-1919,pXipmfGYlP0
@@ -1290,6 +1292,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1797,"Signore, fa di me uno strumento",M. Gonzo,,"26,30",/canto/signore-fa-di-me-uno-strumento-1797,ZcE3A3qbMnU
 2383,"Signore, sei Tu il mio Pastor",R. Jef - D. Stefani,,"2,3,4,5,24,31",/canto/signore-sei-tu-il-mio-pastor-2383,tHsxzhub6po
 1574,"Signore, tu sei nostro amico",Francesco Buttazzo,,11,/canto/signore-tu-sei-nostro-amico-1574,AuvCTxdss_0
+3235,"Signore, vero corpo",Marco FRISINA,Pane di vita nuova,22,/canto/signore-vero-corpo-3235,xOwO6PCLpnE
 2635,Sii esaltato ,RnS - T.Paris,Venti dello Spirito,"14,21,32",/canto/sii-esaltato-2635,Vz01MqhPbyM
 432,Silenzioso Dio,Giosy Cento,,31,/canto/silenzioso-dio-432,knzZ9EYvoPs
 2978,Simbolo Apostolico,Marco Frisina,Tu sei bellezza,"3,5",/canto/simbolo-apostolico-2978,Zsm0QIyqWWM
@@ -1414,6 +1417,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2223,Un raggio splenderà,Padre Daniele Badiali,,"10,12,16,32,53",/canto/un-raggio-splender-2223,BBJZz11_clY
 2103,Un sogno che vola,Maurizio Palazzo,,"10,32,53",/canto/un-sogno-che-vola-2103,v6DPyjT9Qjs
 1717,"Un sol corpo, un sol spirito",Salvatore Martinez,,"16,21,32",/canto/un-sol-corpo-un-sol-spirito-1717,n-Gov3B4AIk
+3216,Una cosa sola,Don Emanuele Andaloro,,"15,26",/canto/una-cosa-sola-3216,e6Z8kjqnPvY
 2576,Uomo di galilea,RnS,Vive Gesù il Signor,21,/canto/uomo-di-galilea-2576,zp74gDOTECw
 1716,Usami Signore,Benedetto Conte - Pietro Ferrante,,"6,9,52",/canto/usami-signore-1716,
 1925,Vedrai che bello," Stefano Colombo, Angelo Racz",,"10,20,32",/canto/vedrai-che-bello-1925,8NJ-KurGG6A
@@ -1462,6 +1466,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1812,"Vieni Spirito Santo, Vieni",P. Bordini,,6,/canto/vieni-spirito-santo-vieni-1812,JJuq6PeYw4Y
 1917,"Vieni, santo spirito di Dio",Francesco Buttazzo - Daniele Scarpa,,"6,21",/canto/vieni-santo-spirito-di-dio-1917,2cvwfltc0v8
 3084,Vita che risorge,Francesco Buttazzo,Sono Risorto e sono con te,"5,21,32",/canto/vita-che-risorge-3084,VOfqcRp7evM
+3124,Vita in abbondanza,Movimento Giovanile Salesiano,,"10,12,14,16,21,31",/canto/vita-in-abbondanza-3124,iLQzvzcoRoc
 2214,Viva don Bosco,,,"10,32,53",/canto/viva-don-bosco-2214,_As9JAXiEe0
 492,Vivere la vita,Gen Verde,E' bello lodarti,"16,21,31,32",/canto/vivere-la-vita-492,Tq4pPkWwzA4
 1813,Vivi della sua pace,F. Baggio; G. Beltrami,,"30,32",/canto/vivi-della-sua-pace-1813,tZUa6rV5lLw
