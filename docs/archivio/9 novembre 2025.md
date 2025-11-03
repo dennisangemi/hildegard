@@ -1,36 +1,13 @@
----
-title: Suggerimenti di animazione liturgica
-description: I canti suggeriti per la liturgia di Domenica 6 aprile 2025
-hide:
-    - toc
-    - navigation
-template: home.html
----
-
-<div class="grid md:grid-cols-2 gap-8 mb-12">
-  <div class="bg-white rounded-lg shadow p-6 border-l-4 border-accent-500">
-    <h2 class="text-2xl font-extrabold text-primary-800 mb-3" style="font-weight: 800 !important;">Cos'è Hildegard?</h2>
-    <p class="text-gray-700">Un suggeritore automatico che ti aiuta a selezionare i canti più adatti per la liturgia domenicale, basandosi sul confronto dei testi con le letture del giorno.</p>
-  </div>
-  
-  <div class="bg-white rounded-lg shadow p-6 border-l-4 border-primary-500">
-    <h2 class="text-2xl font-extrabold text-primary-800 mb-3" style="font-weight: 800 !important;">Come funziona?</h2>
-    <p class="text-gray-700">L'algoritmo analizza le letture della domenica e confronta il testo con una vasta raccolta di canti liturgici per suggerirti quelli più pertinenti.</p>
-  </div>
-</div>
-
-<br>
-
 <!-- archivePageStartHere -->
 
 {% import 'macros.html' as macros %}
-{% set canti = load_json('data/suggeriti-top20-latest.json') %}
+{% set canti = load_json('data/suggeriti-top20-20251109.json') %}
 
 ## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 9 novembre 2025</span>
 
 ??? quote "Leggi la liturgia"
 
-    {% include-markdown "../risorse/lezionari/liturgia-latest.txt" %}
+    {% include-markdown "../../risorse/lezionari/liturgie/formatted/C83-C.md" %}
 
     ---
 
@@ -75,7 +52,7 @@ Conosci un canto adeguato che non è presente in questa pagina? Aggiungilo dal b
 ### Altro
 Di seguito altri 20 canti che potrebbero essere adatti per la liturgia ma sono stati esclusi perchè il loro punteggio di adeguatezza non ha raggiunto la soglia minima.
 
-{% set canti_esclusi = load_json('data/not-selected-latest.json') %}
+{% set canti_esclusi = load_json('data/not-selected-20251109.json') %}
 
 ??? question "Apri lista"
 
