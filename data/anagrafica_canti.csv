@@ -54,6 +54,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2896,Agnello di Dio,Mauro Visconti,Messa VIII,71,/canto/agnello-di-dio-2896,N2rDBG2nkqc
 2922,Agnello di Dio,EPC Band,Sia con noi il Tuo Spirito,71,/canto/agnello-di-dio-2922,fRhb2mqgjA0
 3013,Agnello di Dio ,Antonio Parisi,Popolo Santo,71,/canto/agnello-di-dio-3013,Vi4mV_5s4oA
+3172,Agnello di Dio,Marco Frisina,Salvatore del mondo,71,/canto/agnello-di-dio-3172,VLjkgW1qU0o
 1915,Agnello di Dio (da Sorgente di unità),Francesco Buttazzo,Sorgente di unità,71,/canto/agnello-di-dio-da-sorgente-di-unit-1915,qcezTOqjZVs
 2186,Agnello di Dio Exsultet,Daniele Esposito,,71,/canto/agnello-di-dio-exsultet-2186,I2p7D0mQViM
 1582,"Agnello di Dio, abbi pietà","Pasquale Dargenio, Francesco Buttazzo",Sorgente di vita,71,/canto/agnello-di-dio-abbi-piet-1582,_h169VsqO_Q
@@ -224,7 +225,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 73,Beati quelli che ascoltano,Michele Bonfitto,Sei grande nell'amore,"21,31",/canto/beati-quelli-che-ascoltano-73,k7lnX_X_rZA
 1745,Beati voi,Francesco Buttazzo,Mi ami tu?,"10,15,17,20,21,31,32",/canto/beati-voi-1745,WT6FPMic0Jo
 2048,Beati voi,Giosy Cento,,"21,31",/canto/beati-voi-2048,d3gRXkwijEo
-76,Beatitudine (La preghiera di Gesù è la nostra),Gaetano Castiglia,,"17,31",/canto/beatitudine-la-preghiera-di-ges-la-nostra-76,c6uJoG9BbJ8
+76,Beatitudine (La preghiera di Gesù è la nostra),Gaetano Castiglia,La roccia del mio cuore,"17,31",/canto/beatitudine-la-preghiera-di-ges-la-nostra-76,c6uJoG9BbJ8
 2193,Beatitudini,Marco Frisina,Benedici il Signore,"17,31",/canto/beatitudini-2193,HtHIeBPXH8w
 2497,Beato chi dimora in Te,Darlene Zschech - Reuben Morgan,,"14,21,24",/canto/beato-chi-dimora-in-te-2497,MnBizieeEf4
 2580,Beato il cuore che perdona (inno GMG 2016),Valerio Ciprì,,"16,31",/canto/beato-il-cuore-che-perdona-inno-gmg-2016-2580,JHfNDEqr_hY
@@ -403,11 +404,14 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2505,Cristo muove le montagne,Hillsong,,32,/canto/cristo-muove-le-montagne-2505,kOL8zUl5OZw
 2666,Cristo nostra pace,Marco Frisina,Cristo nostra salvezza,"10,21",/canto/cristo-nostra-pace-2666,tAUlxyi4sSA
 2953,Cristo nostra Pasqua,Don Antonio Parisi,,"5,21",/canto/cristo-nostra-pasqua-2953,o8FcTo0f2Sg
+3171,Cristo nostra Pasqua,Marco Frisina,Cristo è nostra Pasqua,"5,21,31",/canto/cristo-nostra-pasqua-3171,FedbvXXGX-A
 2478,Cristo Re,RnS - Nicola Montuosi,Mi affido a te,31,/canto/cristo-re-2478,_BUs4qF81Vg
 146,Cristo risusciti,Stefani,,"5,21",/canto/cristo-risusciti-146,nsgcYokdH78
 1986,Cristo speranza delle genti,RnS,,"21,31",/canto/cristo-speranza-delle-genti-1986,Lc-nMRdJR5Y
 2621,Cristo vive in me,RnS - Canto popolare america latina,,"18,31",/canto/cristo-vive-in-me-2621,c578bJM8vqQ
+3264,Cristo vivente,Antonio Parisi,Cristo ieri oggi sempre,"3,5,21",/canto/cristo-vivente-3264,F9PMUoWbKK0
 2037,Cuore a cuore,Canti evangelici,,15,/canto/cuore-a-cuore-2037,EiB_40OG41s
+3170,Cuore di Cristo,Marco Frisina,Cristo è nostra Pasqua,"4,5,31",/canto/cuore-di-cristo-3170,uCIPW7WF7Mo
 1779,Cuore puro,SDV worship,,31,/canto/cuore-puro-1779,KJ1OGOLfFy8
 2295,Custode del Signore,Marco Frisina,,"10,21,32",/canto/custode-del-signore-2295,YAEv6Cxj_JI
 2296,Custode del Signore (v2),Marco Frisina,,"10,21,32",/canto/custode-del-signore-v2-2296,YAEv6Cxj_JI
@@ -420,6 +424,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2770,Dal profondo o Signore,Francesco Buttazzo,Tempo di grazia,"4,11",/canto/dal-profondo-o-signore-2770,1otaBEQc66I
 1679,Dal tronco di Jesse,"F. Baggio, F. Buttazzo, D. Ricci, D. Semprini",,"2,21",/canto/dal-tronco-di-jesse-1679,vpuAulKxEh4
 2638,Dall'eternità,Rns (Riccardo Sansone),Ha vinto il tuo amore,"16,20,32",/canto/dall-eternit-2638,QNzbG3nKCt4
+3208,Dalla Didaché,G. Marano,,26,/canto/dalla-didach-3208,
 2622,Dalla tristezza alla danza,RnS - T.Walker,Risplendi Gerusalemme,"14,21,32,52",/canto/dalla-tristezza-alla-danza-2622,sfaDQMOXfh4
 150,Dall’aurora al tramonto,Mite Balduzzi,Verbum Panis,"2,4,21,24,31",/canto/dall-aurora-al-tramonto-150,ndzzta0oElQ
 1659,Dammi i Tuoi Occhi,Dame Tus Ojos - Marcela Gandara – [Más Que Un Anhelo],,"9,31",/canto/dammi-i-tuoi-occhi-1659,16aAyTOY4O8
@@ -450,6 +455,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2723,Dio ha tanto amato il mondo,A. De Luca - B. Conte,Risorto per Amore,"4,10,11,31",/canto/dio-ha-tanto-amato-il-mondo-2723,aYClEd3LMz0
 2918,Dio ha tanto amato il mondo,Marco Frisina,Dio ha tanto amato il mondo,"4,5,26",/canto/dio-ha-tanto-amato-il-mondo-2918,9zGronYNWys
 2818,"Dio mio, Dio mio perchè mi hai abbandonato ",Marco Frisina,Non temere - Signore è il suo nome,"4,24",/canto/dio-mio-dio-mio-perch-mi-hai-abbandonato-2818,34BhRHX7mzE
+3247,"Dio nel cielo, chi è?",,,"7,32",/canto/dio-nel-cielo-chi-3247,bniFubISoQQ
 159,Dio Regna,Leonard E. Smith Jr.,,"2,21",/canto/dio-regna-159,PeX3pYIzgoU
 160,Dio s’è fatto come noi,Gino Stefani - Marcello Giombini,,"2,3,31",/canto/dio-s-fatto-come-noi-160,lGaqYA2I-lU
 2402,Dio ti adorerò ,RnS - B. Conte e G. Ferrante  ,Shalom,"9,10",/canto/dio-ti-adorer-2402,KoZDLjipX5s
@@ -459,12 +465,14 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2430,Dolce signora dell'alleanza,Ricci - Galliano,Un patto d'amore,"7,15,26",/canto/dolce-signora-dell-alleanza-2430,3EMlAgu8gdI
 1903,Dona la pace,Figli del divino amore,Madre del cielo,"6,14,20,30",/canto/dona-la-pace-1903,BAeFvOfW5w8
 2362,Donna Maria,Giosy Cento,É il giorno del Signore,"7,14,32",/canto/donna-maria-2362,GUF1dgzSTfU
+3244,Dove andrò - Salmo 138,Massimo Maioli,,"2,3,4,9,21",/canto/dove-andr-salmo-138-3244,bHlvO8P_cpM
 2060,Dove la carità è vera,Marco Frisina,,"5,31",/canto/dove-la-carit-vera-2060,AmSLoX-F-b0
 2663,Dove s'alza un'onda,Gen Arcobaleno,,"21,32",/canto/dove-s-alza-un-onda-2663,DF1WttHLWqM
 2513,Dove troveremo tutto il pane,Stefano pianori,,26,/canto/dove-troveremo-tutto-il-pane-2513,dztwb6q08ho
 1931,Dove tu sei,Gen Rosso,,9,/canto/dove-tu-sei-1931,ko1yR6Vxv5U
 163,Dov’è carità e amore,Valentino Meloni - F. Zanettin - Terenzio Zardini,,"17,31",/canto/dov-carit-e-amore-163,2aIrBW6r0aw
 1591,Dov’è l’amore e la carità,Pasquale Dargenio,Dalla tua Croce,"5,31",/canto/dov-l-amore-e-la-carit-1591,odW4GVmzKSQ
+3263,È apparso l'angelo Gabriele,"RnS Charles Eric Hauguel, Tradizionale",La mia voce sale a Dio,"2,3,7,31",/canto/apparso-l-angelo-gabriele-3263,lPC5vHEyf3Y
 169,E correremo insieme,Giosy Cento,,32,/canto/e-correremo-insieme-169,8av9XCKUVMo
 2709,È il momento di ringraziarti,"M. Fornaro, B. Carretta","AA.VV., Oggi risorge","32,52",/canto/il-momento-di-ringraziarti-2709,hqNuQJ8qN9c
 1988,É l'ora che pia,Tradizionale mariano,,"7,32",/canto/l-ora-che-pia-1988,
@@ -472,6 +480,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1880,E la strada si apre,Gen Arcobaleno,,"31,32",/canto/e-la-strada-si-apre-1880,nOBr4QsBclU
 2301,E lo credemmo abbandonato da DIo,Pierangelo Sequeri,,"4,31",/canto/e-lo-credemmo-abbandonato-da-dio-2301,rkW8-9ToP9s
 2646,È meraviglioso,Gen Arcobaleno,La tua storia,31,/canto/meraviglioso-2646,O8rk6Pqt2Yo
+2710,E nasce Gesù,M. Migliarese,Benvenuto Dio Bambino,"3,21,31,32",/canto/e-nasce-ges-2710,3cUB2dZk934
 2515,E Nasce il sole,--,,"32,51",/canto/e-nasce-il-sole-2515,DfHPn13b-WA
 2658,È nato Dio per noi,A.Benedetti e G.Anselmi,EccoPercheCanto,3,/canto/nato-dio-per-noi-2658,QPMauMN_qEA
 177,E pace intima,Gen Rosso,Se siamo uniti,31,/canto/e-pace-intima-177,C4H6iupfg3o
@@ -552,6 +561,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 199,Francesco vai,Chiara Bizzetti,,"16,20,54",/canto/francesco-vai-199,vBewP-dRJ9Y
 200,Fratello Sole e Sorella Luna,Riz Ortolani,,"14,31,54",/canto/fratello-sole-e-sorella-luna-200,jSq7zvrrsCA
 1600,Fratello Sole e Sorella Luna (semplificata),Riz Ortolani,,"14,31,54",/canto/fratello-sole-e-sorella-luna-semplificata-1600,jSq7zvrrsCA
+3207,Frumento di Dio,Marco Frisina,Chiesa Santa del Signore,"2,3,4,5,21,31",/canto/frumento-di-dio-3207,9fSDhDUBXw0
 201,Frutto della nostra terra,Francesco Buttazzo,Sorgente di unità,26,/canto/frutto-della-nostra-terra-201,hF9namOkLoE
 2404,Fuoco che consuma,RnS - Randy N. Wright,Shalom,"6,9",/canto/fuoco-che-consuma-2404,TbYrB4iP274
 2145,Fuoco d'amore,S.Russotto - M.Cascione,,6,/canto/fuoco-d-amore-2145,2FCzg6Iz204
@@ -724,8 +734,9 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2030,In cammino,Paolo Spoladore,,"10,14,16,20,21",/canto/in-cammino-2030,4da8_PP7cEM
 240,In comunione,Stefano Pianori,,31,/canto/in-comunione-240,EMH4PDL-Y5k
 1978,In Eterno Canterò,RnS,,"21,31,32",/canto/in-eterno-canter-1978,LX-xjoxNqHU
+2733,In mezzo a noi,Marcela Gàndara,,"3,31,32",/canto/in-mezzo-a-noi-2733,TR8CDKWWd8Y
 241,In notte placida,Couperin François,,"3,31",/canto/in-notte-placida-241,ptkL8MHn9xk
-242,In principio,Daniele Ricci,,"3,21",/canto/in-principio-242,jsFibHveYW4
+242,In principio,Daniele Ricci,Venne nel mondo,"3,21",/canto/in-principio-242,BXo8wdYgU1Q
 2717,In quei giorni,L. Scaglianti,Andiamo a Betlemme...,"3,21",/canto/in-quei-giorni-2717,UDKAkQJKMos
 2242,In questo giorno di luce,Buttazzo,E' nato il Salvatore,"3,26",/canto/in-questo-giorno-di-luce-2242,mKP0ATqc8MM
 2473,In trasparenza,Gen Arcobaleno,,"7,32",/canto/in-trasparenza-2473,-ie1_UO_XzU
@@ -737,6 +748,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2006,Innalzate nei cieli lo sguardo,Albisetti - Martorelli,,"2,21,31",/canto/innalzate-nei-cieli-lo-sguardo-2006,lHcob8FGOoM
 1725,Innalziamo lo sguardo,Francesco Buttazzo,"Maranathà, vieni Signore","2,21",/canto/innalziamo-lo-sguardo-1725,lE4ajzCUFaQ
 2042,Innamorato di Gesu',canto popolare dell'america latina,,"10,14,21,32",/canto/innamorato-di-gesu-2042,
+3157,Inno a Cristo Signore dei Millenni,Giuseppe Liberto - Crispino Valenziano,,"5,10,21",/canto/inno-a-cristo-signore-dei-millenni-3157,Amd03fzGVdQ
 2127,Inno a San Giovanni ,,,"10,32",/canto/inno-a-san-giovanni-2127,
 2558,Inno a Sant'Isidoro Agricoltore,Grimoaldo Macchia,,"21,32",/canto/inno-a-sant-isidoro-agricoltore-2558,CtFPJrpy8HQ
 1595,Inno al Signore della tempesta,Stefano Puri,,14,/canto/inno-al-signore-della-tempesta-1595,HUXQIJRawYU
@@ -772,6 +784,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 254,Io sarò con Te,Marco Frisina,,31,/canto/io-sar-con-te-254,oWtdlQAaOCE
 1918,Io sarò con voi,Marco Gragnani - Giorgio Casini,,31,/canto/io-sar-con-voi-1918,GB-93Or0Yy4
 1767,Io scelgo Te,RnS,Venti dello Spirito,"10,15,20",/canto/io-scelgo-te-1767,akhS_jrYtdA
+3260,Io sono con te,Silverio Fioravanti,Quanta Strada,"2,3,4,5,10,21,28,31,32",/canto/io-sono-con-te-3260,0Q_N-jbm1tE
 2354,Io sono il pane della vita,Lucio Maria Zappatore,Il Signore è vita,"2,3,4,5,31",/canto/io-sono-il-pane-della-vita-2354,jtFyO8nGGN8
 2538,Io Ti adoro (Versione italiana),Hillsong,,14,/canto/io-ti-adoro-versione-italiana-2538,j-0YLmZuNkA
 2432,"Io ti amo Signore, mia forza Tu sei",RnS,Il deserto canta,9,/canto/io-ti-amo-signore-mia-forza-tu-sei-2432,8ZVRO9-Pv3g
@@ -934,6 +947,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 302,"Maria, tu che hai atteso",Daniele Semprini,Preghiera a Maria,"2,7,32",/canto/maria-tu-che-hai-atteso-302,TpRxWU6ojlY
 1869,"Maria, tua dolcezza",RnS,,"7,32",/canto/maria-tua-dolcezza-1869,oehuZNY8-Yg
 303,"Maria, vogliamo amarti",Gen Verde,Sulla via della speranza,"7,31",/canto/maria-vogliamo-amarti-303,tLt1M47mGC8
+3046,Mentre il silenzio,Fabio Massimillo - David Maria Turoldo,,"3,21",/canto/mentre-il-silenzio-3046,OqZCr4eZ0yw?si=Ym27qRe1_s5KJr9-
 2201,Meraviglioso,Kantiere Kairòs,,"9,31",/canto/meraviglioso-2201,k3lmt4kV6bc
 2457,Meraviglioso sei,C.G.S.,Leone della tribù di Giuda,9,/canto/meraviglioso-sei-2457,eBDQ_ovCqRg
 305,Messaggio ai giovani,Pierangelo Sequeri ,In cerca d'autore,"20,21",/canto/messaggio-ai-giovani-305,SzGCzzzp8a0
@@ -958,6 +972,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 3008,Mistero della Cena,R.L. Pearsall - G. Stefani,,"10,26",/canto/mistero-della-cena-3008,Zcm49DobSls
 2010,Mistero della Fede,,,28,/canto/mistero-della-fede-2010,CgfcqgllUPE
 2783,Mistero della fede - Tu ci hai Redenti,,,"4,71",/canto/mistero-della-fede-tu-ci-hai-redenti-2783,TrovuQXI5ew
+3215,Mistero di Natale,Anna Maria Galliano (testo) - Daniele Semprini (musica),Natale del Signore,3,/canto/mistero-di-natale-3215,Alla0IMQ1Sw
 2786,Muovi le montagne,RnS,Parla al mio Cuore,21,/canto/muovi-le-montagne-2786,3lQeWQFdhWA
 1565,Musica di festa,Ernest Sands - Paolo Iotti,,"10,15,21,32",/canto/musica-di-festa-1565,B1ToVClFayo
 2299,Narrano i cieli,Valmaggi,,"3,5,21,24,32,52",/canto/narrano-i-cieli-2299,Xgv_nreJX8Q
@@ -980,6 +995,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1454,Nessuno è come Te,Lenny LeBlanc,,"22,26,28,31",/canto/nessuno-come-te-1454,njTN4cMmHo0
 2559,Niente ti fermerà (Magnificat),Gen Verde,,7,/canto/niente-ti-fermer-magnificat-2559,Soe76XqhzUQ
 320,Ninna Nanna,---,,3,/canto/ninna-nanna-320,
+3040,Noel (The first Nowell),canto tradizionale inglese,,"3,21,32",/canto/noel-the-first-nowell-3040,Yn44nKjYBBo
 2974,Noi abbiamo creduto al tuo amore,A.M. Galliano - F. Massimillo,Mistero della Fede,"5,31",/canto/noi-abbiamo-creduto-al-tuo-amore-2974,JcI56Tr_OXY
 321,Noi canteremo gloria a Te,Gino Stefani - D. Stefani,,"14,19,21,32",/canto/noi-canteremo-gloria-a-te-321,beOpc0kvk0c
 322,Noi con Te,Francesco Buttazzo - Alessandra Beltrami,,26,/canto/noi-con-te-322,FPm6gt3zPM8
@@ -1020,6 +1036,8 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2997,O Luce radiosa,Marco Frisina,Sulla via di Emmaus,"5,6,21,31",/canto/o-luce-radiosa-2997,_XxI37ahQ2Y
 1991,O madre del signore,Rns,,"7,32",/canto/o-madre-del-signore-1991,Bu301OvL2yM
 331,O Maestro (San Francesco),Paolo Spoladore,,"31,32,54",/canto/o-maestro-san-francesco-331,Z3wyBIaolpg
+3265,O meraviglioso scambio,Francesco Buttazzo,È nato il Salvatore,"2,3,31",/canto/o-meraviglioso-scambio-3265,xWvNp8J3Udw
+3188,O Ostia Santa,Marco Frisina,O luce radiosa,"9,10,31,52",/canto/o-ostia-santa-3188,Wfep0BbstMY
 1921,O Salvezza del mondo (Inno Madonna della Catena di Cassano Jonio),F. Pennini - F. Spingola,,"7,21,32",/canto/o-salvezza-del-mondo-inno-madonna-della-catena-di-cassano-jonio-1921,DcXsoC35PcY
 3102,O Santissima,tradizionale siciliano XVIII sec.,,"7,21,26,32",/canto/o-santissima-3102,R08dIcr2_wQ
 2794,O Signore nostro Dio,Marco Frisina,Non Temere,"4,5,15,21,31",/canto/o-signore-nostro-dio-2794,SKrRIFda5mo
@@ -1053,6 +1071,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 344,Pace a te,Marcello Giombini,Camminiamo nella speranza,30,/canto/pace-a-te-344,o9OKvdTcqZI
 345,Pace a te (Nel Signore io ti do la pace),A. Costa - Stefano Varnavà,,30,/canto/pace-a-te-nel-signore-io-ti-do-la-pace-345,84PLHM1ko80
 347,"Pace sia, pace a voi",Gen Rosso / Gen Verde,Come fuoco vivo,"30,32",/canto/pace-sia-pace-a-voi-347,Ga9OYuovxio
+3212,Padre di misericordia,Marco Frisina,Sacerdote per sempre,"4,5,10,11,21,31",/canto/padre-di-misericordia-3212,HJAc7xcnIsc
 2316,Padre m'abbandono a te,Charles de Foucauld – G. Caporilli,,"4,26",/canto/padre-m-abbandono-a-te-2316,
 1782,Padre mio,Gen Rosso,Dove tu sei,"4,11,22,31",/canto/padre-mio-1782,KYGvctNw21o
 352,Padre nostro,Marcello Giombini,Camminiamo nella speranza,29,/canto/padre-nostro-352,ZniLDGaOCwM
@@ -1228,6 +1247,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1923,Santo Santo,Francesco Buttazzo,Sorgente di unità,27,/canto/santo-santo-1923,WFvyoqj9DtM
 2307,Santo Santo,M. Palmitessa,Riuniti nel tuo amore,27,/canto/santo-santo-2307,6GhXuzg86Ho
 2312,Santo Santo,Giosy Cento,E' il giorno del Signore,27,/canto/santo-santo-2312,IeKiRRfNyCw
+2956,Santo Santo Santo,Daniele Ricci,Venne nel mondo,27,/canto/santo-santo-santo-2956,ruSCXx0xMJc
 2274,Santo santo sei,,,27,/canto/santo-santo-sei-2274,
 2325,Santo Spirito,"RnS - Vigo, Napoli",Mi affido a te,"6,21,26",/canto/santo-spirito-2325,qPyQGS2ulE0
 3001,Santo Spirito,Kantiere Kairos,Cantate Inni,6,/canto/santo-spirito-3001,CevOChZplRo
@@ -1280,6 +1300,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2877,"Signore , tu sei la nostra via",Matteo Zambuto,Il Signore è risorto,"4,5,22",/canto/signore-tu-sei-la-nostra-via-2877,Mdu8G1tX5Bw
 1579,Signore cerchi i figli tuoi,Eugenio Costa - G. Del Treppo,,11,/canto/signore-cerchi-i-figli-tuoi-1579,hI6cHpaqHWs
 1709,Signore da chi andremo,Alejandro Mejia,,"31,52",/canto/signore-da-chi-andremo-1709,J5tytDPEmCc
+3034,Signore del cielo,Daniele Ricci,Maranatha vieni Signore,"3,21,32",/canto/signore-del-cielo-3034,cdaI21iZfuU
 2769,Signore delle Cime,Bepi de Marzi,,10,/canto/signore-delle-cime-2769,GOt_IfNcvpA
 1586,Signore pietà,Francesco Buttazzo,Esultiamo nel Signore,22,/canto/signore-piet-1586,Z6I6uEOh01s
 1658,Signore pietà,Giosy Cento,,22,/canto/signore-piet-1658,6dAuZYm3Lug
@@ -1360,6 +1381,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2358,Ti offro Signor,Giuseppe Carrisi,Il 7° giorno,"26,52",/canto/ti-offro-signor-2358,bd8IuPNUM_g
 2574,Ti parlerò di me,Reale,Come nessun altro,"11,12,31",/canto/ti-parler-di-me-2574,Y0seKXi7a0Q
 1676,Ti rendiamo grazie,RnS,Nella tua santità,31,/canto/ti-rendiamo-grazie-1676,IIcWFgimFbs
+3211,Ti rendo grazie,Marco Frisina,Non temere - Signore è il suo nome,"2,3,4,5,31",/canto/ti-rendo-grazie-3211,J5Xu2_MuTNE
 459,Ti ringraziamo,Gen Verde,Gratitudine,"26,32",/canto/ti-ringraziamo-459,6OKVjp-6GUY
 1800,Ti ringrazio mio Signore,Pierangelo Sequeri,Qui dove Tu ci chiami,"31,32,52",/canto/ti-ringrazio-mio-signore-1800,6YsclSgpECA
 1713,"Ti ringrazio, o mio Signore",C. Gabarain,,"32,52",/canto/ti-ringrazio-o-mio-signore-1713,v5ewwgxAuA4
@@ -1384,7 +1406,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1955,Tu sarai profeta (2),Marco Frisina,Tu sarai profeta,"21,31",/canto/tu-sarai-profeta-2-1955,3RlXWfB_ALI
 465,Tu scendi dalle stelle,Tradizionale,,"3,32",/canto/tu-scendi-dalle-stelle-465,THoF5snnSvE
 466,Tu sei,Paolo Spoladore,Così,"6,21,31",/canto/tu-sei-466,RbEjtKf3Yr8
-1544,Tu sei bambino,Daniele Ricci,,"3,21",/canto/tu-sei-bambino-1544,QhJ29I6o3D4
+1544,Tu sei bambino,Daniele Ricci,Venne nel mondo,"3,21",/canto/tu-sei-bambino-1544,uwA9VE9v4sg
 2982,Tu sei il Cristo,Marco Frisina,Tu sei il Cristo,"20,31",/canto/tu-sei-il-cristo-2982,ieoRr-bd8Ik
 2400,Tu sei il mio Dio ,RnS - M. Delavan,Come Davide,"9,10,31",/canto/tu-sei-il-mio-dio-2400,QGyyfIiyNEA
 2777,Tu sei il mio Dio (Meraviglioso),PDG Worship D.Cascio,,"9,11,31",/canto/tu-sei-il-mio-dio-meraviglioso-2777,QL7_sLKBXe0
@@ -1413,6 +1435,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2333,Umiliò se stresso,Marco Frisina,Chi ci separerà dall'amore di Cristo?,"4,21",/canto/umili-se-stresso-2333,TseqIMvD3TY
 2601,Un canto il cuor,Stuart K. Hine,,"9,14,21,52",/canto/un-canto-il-cuor-2601,SMXCMX-F4bw
 1814,Un canto semplice d’amore,---,,"10,14,31",/canto/un-canto-semplice-d-amore-1814,DwAdkGTW7E8
+3209,Un cuor solo,Marco Frisina,O Croce nostra speranza,"2,4,5",/canto/un-cuor-solo-3209,CtON4P4ad5k
 470,Un cuore nuovo,Francesco Buttazzo,,"4,12,17",/canto/un-cuore-nuovo-470,3rNr2gpEFhA
 2223,Un raggio splenderà,Padre Daniele Badiali,,"10,12,16,32,53",/canto/un-raggio-splender-2223,BBJZz11_clY
 2103,Un sogno che vola,Maurizio Palazzo,,"10,32,53",/canto/un-sogno-che-vola-2103,v6DPyjT9Qjs
@@ -1428,6 +1451,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2225,Venite alla festa,Gen Rosso,,"15,21,31,32",/canto/venite-alla-festa-2225,rT926TNFLdM
 2253,Venite applaudiamo al Signore,Kiko Arguello,,"4,21",/canto/venite-applaudiamo-al-signore-2253,AV8drfqaYE0
 1817,Venite applaudiamo al Signore  (Salmo 94),Marco Frisina,Benedici il Signore,"21,24",/canto/venite-applaudiamo-al-signore-salmo-94-1817,0iJ462qTKh4
+3210,Venite benedetti,Marco Frisina,Dio ha tanto amato il mondo,"2,3,4,5,21,31",/canto/venite-benedetti-3210,eXmcJ26JpWU
 1718,Venite dal profondo,RnS - R.J.Stamps,Venite dal profondo,31,/canto/venite-dal-profondo-1718,o1jJmJ_PeBc
 474,Venite fedeli,Tradizionale,,"3,21",/canto/venite-fedeli-474,_ScN76gAQ8g
 2024,Venite fedeli (v2),Stefani - Wade,,"3,21",/canto/venite-fedeli-v2-2024,RHw_pm_ITWk
@@ -1453,7 +1477,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 486,Vieni e seguimi,Gen Rosso,Se siamo uniti,"17,20,21,32",/canto/vieni-e-seguimi-486,EprjM1pGNyY
 2419,Vieni fratello (il Padre ci chiama),A. Lagorio,Nella casa del Padre,"21,32",/canto/vieni-fratello-il-padre-ci-chiama-2419,FwHQOBW1sU4
 1598,"Vieni Gesù, Maranathà",Francesco Buttazzo,Maranthà vieni Signore,"2,21",/canto/vieni-ges-maranath-1598,K60l8up6xhg
-487,Vieni Nasci ancora,Daniele Ricci,,3,/canto/vieni-nasci-ancora-487,Lw_edz-5dFw
+487,Vieni Nasci ancora,Daniele Ricci,Venne nel mondo,3,/canto/vieni-nasci-ancora-487,2Mkwu0GERoE
 1943,Vieni o Spirito Creatore,P. Antonio Josue,,"6,21",/canto/vieni-o-spirito-creatore-1943,S2C8rWnCfdg
 2757,Vieni popolo mio,"F. Baggio, F. Buttazzo",Tempo di grazia,"21,31,32",/canto/vieni-popolo-mio-2757,qUykvY6s7Gk
 2208,Vieni Santo Spirito,Gen Verde,,"6,10,19,21,26,31",/canto/vieni-santo-spirito-2208,QGNjaSspl4k
