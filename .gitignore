@@ -21,3 +21,7 @@ improve_copy_home
 scripts/generate_image.sh
 scripts/functions/apply_gradient
 __pycache__/
+scripts/una-tantum/genera_catalogo_canti_rn_json.py
+
+risorse/canti/rn.json
+risorse/canti/rn.md
