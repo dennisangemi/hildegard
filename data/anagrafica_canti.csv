@@ -166,7 +166,6 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2239,Amore abbandonato,Gen Verde,Il Mistero Pasquale,"4,31",/canto/amore-abbandonato-2239,7tFMjYPbttk
 2436,Anche tu sei mio fratello,Pino Tombolato - Angelo Di Mario,Nessuno è solo al mondo,"10,32,51",/canto/anche-tu-sei-mio-fratello-2436,7QViotWGhM0
 2639,Anche tu vedrai,Marcello Giombini,Salmi per il nostro tempo,21,/canto/anche-tu-vedrai-2639,ONgEcVogn-E
-428,Andate in mezzo a loro,Giovanni Foddai,,"17,31,32",/canto/andate-in-mezzo-a-loro-428,q6OTCpB63LM
 2890,Andate in tutto il mondo,Marco Frisina,O luce radiosa,32,/canto/andate-in-tutto-il-mondo-2890,Z8T-euLu90M
 52,Andate per le strade,Angelo Roncari - Lorenzo Capello - Giovanni M. Rossi,,"16,17,32",/canto/andate-per-le-strade-52,PAMled5AWo4
 1989,Andro' a vederla un di',Tradizionale Mariano,,"7,32",/canto/andro-a-vederla-un-di-1989,0juafPduuno
@@ -625,7 +624,10 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2524,Gloria a Dio,"RnS - M.Fusari, C.Rossi, C.Carocci",Anamnesis,23,/canto/gloria-a-dio-2524,vMWqjTeUAFE
 2628,Gloria a Dio ,RnS - S.Martinez,Ad una voce,23,/canto/gloria-a-dio-2628,oltLI_EgOfw
 2756,Gloria a Dio,Paolo Auricchio,Rallegriamoci nel Signore,23,/canto/gloria-a-dio-2756,k1dSp4WfcQ4
+3070,Gloria a Dio,Gen Verde,Il Mistero Pasquale,"5,23",/canto/gloria-a-dio-3070,AKI2VmPQk4E
 3167,Gloria a Dio,Daniele Ricci,È l'incontro della vita,23,/canto/gloria-a-dio-3167,jXXs3tBhZH4
+3241,Gloria a Dio,Daniele Ricci,La tua dimora,23,/canto/gloria-a-dio-3241,N4BNzGAU7cA
+3340,Gloria a Dio (v2),Gen Verde,Il Mistero Pasquale,"5,23",/canto/gloria-a-dio-v2-3340,AKI2VmPQk4E
 2799,Gloria a Dio - 2023,Daniele Esposito,,23,/canto/gloria-a-dio-2023-2799,Kk3QIQ08WYA
 1761,Gloria a Dio nell'alto dei cieli,F. Buttazzo - P. Dargenio,,23,/canto/gloria-a-dio-nell-alto-dei-cieli-1761,ht1yDFKZ26c
 2076,Gloria a Dio nell'alto dei CIeli,Daniele Ricci,Venne nel mondo,23,/canto/gloria-a-dio-nell-alto-dei-cieli-2076,ihjLowM5UV8
@@ -1223,7 +1225,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1941,Santo,V. Antonioli - R. Giorgi,,27,/canto/santo-1941,PCTR5KXAhj8
 2091,Santo ,Gen rosso-verde,,"14,27",/canto/santo-2091,Hh4PX1BnyJY
 2161,Santo,Benedetti/Anselmi,,"2,3,4,5,10,11,12,13,14,15,16,25",/canto/santo-2161,ps8tTMhXgfg
-2202,Santo,Gen Verde,Il Mistero Pasquale,27,/canto/santo-2202,N7GZXlSnhWo
+2202,Santo,Gen Verde,Il Mistero Pasquale,27,/canto/santo-2202,1Tj4sPBGXvE
 2276,Santo,Domenico Machetta,Prendo le ali,27,/canto/santo-2276,Wi_JSF6K_VQ
 2318,Santo,Parisi,Popolo Santo,27,/canto/santo-2318,prXAyYvLe7A
 2328,Santo,Daniele Scarpa,,27,/canto/santo-2328,nDF5BYCbC3o
@@ -1247,6 +1249,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1002,Santo è il Signore,Daniele Ricci,La tua dimora,27,/canto/santo-il-signore-1002,bJjxtx9wCIc
 2349,Santo è il Signore ,Avolio-Capacchione-La Rocca,Festa con Gesù,27,/canto/santo-il-signore-2349,iloNCUjHOeI
 3010,Santo è il Signore,Benedetti Anselmi,Sia con noi il Tuo Spirito,27,/canto/santo-il-signore-3010,WD_0vghygrg
+3331,Santo è il Signore,EPC Band,Sia con noi il Tuo Spirito,27,/canto/santo-il-signore-3331,WD_0vghygrg
 408,Santo è Santo,Kiko Arguello,,27,/canto/santo-santo-408,28hHmFcXkqE
 409,Santo il Signore,Daniele Ricci,E' l'incontro della vita,27,/canto/santo-il-signore-409,w3cLBdDEHyw
 2335,Santo il Signore,"Pasquale Dargenio, Francesco Buttazzo",Sorgente di vita,27,/canto/santo-il-signore-2335,iA-XewgTZ7A
@@ -1307,6 +1310,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 1892,Signora della pace,Paolo Spoladore,Così,"7,30,32",/canto/signora-della-pace-1892,l-z4s3MwF54
 2877,"Signore , tu sei la nostra via",Matteo Zambuto,Il Signore è risorto,"4,5,22",/canto/signore-tu-sei-la-nostra-via-2877,Mdu8G1tX5Bw
 1579,Signore cerchi i figli tuoi,Eugenio Costa - G. Del Treppo,,11,/canto/signore-cerchi-i-figli-tuoi-1579,hI6cHpaqHWs
+428,Signore come è bello (La tenda),Giovanni Foddai,,"17,31,32",/canto/signore-come-bello-la-tenda-428,q6OTCpB63LM
 1709,Signore da chi andremo,Alejandro Mejia,,"31,52",/canto/signore-da-chi-andremo-1709,J5tytDPEmCc
 3034,Signore del cielo,Daniele Ricci,Maranatha vieni Signore,"3,21,32",/canto/signore-del-cielo-3034,cdaI21iZfuU
 2769,Signore delle Cime,Bepi de Marzi,,10,/canto/signore-delle-cime-2769,GOt_IfNcvpA
@@ -1327,7 +1331,6 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2978,Simbolo Apostolico,Marco Frisina,Tu sei bellezza,"3,5",/canto/simbolo-apostolico-2978,Zsm0QIyqWWM
 2598,Simeone,Daniele Esposito,,"10,13,31,32",/canto/simeone-2598,rH07fVSFjq8
 1953,So che sei qui,Gen Verde,Messa della concordia,"9,13,31",/canto/so-che-sei-qui-1953,tZEovlG6uAg
-3115,So che tu mi salverai,RnS,Mi salverai,"5,10,31,32",/canto/so-che-tu-mi-salverai-3115,fWrugVh6p0o
 2636,So che tu sei il mio Signor,"Rns - D.Zschech, R.Fragar",Il tuo amore è grande,"14,21,32",/canto/so-che-tu-sei-il-mio-signor-2636,rwltTDDxVHU
 3303,"Soffia, Spirito di Dio",Musica Cristiana Italiana,,"6,28",/canto/soffia-spirito-di-dio-3303,MoCpTPDPRiM
 2204,Sollevate porte i vostri frontali,Marco Frisina,Stillate cieli dall'alto,"5,21",/canto/sollevate-porte-i-vostri-frontali-2204,EXxRBpQ3RbA
@@ -1379,7 +1382,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 450,Te lodiamo Trinità,G. Stefani,,"19,31",/canto/te-lodiamo-trinit-450,pS9m2X9So5I
 451,"Te, al centro del mio cuore",Gen Verde,E' bello lodarti,31,/canto/te-al-centro-del-mio-cuore-451,QEOyKmMbb_0
 2447,Tempo di ricominciare,Gen Verde,Tempo di ricominciare,31,/canto/tempo-di-ricominciare-2447,uKal1PpNSJs
-452,Testimoni dell’amore,Francesco Buttazzo,,"5,16",/canto/testimoni-dell-amore-452,uGwq9KukGGk
+452,Testimoni dell’amore,Francesco Buttazzo,Alleluia è risorto,"5,16",/canto/testimoni-dell-amore-452,9O_wRp0uUrs
 2797,The blessing,Kari Jobe,,"10,14,15,32",/canto/the-blessing-2797,_51tRxWllME
 1697,Ti amo Signor,Laurie Klein,,"9,52",/canto/ti-amo-signor-1697,ipf3GPiyYaA
 1663,Ti dono il mio cuore Gesù,Figli del divino amore,Madre del cielo,"9,26",/canto/ti-dono-il-mio-cuore-ges-1663,IUVScKNs7lg
@@ -1441,7 +1444,7 @@ id_canti,titolo,autore,raccolta,momento,url,link_youtube
 2659,Tutta la vita è un dono,Gen Rosso,20 anni Gen Rosso,32,/canto/tutta-la-vita-un-dono-2659,TExeT0w_4Gk
 3168,Tutti per uno,"RnS - Monica Cacciatore, Calogero Luparello",Tutti per uno,"5,21,32",/canto/tutti-per-uno-3168,Gnxd0dOlL-M
 1379,Tutto è Possibile (Nuovi Orizzonti),Giuliano Pili,,"14,31,32",/canto/tutto-possibile-nuovi-orizzonti-1379,d5WeIReVXrU
-2222,Tutto il mondo deve sapere,Gen Verde,Il Mistero Pasquale,"5,25,32",/canto/tutto-il-mondo-deve-sapere-2222,kclRmdvD7kw
+2222,Tutto il mondo deve sapere,Gen Verde,Il Mistero Pasquale,"5,32",/canto/tutto-il-mondo-deve-sapere-2222,kclRmdvD7kw
 2439,"T’adoriam, Ostia divina",Popolare,Collana Canti per la Liturgia: Inni e canti,9,/canto/t-adoriam-ostia-divina-2439,tstLbNE5AJU
 2333,Umiliò se stresso,Marco Frisina,Chi ci separerà dall'amore di Cristo?,"4,21",/canto/umili-se-stresso-2333,TseqIMvD3TY
 2601,Un canto il cuor,Stuart K. Hine,,"9,14,21,52",/canto/un-canto-il-cuor-2601,SMXCMX-F4bw
