@@ -1,0 +1,623 @@
+:root {
+   --md-admonition-icon--asterisk: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937zM3.794 1.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387A1.734 1.734 0 0 0 4.593 5.69l-.387 1.162a.217.217 0 0 1-.412 0L3.407 5.69A1.734 1.734 0 0 0 2.31 4.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387A1.734 1.734 0 0 0 3.407 2.31l.387-1.162zM10.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732L9.1 2.137a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L10.863.1z"/> </svg>')
+ }
+ .md-typeset .admonition.asterisk,
+ .md-typeset details.asterisk {
+   border-color: rgb(43, 155, 140);
+ }
+ .md-typeset .asterisk > .admonition-title,
+ .md-typeset .asterisk > summary {
+   background-color: rgba(43, 155, 140, 0.1);
+ }
+ .md-typeset .asterisk > .admonition-title::before,
+ .md-typeset .asterisk > summary::before {
+   background-color: rgb(43, 155, 140);
+   -webkit-mask-image: var(--md-admonition-icon--asterisk);
+           mask-image: var(--md-admonition-icon--asterisk);
+ }
+
+/* Custom homepage styles */
+.home-page-custom {
+  /* Add your custom homepage styles here */
+}
+
+/* Custom components for homepage */
+.feature-box {
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+}
+
+/* Fix for Tailwind CSS and Material compatibility */
+.md-typeset .md-content__inner h1,
+.md-typeset .md-content__inner h2,
+.md-typeset .md-content__inner h3,
+.md-typeset .md-content__inner h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Add styles to fix typography conflicts */
+.md-typeset table:not([class]) {
+  font-size: inherit;
+}
+
+/* Fix links that may have been affected by Tailwind */
+.md-content a:not([class]) {
+  color: var(--md-typeset-a-color);
+}
+
+/* Ensure proper spacing in Tailwind containers */
+.md-typeset .tw-container {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Ensure Tailwind's utility classes have proper precedence */
+.md-typeset [class*='text-'] {
+  color: inherit;
+}
+
+/* Additional spacing adjustments */
+.md-content__inner {
+  padding-top: 1.5rem;
+}
+
+/* Ensure proper display of tables in Tailwind context */
+.md-typeset .overflow-x-auto {
+  margin: 0;
+}
+
+/* Fix Tailwind reset conflicts with Material design */
+.md-header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+
+/* Rimuoviamo tutte le personalizzazioni della barra di navigazione che causano problemi */
+/* Manteniamo solo lo stile necessario per la visualizzazione corretta con Tailwind */
+
+/* Fix per evitare che Tailwind interferisca con le tabs di Material */
+.md-tabs {
+  z-index: 10; /* Assicuriamo che le tabs siano sopra il contenuto */
+}
+
+/* Ripristiniamo il display normale per le tabs nascoste */
+.md-tabs[hidden] {
+  display: none;
+}
+
+/* Restore original Material for MkDocs tab styles */
+.md-tabs__link {
+  opacity: 0.7;
+}
+
+.md-tabs__link:hover {
+  opacity: 1;
+}
+
+.md-tabs__link--active {
+  opacity: 1;
+}
+
+/* Fix for admonition/callout rendering in custom templates */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: initial;
+  margin: 1.5em 0;
+  padding: 0 0.6rem;
+  page-break-inside: avoid;
+  border-radius: 0.2rem;
+  border-left: 0.2rem solid;
+  box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.05), 0 0 0.05rem rgba(0, 0, 0, 0.1);
+}
+
+/* Reset styling for admonitions to prefer Material for MkDocs defaults */
+.md-typeset .admonition,
+.md-typeset details {
+  /* Use !important to override any Tailwind styles */
+  font-size: 0.64rem !important;
+  border-width: 0 0 0 0.2rem !important;
+  border-style: solid !important;
+  border-radius: 0.2rem !important;
+  box-shadow: 0 0.2rem 0.5rem rgba(0,0,0,.05),0 0 0.05rem rgba(0,0,0,.1) !important;
+  margin: 1.5625em 0 !important;
+  padding: 0 0.6rem !important;
+  overflow: visible !important;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  position: relative;
+  margin: 0 -0.6rem;
+  padding: 0.4rem 0.6rem 0.4rem 2rem;
+  border-bottom: 0.1rem solid rgba(68, 138, 255, 0.1);
+  font-weight: 700;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+/* Ensure proper spacing in the summary/title */
+.md-typeset .admonition-title,
+.md-typeset summary {
+  padding: 0.4rem 0.6rem 0.4rem 2.4rem !important;
+  margin: 0 -0.6rem !important;
+}
+
+/* Fix the icon in admonition/details that might be affected by Tailwind */
+.md-typeset .admonition-title::before,
+.md-typeset summary::before {
+  position: absolute !important;
+  top: 0.625rem !important;  /* Ripristino valore originale MkDocs Material */
+  left: 0.6rem !important;   /* Ripristino valore originale MkDocs Material */
+  width: 1rem !important;
+  height: 1rem !important;
+  background-color: currentColor !important;
+  margin-right: 0.4rem !important;
+  content: "" !important;
+}
+
+/* Ensure admonition content is properly styled */
+.md-typeset .admonition-content, 
+.md-typeset .admonition p, 
+.md-typeset details p {
+  margin: 1em 0;
+  font-size: 0.8rem;
+}
+
+/* Fix for quote admonition */
+.md-typeset .admonition.quote,
+.md-typeset details.quote {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset .quote > .admonition-title,
+.md-typeset .quote > summary {
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.md-typeset .quote > .admonition-title::before,
+.md-typeset .quote > summary::before {
+  background-color: rgba(0, 0, 0, 0.2);
+  content: "format_quote";
+}
+
+/* Make sure the quote admonition uses Material for MkDocs styles */
+.md-typeset details.quote summary::before,
+.md-typeset .admonition.quote > .admonition-title::before {
+  mask-image: var(--md-admonition-icon--quote) !important;
+  -webkit-mask-image: var(--md-admonition-icon--quote) !important;
+  transform: none !important;
+}
+
+/* Specifico per quote admonition icon - dare priorità allo stile Material per prevenire interferenze Tailwind */
+.md-typeset .admonition.quote > .admonition-title::before,
+.md-typeset details.quote > summary::before {
+  -webkit-mask-image: var(--md-admonition-icon--quote) !important;
+  mask-image: var(--md-admonition-icon--quote) !important;
+  -webkit-mask-repeat: no-repeat !important;
+  mask-repeat: no-repeat !important;
+  -webkit-mask-size: contain !important;
+  mask-size: contain !important;
+  background-color: rgba(0, 0, 0, 0.26) !important; /* Colore originale per l'icona quote */
+  transform: none !important;
+}
+
+/* Specifico per il contenuto del callout della liturgia - spostalo leggermente a destra */
+.md-typeset .admonition.quote > .admonition-content,
+.md-typeset details.quote > .admonition-content {
+  padding-left: 1.5rem !important;
+  padding-right: 1rem !important;
+}
+
+/* Assicurarsi che il testo della liturgia sia allineato correttamente */
+.md-typeset .admonition.quote .admonition-content p,
+.md-typeset details.quote .admonition-content p {
+  margin-left: 0.5rem !important;
+}
+
+/* Assicurarsi che elementi speciali come headings abbiano lo stesso padding */
+.md-typeset .admonition.quote .admonition-content h1,
+.md-typeset .admonition.quote .admonition-content h2,
+.md-typeset .admonition.quote .admonition-content h3,
+.md-typeset .admonition.quote .admonition-content h4,
+.md-typeset details.quote .admonition-content h1,
+.md-typeset details.quote .admonition-content h2,
+.md-typeset details.quote .admonition-content h3,
+.md-typeset details.quote .admonition-content h4 {
+  margin-left: 0.5rem !important;
+}
+
+/* Enhanced fix for admonition/callout rendering in custom templates */
+.md-typeset .admonition-content {
+  margin-top: 1rem;
+}
+
+.md-typeset .admonition-content p {
+  margin: 1em 0;
+  line-height: 1.6;
+}
+
+.md-typeset .admonition-content pre {
+  padding: 0.625em;
+  overflow: auto;
+}
+
+.md-typeset .admonition-content hr {
+  margin: 1.5em 0;
+  border: none;
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+/* Make sure Markdown content is correctly formatted in admonitions */
+.admonition-content h1,
+.admonition-content h2,
+.admonition-content h3,
+.admonition-content h4,
+.admonition-content h5,
+.admonition-content h6 {
+  margin-top: 1em !important;
+  margin-bottom: 0.5em !important;
+  font-weight: 600 !important;
+  line-height: 1.25 !important;
+}
+
+.admonition-content p,
+.admonition-content ul,
+.admonition-content ol {
+  margin-bottom: 1em !important;
+}
+
+/* Fix font-size issues in admonition content */
+.admonition-content {
+  font-size: 0.8rem !important;
+}
+
+/* Ensure proper rendering of include-markdown content */
+.admonition-content .highlight {
+  margin: 0;
+}
+
+/* Specific override for hero section text to ensure white text */
+.tw-container .bg-gradient-to-r h1,
+.tw-container .bg-gradient-to-r p {
+  color: white !important;
+}
+
+.tw-container .bg-gradient-to-r .border-white {
+  color: white !important;
+}
+
+/* Fix any potential layering issues */
+.md-typeset details > summary {
+  z-index: 1 !important;
+}
+
+/* Make sure Tailwind doesn't interfere with admonition content */
+.md-typeset .admonition-content, 
+.md-typeset details > .admonition-content {
+  padding: 0 0.6rem 0.6rem !important;
+}
+
+/* Assicurarsi che la struttura del callout sia corretta */
+.md-typeset .admonition.quote,
+.md-typeset details.quote {
+  border-color: var(--md-admonition-fg-color--quote, hsla(0, 0%, 0%, 0.07)) !important;
+}
+
+.md-typeset .quote > .admonition-title,
+.md-typeset .quote > summary {
+  background-color: var(--md-admonition-bg-color--quote, hsla(0, 0%, 0%, 0.03)) !important;
+}
+
+/* Fix collapsible details summary style */
+.md-typeset details > summary {
+  display: block !important;
+  outline: none !important;
+}
+
+/* Override any Tailwind styles that might interfere with the admonition */
+[class*="admonition"] *::before {
+  box-sizing: content-box !important;
+  display: inline-block !important;
+}
+
+/* Specifiche per il callout della liturgia - intestazioni con peso normale */
+.md-typeset details.quote h1,
+.md-typeset details.quote h2,
+.md-typeset details.quote h3,
+.md-typeset details.quote h4,
+.md-typeset details.quote h5,
+.md-typeset details.quote h6,
+.md-typeset .admonition.quote h1,
+.md-typeset .admonition.quote h2,
+.md-typeset .admonition.quote h3,
+.md-typeset .admonition.quote h4,
+.md-typeset .admonition.quote h5,
+.md-typeset .admonition.quote h6 {
+  font-weight: normal !important;
+}
+
+/* Assicurarsi che le intestazioni del callout abbiano un margine appropriato */
+.md-typeset details.quote h1,
+.md-typeset details.quote h2,
+.md-typeset details.quote h3,
+.md-typeset details.quote h4,
+.md-typeset .admonition.quote h1,
+.md-typeset .admonition.quote h2,
+.md-typeset .admonition.quote h3,
+.md-typeset .admonition.quote h4 {
+  margin-top: 1em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Regole più aggressive per spostare il testo del callout della liturgia a destra */
+.md-typeset details.quote .admonition-content, 
+.md-typeset .admonition.quote .admonition-content {
+  padding-left: 2rem !important;
+  padding-right: 1rem !important;
+}
+
+/* Regole specifiche per garantire che tutti gli elementi nel callout siano spostati */
+.md-typeset details.quote .admonition-content *:not(hr):not(.md-button), 
+.md-typeset .admonition.quote .admonition-content *:not(hr):not(.md-button) {
+  margin-left: 1rem !important;
+  max-width: calc(100% - 1rem) !important;
+}
+
+/* Assicurarsi che il pulsante e l'HR non abbiano lo stesso margine */
+.md-typeset details.quote .admonition-content hr,
+.md-typeset .admonition.quote .admonition-content hr,
+.md-typeset details.quote .admonition-content .md-button,
+.md-typeset .admonition.quote .admonition-content .md-button {
+  margin-left: 0 !important;
+}
+
+/* Rimuovere il grassetto dal titolo del callout quote (Leggi la liturgia) */
+.md-typeset .quote > .admonition-title,
+.md-typeset details.quote > summary {
+  font-weight: normal !important;
+}
+
+/* Adattamenti per la modalità dark di Material */
+[data-md-color-scheme="slate"] .bg-white {
+  background-color: var(--md-default-bg-color) !important;
+  border-color: var(--md-default-fg-color--lightest) !important;
+}
+
+[data-md-color-scheme="slate"] .bg-gray-50 {
+  background-color: var(--md-code-bg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .border-gray-100 {
+  border-color: var(--md-default-fg-color--lightest) !important;
+}
+
+[data-md-color-scheme="slate"] .text-gray-600,
+[data-md-color-scheme="slate"] .text-gray-700,
+[data-md-color-scheme="slate"] .text-gray-800 {
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .text-primary-700,
+[data-md-color-scheme="slate"] .text-primary-800 {
+  color: var(--md-primary-fg-color) !important;
+}
+
+/* Adattamento specifico per le icone Material */
+[data-md-color-scheme="slate"] .material-icons {
+  color: inherit;
+}
+
+/* Adattamento per le card dei canti */
+[data-md-color-scheme="slate"] .border-accent-400,
+[data-md-color-scheme="slate"] .border-accent-500 {
+  border-color: var(--md-accent-fg-color) !important;
+}
+
+/* Adattamento per i badge e pulsanti */
+[data-md-color-scheme="slate"] .bg-accent-100 {
+  background-color: var(--md-accent-fg-color--transparent) !important;
+}
+
+[data-md-color-scheme="slate"] .text-accent-800 {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Assicura che i link nelle card mantengano il colore appropriato */
+[data-md-color-scheme="slate"] .text-accent-600 {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Garantisce che il testo dei bottoni sia leggibile */
+[data-md-color-scheme="slate"] a.bg-transparent:hover {
+  color: var(--md-primary-fg-color--dark) !important;
+}
+
+/* Miglioramenti per il callout quote (Leggi la liturgia) in modalità dark */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote,
+[data-md-color-scheme="slate"] .md-typeset details.quote {
+  border-color: var(--md-accent-fg-color--transparent) !important;
+  background-color: var(--md-default-bg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .quote > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .quote > summary {
+  background-color: var(--md-default-bg-color--light) !important;
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote .admonition-content,
+[data-md-color-scheme="slate"] .md-typeset details.quote .admonition-content {
+  color: var(--md-default-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .quote > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .quote > summary::before {
+  background-color: var(--md-accent-fg-color) !important;
+}
+
+/* Assicura che i link nel callout mantengano il giusto colore in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote a,
+[data-md-color-scheme="slate"] .md-typeset details.quote a {
+  color: var(--md-typeset-a-color) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote a:hover,
+[data-md-color-scheme="slate"] .md-typeset details.quote a:hover {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Migliora il contrasto per i button nel callout in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote .md-button,
+[data-md-color-scheme="slate"] .md-typeset details.quote .md-button {
+  background-color: var(--md-primary-fg-color) !important;
+  color: var(--md-primary-bg-color) !important;
+  border-color: var(--md-primary-fg-color) !important;
+}
+
+/* Miglioramenti per la leggibilità dei titoli in modalità dark - escludendo l'hero */
+[data-md-color-scheme="slate"] .text-2xl.font-extrabold.text-primary-800,
+[data-md-color-scheme="slate"] .text-xl.font-bold.text-primary-700,
+[data-md-color-scheme="slate"] .text-lg.font-bold.text-primary-700 {
+  color: var(--md-primary-fg-color--light) !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+/* Migliora la leggibilità dei titoli nelle card in modalità dark */
+[data-md-color-scheme="slate"] .bg-white h4.text-lg.font-bold.text-gray-800 {
+  color: white !important; /* Cambiato da var(--md-accent-fg-color--transparent) a bianco per massimo contrasto */
+  text-shadow: 0 1px 3px rgba(0,0,0,0.4); /* Ombra più pronunciata */
+}
+
+/* Miglioramento specifico per il testo nelle card dei canti in modalità dark */
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden .text-gray-600,
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden .text-gray-700 {
+  color: rgba(255, 255, 255, 0.85) !important; /* Testo secondario leggermente più chiaro */
+}
+
+/* Assicura che i titoli dei canti siano sempre ben visibili */
+[data-md-color-scheme="slate"] .rounded-lg.shadow-md.overflow-hidden {
+  background-color: var(--md-code-bg-color) !important; /* Sfondo leggermente più scuro per le card */
+}
+
+/* Migliora il contrasto per la badge percentuale */
+[data-md-color-scheme="slate"] .bg-accent-100.text-accent-800 {
+  background-color: var(--md-accent-fg-color) !important;
+  color: white !important;
+}
+
+/* Miglioramenti per i canti esclusi in modalità dark */
+[data-md-color-scheme="slate"] .bg-gray-50.rounded.border.border-gray-200 {
+  background-color: var(--md-code-bg-color) !important;
+  border-color: var(--md-default-fg-color--lightest) !important;
+}
+
+/* Correzione specifica per il badge della percentuale nei canti esclusi */
+[data-md-color-scheme="slate"] .text-xs.bg-gray-200.text-gray-600 {
+  background-color: var(--md-accent-fg-color--transparent) !important;
+  color: var(--md-default-fg-color--light) !important;
+  font-weight: 500;
+}
+
+/* Miglioramenti per il titolo nei canti esclusi in modalità dark */
+[data-md-color-scheme="slate"] .text-md.font-medium.text-gray-700,
+[data-md-color-scheme="slate"] .text-base.font-normal.text-gray-700 {
+  color: var(--md-default-fg-color) !important;
+}
+
+/* Stile predefinito per i titoli dei canti esclusi (un po' più grandi e senza grassetto) */
+.text-base.font-normal.text-gray-700 {
+  font-size: 1rem !important;
+  font-weight: normal !important;
+}
+
+/* Miglioramenti per il titolo nei canti esclusi in modalità dark */
+[data-md-color-scheme="slate"] .text-md.font-medium.text-gray-700 {
+  color: var(--md-default-fg-color) !important;
+}
+
+/* Migliorare visibilità link nei canti esclusi in modalità dark */
+[data-md-color-scheme="slate"] .text-primary-600.hover\:text-primary-800.text-xs {
+  color: var(--md-accent-fg-color) !important;
+}
+
+[data-md-color-scheme="slate"] .text-primary-600.hover\:text-primary-800.text-xs:hover {
+  color: var(--md-accent-fg-color--light) !important;
+}
+
+/* Migliora il contrasto per la badge percentuale */
+[data-md-color-scheme="slate"] .bg-accent-100.text-accent-800 {
+  background-color: var(--md-accent-fg-color) !important;
+  color: white !important;
+}
+
+/* Miglioramenti per il pulsante dell'hero in modalità dark */
+[data-md-color-scheme="slate"] .hero-primary-button {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  color: white !important;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+[data-md-color-scheme="slate"] .hero-primary-button:hover {
+  background-color: rgba(255, 255, 255, 0.25) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+[data-md-color-scheme="slate"] .hero-primary-button:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Assicuriamo transizioni fluide */
+.hero-primary-button {
+  transition: all 0.2s ease;
+}
+
+/* Ottimizzazione spaziatura per mobile */
+@media (max-width: 600px) {
+  /* Riduzione dei margini per le card dei canti su mobile */
+  .grid.md\:grid-cols-2.lg\:grid-cols-3.gap-6.mb-8 {
+    gap: 0.4rem !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Riduzione del padding interno delle card su mobile */
+  .rounded-lg.shadow-md.overflow-hidden .p-5 {
+    padding: 1rem !important;
+  }
+  
+  /* Ottimizzazione del padding per i container generici */
+  .container.mx-auto {
+    padding-left: 0.1rem !important;
+    padding-right: 0.1rem !important;
+  }
+  
+  /* Rimuovi margini eccessivi sul testo nei box */
+  .bg-white.rounded-lg p, 
+  .bg-gray-50.rounded-lg p {
+    margin-bottom: 0.1rem !important;
+  }
+  
+  /* Riduce i margini extra nel contenitore principale */
+  .md-content__inner.md-typeset {
+    padding-left: 0.1rem !important;
+    padding-right: 0.1rem !important;
+  }
+  
+  /* Riduce i margini delle griglie */
+  .grid.md\:grid-cols-2.gap-8.mb-12 {
+    padding-left: 0.2rem !important;
+    padding-right: 0.2rem !important;
+    margin-bottom: 2rem !important;
+  }
+}
