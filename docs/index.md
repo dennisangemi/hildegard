@@ -26,7 +26,7 @@ template: home.html
 {% import 'macros.html' as macros %}
 {% set canti = load_json('data/suggeriti-top20-latest.json') %}
 
-## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 18 ottobre 2026</span>
+## <span id="canti-suggeriti" class="text-primary-700 font-bold"> :material-music-note-plus: Canti suggeriti per Domenica 25 ottobre 2026</span>
 
 ??? quote "Leggi la liturgia"
 
@@ -34,7 +34,7 @@ template: home.html
 
     ---
 
-    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20261018){ .md-button }
+    [Apri la liturgia della CEI :material-arrow-right:](https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20261025){ .md-button }
 
 <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
   {% for canto in canti %}
